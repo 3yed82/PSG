@@ -11,8 +11,8 @@
     "NamiraNet": {
         "types": [
             "ss",
-            "vless",
-            "vmess"
+            "trojan",
+            "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -1029,17 +1029,11 @@
         "title": "Happ Turkmenistan",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/happ_tm_official.jpg"
     },
-    "hooshemasnui": {
-        "types": [
-            "vless"
-        ],
-        "title": "هوش مصنوعی | Ai | تکنولوژی",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hooshemasnui.jpg"
-    },
     "hope_net": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1116,10 +1110,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
             "vless",
+            "ss",
             "vmess",
-            "ss"
+            "trojan"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2089,9 +2083,9 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
+            "vless",
             "ss",
-            "vless"
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2553,8 +2547,8 @@
     "v2ray_free_conf": {
         "types": [
             "vmess",
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2678,9 +2672,9 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
+            "vless",
             "ss",
-            "vless"
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
