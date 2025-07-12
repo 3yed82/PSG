@@ -69,7 +69,7 @@ function generateProfileHeader(string $profileName): string
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/talk_to_3yed_bot
-#profile-web-page-url: https://github.com/3yed-61/PSG
+#profile-web-page-url: https://github.com/3yed82/PSG
 
 HEADER;
 }
