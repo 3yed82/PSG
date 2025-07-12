@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/talk_to_3yed_bot
-//profile-web-page-url: ithub.com/3yed-61/PSG
+//profile-web-page-url: ithub.com/3yed82/PSG
 {
     "dns": {
         "final": "local-dns",
@@ -112,6 +112,7 @@
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
+                "🇹🇷 TR | 🟢 | ss | @outline_ir | 18",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
@@ -161,6 +162,7 @@
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
+                "🇹🇷 TR | 🟢 | ss | @outline_ir | 18",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
@@ -373,6 +375,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "WstuSnlu4ieA9M0L"
+        },
+        {
+            "tag": "🇹🇷 TR | 🟢 | ss | @outline_ir | 18",
+            "type": "shadowsocks",
+            "server": "h110vpntr.outlinekeys.net",
+            "server_port": 65262,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4Qe2wOziHGpNPeQ5DDgmd3"
         },
         {
             "tag": "❔ XX | 🟢 | ss | @proxy_confiingir | 1",

@@ -12,7 +12,8 @@
         "types": [
             "ss",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -1137,10 +1138,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "ss",
+            "vless",
             "vmess",
             "trojan",
-            "vless"
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1477,8 +1478,8 @@
     },
     "lranonline_new": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Iran Online New",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/lranonline_new.jpg"
@@ -1509,8 +1510,7 @@
     },
     "mahan_ping": {
         "types": [
-            "vless",
-            "ss"
+            "vless"
         ],
         "title": "𝗺𝗮𝗵𝗮𝗻 𝗽𝗶𝗻𝗴 | ماهان پینگ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mahan_ping.jpg"
@@ -1706,9 +1706,9 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2271,8 +2271,8 @@
     },
     "satellitenewspersian": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "SATELLITENEWSPERSIAN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/satellitenewspersian.jpg"
@@ -2716,8 +2716,7 @@
     },
     "v2raying": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "v2rayNG_VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raying.jpg"
@@ -3501,13 +3500,6 @@
         ],
         "title": "V2raymg",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/xrayzxn.jpg"
-    },
-    "yejoriconfig": {
-        "types": [
-            "vless"
-        ],
-        "title": "یه جوری وصل شیم🤷‍♂️",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/yejoriconfig.jpg"
     },
     "yekoyekvpn": {
         "types": [

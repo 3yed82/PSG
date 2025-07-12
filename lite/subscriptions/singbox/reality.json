@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/talk_to_3yed_bot
-//profile-web-page-url: ithub.com/3yed-61/PSG
+//profile-web-page-url: ithub.com/3yed82/PSG
 {
     "dns": {
         "final": "local-dns",
@@ -110,6 +110,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇳🇱 NL | 🟢 | vless | @vpn451 | 10",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
@@ -164,6 +165,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇳🇱 NL | 🟢 | vless | @vpn451 | 10",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
@@ -697,6 +699,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "chessgame"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 18",
+            "type": "vless",
+            "server": "54.36.118.72",
+            "server_port": 2025,
+            "uuid": "cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ",
+                    "short_id": "1f949997214a59"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "sorkhi"
             }
         },
         {
