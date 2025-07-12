@@ -14,7 +14,7 @@ declare(strict_types=1);
 define("PROJECT_ROOT", __DIR__);
 define(
     "GITHUB_REPO_URL",
-    "https://raw.githubusercontent.com/3yed-61/PSG/main"
+    "https://raw.githubusercontent.com/3yed82/PSG/main"
 );
 define("OUTPUT_HTML_FILE", PROJECT_ROOT . "/index.html");
 define("SCAN_DIRECTORIES", [
