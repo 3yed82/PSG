@@ -14,7 +14,7 @@ declare(strict_types=1);
 define("PROJECT_ROOT", __DIR__);
 define(
     "GITHUB_REPO_URL",
-    "https://raw.githubusercontent.com/itsyebekhe/PSG/main"
+    "https://raw.githubusercontent.com/3yed-61/PSG/main"
 );
 define("OUTPUT_HTML_FILE", PROJECT_ROOT . "/index.html");
 define("SCAN_DIRECTORIES", [
@@ -435,7 +435,7 @@ function generate_full_html(
         <!-- Footer -->
         <footer class="text-center mt-12 sm:mt-16 py-6 sm:py-8 border-t border-slate-200">
             <div class="flex flex-col sm:flex-row justify-center items-center gap-y-4 gap-x-6 text-slate-500 text-sm">
-                <p>Created with ❤️ by YEBEKHE</p>
+                <p>Created with ❤️ by 3λΞĐ</p>
                 <div class="flex items-center gap-x-3">
                     <a href="https://t.me/yebekhe" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-600 transition-colors" title="Telegram"><i data-lucide="send" class="h-5 w-5"></i></a>
                     <a href="https://x.com/yebekhe" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-600 transition-colors" title="X (Twitter)"><i data-lucide="twitter" class="h-5 w-5"></i></a>
