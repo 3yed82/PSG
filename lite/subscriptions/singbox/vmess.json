@@ -1,8 +1,8 @@
 //profile-title: base64:UFNHIHwgVk1FU1M=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/yebekhe
-//profile-web-page-url: ithub.com/itsyebekhe/PSG
+//support-url: https://t.me/talk_to_3yed_bot
+//profile-web-page-url: ithub.com/3yed-61/PSG
 {
     "dns": {
         "final": "local-dns",
@@ -101,6 +101,7 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
+                "🇺🇸 US | 🔴 | vmess | @ip_cf_config | 14",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -114,7 +115,6 @@
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
                 "🇺🇸 US | 🟢 | vmess | @minovpnch | 12",
-                "🇫🇷 FR | 🔴 | vmess | @mowjproxy | 5",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -136,6 +136,7 @@
                 "🇨🇭 CH | 🔴 | vmess | @v2rayzone | 13",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
                 "🇫🇷 FR | 🟢 | vmess | @vmessprotocol | 3",
+                "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 17",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇫🇮 FI | 🔴 | vmess | @vpnv2raytop | 10",
@@ -159,6 +160,7 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
+                "🇺🇸 US | 🔴 | vmess | @ip_cf_config | 14",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -172,7 +174,6 @@
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
                 "🇺🇸 US | 🟢 | vmess | @minovpnch | 12",
-                "🇫🇷 FR | 🔴 | vmess | @mowjproxy | 5",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -194,6 +195,7 @@
                 "🇨🇭 CH | 🔴 | vmess | @v2rayzone | 13",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
                 "🇫🇷 FR | 🟢 | vmess | @vmessprotocol | 3",
+                "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 17",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇫🇮 FI | 🔴 | vmess | @vpnv2raytop | 10",
@@ -400,6 +402,31 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vmess | @ip_cf_config | 14",
+            "type": "vmess",
+            "server": "104.21.48.1",
+            "server_port": 8443,
+            "uuid": "2bd0c9d7-f239-437e-a1e1-6cf830af2a1a",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
             "tag": "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
             "type": "vmess",
             "server": "89.116.38.184",
@@ -593,22 +620,6 @@
                 "path": "/?ed=1024",
                 "headers": {
                     "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔴 | vmess | @mowjproxy | 5",
-            "type": "vmess",
-            "server": "gift.dl3movies.ir",
-            "server_port": 8443,
-            "uuid": "6d13e5e4-7589-4819-b92f-982ee89edcab",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
@@ -917,6 +928,15 @@
             "server": "193.233.133.59",
             "server_port": 33,
             "uuid": "0dc0d22c-68e5-440a-9465-97cad8d1cf33",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 17",
+            "type": "vmess",
+            "server": "186.190.215.193",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
             "security": "auto",
             "alter_id": 0
         },

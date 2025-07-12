@@ -1,8 +1,8 @@
 //profile-title: base64:UFNHIHwgUkVBTElUWQ==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/yebekhe
-//profile-web-page-url: ithub.com/itsyebekhe/PSG
+//support-url: https://t.me/talk_to_3yed_bot
+//profile-web-page-url: ithub.com/3yed-61/PSG
 {
     "dns": {
         "final": "local-dns",
@@ -104,7 +104,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇫🇮 FI | 🟢 | vless | @sezar_sec | 4",
                 "🇹🇷 TR | 🟢 | vless | @sinavm | 1",
-                "🇳🇱 NL | 🟢 | vless | @trueproxy | 3",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -122,14 +121,15 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
+                "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15",
@@ -157,7 +157,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇫🇮 FI | 🟢 | vless | @sezar_sec | 4",
                 "🇹🇷 TR | 🟢 | vless | @sinavm | 1",
-                "🇳🇱 NL | 🟢 | vless | @trueproxy | 3",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -175,14 +174,15 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
+                "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15",
@@ -548,29 +548,6 @@
                     "enabled": true,
                     "public_key": "MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw",
                     "short_id": "4476a3"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @trueproxy | 3",
-            "type": "vless",
-            "server": "45.77.137.98",
-            "server_port": 8880,
-            "uuid": "2345a78a-4900-4819-a11a-721c1fdd4b59",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cp7.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mlPSdTwmHcAaNeQICN46i7YauUB8WPdJXzp2vb_JXWQ",
-                    "short_id": "8b"
                 }
             }
         },
@@ -998,29 +975,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
-            "type": "vless",
-            "server": "fox.origamimarketings.com",
-            "server_port": 7777,
-            "uuid": "4b1171b2-65f9-41a3-9d78-59b95876501d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E",
-                    "short_id": "42c0b628ba6a42a9"
-                }
-            }
-        },
-        {
             "tag": "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
             "type": "vless",
             "server": "Sadaf.Melorin.mehrdadsadaf.com",
@@ -1121,6 +1075,29 @@
             }
         },
         {
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
+            "type": "vless",
+            "server": "a.nl.maviks.ru",
+            "server_port": 443,
+            "uuid": "e5c31f13-b10a-4e9c-bfa6-09454bc5e65c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ",
+                    "short_id": "21181028b56c8702"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -1176,6 +1153,29 @@
             "server": "de1.marzban-locations.com",
             "server_port": 3030,
             "uuid": "3d1622e6-7ac5-4715-b635-7bd542e0a70b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
+            "type": "vless",
+            "server": "it.panelmarzban.com",
+            "server_port": 3037,
+            "uuid": "a0a3e34d-87e4-4ff3-b04a-875c85325d62",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
