@@ -98,6 +98,8 @@
                 "🇳🇱 NL | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 17",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 1",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 98",
@@ -127,7 +129,7 @@
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @kurdistan_vpn_perfectt | 3",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 5",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "❔ XX | 🟢 | vless | @netmellianti | 13",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
@@ -199,6 +201,8 @@
                 "🇳🇱 NL | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 17",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 1",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 98",
@@ -228,7 +232,7 @@
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @kurdistan_vpn_perfectt | 3",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 5",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "❔ XX | 🟢 | vless | @netmellianti | 13",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
@@ -507,6 +511,52 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "micro.slumbo.com",
+            "server_port": 443,
+            "uuid": "60bc841c-cfbd-408f-889b-473f90bb4a26",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8",
+                    "short_id": "190d32b118caf07f"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "real-all3-2.sdcards.ir",
+            "server_port": 8501,
+            "uuid": "ac37eb9c-0db8-4056-8f61-e8db4e2da35e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI",
+                    "short_id": "e701a013553059ba"
+                }
             }
         },
         {
@@ -1244,7 +1294,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 5",
+            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
             "type": "vless",
             "server": "bmi.raheaiande.ir",
             "server_port": 1001,

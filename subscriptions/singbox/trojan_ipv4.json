@@ -101,6 +101,7 @@
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇳🇱 NL | 🔴 | trojan | @hacknashid | 2",
+                "🇰🇷 KR | 🔴 | trojan | @ip_cf_config | 13",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 8",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇮🇷 IR | 🔴 | trojan | @mahanvpn | 0",
@@ -116,6 +117,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @proxyy | 0",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 16",
                 "🇩🇪 DE | 🟢 | trojan | @v2pedia | 17",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2ray_team | 16",
                 "🇺🇸 US | 🟢 | trojan | @v2ray_team | 17",
                 "🇺🇸 US | 🟢 | trojan | @v2ray_team | 19",
@@ -150,6 +152,7 @@
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇳🇱 NL | 🔴 | trojan | @hacknashid | 2",
+                "🇰🇷 KR | 🔴 | trojan | @ip_cf_config | 13",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 8",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇮🇷 IR | 🔴 | trojan | @mahanvpn | 0",
@@ -165,6 +168,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @proxyy | 0",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 16",
                 "🇩🇪 DE | 🟢 | trojan | @v2pedia | 17",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2ray_team | 16",
                 "🇺🇸 US | 🟢 | trojan | @v2ray_team | 17",
                 "🇺🇸 US | 🟢 | trojan | @v2ray_team | 19",
@@ -384,6 +388,13 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇰🇷 KR | 🔴 | trojan | @ip_cf_config | 13",
+            "type": "trojan",
+            "server": "3.34.143.101",
+            "server_port": 6668,
+            "password": "1a17b19d-4896-4531-af79-6e91d8ef8228"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianf | 8",
@@ -623,6 +634,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "x1-germany-digitalocean-v2.devefun.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 18",
+            "type": "trojan",
+            "server": "13.37.112.18",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

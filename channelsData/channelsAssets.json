@@ -12,8 +12,7 @@
         "types": [
             "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -352,9 +351,10 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
             "vless",
-            "trojan"
+            "vmess",
+            "trojan",
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -433,9 +433,9 @@
     },
     "configshubplus": {
         "types": [
+            "trojan",
             "vless",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -740,6 +740,7 @@
     },
     "entrynet": {
         "types": [
+            "trojan",
             "vless",
             "ss"
         ],
@@ -1362,7 +1363,8 @@
     "hope_net": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1439,10 +1441,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
+            "trojan",
             "vless",
-            "ss",
-            "trojan"
+            "vmess",
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2081,13 +2083,6 @@
         "title": "Miyanbor VPN | میانبر وی‌پی‌ان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/miyanbor_vpn.jpg"
     },
-    "mobilinternet": {
-        "types": [
-            "ss"
-        ],
-        "title": "#فیلترشکن #vpn #هوش_مصنوعی",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mobilinternet.jpg"
-    },
     "moon_ping": {
         "types": [
             "vless"
@@ -2566,8 +2561,8 @@
     },
     "proxy_v2box": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "سرور کانفیگ رایگان v2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_v2box.jpg"
@@ -3317,10 +3312,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -3446,6 +3441,7 @@
     "v2raych": {
         "types": [
             "vless",
+            "vmess",
             "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -3544,13 +3540,6 @@
         ],
         "title": "v2rayng fars",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_fars.jpg"
-    },
-    "v2rayng_fast": {
-        "types": [
-            "vless"
-        ],
-        "title": "کانفینگ انجکتور | آرگو | V2rayng",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_fast.jpg"
     },
     "v2rayng_ip": {
         "types": [
@@ -3834,7 +3823,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
