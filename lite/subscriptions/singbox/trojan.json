@@ -94,7 +94,7 @@
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇯🇵 JP | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -114,7 +114,7 @@
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇯🇵 JP | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -224,11 +224,20 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "tag": "🇯🇵 JP | 🔴 | trojan | @hope_net | 19",
             "type": "trojan",
-            "server": "162.159.44.230",
-            "server_port": 2053,
-            "password": "Aimer"
+            "server": "154.83.91.150",
+            "server_port": 443,
+            "password": "ouo",
+            "tls": {
+                "enabled": true,
+                "server_name": "tr.koxok.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",

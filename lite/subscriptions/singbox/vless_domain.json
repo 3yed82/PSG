@@ -138,6 +138,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "❔ XX | 🟢 | vless | @garnet_free | 11",
                 "❔ XX | 🔴 | vless | @ge2ray | 4",
+                "🇩🇪 DE | 🔴 | vless | @getconfigir | 17",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "❔ XX | 🟢 | vless | @god_server7 | 1",
                 "🇮🇷 IR | 🔴 | vless | @golf_vpn | 14",
@@ -176,7 +177,6 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
-                "🇺🇸 US | 🔴 | vless | @mowjproxy | 6",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇮🇷 IR | 🔴 | vless | @mtproxy22_v2ray | 33",
@@ -223,6 +223,7 @@
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvl | 6",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
+                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
                 "🇮🇷 IR | 🔴 | vless | @vezzevpn | 5",
                 "🇮🇷 IR | 🔴 | vless | @vipvpnsia | 3",
@@ -236,7 +237,7 @@
                 "🇮🇹 IT | 🔴 | vless | @vpnfree_irann | 5",
                 "🇺🇸 US | 🟢 | vless | @vpnkanfik | 3",
                 "🇮🇷 IR | 🔴 | vless | @vpnod | 17",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 14",
+                "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 17",
                 "❔ XX | 🔴 | vless | @vpnv2rayng90 | 0",
                 "🇩🇪 DE | 🔴 | vless | @vpnv2raytop | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
@@ -302,6 +303,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "❔ XX | 🟢 | vless | @garnet_free | 11",
                 "❔ XX | 🔴 | vless | @ge2ray | 4",
+                "🇩🇪 DE | 🔴 | vless | @getconfigir | 17",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "❔ XX | 🟢 | vless | @god_server7 | 1",
                 "🇮🇷 IR | 🔴 | vless | @golf_vpn | 14",
@@ -340,7 +342,6 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
-                "🇺🇸 US | 🔴 | vless | @mowjproxy | 6",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇮🇷 IR | 🔴 | vless | @mtproxy22_v2ray | 33",
@@ -387,6 +388,7 @@
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvl | 6",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
+                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
                 "🇮🇷 IR | 🔴 | vless | @vezzevpn | 5",
                 "🇮🇷 IR | 🔴 | vless | @vipvpnsia | 3",
@@ -400,7 +402,7 @@
                 "🇮🇹 IT | 🔴 | vless | @vpnfree_irann | 5",
                 "🇺🇸 US | 🟢 | vless | @vpnkanfik | 3",
                 "🇮🇷 IR | 🔴 | vless | @vpnod | 17",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 14",
+                "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 17",
                 "❔ XX | 🔴 | vless | @vpnv2rayng90 | 0",
                 "🇩🇪 DE | 🔴 | vless | @vpnv2raytop | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
@@ -1173,6 +1175,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🔴 | vless | @getconfigir | 17",
+            "type": "vless",
+            "server": "mmdamin.2.dragonspeed.top",
+            "server_port": 5701,
+            "uuid": "7c05cbda-3034-4b0d-8e76-eee13986b3de",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -1817,22 +1828,6 @@
             "uuid": "13b0c901-3fbe-bb19-c6b8-89b2c314e975",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 6",
-            "type": "vless",
-            "server": "power.teampluss.ir",
-            "server_port": 80,
-            "uuid": "8c203f81-3c3a-4f5b-84b1-df22a19dee33",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Pak91jqn-Mehskl.ir.shop.com?ed=2048",
-                "headers": {
-                    "Host": "power.teampluss.ir"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
@@ -2697,6 +2692,15 @@
             }
         },
         {
+            "tag": "🇮🇷 IR | 🔴 | vless | @v2rayweb | 17",
+            "type": "vless",
+            "server": "hadi-hsh.vip-all-internet.top",
+            "server_port": 2054,
+            "uuid": "5b32bfc0-cdf7-408f-ad78-208afd455a86",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
             "type": "vless",
             "server": "www.canva.com",
@@ -2914,31 +2918,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 14",
+            "tag": "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 17",
             "type": "vless",
-            "server": "server1.fergalvpnmod.com",
-            "server_port": 28338,
-            "uuid": "0b9ee474-19f6-4d7f-9281-96f239e6cebc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw",
-                    "short_id": "9ecc4615ce"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@FergalVpnMod"
-            }
+            "server": "speedy.mooo.info",
+            "server_port": 80,
+            "uuid": "57407bda-8552-441b-816f-d7a320d1d49b",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔴 | vless | @vpnv2rayng90 | 0",

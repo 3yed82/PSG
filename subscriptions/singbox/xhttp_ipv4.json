@@ -97,13 +97,14 @@
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 9",
                 "🇺🇸 US | 🔴 | vless | @free1_vpn | 8",
+                "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann | 19",
-                "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 7",
+                "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 5",
+                "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 8",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 9",
-                "🇺🇸 US | 🔴 | vless | @irv2rey | 10",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -120,7 +121,6 @@
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 14",
-                "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 14",
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 19",
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 22"
             ],
@@ -138,13 +138,14 @@
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 9",
                 "🇺🇸 US | 🔴 | vless | @free1_vpn | 8",
+                "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann | 19",
-                "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 7",
+                "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 5",
+                "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 8",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 9",
-                "🇺🇸 US | 🔴 | vless | @irv2rey | 10",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -161,7 +162,6 @@
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 14",
-                "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 14",
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 19",
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 22"
             ],
@@ -247,6 +247,29 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
+            "type": "vless",
+            "server": "46.31.79.119",
+            "server_port": 80,
+            "uuid": "5e75197e-53ca-4256-bf1c-c356c7a378b3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "rFRgOG1YES2qi6d1xyihs21ourOyv7xRi9MnLd-3x1U",
+                    "short_id": "d99c"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @ghalagyann | 19",
             "type": "vless",
             "server": "151.101.3.8",
@@ -256,7 +279,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 5",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -265,7 +288,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -274,7 +297,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -283,7 +306,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -292,7 +315,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 8",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -301,7 +324,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -550,15 +573,6 @@
                     "short_id": "4b272f845593"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 14",
-            "type": "vless",
-            "server": "151.101.195.8",
-            "server_port": 80,
-            "uuid": "97e74d74-78de-4fd1-81e2-4da17d08501c",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @xpnteam | 19",
