@@ -93,7 +93,6 @@
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @dnsforyou | 2",
                 "🇺🇸 US | 🟢 | ss | @free1_vpn | 10",
-                "🇳🇱 NL | 🟢 | ss | @free1ss | 15",
                 "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianf | 9",
@@ -113,8 +112,7 @@
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
-                "🇸🇪 SE | 🟢 | ss | @vmessx | 4",
-                "🇺🇸 US | 🟢 | ss | @wedbazvpn | 15"
+                "🇸🇪 SE | 🟢 | ss | @vmessx | 4"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -126,7 +124,6 @@
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @dnsforyou | 2",
                 "🇺🇸 US | 🟢 | ss | @free1_vpn | 10",
-                "🇳🇱 NL | 🟢 | ss | @free1ss | 15",
                 "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianf | 9",
@@ -146,8 +143,7 @@
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
-                "🇸🇪 SE | 🟢 | ss | @vmessx | 4",
-                "🇺🇸 US | 🟢 | ss | @wedbazvpn | 15"
+                "🇸🇪 SE | 🟢 | ss | @vmessx | 4"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -189,14 +185,6 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @free1ss | 15",
-            "type": "shadowsocks",
-            "server": "194.87.216.189",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Ib9hxFZxUH4m"
         },
         {
             "tag": "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
@@ -357,14 +345,6 @@
             "server_port": 45961,
             "method": "aes-256-gcm",
             "password": "Y5Y2Rmq9TT33hli3GKnV5c"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @wedbazvpn | 15",
-            "type": "shadowsocks",
-            "server": "45.87.175.188",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1RWwXhwfAB5gAEozU4G2Pg"
         }
     ],
     "route": {
