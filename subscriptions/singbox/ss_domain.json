@@ -96,11 +96,11 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 14",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇳🇱 NL | 🟢 | ss | @dalton_ping | 11",
                 "🇨🇭 CH | 🟢 | ss | @dalton_ping | 12",
                 "🇬🇧 GB | 🟢 | ss | @expressvpn_420 | 10",
-                "🇬🇧 GB | 🟢 | ss | @falcunargo | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 2",
                 "🇬🇧 GB | 🟢 | ss | @freeconfigsplus | 16",
@@ -123,7 +123,7 @@
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 13",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
-                "🇺🇸 US | 🟢 | ss | @vmess_ir | 13",
+                "🇷🇺 RU | 🟢 | ss | @vmess_ir | 16",
                 "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
                 "🇯🇵 JP | 🟢 | ss | @vpn451 | 8"
             ],
@@ -140,11 +140,11 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 14",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇳🇱 NL | 🟢 | ss | @dalton_ping | 11",
                 "🇨🇭 CH | 🟢 | ss | @dalton_ping | 12",
                 "🇬🇧 GB | 🟢 | ss | @expressvpn_420 | 10",
-                "🇬🇧 GB | 🟢 | ss | @falcunargo | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 2",
                 "🇬🇧 GB | 🟢 | ss | @freeconfigsplus | 16",
@@ -167,7 +167,7 @@
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 13",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
-                "🇺🇸 US | 🟢 | ss | @vmess_ir | 13",
+                "🇷🇺 RU | 🟢 | ss | @vmess_ir | 16",
                 "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
                 "🇯🇵 JP | 🟢 | ss | @vpn451 | 8"
             ],
@@ -237,6 +237,14 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
+            "tag": "🇬🇧 GB | 🟢 | ss | @configshubplus | 14",
+            "type": "shadowsocks",
+            "server": "series-a1.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
             "type": "shadowsocks",
             "server": "account-mec.emofid.co",
@@ -267,14 +275,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @falcunargo | 8",
-            "type": "shadowsocks",
-            "server": "series-a1.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
@@ -453,12 +453,12 @@
             "password": "WVU27LquAMOeXmYeStI897"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @vmess_ir | 13",
+            "tag": "🇷🇺 RU | 🟢 | ss | @vmess_ir | 16",
             "type": "shadowsocks",
-            "server": "h110vpnus.outlinekeys.net",
-            "server_port": 9483,
+            "server": "ct.uigame.space",
+            "server_port": 2024,
             "method": "chacha20-ietf-poly1305",
-            "password": "nLwAl3svNCBPtG9I2FrVYI"
+            "password": "33LpoU8X/xHnCD+cbNe+7p0pK/JngDLM+5+RILrxyfVFRW/niKz5Eu0rWyVcDho="
         },
         {
             "tag": "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
