@@ -104,7 +104,6 @@
                 "🇬🇧 GB | 🟢 | ss | @freeconfigsplus | 16",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @hacknashid | 0",
-                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 10",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -116,12 +115,11 @@
                 "🇬🇧 GB | 🟢 | ss | @server_nekobox | 15",
                 "🇬🇧 GB | 🟢 | ss | @serverii | 0",
                 "🇫🇮 FI | 🟢 | ss | @shadowsockskeys | 12",
-                "❔ XX | 🟢 | ss | @sifev2ray | 5",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raying | 11",
-                "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 13",
+                "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 12",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
@@ -148,7 +146,6 @@
                 "🇬🇧 GB | 🟢 | ss | @freeconfigsplus | 16",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @hacknashid | 0",
-                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 10",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -160,12 +157,11 @@
                 "🇬🇧 GB | 🟢 | ss | @server_nekobox | 15",
                 "🇬🇧 GB | 🟢 | ss | @serverii | 0",
                 "🇫🇮 FI | 🟢 | ss | @shadowsockskeys | 12",
-                "❔ XX | 🟢 | ss | @sifev2ray | 5",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raying | 11",
-                "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 13",
+                "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 12",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
@@ -301,14 +297,6 @@
             "password": "AcGFEsMR6c07Txux"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 10",
-            "type": "shadowsocks",
-            "server": "beesyar.org",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
-        },
-        {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
             "type": "shadowsocks",
             "server": "api.namasha.co",
@@ -397,14 +385,6 @@
             "password": "2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw"
         },
         {
-            "tag": "❔ XX | 🟢 | ss | @sifev2ray | 5",
-            "type": "shadowsocks",
-            "server": "816.outline-vpn.cloud",
-            "server_port": 9098,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ksjfuw!sop#"
-        },
-        {
             "tag": "❔ XX | 🟢 | ss | @srovpn | 13",
             "type": "shadowsocks",
             "server": "2FreakConfig.usecharge.ir",
@@ -437,7 +417,7 @@
             "password": "WstuSnlu4ieA9M0L"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 13",
+            "tag": "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 12",
             "type": "shadowsocks",
             "server": "switcher-nick-croquet.freesocks.work",
             "server_port": 443,
