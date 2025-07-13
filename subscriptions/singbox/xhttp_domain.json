@@ -99,7 +99,7 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇺🇸 US | 🟢 | vless | @dailyv2ry | 72",
+                "🇺🇸 US | 🔴 | vless | @dailyv2ry | 88",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 1",
@@ -134,6 +134,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngvpn_1 | 7",
                 "🇺🇸 US | 🔴 | vless | @v2reay | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 10",
+                "🇺🇸 US | 🔴 | vless | @v2source | 16",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 9",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
@@ -157,7 +158,7 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇺🇸 US | 🟢 | vless | @dailyv2ry | 72",
+                "🇺🇸 US | 🔴 | vless | @dailyv2ry | 88",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 1",
@@ -192,6 +193,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngvpn_1 | 7",
                 "🇺🇸 US | 🔴 | vless | @v2reay | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 10",
+                "🇺🇸 US | 🔴 | vless | @v2source | 16",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 9",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
@@ -299,22 +301,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @dailyv2ry | 72",
+            "tag": "🇺🇸 US | 🔴 | vless | @dailyv2ry | 88",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "44f2c910-07a4-478e-861b-aed3d0750980",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "shima.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔴 | vless | @dgkbza | 18",
@@ -706,6 +699,15 @@
             "server": "tel.v2angbot.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "48a2c4cb-b4ce-427d-8860-a512b1f2b849",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2source | 16",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "d62494a5-4feb-4422-9547-1050a907afa8",
             "flow": "",
             "packet_encoding": "xudp"
         },
