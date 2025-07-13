@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇭🇰 HK | 🟢 | hy2 | @hack_androidapp1 | 1",
                 "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 13"
             ],
             "tag": "proxy",
@@ -98,7 +97,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇭🇰 HK | 🟢 | hy2 | @hack_androidapp1 | 1",
                 "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 13"
             ],
             "tag": "auto",
@@ -109,25 +107,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇭🇰 HK | 🟢 | hy2 | @hack_androidapp1 | 1",
-            "type": "hysteria2",
-            "server": "62.72.163.159",
-            "server_port": 13563,
-            "password": "0c4c1a89-5645-4fc2-9e3b-ab09aa44e933",
-            "obfs": {
-                "type": "salamander",
-                "password": "rPvCrCom7ETCNOvA"
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "h2.gzcloud.shop",
-                "insecure": false,
-                "alpn": [
-                    "h3"
-                ]
-            }
         },
         {
             "tag": "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 13",
