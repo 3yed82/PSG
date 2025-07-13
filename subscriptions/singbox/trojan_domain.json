@@ -91,12 +91,10 @@
                 "direct",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇨🇳 CN | 🔴 | trojan | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | trojan | @confing_chanel | 15",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇺🇸 US | 🟢 | trojan | @free_serverir | 39",
-                "🇨🇳 CN | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "🇺🇸 US | 🔴 | trojan | @icv2ray | 2",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -112,7 +110,6 @@
                 "🇺🇸 US | 🔴 | trojan | @noviin_tel | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 16",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -125,12 +122,10 @@
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇨🇳 CN | 🔴 | trojan | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | trojan | @confing_chanel | 15",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇺🇸 US | 🟢 | trojan | @free_serverir | 39",
-                "🇨🇳 CN | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "🇺🇸 US | 🔴 | trojan | @icv2ray | 2",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -146,7 +141,6 @@
                 "🇺🇸 US | 🔴 | trojan | @noviin_tel | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 16",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -196,13 +190,6 @@
                     "Host": "asia.artunnel57.host"
                 }
             }
-        },
-        {
-            "tag": "🇨🇳 CN | 🔴 | trojan | @configshubplus | 15",
-            "type": "trojan",
-            "server": "aexshbgp01.114837322.xyz",
-            "server_port": 14424,
-            "password": "6AC378EE-C9AE-9D3C-3DD9-8C034898BE44"
         },
         {
             "tag": "🇺🇸 US | 🔴 | trojan | @confing_chanel | 15",
@@ -272,13 +259,6 @@
                     "Host": "top-azx.pages.dev"
                 }
             }
-        },
-        {
-            "tag": "🇨🇳 CN | 🔴 | trojan | @hope_net | 17",
-            "type": "trojan",
-            "server": "aexshbgp01.114837322.xyz",
-            "server_port": 14434,
-            "password": "6AC378EE-C9AE-9D3C-3DD9-8C034898BE44"
         },
         {
             "tag": "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
@@ -538,22 +518,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 16",
-            "type": "trojan",
-            "server": "lynn.ns.cloudflare.com",
-            "server_port": 443,
-            "password": "Aimer",
-            "tls": {
-                "enabled": true,
-                "server_name": "ngepx.ambercc.filegear-sg.me",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
