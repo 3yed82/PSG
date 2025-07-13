@@ -105,7 +105,6 @@
                 "❔ XX | 🔴 | vless | @vpn_matin_best1 | 1",
                 "❔ XX | 🔴 | vless | @vpnstorefast | 13",
                 "❔ XX | 🟢 | vless | @vpnvg | 10",
-                "❔ XX | 🟢 | vless | @yekoyekvpn | 0",
                 "❔ XX | 🔴 | vless | @zilv2ray_service | 6",
                 "❔ XX | 🔴 | vless | @zilv2ray_service | 9",
                 "❔ XX | 🔴 | vless | @zilv2ray_service | 10"
@@ -132,7 +131,6 @@
                 "❔ XX | 🔴 | vless | @vpn_matin_best1 | 1",
                 "❔ XX | 🔴 | vless | @vpnstorefast | 13",
                 "❔ XX | 🟢 | vless | @vpnvg | 10",
-                "❔ XX | 🟢 | vless | @yekoyekvpn | 0",
                 "❔ XX | 🔴 | vless | @zilv2ray_service | 6",
                 "❔ XX | 🔴 | vless | @zilv2ray_service | 9",
                 "❔ XX | 🔴 | vless | @zilv2ray_service | 10"
@@ -423,31 +421,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @yekoyekvpn | 0",
-            "type": "vless",
-            "server": "[::ffff:3207:55dd]",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tEstBp.fIBiDOB9775921.woRkeRS.DEV",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/xUnw05Z6MV3NG29U?ed=2560",
-                "headers": {
-                    "Host": "tEstBp.fIBiDOB9775921.woRkeRS.DEV"
-                }
             }
         },
         {

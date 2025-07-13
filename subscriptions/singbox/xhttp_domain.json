@@ -119,8 +119,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 12",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 4",
-                "🇬🇧 GB | 🟢 | vless | @prrofile_purple | 123",
-                "🇺🇸 US | 🔴 | vless | @serverii | 1",
+                "🇺🇸 US | 🔴 | vless | @serverii | 0",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2graphy | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
@@ -174,8 +173,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 12",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 4",
-                "🇬🇧 GB | 🟢 | vless | @prrofile_purple | 123",
-                "🇺🇸 US | 🔴 | vless | @serverii | 1",
+                "🇺🇸 US | 🔴 | vless | @serverii | 0",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2graphy | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
@@ -524,30 +522,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @prrofile_purple | 123",
-            "type": "vless",
-            "server": "p2.3dfigures.ir",
-            "server_port": 80,
-            "uuid": "d7db3e29-c388-4312-91f1-0da96d624e5b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE",
-                    "short_id": "4d"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @serverii | 1",
+            "tag": "🇺🇸 US | 🔴 | vless | @serverii | 0",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
             "server_port": 80,
