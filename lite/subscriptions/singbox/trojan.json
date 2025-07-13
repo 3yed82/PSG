@@ -91,7 +91,6 @@
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -110,7 +109,6 @@
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -133,7 +131,7 @@
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
             "type": "trojan",
-            "server": "13.37.253.14",
+            "server": "13.37.30.32",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
@@ -159,29 +157,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
-            "type": "trojan",
-            "server": "104.21.94.69",
-            "server_port": 443,
-            "password": "13e26f64-2e0c-4461-92cd-d83294cc18f0",
-            "tls": {
-                "enabled": true,
-                "server_name": "dddcVbhnj.000890604.xyZ",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/TDUxZUop9k44oPiit2OdWk0KwirdY",
-                "headers": {
-                    "Host": "dddcVbhnj.000890604.xyZ"
                 }
             }
         },
@@ -227,7 +202,7 @@
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
             "type": "trojan",
-            "server": "13.37.253.14",
+            "server": "13.37.30.32",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "tls": {
@@ -275,7 +250,7 @@
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
             "type": "trojan",
-            "server": "13.37.253.14",
+            "server": "13.37.30.32",
             "server_port": 22223,
             "password": "telegram-id-v2rayvpnchannel",
             "tls": {

@@ -95,6 +95,7 @@
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇺🇸 US | 🟢 | trojan | @free_serverir | 39",
+                "🇸🇬 SG | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "🇺🇸 US | 🔴 | trojan | @icv2ray | 2",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -108,7 +109,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | trojan | @noviin_tel | 5",
-                "🇺🇸 US | 🟢 | trojan | @parsproxy_ir | 80",
+                "🇳🇱 NL | 🟢 | trojan | @parsproxy_ir | 65",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
@@ -127,6 +128,7 @@
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇺🇸 US | 🟢 | trojan | @free_serverir | 39",
+                "🇸🇬 SG | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "🇺🇸 US | 🔴 | trojan | @icv2ray | 2",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -140,7 +142,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | trojan | @noviin_tel | 5",
-                "🇺🇸 US | 🟢 | trojan | @parsproxy_ir | 80",
+                "🇳🇱 NL | 🟢 | trojan | @parsproxy_ir | 65",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
@@ -259,6 +261,22 @@
                 "path": "/Az1.vpn.33.TOP/?ed=2560",
                 "headers": {
                     "Host": "top-azx.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🔴 | trojan | @hope_net | 17",
+            "type": "trojan",
+            "server": "in01.trojanyyds.xyz",
+            "server_port": 443,
+            "password": "243eab52-9ac1-405c-887c-eb112c0985b8",
+            "tls": {
+                "enabled": true,
+                "server_name": "in01.trojanyyds.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -489,7 +507,7 @@
             "password": "K7N8flfyok"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @parsproxy_ir | 80",
+            "tag": "🇳🇱 NL | 🟢 | trojan | @parsproxy_ir | 65",
             "type": "trojan",
             "server": "trus.moonfree.top",
             "server_port": 443,
