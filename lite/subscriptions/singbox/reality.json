@@ -106,6 +106,7 @@
                 "🇫🇮 FI | 🟢 | vless | @sezar_sec | 3",
                 "🇹🇷 TR | 🟢 | vless | @sinavm | 1",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
+                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
@@ -125,12 +126,12 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 9",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -158,6 +159,7 @@
                 "🇫🇮 FI | 🟢 | vless | @sezar_sec | 3",
                 "🇹🇷 TR | 🟢 | vless | @sinavm | 1",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
+                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
@@ -177,12 +179,12 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 9",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -597,6 +599,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
+            "type": "vless",
+            "server": "88.99.87.227",
+            "server_port": 2090,
+            "uuid": "Telegram--SRCVPN--",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM",
+                    "short_id": "aa0dd5ba"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "32135vless"
             }
         },
         {
@@ -1069,33 +1098,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
-            "type": "vless",
-            "server": "parrot-love.ir",
-            "server_port": 2025,
-            "uuid": "417e0f23-34b1-45c6-803d-4b596c502672",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "sadf2341sad"
-            }
-        },
-        {
             "tag": "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
             "type": "vless",
             "server": "a.nl.maviks.ru",
@@ -1211,6 +1213,29 @@
                     "enabled": true,
                     "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 19",
+            "type": "vless",
+            "server": "p1.3dfigures.ir",
+            "server_port": 80,
+            "uuid": "d85090ca-3504-4a1e-8bb1-0c2ed3fc74b0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s",
+                    "short_id": "9fd097cb4d"
                 }
             }
         },
