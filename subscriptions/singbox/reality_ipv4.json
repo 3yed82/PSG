@@ -94,7 +94,6 @@
                 "🇫🇮 FI | 🟢 | vless | @azarbayjab1 | 36",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 12",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @config_proxy | 72",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
@@ -222,7 +221,6 @@
                 "🇫🇮 FI | 🟢 | vless | @azarbayjab1 | 36",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 12",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @config_proxy | 72",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
@@ -473,29 +471,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram : @PouRia_Cheat"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 72",
-            "type": "vless",
-            "server": "49.13.117.127",
-            "server_port": 443,
-            "uuid": "82a0e733-298e-48d3-b8b4-157144c33b7f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
-                }
             }
         },
         {
