@@ -11,7 +11,6 @@
     "NamiraNet": {
         "types": [
             "ss",
-            "trojan",
             "vless",
             "vmess"
         ],
@@ -936,14 +935,6 @@
         "title": "جوربع",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/goodbyefiltering.jpg"
     },
-    "grizzlyvpn": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "Grizzly VPN فیلتر شکن |پروکسی رایگان",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/grizzlyvpn.jpg"
-    },
     "guard_revil": {
         "types": [
             "vless"
@@ -961,10 +952,10 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "ss",
             "vmess",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1042,10 +1033,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
             "ss",
-            "trojan",
-            "vless"
+            "vless",
+            "vmess",
+            "trojan"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1159,14 +1150,6 @@
         ],
         "title": "𝗶𝗧𝗩𝟮𝗥𝗔𝗬 / 𝗩𝗣𝗡",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/itv2ray.jpg"
-    },
-    "jedal_vpn": {
-        "types": [
-            "vmess",
-            "vless"
-        ],
-        "title": "خریدفیلترشکن خرید فیلترشکن پرسرعت خرید وی پی ان خرید vpn کانفینگ v2ray فروش فیلترشکن | Jedal vpn v2rayng369",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/jedal_vpn.jpg"
     },
     "jetupnet": {
         "types": [
@@ -1573,9 +1556,9 @@
     },
     "mowjproxy": {
         "types": [
+            "ss",
             "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1797,7 +1780,8 @@
     },
     "noviin_tel": {
         "types": [
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "نوین تل",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/noviin_tel.jpg"
@@ -1973,8 +1957,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2381,8 +2365,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan",
             "vmess"
         ],
@@ -2499,8 +2483,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2732,7 +2716,8 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"

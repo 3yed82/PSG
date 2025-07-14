@@ -102,7 +102,7 @@
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇳🇱 NL | 🔴 | trojan | @hacknashid | 2",
-                "🇫🇷 FR | 🟢 | trojan | @hope_net | 19",
+                "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 13",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 7",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇮🇷 IR | 🔴 | trojan | @mahanvpn | 0",
@@ -115,12 +115,12 @@
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 16",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @proxycrone | 9",
-                "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 16",
-                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 14",
+                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2pedia | 17",
                 "🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 17",
-                "🇮🇳 IN | 🔴 | trojan | @v2raych | 15",
+                "🇫🇷 FR | 🟢 | trojan | @v2raych | 15",
+                "🇸🇪 SE | 🟢 | trojan | @v2raych | 19",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -152,7 +152,7 @@
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇳🇱 NL | 🔴 | trojan | @hacknashid | 2",
-                "🇫🇷 FR | 🟢 | trojan | @hope_net | 19",
+                "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 13",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 7",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇮🇷 IR | 🔴 | trojan | @mahanvpn | 0",
@@ -165,12 +165,12 @@
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 16",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @proxycrone | 9",
-                "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 16",
-                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 14",
+                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2pedia | 17",
                 "🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 17",
-                "🇮🇳 IN | 🔴 | trojan | @v2raych | 15",
+                "🇫🇷 FR | 🟢 | trojan | @v2raych | 15",
+                "🇸🇪 SE | 🟢 | trojan | @v2raych | 19",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -372,14 +372,14 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @hope_net | 19",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 13",
             "type": "trojan",
-            "server": "15.236.245.145",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "server": "51.91.11.29",
+            "server_port": 80,
+            "password": "598c19f3-a48e-47cd-8451-1ba04ea094d0",
             "tls": {
                 "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "speedtest.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -576,22 +576,6 @@
             "password": ""
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
-            "type": "trojan",
-            "server": "51.91.11.29",
-            "server_port": 80,
-            "password": "598c19f3-a48e-47cd-8451-1ba04ea094d0",
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🟢 | trojan | @rsv2ray | 16",
             "type": "trojan",
             "server": "38.99.82.225",
@@ -608,7 +592,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @server_nekobox | 14",
+            "tag": "🇺🇸 US | 🟢 | trojan | @server_nekobox | 12",
             "type": "trojan",
             "server": "172.67.181.173",
             "server_port": 443,
@@ -663,11 +647,36 @@
             }
         },
         {
-            "tag": "🇮🇳 IN | 🔴 | trojan | @v2raych | 15",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @v2raych | 15",
             "type": "trojan",
-            "server": "108.165.152.91",
-            "server_port": 2083,
-            "password": "Aimer"
+            "server": "35.181.159.219",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | trojan | @v2raych | 19",
+            "type": "trojan",
+            "server": "13.60.109.83",
+            "server_port": 22222,
+            "password": "telegram-id-v2rayvpnchannel",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
