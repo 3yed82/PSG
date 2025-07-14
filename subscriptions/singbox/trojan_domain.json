@@ -91,7 +91,6 @@
                 "direct",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇭🇰 HK | 🔴 | trojan | @connect_sho | 1",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 17",
                 "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 19",
@@ -100,14 +99,14 @@
                 "🇺🇸 US | 🔴 | trojan | @icv2ray | 2",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 5",
-                "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 4",
+                "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 6",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 7",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
+                "❔ XX | 🟢 | trojan | @noforcedheaven | 14",
+                "❔ XX | 🟢 | trojan | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | trojan | @noviin_tel | 2",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
@@ -123,7 +122,6 @@
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇭🇰 HK | 🔴 | trojan | @connect_sho | 1",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 17",
                 "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 19",
@@ -132,14 +130,14 @@
                 "🇺🇸 US | 🔴 | trojan | @icv2ray | 2",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 5",
-                "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 4",
+                "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 6",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 7",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
+                "❔ XX | 🟢 | trojan | @noforcedheaven | 14",
+                "❔ XX | 🟢 | trojan | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | trojan | @noviin_tel | 2",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
@@ -190,22 +188,6 @@
                 "path": "/trojan-ntls",
                 "headers": {
                     "Host": "asia.artunnel57.host"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | trojan | @connect_sho | 1",
-            "type": "trojan",
-            "server": "it.mjt000.com",
-            "server_port": 443,
-            "password": "84587c21-9938-42fc-a4b0-4f72dd72b7aa",
-            "tls": {
-                "enabled": true,
-                "server_name": "it.mjt000.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -354,7 +336,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 4",
+            "tag": "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 3",
             "type": "trojan",
             "server": "www.digitalocean.com",
             "server_port": 443,
@@ -482,7 +464,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
+            "tag": "❔ XX | 🟢 | trojan | @noforcedheaven | 14",
             "type": "trojan",
             "server": "ru2.asc-sam.ir",
             "server_port": 443,
@@ -498,7 +480,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
+            "tag": "❔ XX | 🟢 | trojan | @noforcedheaven | 15",
             "type": "trojan",
             "server": "ru2.asc-sam.ir",
             "server_port": 443,
