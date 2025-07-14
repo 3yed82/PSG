@@ -1047,10 +1047,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
-            "vless",
             "vmess",
-            "ss"
+            "ss",
+            "vless",
+            "trojan"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1896,14 +1896,6 @@
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
     },
-    "outline_vpn": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "Outline Vpn",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_vpn.jpg"
-    },
     "outlineopenkey": {
         "types": [
             "ss"
@@ -2315,16 +2307,6 @@
         "title": "𝑻𝒆𝒍𝒎𝒂 𝑽𝒑𝒏 | ایـنترنت آزاد",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/telmavpn.jpg"
     },
-    "tgvpn6": {
-        "types": [
-            "vmess",
-            "trojan",
-            "ss",
-            "vless"
-        ],
-        "title": "VPN 节点 回国IP tg直连",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/tgvpn6.jpg"
-    },
     "tm_vpn_ogrysy": {
         "types": [
             "ss"
@@ -2433,17 +2415,6 @@
         "title": "پروکسی پرسرعت تلگرام, vmess, vless, shadowsocks, outline",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray4win.jpg"
     },
-    "v2ray_extractor": {
-        "types": [
-            "ss",
-            "vless",
-            "hy2",
-            "vmess",
-            "trojan"
-        ],
-        "title": "V2ray Extractor",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_extractor.jpg"
-    },
     "v2ray_fd": {
         "types": [
             "vmess"
@@ -2454,9 +2425,9 @@
     "v2ray_free_conf": {
         "types": [
             "ss",
-            "vmess",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2603,6 +2574,7 @@
     },
     "v2rayng_fars": {
         "types": [
+            "ss",
             "vless"
         ],
         "title": "v2rayng fars",
@@ -2798,17 +2770,10 @@
         "title": "EPIC vpnclub",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnclub.jpg"
     },
-    "v2rayvx": {
-        "types": [
-            "vless"
-        ],
-        "title": "سرور و کانفیگ وکس 😍",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvx.jpg"
-    },
     "v2rayweb": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
