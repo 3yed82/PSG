@@ -92,11 +92,11 @@
                 "🇬🇧 GB | 🟢 | ss | @Fr33C0nfig | 55",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 16",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
-                "🇬🇧 GB | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
@@ -112,11 +112,11 @@
                 "🇬🇧 GB | 🟢 | ss | @Fr33C0nfig | 55",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 16",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
-                "🇬🇧 GB | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
@@ -157,6 +157,14 @@
             "password": "W74XFALLLuw6m5IA"
         },
         {
+            "tag": "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 16",
+            "type": "shadowsocks",
+            "server": "azure-sto.edgeservers.org",
+            "server_port": 48172,
+            "method": "chacha20-ietf-poly1305",
+            "password": "51yloQC8D9w1Wae7FHtI65"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 4",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
@@ -187,14 +195,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @v2ray_free_conf | 19",
-            "type": "shadowsocks",
-            "server": "series-a2.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "mps3FwmDjLrWaOVg"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
