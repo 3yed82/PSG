@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇬🇧 GB | 🟢 | vless | @antifilterjadid | 4",
+                "🇬🇧 GB | 🟢 | vless | @antifilterjadid | 3",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
@@ -100,18 +100,20 @@
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇩🇪 DE | 🟢 | vless | @meli_proxyy | 21",
+                "🇨🇿 CZ | 🟢 | vless | @meli_proxyy | 21",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 5",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇹🇷 TR | 🟢 | vless | @sinavm | 1",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
+                "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 15",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇳🇱 NL | 🟢 | vless | @vpn451 | 10",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
+                "🇩🇪 DE | 🟢 | vless | @vpnv2rayngv | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1"
             ],
@@ -121,7 +123,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇬🇧 GB | 🟢 | vless | @antifilterjadid | 4",
+                "🇬🇧 GB | 🟢 | vless | @antifilterjadid | 3",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
@@ -132,18 +134,20 @@
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇩🇪 DE | 🟢 | vless | @meli_proxyy | 21",
+                "🇨🇿 CZ | 🟢 | vless | @meli_proxyy | 21",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 5",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇹🇷 TR | 🟢 | vless | @sinavm | 1",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
+                "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 15",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇳🇱 NL | 🟢 | vless | @vpn451 | 10",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
+                "🇩🇪 DE | 🟢 | vless | @vpnv2rayngv | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1"
             ],
@@ -157,7 +161,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @antifilterjadid | 4",
+            "tag": "🇬🇧 GB | 🟢 | vless | @antifilterjadid | 3",
             "type": "vless",
             "server": "178.62.14.113",
             "server_port": 54842,
@@ -422,16 +426,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @meli_proxyy | 21",
+            "tag": "🇨🇿 CZ | 🟢 | vless | @meli_proxyy | 21",
             "type": "vless",
-            "server": "91.107.251.56",
-            "server_port": 22,
-            "uuid": "8f10f456-fbb0-492a-a71b-9b88cde3e5aa",
+            "server": "194.182.79.72",
+            "server_port": 32826,
+            "uuid": "2dc62e43-90f5-4d72-815b-c64b40d19088",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "sourceforge.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -439,13 +443,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w",
-                    "short_id": "d757f949ab85"
+                    "public_key": "viVxJfUpCBYia6ZwmuHkuS19C1ARC3OCaaRG9VvOIhg",
+                    "short_id": "e8f24f79"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "کانال‌تلگرام @ev2rayy"
+                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON"
             }
         },
         {
@@ -472,16 +476,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 5",
+            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
             "type": "vless",
-            "server": "5.75.197.120",
-            "server_port": 2025,
-            "uuid": "54b4c039-7be6-448f-b704-820251b079db",
+            "server": "91.99.141.177",
+            "server_port": 443,
+            "uuid": "6a29f4b8-d1cd-431d-8aba-f1ede9924168",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.cloudflare.com",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -489,13 +493,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw",
-                    "short_id": "8d9c20be72b4"
+                    "public_key": "xLkLmCGxG3l9bpYx9bGrc8iFOcckMV3LY2T5d5PMcAQ",
+                    "short_id": "9bbaa30279dec5"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram : @PouRia_Cheat"
             }
         },
         {
@@ -591,6 +591,29 @@
                     "enabled": true,
                     "public_key": "aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY",
                     "short_id": "a0209e22"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 15",
+            "type": "vless",
+            "server": "62.212.70.94",
+            "server_port": 2090,
+            "uuid": "8106b22a-17ef-44f7-9e17-6425aef9d427",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "QXWMxdRWr0o_Rqe3I3r20NUREf3eqIl28tRRT1TPSXo",
+                    "short_id": "e9"
                 }
             }
         },
@@ -711,6 +734,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "chessgame"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnv2rayngv | 18",
+            "type": "vless",
+            "server": "91.107.251.56",
+            "server_port": 22,
+            "uuid": "8f10f456-fbb0-492a-a71b-9b88cde3e5aa",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w",
+                    "short_id": "d757f949ab85"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "کانال‌تلگرام @ev2rayy"
             }
         },
         {
