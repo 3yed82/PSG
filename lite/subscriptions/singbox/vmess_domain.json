@@ -100,7 +100,6 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
-                "🏳️  | 🔴 | vmess | @hope_net | 19",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -157,7 +156,6 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
-                "🏳️  | 🔴 | vmess | @hope_net | 19",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -387,15 +385,6 @@
                     "Host": ""
                 }
             }
-        },
-        {
-            "tag": "🏳️  | 🔴 | vmess | @hope_net | 19",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "ccabbaa-caab-baca-adbc-aacacbcabbcb",
-            "security": "auto",
-            "alter_id": 0
         },
         {
             "tag": "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
