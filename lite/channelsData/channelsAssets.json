@@ -968,8 +968,9 @@
     "hope_net": {
         "types": [
             "ss",
-            "vless",
-            "vmess"
+            "vmess",
+            "trojan",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1047,9 +1048,9 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
-            "vless",
             "ss",
+            "vless",
+            "vmess",
             "trojan"
         ],
         "title": "IP_CF | V2ray Config Pool",
@@ -1379,8 +1380,8 @@
     },
     "lranonline_new": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Iran Online New",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/lranonline_new.jpg"
@@ -1593,8 +1594,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1817,7 +1818,6 @@
     },
     "noviin_tel": {
         "types": [
-            "vless",
             "trojan",
             "vmess"
         ],
@@ -2136,7 +2136,6 @@
     },
     "satellitenewspersian": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "SATELLITENEWSPERSIAN",
@@ -2409,8 +2408,8 @@
     "v2ray_free_conf": {
         "types": [
             "trojan",
-            "ss",
             "vmess",
+            "ss",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2821,8 +2820,8 @@
     "vaynora": {
         "types": [
             "trojan",
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "VayNora",
@@ -2893,8 +2892,8 @@
     },
     "vmess_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmess_ir.jpg"
@@ -3132,8 +3131,8 @@
     },
     "vpnv2rayngv": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "کانفینگ پروکسی وی توری نت ملی اسکوئید گیم خرید سرورفیلترشکن بازی مرکب وی پی ان اسکویید گیم ایران vpn v2rayNG vmess vless proxy",
