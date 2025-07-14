@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 13"
+                "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 12"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 13"
+                "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 12"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,7 +109,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 13",
+            "tag": "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 12",
             "type": "hysteria2",
             "server": "46.62.152.236",
             "server_port": 443,

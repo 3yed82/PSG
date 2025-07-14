@@ -90,11 +90,11 @@
                 "auto",
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
+                "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 15",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
+                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @proxycrone | 10",
-                "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4"
@@ -106,11 +106,11 @@
             "interval": "10m",
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
+                "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 15",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
+                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @proxycrone | 10",
-                "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4"
@@ -133,6 +133,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 15",
+            "type": "trojan",
+            "server": "51.91.11.29",
+            "server_port": 80,
+            "password": "598c19f3-a48e-47cd-8451-1ba04ea094d0",
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -164,7 +180,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
+            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
             "type": "trojan",
             "server": "176.32.39.29",
             "server_port": 443,
@@ -201,22 +217,6 @@
             "server": "0RiSuJPsug",
             "server_port": 0,
             "password": ""
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
-            "type": "trojan",
-            "server": "51.91.11.29",
-            "server_port": 80,
-            "password": "598c19f3-a48e-47cd-8451-1ba04ea094d0",
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",

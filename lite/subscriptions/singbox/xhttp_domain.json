@@ -100,7 +100,6 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🔴 | vless | @wedbazvpn | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
@@ -121,7 +120,6 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🔴 | vless | @wedbazvpn | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
@@ -241,15 +239,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
-            "type": "vless",
-            "server": "CONFiGLiNE.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "69268d69-4d1a-44fe-9e3a-e3238fe5fcb0",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @wedbazvpn | 16",

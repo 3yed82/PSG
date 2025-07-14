@@ -94,12 +94,14 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @configms | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 16",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @expressvpn_420 | 15",
                 "🇩🇪 DE | 🟢 | vless | @expressvpn_420 | 17",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 8",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 12",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
                 "🇹🇷 TR | 🔴 | vless | @freakconfig | 7",
                 "🇺🇸 US | 🔴 | vless | @free1_vpn | 7",
                 "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
@@ -141,12 +143,14 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @configms | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 16",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @expressvpn_420 | 15",
                 "🇩🇪 DE | 🟢 | vless | @expressvpn_420 | 17",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 8",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 12",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
                 "🇹🇷 TR | 🔴 | vless | @freakconfig | 7",
                 "🇺🇸 US | 🔴 | vless | @free1_vpn | 7",
                 "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
@@ -232,6 +236,38 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "46.31.76.3",
+            "server_port": 80,
+            "uuid": "295afac4-e906-4e08-b1ce-524177c7ecb1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo",
+                    "short_id": "5942e2"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
+            "type": "vless",
+            "server": "151.101.67.8",
+            "server_port": 80,
+            "uuid": "8a0d18ab-b2ee-4e4e-b990-05b379b198a6",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
             "type": "vless",
             "server": "151.101.3.8",
@@ -300,7 +336,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
