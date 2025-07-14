@@ -967,10 +967,9 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
-            "trojan",
+            "vless",
             "ss",
-            "vless"
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1048,10 +1047,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "ss",
-            "vmess",
+            "trojan",
             "vless",
-            "trojan"
+            "vmess",
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1603,7 +1602,8 @@
     "mowjproxy": {
         "types": [
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2603,7 +2603,6 @@
     },
     "v2rayng_fars": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "v2rayng fars",
@@ -2808,9 +2807,8 @@
     },
     "v2rayweb": {
         "types": [
-            "trojan",
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"

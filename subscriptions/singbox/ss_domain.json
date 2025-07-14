@@ -97,6 +97,7 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
+                "🇨🇳 CN | 🟢 | ss | @configshubplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 2",
@@ -137,6 +138,7 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
+                "🇨🇳 CN | 🟢 | ss | @configshubplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 2",
@@ -235,6 +237,14 @@
             "server_port": 10107,
             "method": "aes-256-gcm",
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
+        },
+        {
+            "tag": "🇨🇳 CN | 🟢 | ss | @configshubplus | 18",
+            "type": "shadowsocks",
+            "server": "qh62onjn.slashdevslashnetslashtun.net",
+            "server_port": 16015,
+            "method": "aes-256-gcm",
+            "password": "EKL22E7LU1P3EPZC"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
