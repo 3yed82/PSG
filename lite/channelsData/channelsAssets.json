@@ -968,8 +968,9 @@
     "hope_net": {
         "types": [
             "vmess",
-            "vless",
-            "ss"
+            "trojan",
+            "ss",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1048,9 +1049,9 @@
     "ip_cf_config": {
         "types": [
             "ss",
-            "trojan",
             "vmess",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1219,8 +1220,8 @@
     },
     "jiujied": {
         "types": [
-            "trojan",
             "vmess",
+            "trojan",
             "vless",
             "ss"
         ],
@@ -1602,7 +1603,6 @@
     "mowjproxy": {
         "types": [
             "vmess",
-            "vless",
             "ss"
         ],
         "title": "Mowj Proxy",
@@ -2808,8 +2808,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "vmess"
         ],
         "title": "V2ray | VPN",
