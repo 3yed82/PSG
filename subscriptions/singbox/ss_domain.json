@@ -97,6 +97,8 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
+                "🇳🇱 NL | 🟢 | ss | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 2",
@@ -115,7 +117,6 @@
                 "🇫🇮 FI | 🟢 | ss | @shadowsockskeys | 12",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇵🇱 PL | 🟢 | ss | @v2ray_free_conf | 15",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raying | 11",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 12",
@@ -138,6 +139,8 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
+                "🇳🇱 NL | 🟢 | ss | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 2",
@@ -156,7 +159,6 @@
                 "🇫🇮 FI | 🟢 | ss | @shadowsockskeys | 12",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇵🇱 PL | 🟢 | ss | @v2ray_free_conf | 15",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raying | 11",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 12",
@@ -237,6 +239,22 @@
             "server_port": 10107,
             "method": "aes-256-gcm",
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @configshubplus | 16",
+            "type": "shadowsocks",
+            "server": "h110vpnnl.outlinekeys.net",
+            "server_port": 52571,
+            "method": "chacha20-ietf-poly1305",
+            "password": "b0TKxnHAYeeFYyzTAMXn0F"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 18",
+            "type": "shadowsocks",
+            "server": "h110vpnus.outlinekeys.net",
+            "server_port": 9483,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cVe4fxbpIV0nY8H7F4SBhs"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
@@ -381,14 +399,6 @@
             "server_port": 39448,
             "method": "chacha20-ietf-poly1305",
             "password": "1U5MUwZqVsFkDGXQfabJP9"
-        },
-        {
-            "tag": "🇵🇱 PL | 🟢 | ss | @v2ray_free_conf | 15",
-            "type": "shadowsocks",
-            "server": "pl.vmagnum.win",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a58fa62b4944ddbf"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
