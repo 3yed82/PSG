@@ -97,7 +97,6 @@
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann2 | 14",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 23",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 15",
@@ -128,7 +127,6 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
-                "🇹🇷 TR | 🟢 | vless | @v2rayweb | 13",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
@@ -148,7 +146,6 @@
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann2 | 14",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 23",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 15",
@@ -179,7 +176,6 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
-                "🇹🇷 TR | 🟢 | vless | @v2rayweb | 13",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
@@ -388,33 +384,6 @@
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 23",
-            "type": "vless",
-            "server": "91.107.177.96",
-            "server_port": 2083,
-            "uuid": "8bafd6a7-1aea-4703-8553-54ed657d39f8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE",
-                    "short_id": "4ea00ce2"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs"
             }
         },
         {
@@ -1161,29 +1130,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@FergalVpnMod"
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🟢 | vless | @v2rayweb | 13",
-            "type": "vless",
-            "server": "gfgweq.mxspeed8-3.ir",
-            "server_port": 2035,
-            "uuid": "fc26a536-91b7-4c25-8a39-977847eb82da",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "P5ToEkglPKRO87kgIZycZsfrUKqvHlPlR7Huc-Fu2WM",
-                    "short_id": "0aa48381a702e248"
-                }
             }
         },
         {
