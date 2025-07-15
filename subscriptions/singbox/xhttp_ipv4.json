@@ -101,7 +101,7 @@
                 "🇩🇪 DE | 🟢 | vless | @expressvpn_420 | 17",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇹🇷 TR | 🔴 | vless | @freakconfig | 5",
+                "🇹🇷 TR | 🔴 | vless | @freakconfig | 6",
                 "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann | 18",
@@ -121,7 +121,6 @@
                 "🇸🇪 SE | 🟢 | vless | @v2ray_sos | 0",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_vmes | 13",
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 5",
-                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 6",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 7",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
@@ -147,7 +146,7 @@
                 "🇩🇪 DE | 🟢 | vless | @expressvpn_420 | 17",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇹🇷 TR | 🔴 | vless | @freakconfig | 5",
+                "🇹🇷 TR | 🔴 | vless | @freakconfig | 6",
                 "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann | 18",
@@ -167,7 +166,6 @@
                 "🇸🇪 SE | 🟢 | vless | @v2ray_sos | 0",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_vmes | 13",
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 5",
-                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 6",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 7",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
@@ -325,7 +323,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇹🇷 TR | 🔴 | vless | @freakconfig | 5",
+            "tag": "🇹🇷 TR | 🔴 | vless | @freakconfig | 6",
             "type": "vless",
             "server": "188.132.141.247",
             "server_port": 6666,
@@ -587,29 +585,6 @@
             "uuid": "c8b98685-35a8-413d-8184-d844322ecc4a",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vistav2ray | 13",
-            "type": "vless",
-            "server": "185.127.94.27",
-            "server_port": 8443,
-            "uuid": "2d37cd89-d6e5-4d58-a688-8b0208a48e6e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "drive.google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BG0noERXu_3wOPcZOeu9vl35QIFilTAWFXMZx-nzpVY",
-                    "short_id": "58b2fc"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @vpncostumer | 6",

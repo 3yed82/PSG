@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @aminaqafarzane | 12",
                 "🇮🇳 IN | 🟢 | vless | @argo_vpn1 | 3",
@@ -137,7 +138,7 @@
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
-                "❔ XX | 🟢 | vless | @outlinev2rayng | 11",
+                "❔ XX | 🟢 | vless | @outlinev2rayng | 10",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
@@ -197,6 +198,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @aminaqafarzane | 12",
                 "🇮🇳 IN | 🟢 | vless | @argo_vpn1 | 3",
@@ -245,7 +247,7 @@
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
-                "❔ XX | 🟢 | vless | @outlinev2rayng | 11",
+                "❔ XX | 🟢 | vless | @outlinev2rayng | 10",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
@@ -307,6 +309,29 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 49",
+            "type": "vless",
+            "server": "de.multiapvps.ir",
+            "server_port": 4433,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
+                    "short_id": ""
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
@@ -1504,7 +1529,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @outlinev2rayng | 11",
+            "tag": "❔ XX | 🟢 | vless | @outlinev2rayng | 10",
             "type": "vless",
             "server": "fxs.samiion73.ir",
             "server_port": 8080,
