@@ -97,8 +97,7 @@
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 17",
-                "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 19",
+                "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 16",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -112,13 +111,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇯🇵 JP | 🔴 | trojan | @v2raych | 15",
-                "🇯🇵 JP | 🔴 | trojan | @v2raych | 16",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 14",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 15",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 16",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 17",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 16",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -137,8 +130,7 @@
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 17",
-                "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 19",
+                "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 16",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -152,13 +144,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇯🇵 JP | 🔴 | trojan | @v2raych | 15",
-                "🇯🇵 JP | 🔴 | trojan | @v2raych | 16",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 14",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 15",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 16",
-                "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 17",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 16",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -268,30 +254,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 17",
-            "type": "trojan",
-            "server": "russia.com",
-            "server_port": 443,
-            "password": "vip",
-            "tls": {
-                "enabled": true,
-                "server_name": "heihu880.pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "heihu880.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 19",
+            "tag": "🇺🇸 US | 🟢 | trojan | @deamnet_proxy | 16",
             "type": "trojan",
             "server": "www.whatismyip.com",
             "server_port": 443,
@@ -558,20 +521,6 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔴 | trojan | @v2raych | 15",
-            "type": "trojan",
-            "server": "tr.node1link.xyz",
-            "server_port": 23000,
-            "password": "6a60356a-0875-40d9-81f3-3ef82cede767"
-        },
-        {
-            "tag": "🇯🇵 JP | 🔴 | trojan | @v2raych | 16",
-            "type": "trojan",
-            "server": "tr.node1link.xyz",
-            "server_port": 23014,
-            "password": "6a60356a-0875-40d9-81f3-3ef82cede767"
-        },
-        {
             "tag": "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
             "type": "trojan",
             "server": "170-187-134-190.ipv4.rush.ml",
@@ -586,34 +535,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 14",
-            "type": "trojan",
-            "server": "tr.node1link.xyz",
-            "server_port": 23002,
-            "password": "6a60356a-0875-40d9-81f3-3ef82cede767"
-        },
-        {
-            "tag": "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 15",
-            "type": "trojan",
-            "server": "tr.node1link.xyz",
-            "server_port": 23020,
-            "password": "6a60356a-0875-40d9-81f3-3ef82cede767"
-        },
-        {
-            "tag": "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 16",
-            "type": "trojan",
-            "server": "tr.node1link.xyz",
-            "server_port": 23012,
-            "password": "6a60356a-0875-40d9-81f3-3ef82cede767"
-        },
-        {
-            "tag": "🇯🇵 JP | 🔴 | trojan | @v2rayweb | 17",
-            "type": "trojan",
-            "server": "tr.node1link.xyz",
-            "server_port": 23008,
-            "password": "6a60356a-0875-40d9-81f3-3ef82cede767"
         },
         {
             "tag": "❔ XX | 🔴 | trojan | @v2trayproxy | 16",

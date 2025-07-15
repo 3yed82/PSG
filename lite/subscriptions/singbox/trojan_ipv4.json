@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -106,7 +106,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -141,18 +141,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
             "type": "trojan",
-            "server": "104.21.195.144",
+            "server": "69.48.218.10",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "104.21.195.144",
+                "server_name": "zb.ylks.xyz",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "zb.ylks.xyz"
                 }
             }
         },
