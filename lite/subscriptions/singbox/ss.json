@@ -102,11 +102,11 @@
                 "❔ XX | 🟢 | ss | @vpidiamond | 9",
                 "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
-                "🇱🇹 LT | 🟢 | ss | @free1ss | 16",
+                "🇳🇱 NL | 🟢 | ss | @free1ss | 17",
                 "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇳🇱 NL | 🟢 | ss | @ip_cf_config | 6",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 9",
                 "🇺🇸 US | 🟢 | ss | @key_outline | 19",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
@@ -120,6 +120,7 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v2pedia | 21",
+                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇱🇻 LV | 🟢 | ss | @v2rayngrit | 15",
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
@@ -145,11 +146,11 @@
                 "❔ XX | 🟢 | ss | @vpidiamond | 9",
                 "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
-                "🇱🇹 LT | 🟢 | ss | @free1ss | 16",
+                "🇳🇱 NL | 🟢 | ss | @free1ss | 17",
                 "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇳🇱 NL | 🟢 | ss | @ip_cf_config | 6",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 9",
                 "🇺🇸 US | 🟢 | ss | @key_outline | 19",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
@@ -163,6 +164,7 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v2pedia | 21",
+                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇱🇻 LV | 🟢 | ss | @v2rayngrit | 15",
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
@@ -283,12 +285,12 @@
             "password": "pZvwP17Nlz2z6jsYnVgZgf"
         },
         {
-            "tag": "🇱🇹 LT | 🟢 | ss | @free1ss | 16",
+            "tag": "🇳🇱 NL | 🟢 | ss | @free1ss | 17",
             "type": "shadowsocks",
-            "server": "78.153.131.96",
+            "server": "194.87.216.189",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "7jvHHF5SaFob"
+            "password": "Ib9hxFZxUH4m"
         },
         {
             "tag": "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
@@ -307,20 +309,20 @@
             "password": "fDDmH4QefmWqMJ8UURZrGh"
         },
         {
+            "tag": "🇳🇱 NL | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "45.158.171.136",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
             "type": "shadowsocks",
             "server": "51.142.171.150",
             "server_port": 49499,
             "method": "chacha20-ietf-poly1305",
             "password": "kTjlLxrncKx4i2HIjxfA3M"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @ip_cf_config | 6",
-            "type": "shadowsocks",
-            "server": "193.29.139.251",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "🇳🇱 NL | 🟢 | ss | @jiedianf | 9",
@@ -425,6 +427,14 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 19",
+            "type": "shadowsocks",
+            "server": "194.87.122.146",
+            "server_port": 44884,
+            "method": "chacha20-ietf-poly1305",
+            "password": "2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw"
         },
         {
             "tag": "🇱🇻 LV | 🟢 | ss | @v2rayngrit | 15",
