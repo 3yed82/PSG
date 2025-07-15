@@ -9,10 +9,8 @@
     },
     "NamiraNet": {
         "types": [
-            "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -923,7 +921,8 @@
         "types": [
             "ss",
             "vmess",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2316,8 +2315,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
+            "vmess",
             "vless",
             "trojan"
         ],
@@ -2650,6 +2649,7 @@
     "v2rayweb": {
         "types": [
             "vless",
+            "vmess",
             "trojan"
         ],
         "title": "V2ray | VPN",
