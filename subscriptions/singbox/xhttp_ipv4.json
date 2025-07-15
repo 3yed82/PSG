@@ -92,8 +92,10 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 74",
                 "🇺🇸 US | 🔴 | vless | @configms | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 16",
+                "🇳🇱 NL | 🟢 | vless | @dailyv2ry | 159",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @expressvpn_420 | 15",
                 "🇩🇪 DE | 🟢 | vless | @expressvpn_420 | 17",
@@ -111,7 +113,7 @@
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇮🇷 IR | 🟢 | vless | @proxy_mtproto_vpns_free | 8",
+                "🇮🇷 IR | 🟢 | vless | @proxy_mtproto_vpns_free | 6",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 124",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -140,8 +142,10 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 74",
                 "🇺🇸 US | 🔴 | vless | @configms | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 16",
+                "🇳🇱 NL | 🟢 | vless | @dailyv2ry | 159",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @expressvpn_420 | 15",
                 "🇩🇪 DE | 🟢 | vless | @expressvpn_420 | 17",
@@ -159,7 +163,7 @@
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇮🇷 IR | 🟢 | vless | @proxy_mtproto_vpns_free | 8",
+                "🇮🇷 IR | 🟢 | vless | @proxy_mtproto_vpns_free | 6",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 124",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -216,6 +220,29 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 74",
+            "type": "vless",
+            "server": "104.248.194.230",
+            "server_port": 80,
+            "uuid": "e23f8d6a-b596-489c-98ac-d0d2414a71f0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "marzijooon.adas.monster",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE",
+                    "short_id": "2a70224f5466"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @configms | 14",
             "type": "vless",
             "server": "151.101.3.8",
@@ -232,6 +259,24 @@
             "uuid": "526984f4-f84e-4933-acc7-efa38b92c552",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @dailyv2ry | 159",
+            "type": "vless",
+            "server": "206.71.158.10",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
@@ -452,7 +497,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🟢 | vless | @proxy_mtproto_vpns_free | 8",
+            "tag": "🇮🇷 IR | 🟢 | vless | @proxy_mtproto_vpns_free | 6",
             "type": "vless",
             "server": "2.188.233.114",
             "server_port": 40965,

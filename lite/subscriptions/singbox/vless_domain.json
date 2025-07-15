@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🟢 | vless | @NamiraNet | 68",
                 "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
                 "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
@@ -189,7 +190,7 @@
                 "❔ XX | 🔴 | vless | @proxy48 | 14",
                 "❔ XX | 🟢 | vless | @proxy_confiingir | 3",
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
-                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
+                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇮🇷 IR | 🔴 | vless | @proxycrone | 10",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
@@ -249,6 +250,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🟢 | vless | @NamiraNet | 68",
                 "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
                 "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
@@ -349,7 +351,7 @@
                 "❔ XX | 🔴 | vless | @proxy48 | 14",
                 "❔ XX | 🟢 | vless | @proxy_confiingir | 3",
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
-                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
+                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇮🇷 IR | 🔴 | vless | @proxycrone | 10",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
@@ -411,6 +413,31 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @NamiraNet | 68",
+            "type": "vless",
+            "server": "openai.com",
+            "server_port": 443,
+            "uuid": "101e6a7d-7d10-4859-a626-8a76daab4547",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "nkAnG2rEpLACE.airlineSHoma.Com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "nkAnG2rEpLACE.airlineSHoma.Com"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
@@ -2040,7 +2067,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 9",
             "type": "vless",
             "server": "real-all3-2.sdcards.ir",
             "server_port": 8501,
