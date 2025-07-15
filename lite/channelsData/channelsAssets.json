@@ -10,7 +10,6 @@
     },
     "NamiraNet": {
         "types": [
-            "ss",
             "trojan",
             "vless",
             "vmess"
@@ -492,7 +491,6 @@
     },
     "elfv2ray": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "𝗘𝗟𝗙𝗩2𝗥𝗔𝗬",
@@ -955,10 +953,10 @@
     },
     "hope_net": {
         "types": [
+            "trojan",
             "vless",
-            "vmess",
             "ss",
-            "trojan"
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -994,13 +992,6 @@
         ],
         "title": "𝑰𝑪𝑽2𝑹𝒀 | 𝑪𝑶𝑵𝑭𝑰𝑮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/icv2ray.jpg"
-    },
-    "idigitalz": {
-        "types": [
-            "vless"
-        ],
-        "title": "آی‌دیجیتالز | iDigitalz.IR",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/idigitalz.jpg"
     },
     "imhdiyvp": {
         "types": [
@@ -1275,7 +1266,6 @@
     },
     "kurdistan_vpn_perfectt": {
         "types": [
-            "ss",
             "vless",
             "trojan"
         ],
@@ -1556,7 +1546,6 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "ss",
             "vmess"
         ],
@@ -2364,10 +2353,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "ss",
             "vmess",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2714,7 +2703,7 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "trojan"
+            "vmess"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
@@ -2756,8 +2745,8 @@
     },
     "v2trayproxy": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "V2ray Proxy💎",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2trayproxy.jpg"
