@@ -96,10 +96,9 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 16",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
-                "🇺🇸 US | 🔴 | vless | @fastkanfig | 11",
-                "🇹🇷 TR | 🔴 | vless | @freakconfig | 5",
+                "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
+                "🇹🇷 TR | 🔴 | vless | @freakconfig | 4",
                 "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
@@ -107,7 +106,6 @@
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 6",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇳🇱 NL | 🟢 | vless | @prrofile_purple | 126",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -136,10 +134,9 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 16",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
-                "🇺🇸 US | 🔴 | vless | @fastkanfig | 11",
-                "🇹🇷 TR | 🔴 | vless | @freakconfig | 5",
+                "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
+                "🇹🇷 TR | 🔴 | vless | @freakconfig | 4",
                 "🇹🇷 TR | 🟢 | vless | @getconfigir | 16",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
@@ -147,7 +144,6 @@
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 6",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇳🇱 NL | 🟢 | vless | @prrofile_purple | 126",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -236,7 +232,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @fastkanfig | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
             "type": "vless",
             "server": "216.22.5.96",
             "server_port": 443,
@@ -254,7 +250,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔴 | vless | @freakconfig | 5",
+            "tag": "🇹🇷 TR | 🔴 | vless | @freakconfig | 4",
             "type": "vless",
             "server": "188.132.141.247",
             "server_port": 6666,
@@ -284,15 +280,6 @@
                     "short_id": "d99c"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
-            "type": "vless",
-            "server": "151.101.67.8",
-            "server_port": 80,
-            "uuid": "8088c605-e0c2-4774-9ee4-7fa7e47b6112",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
@@ -352,15 +339,6 @@
             "tag": "🇺🇸 US | 🔴 | vless | @lexernet | 7",
             "type": "vless",
             "server": "151.101.67.8",
-            "server_port": 80,
-            "uuid": "turboo-server",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 6",
-            "type": "vless",
-            "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "turboo-server",
             "flow": "",

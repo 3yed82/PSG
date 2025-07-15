@@ -99,13 +99,11 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 4",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 14",
-                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 18",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 12",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
             "tag": "proxy",
@@ -124,13 +122,11 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 4",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 14",
-                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 18",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 12",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
             "tag": "auto",
@@ -233,15 +229,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 6",
-            "type": "vless",
-            "server": "Speedtest.net",
-            "server_port": 80,
-            "uuid": "e02a83a6-16c9-4eaf-d40e-1387028d93a0",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vless | @iseqaro | 4",
             "type": "vless",
             "server": "s4.1dnt.k-l.cloud",
@@ -296,25 +283,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 14",
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 12",
             "type": "vless",
-            "server": "end.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "baf334b7-f07e-420d-8efb-060cb3fff630",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 18",
-            "type": "vless",
-            "server": "Aule.Manwe.ir",
+            "server": "statue.lnmarketplace.net",
             "server_port": 443,
-            "uuid": "924bc126-2f7b-4111-ba37-28384a253857",
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "Varda.Manwe.ir",
+                "server_name": "statue.lnmarketplace.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
