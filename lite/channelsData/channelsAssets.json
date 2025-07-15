@@ -10,7 +10,6 @@
     },
     "NamiraNet": {
         "types": [
-            "ss",
             "vless",
             "vmess"
         ],
@@ -954,8 +953,8 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess",
             "trojan"
         ],
@@ -1035,10 +1034,7 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
-            "ss",
-            "trojan",
-            "vless"
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1558,9 +1554,9 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2996,13 +2992,6 @@
         "title": "فیلتر شکن رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfree_irann.jpg"
     },
-    "vpnfreeo": {
-        "types": [
-            "vless"
-        ],
-        "title": "VPN FREEO",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfreeo.jpg"
-    },
     "vpngate_config": {
         "types": [
             "vmess",
@@ -3038,15 +3027,6 @@
         ],
         "title": "MK-VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnmk1.jpg"
-    },
-    "vpnod": {
-        "types": [
-            "vless",
-            "vmess",
-            "ss"
-        ],
-        "title": "νρη σɗ",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnod.jpg"
     },
     "vpnplus100": {
         "types": [
