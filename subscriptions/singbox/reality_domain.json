@@ -100,7 +100,6 @@
                 "🇳🇱 NL | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇫🇷 FR | 🟢 | vless | @config_proxy | 68",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 1",
                 "🇩🇪 DE | 🟢 | vless | @dnsforyou | 4",
@@ -154,10 +153,9 @@
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 5",
                 "🇬🇧 GB | 🟢 | vless | @v2ray_v_vpn | 9",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
-                "🇩🇪 DE | 🟢 | vless | @v2raych | 15",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
-                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 15",
-                "🇪🇸 ES | 🟢 | vless | @v2rayng_ip | 8",
+                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 14",
+                "🇪🇸 ES | 🟢 | vless | @v2rayng_ip | 7",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
@@ -167,7 +165,7 @@
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇹🇷 TR | 🟢 | vless | @v2source | 16",
+                "🇸🇪 SE | 🟢 | vless | @vistav2ray | 11",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -206,7 +204,6 @@
                 "🇳🇱 NL | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇫🇷 FR | 🟢 | vless | @config_proxy | 68",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 1",
                 "🇩🇪 DE | 🟢 | vless | @dnsforyou | 4",
@@ -260,10 +257,9 @@
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 5",
                 "🇬🇧 GB | 🟢 | vless | @v2ray_v_vpn | 9",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
-                "🇩🇪 DE | 🟢 | vless | @v2raych | 15",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
-                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 15",
-                "🇪🇸 ES | 🟢 | vless | @v2rayng_ip | 8",
+                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 14",
+                "🇪🇸 ES | 🟢 | vless | @v2rayng_ip | 7",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
@@ -273,7 +269,7 @@
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇹🇷 TR | 🟢 | vless | @v2source | 16",
+                "🇸🇪 SE | 🟢 | vless | @vistav2ray | 11",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -563,29 +559,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @config_proxy | 68",
-            "type": "vless",
-            "server": "amazon-15.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
             }
         },
         {
@@ -1899,29 +1872,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2raych | 15",
-            "type": "vless",
-            "server": "xbasex-sfgsergsergasdgfs.parsvip.de",
-            "server_port": 443,
-            "uuid": "c645bb4a-31b9-40f6-b9e9-b6798c649e76",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "0_qAlwOVotuqvWSvze15iImztBrh2tINSZf7ZD92rEo",
-                    "short_id": "89b50c60874bc562"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
             "type": "vless",
             "server": "pub2.legendaryking.link",
@@ -1949,7 +1899,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 15",
+            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 14",
             "type": "vless",
             "server": "toofan.zeroa.store",
             "server_port": 8681,
@@ -1976,7 +1926,7 @@
             }
         },
         {
-            "tag": "🇪🇸 ES | 🟢 | vless | @v2rayng_ip | 8",
+            "tag": "🇪🇸 ES | 🟢 | vless | @v2rayng_ip | 7",
             "type": "vless",
             "server": "certificate.ronaldo7tiano.fun",
             "server_port": 55730,
@@ -2222,16 +2172,16 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🟢 | vless | @v2source | 16",
+            "tag": "🇸🇪 SE | 🟢 | vless | @vistav2ray | 11",
             "type": "vless",
-            "server": "tr.g2games.ir",
+            "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
-            "uuid": "8fe30358-c761-4520-8c2f-167c83fbcde2",
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.microsoft.com",
+                "server_name": "store.steampowered.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -2239,8 +2189,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "DKQyh2lWWoRu_LqqthobUZwJtYn1ch-49zOFpKHKryM",
-                    "short_id": "0ea91a0e"
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
                 }
             }
         },
