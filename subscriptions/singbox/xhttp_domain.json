@@ -92,6 +92,7 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 14",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 66",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 4",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -120,7 +121,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
-                "🇺🇸 US | 🟢 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 12",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @prrofile_purple | 127",
@@ -129,6 +129,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
+                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayn5 | 2",
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 13",
@@ -139,6 +140,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 11",
                 "🇺🇸 US | 🔴 | vless | @vmessprotocol | 0",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 13",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 13",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
@@ -153,6 +155,7 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 14",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 66",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 4",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -181,7 +184,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
-                "🇺🇸 US | 🟢 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 12",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @prrofile_purple | 127",
@@ -190,6 +192,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
+                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayn5 | 2",
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 13",
@@ -200,6 +203,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 11",
                 "🇺🇸 US | 🔴 | vless | @vmessprotocol | 0",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 13",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 13",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
@@ -240,6 +244,29 @@
             "uuid": "8db68448-6ebb-4361-bcbe-519a1f20fca1",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 66",
+            "type": "vless",
+            "server": "tckepalcztku.eu-central-1.clawcloudrun.com",
+            "server_port": 31051,
+            "uuid": "0f434de9-134a-49fd-a35a-317d0848a2eb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SUiUDVd7s3t-S11j2rrWfx-ApZYxVeXK4P98V264CjU",
+                    "short_id": "597555e0"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 4",
@@ -567,24 +594,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @proxy_mtproto_vpns_free | 9",
-            "type": "vless",
-            "server": "Aule.Manwe.ir",
-            "server_port": 443,
-            "uuid": "1593c648-9b96-4542-bb53-0e8f55e20e77",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Varda.Manwe.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @proxygodratmand | 12",
             "type": "vless",
             "server": "sjdsnsj.varzesh3.com.tr",
@@ -676,6 +685,15 @@
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔴 | vless | @v2ray_v_vpn | 7",
+            "type": "vless",
+            "server": "free-httpcustomafree-httpcustom-free-httpcustom-free-httpcustom.vip-f.top",
+            "server_port": 80,
+            "uuid": "Free_HTTPCustom",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -810,6 +828,24 @@
             "uuid": "e018bfab-0902-47a0-abfc-7efbd017ec73",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 13",
+            "type": "vless",
+            "server": "Aule.Manwe.ir",
+            "server_port": 443,
+            "uuid": "1593c648-9b96-4542-bb53-0e8f55e20e77",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "Varda.Manwe.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
