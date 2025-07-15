@@ -99,11 +99,12 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 7",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 4",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
+                "🇮🇹 IT | 🟢 | vless | @v2rayweb | 19",
                 "🇺🇸 US | 🔴 | vless | @vmess_ir | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
@@ -123,11 +124,12 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 7",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 4",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
+                "🇮🇹 IT | 🟢 | vless | @v2rayweb | 19",
                 "🇺🇸 US | 🔴 | vless | @vmess_ir | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
@@ -231,7 +233,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 6",
             "type": "vless",
             "server": "Speedtest.net",
             "server_port": 80,
@@ -290,6 +292,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇹 IT | 🟢 | vless | @v2rayweb | 19",
+            "type": "vless",
+            "server": "wwwwww.mohsen.com.it.studentcp.ir",
+            "server_port": 16532,
+            "uuid": "e36781b3-3dd9-2ba6-b912-2995b1262150",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc",
+                    "short_id": "327f5a20cef62bbb"
                 }
             }
         },

@@ -101,6 +101,7 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇳🇱 NL | 🟢 | vless | @mowjproxy | 5",
                 "🇩🇪 DE | 🟢 | vless | @noviin_tel | 0",
                 "🇩🇪 DE | 🟢 | vless | @outline_ir | 14",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -108,6 +109,7 @@
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
+                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
@@ -129,7 +131,7 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
-                "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇮🇹 IT | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -152,6 +154,7 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇳🇱 NL | 🟢 | vless | @mowjproxy | 5",
                 "🇩🇪 DE | 🟢 | vless | @noviin_tel | 0",
                 "🇩🇪 DE | 🟢 | vless | @outline_ir | 14",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -159,6 +162,7 @@
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
+                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
@@ -180,7 +184,7 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
-                "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇮🇹 IT | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -483,6 +487,29 @@
             }
         },
         {
+            "tag": "🇳🇱 NL | 🟢 | vless | @mowjproxy | 5",
+            "type": "vless",
+            "server": "159.223.212.67",
+            "server_port": 32930,
+            "uuid": "007f360b-dabb-450c-9161-39e6b85319a5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "l7dXkTAD4x_lKTq84oFQvr_7Alm2TqlAGBrRvJe6YEs",
+                    "short_id": "71a309"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @noviin_tel | 0",
             "type": "vless",
             "server": "91.107.180.100",
@@ -661,6 +688,33 @@
                     "public_key": "aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY",
                     "short_id": "a0209e22"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 17",
+            "type": "vless",
+            "server": "91.107.180.100",
+            "server_port": 443,
+            "uuid": "394b8d98-1b04-460d-b163-cd965e25ca51",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE",
+                    "short_id": "f3"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@SobyV2ray"
             }
         },
         {
@@ -1191,11 +1245,11 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+            "tag": "🇮🇹 IT | 🟢 | vless | @v2rayweb | 19",
             "type": "vless",
-            "server": "de1.marzban-locations.com",
-            "server_port": 3030,
-            "uuid": "3d1622e6-7ac5-4715-b635-7bd542e0a70b",
+            "server": "wwwwww.mohsen.com.it.studentcp.ir",
+            "server_port": 16532,
+            "uuid": "e36781b3-3dd9-2ba6-b912-2995b1262150",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -1204,12 +1258,12 @@
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
-                    "short_id": ""
+                    "public_key": "7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc",
+                    "short_id": "327f5a20cef62bbb"
                 }
             }
         },
