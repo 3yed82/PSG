@@ -104,7 +104,6 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇩🇪 DE | 🟢 | vless | @noviin_tel | 1",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
-                "🇩🇪 DE | 🟢 | vless | @v2ray_free_conf | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
@@ -125,7 +124,6 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -155,7 +153,6 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇩🇪 DE | 🟢 | vless | @noviin_tel | 1",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
-                "🇩🇪 DE | 🟢 | vless | @v2ray_free_conf | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 6",
@@ -176,7 +173,6 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -556,29 +552,6 @@
                     "enabled": true,
                     "public_key": "z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY",
                     "short_id": "4c"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2ray_free_conf | 19",
-            "type": "vless",
-            "server": "31.97.47.248",
-            "server_port": 40444,
-            "uuid": "096a9f0a-d198-401c-8e18-7bc12e1e13e6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "GJiZKVIVsg4fH4Gdic4WeDqdcA4Rcc3XTQj9QzdLR2E",
-                    "short_id": "c335ccde845adf"
                 }
             }
         },
@@ -1080,33 +1053,6 @@
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "ea1058117be12087"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 17",
-            "type": "vless",
-            "server": "toofan.zeroa.store",
-            "server_port": 8681,
-            "uuid": "b4f1d581-ece1-45c2-a990-f743c45bf8cd",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LjaEpIQZyga0txhwf7JRHlqFOrImB4dEpkw3-AASWUI",
-                    "short_id": "be"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Tahmznilana"
             }
         },
         {

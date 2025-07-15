@@ -1,7 +1,6 @@
 {
     "Fr33C0nfig": {
         "types": [
-            "ss",
             "vless",
             "vmess"
         ],
@@ -581,14 +580,6 @@
         "title": "𝗩𝟮𝗿𝗮𝘆 کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastshovpn.jpg"
     },
-    "fastvpnorummobile": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "کانفینگ های V2rayNG",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastvpnorummobile.jpg"
-    },
     "father_vpn": {
         "types": [
             "vless",
@@ -947,9 +938,9 @@
     "hope_net": {
         "types": [
             "ss",
-            "vmess",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1539,9 +1530,9 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
             "ss",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1965,7 +1956,6 @@
     },
     "proxycrone": {
         "types": [
-            "ss",
             "vless",
             "vmess",
             "trojan"
@@ -2348,9 +2338,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
             "vless",
+            "vmess",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2633,15 +2623,6 @@
         "title": "🛡️ اکانت های رایگان V2RAY",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayopen.jpg"
     },
-    "v2rayport": {
-        "types": [
-            "vmess",
-            "vless",
-            "ss"
-        ],
-        "title": "V2ray | Xray - فیلترشکن",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayport.jpg"
-    },
     "v2rayprotocol": {
         "types": [
             "ss",
@@ -2700,8 +2681,7 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "trojan",
-            "vmess"
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
