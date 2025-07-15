@@ -96,7 +96,7 @@
                 "🇬🇧 GB | 🟢 | ss | @configfa | 12",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
-                "🇬🇧 GB | 🟢 | ss | @connect_sho | 21",
+                "🇬🇧 GB | 🟢 | ss | @connect_sho | 9",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freeconfigsplus | 16",
@@ -120,8 +120,8 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
-                "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
-                "🇳🇱 NL | 🟢 | ss | @vpn451 | 10"
+                "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
+                "🇳🇱 NL | 🟢 | ss | @vpn451 | 11"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -136,7 +136,7 @@
                 "🇬🇧 GB | 🟢 | ss | @configfa | 12",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
-                "🇬🇧 GB | 🟢 | ss | @connect_sho | 21",
+                "🇬🇧 GB | 🟢 | ss | @connect_sho | 9",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freeconfigsplus | 16",
@@ -160,8 +160,8 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
-                "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
-                "🇳🇱 NL | 🟢 | ss | @vpn451 | 10"
+                "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
+                "🇳🇱 NL | 🟢 | ss | @vpn451 | 11"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -229,7 +229,7 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @connect_sho | 21",
+            "tag": "🇬🇧 GB | 🟢 | ss | @connect_sho | 9",
             "type": "shadowsocks",
             "server": "freakconfig13.felafel.org",
             "server_port": 443,
@@ -421,20 +421,20 @@
             "password": "Bog0ELmMM9DSxDdQ"
         },
         {
-            "tag": "🇯🇵 JP | 🟢 | ss | @vpn451 | 6",
-            "type": "shadowsocks",
-            "server": "sakura.outlinekeys.net",
-            "server_port": 1235,
-            "method": "chacha20-ietf-poly1305",
-            "password": "amOyPdmvB8VIjQNqEgeVEo"
-        },
-        {
             "tag": "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
             "type": "shadowsocks",
             "server": "macintosh.outlinekeys.net",
             "server_port": 19609,
             "method": "chacha20-ietf-poly1305",
             "password": "rirgAJoGVPZBhFx9gNH3gj"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @vpn451 | 11",
+            "type": "shadowsocks",
+            "server": "macintosh.outlinekeys.net",
+            "server_port": 19609,
+            "method": "chacha20-ietf-poly1305",
+            "password": "vmbNCUhVDMTb3WRKkSG0SD"
         }
     ],
     "route": {
