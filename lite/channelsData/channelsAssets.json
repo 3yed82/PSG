@@ -71,13 +71,6 @@
         "title": "ANSEL",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ansel_team.jpg"
     },
-    "antifilterjadid": {
-        "types": [
-            "vless"
-        ],
-        "title": "🌍 Antifilterjadid 🌏 آنتی فیلتر جدید",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/antifilterjadid.jpg"
-    },
     "argotaz": {
         "types": [
             "vless"
@@ -953,10 +946,10 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "vless",
             "ss",
-            "vmess"
+            "vmess",
+            "trojan",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1546,8 +1539,9 @@
     },
     "mowjproxy": {
         "types": [
+            "vmess",
             "ss",
-            "vmess"
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1947,7 +1941,8 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2353,8 +2348,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
@@ -2472,7 +2467,8 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2504,7 +2500,8 @@
     },
     "v2rayng_fars": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "v2rayng fars",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_fars.jpg"
@@ -2703,6 +2700,7 @@
     "v2rayweb": {
         "types": [
             "vless",
+            "trojan",
             "vmess"
         ],
         "title": "V2ray | VPN",
@@ -2902,6 +2900,7 @@
     "vpn_ioss": {
         "types": [
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "کانفیگ سرور V2rayng🔐",

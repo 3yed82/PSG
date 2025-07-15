@@ -101,11 +101,11 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
+                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
-                "🇮🇹 IT | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -127,11 +127,11 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
+                "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
-                "🇮🇹 IT | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -449,6 +449,33 @@
             }
         },
         {
+            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayng_fars | 17",
+            "type": "vless",
+            "server": "toofan.zeroa.store",
+            "server_port": 8681,
+            "uuid": "b4f1d581-ece1-45c2-a990-f743c45bf8cd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LjaEpIQZyga0txhwf7JRHlqFOrImB4dEpkw3-AASWUI",
+                    "short_id": "be"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Tahmznilana"
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -545,29 +572,6 @@
                     "enabled": true,
                     "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇮🇹 IT | 🟢 | vless | @v2rayweb | 10",
-            "type": "vless",
-            "server": "wwwwww.mohsen.com.it.studentcp.ir",
-            "server_port": 16532,
-            "uuid": "3e2b1d35-7f3f-24e4-21c2-306bcbabc290",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc",
-                    "short_id": "327f5a20cef62bbb"
                 }
             }
         },
