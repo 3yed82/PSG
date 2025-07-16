@@ -109,7 +109,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "🇺🇸 US | 🟢 | vless | @deamnet_proxy | 18",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -213,11 +213,9 @@
                 "❔ XX | 🟢 | vless | @v2rayninja | 16",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvl | 6",
-                "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706434658.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 18",
+                "🇷🇺 RU | 🔴 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
                 "🇮🇷 IR | 🔴 | vless | @vezzevpn | 5",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
                 "🇺🇸 US | 🔴 | vless | @vpn_meliii | 10",
@@ -262,7 +260,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "🇺🇸 US | 🟢 | vless | @deamnet_proxy | 18",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -366,11 +364,9 @@
                 "❔ XX | 🟢 | vless | @v2rayninja | 16",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvl | 6",
-                "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706434658.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 18",
+                "🇷🇺 RU | 🔴 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
                 "🇮🇷 IR | 🔴 | vless | @vezzevpn | 5",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
                 "🇺🇸 US | 🔴 | vless | @vpn_meliii | 10",
@@ -705,7 +701,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -2484,36 +2480,11 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
+            "tag": "🇷🇺 RU | 🔴 | vless | @v2rayweb | 18",
             "type": "vless",
-            "server": "freee.outline-vpn.cloud",
-            "server_port": 443,
-            "uuid": "29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "w1.sylar8.eu.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed",
-                "headers": {
-                    "Host": "w1.sylar8.eu.org"
-                }
-            }
-        },
-        {
-            "tag": "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706434658.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2096,
-            "uuid": "3056458b-913a-4193-b428-cdf22675b3b5",
+            "server": "iptz-47.almass22.ir",
+            "server_port": 2086,
+            "uuid": "0a7a6ade-c0f3-4242-9958-3c0c76adb88e",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -2550,29 +2521,6 @@
             "uuid": "ed04e62c-2e55-41e6-aeae-7522efe469f3",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
-            "type": "vless",
-            "server": "micro.slumbo.com",
-            "server_port": 443,
-            "uuid": "60bc841c-cfbd-408f-889b-473f90bb4a26",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8",
-                    "short_id": "190d32b118caf07f"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🟢 | vless | @vp22ray | 10",

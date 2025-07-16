@@ -190,6 +190,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 16",
+                "🇺🇸 US | 🟢 | vless | @vmess_ir | 17",
                 "🇮🇷 IR | 🔴 | vless | @vpn_arta | 3",
                 "🇫🇮 FI | 🔴 | vless | @vpn_ioss | 18",
                 "🇺🇸 US | 🟢 | vless | @vpn_ocean | 1",
@@ -307,6 +308,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 16",
+                "🇺🇸 US | 🟢 | vless | @vmess_ir | 17",
                 "🇮🇷 IR | 🔴 | vless | @vpn_arta | 3",
                 "🇫🇮 FI | 🔴 | vless | @vpn_ioss | 18",
                 "🇺🇸 US | 🟢 | vless | @vpn_ocean | 1",
@@ -2161,6 +2163,31 @@
                 "path": "/telegram-channel-vlessconfig",
                 "headers": {
                     "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @vmess_ir | 17",
+            "type": "vless",
+            "server": "104.16.243.59",
+            "server_port": 443,
+            "uuid": "75fde681-ec64-4654-86fa-30732e8e179c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "NGINX.NSCl.IR",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/assets",
+                "headers": {
+                    "Host": "NGINX.NSCl.IR"
                 }
             }
         },
