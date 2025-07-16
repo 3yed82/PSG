@@ -118,7 +118,7 @@
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @iranbaxvpn | 6",
                 "🇩🇪 DE | 🟢 | vless | @iranbaxvpn | 7",
-                "❔ XX | 🟢 | vless | @iseqaro | 2",
+                "❔ XX | 🟢 | vless | @iseqaro | 1",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -156,7 +156,7 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -164,7 +164,6 @@
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 13",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -218,7 +217,7 @@
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @iranbaxvpn | 6",
                 "🇩🇪 DE | 🟢 | vless | @iranbaxvpn | 7",
-                "❔ XX | 🟢 | vless | @iseqaro | 2",
+                "❔ XX | 🟢 | vless | @iseqaro | 1",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -256,7 +255,7 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -264,7 +263,6 @@
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 13",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -1012,7 +1010,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @iseqaro | 2",
+            "tag": "❔ XX | 🟢 | vless | @iseqaro | 1",
             "type": "vless",
             "server": "pviranian.ip-venzo.com",
             "server_port": 7070,
@@ -1933,7 +1931,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -2126,29 +2124,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vmess_ir | 13",
-            "type": "vless",
-            "server": "micro.slumbo.com",
-            "server_port": 443,
-            "uuid": "60bc841c-cfbd-408f-889b-473f90bb4a26",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8",
-                    "short_id": "190d32b118caf07f"
-                }
             }
         },
         {
