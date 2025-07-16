@@ -124,7 +124,6 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 19",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 3",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 9",
@@ -160,7 +159,7 @@
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 12",
                 "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 2",
-                "🇺🇸 US | 🔴 | vless | @proxycrone | 10",
+                "🇺🇸 US | 🔴 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇮🇷 IR | 🔴 | vless | @pusyvpn | 9",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -197,7 +196,6 @@
                 "🇺🇸 US | 🔴 | vless | @vpn_zvpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
                 "🇮🇷 IR | 🔴 | vless | @vpnplus100 | 3",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇺🇸 US | 🟢 | vless | @zed_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1"
@@ -243,7 +241,6 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 19",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 3",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 9",
@@ -279,7 +276,7 @@
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 12",
                 "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 2",
-                "🇺🇸 US | 🔴 | vless | @proxycrone | 10",
+                "🇺🇸 US | 🔴 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇮🇷 IR | 🔴 | vless | @pusyvpn | 9",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -316,7 +313,6 @@
                 "🇺🇸 US | 🔴 | vless | @vpn_zvpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
                 "🇮🇷 IR | 🔴 | vless | @vpnplus100 | 3",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇺🇸 US | 🟢 | vless | @zed_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1"
@@ -979,22 +975,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @hope_net | 19",
-            "type": "vless",
-            "server": "172.67.155.146",
-            "server_port": 8880,
-            "uuid": "2737560d-1867-47fa-aa80-351c36d771c7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "172.67.155.146"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷 IR | 🔴 | vless | @hormozvpn | 3",
             "type": "vless",
             "server": "85.133.215.172",
@@ -1614,7 +1594,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @proxycrone | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @proxycrone | 9",
             "type": "vless",
             "server": "104.21.112.1",
             "server_port": 80,
@@ -2278,31 +2258,6 @@
             "uuid": "0f2e0501-5a4f-45b7-bd5e-209169cd34f9",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 18",
-            "type": "vless",
-            "server": "3.69.182.175",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",

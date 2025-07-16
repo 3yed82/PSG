@@ -906,7 +906,7 @@
     "hope_net": {
         "types": [
             "vless",
-            "ss"
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1904,8 +1904,8 @@
     },
     "proxycrone": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan"
         ],
         "title": "پروکسی VPN | کانفیگ V2ray",
@@ -2287,9 +2287,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vless",
             "trojan",
+            "ss",
             "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2620,8 +2620,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan"
         ],
         "title": "V2ray | VPN",
@@ -2997,14 +2997,6 @@
         ],
         "title": "vpn | V2ray |Nord | کانفیگ | کد تخفیف اسنپ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnvg.jpg"
-    },
-    "vpnwlf": {
-        "types": [
-            "vmess",
-            "vless"
-        ],
-        "title": "WLF VPN",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnwlf.jpg"
     },
     "wbrovers": {
         "types": [
