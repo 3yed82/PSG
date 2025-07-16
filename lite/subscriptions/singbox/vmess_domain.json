@@ -112,8 +112,6 @@
                 "🇫🇷 FR | 🟢 | vmess | @mahsaproxy | 3",
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
-                "🇮🇷 IR | 🔴 | vmess | @mowjproxy | 3",
-                "🇸🇪 SE | 🔴 | vmess | @mtproxy22_v2ray | 40",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -166,8 +164,6 @@
                 "🇫🇷 FR | 🟢 | vmess | @mahsaproxy | 3",
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
-                "🇮🇷 IR | 🔴 | vmess | @mowjproxy | 3",
-                "🇸🇪 SE | 🔴 | vmess | @mtproxy22_v2ray | 40",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -546,24 +542,6 @@
                     "Host": "glweidf.sbs"
                 }
             }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔴 | vmess | @mowjproxy | 3",
-            "type": "vmess",
-            "server": "sr10.minhost.sbs",
-            "server_port": 2052,
-            "uuid": "f793ac81-4ab2-459c-833b-e6a6e34873a2",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇸🇪 SE | 🔴 | vmess | @mtproxy22_v2ray | 40",
-            "type": "vmess",
-            "server": "homa.cybsecguru.com",
-            "server_port": 62002,
-            "uuid": "c58121a7-c4af-44ea-956b-f0d410a4480f",
-            "security": "auto",
-            "alter_id": 0
         },
         {
             "tag": "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
