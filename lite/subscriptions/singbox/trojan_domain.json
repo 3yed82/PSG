@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇯🇵 JP | 🔴 | trojan | @NamiraNet | 69",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
@@ -99,7 +98,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇯🇵 JP | 🔴 | trojan | @NamiraNet | 69",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
@@ -111,13 +109,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇯🇵 JP | 🔴 | trojan | @NamiraNet | 69",
-            "type": "trojan",
-            "server": "ss.usalink.xyz",
-            "server_port": 13205,
-            "password": "6a60356a-0875-40d9-81f3-3ef82cede767"
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
