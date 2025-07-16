@@ -173,8 +173,6 @@
                 "❔ XX | 🟢 | vless | @vp22ray | 9",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇫🇷 FR | 🟢 | vless | @vpn_bal0uch | 0",
-                "❔ XX | 🟢 | vless | @vpnbigbang | 7",
-                "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 15",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
@@ -276,8 +274,6 @@
                 "❔ XX | 🟢 | vless | @vp22ray | 9",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇫🇷 FR | 🟢 | vless | @vpn_bal0uch | 0",
-                "❔ XX | 🟢 | vless | @vpnbigbang | 7",
-                "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 15",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
@@ -2351,52 +2347,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "7594vless"
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @vpnbigbang | 7",
-            "type": "vless",
-            "server": "vpnbigbang1.ddns.net",
-            "server_port": 18923,
-            "uuid": "8802bcc7-97a3-4f0e-8b92-0813ca10095f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ea.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA",
-                    "short_id": "a1"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @vpnbigbang | 8",
-            "type": "vless",
-            "server": "vpnbigbang.ddns.net",
-            "server_port": 18923,
-            "uuid": "8802bcc7-97a3-4f0e-8b92-0813ca10095f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ea.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA",
-                    "short_id": "a1"
-                }
             }
         },
         {
