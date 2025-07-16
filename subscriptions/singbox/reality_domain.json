@@ -99,7 +99,6 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 18",
                 "🇹🇷 TR | 🟢 | vless | @confing_chanel | 33",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 0",
@@ -160,13 +159,13 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
-                "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 2",
+                "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
+                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 11",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -202,7 +201,6 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 18",
                 "🇹🇷 TR | 🟢 | vless | @confing_chanel | 33",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 0",
@@ -263,13 +261,13 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
-                "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 2",
+                "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
+                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 11",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -534,29 +532,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "twonew.iranfreedomserver.com",
-            "server_port": 7005,
-            "uuid": "630a2b53-1757-4450-9417-963f2de0d974",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w0WnHYqR0pFt1LP9paI3yLYAkJ1wbgksqeR5v4x2hyM",
-                    "short_id": ""
-                }
             }
         },
         {
@@ -2035,7 +2010,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 2",
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
             "type": "vless",
             "server": "poseidex.house0of1nyxora.top",
             "server_port": 2096,
@@ -2185,7 +2160,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vistav2ray | 11",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,

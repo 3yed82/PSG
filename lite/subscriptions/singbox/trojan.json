@@ -96,8 +96,10 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+                "🇦🇲 AM | 🔴 | trojan | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
+                "🇫🇷 FR | 🟢 | trojan | @netmellianti | 15",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "proxy",
@@ -113,8 +115,10 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+                "🇦🇲 AM | 🔴 | trojan | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
+                "🇫🇷 FR | 🟢 | trojan | @netmellianti | 15",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "auto",
@@ -246,6 +250,13 @@
             }
         },
         {
+            "tag": "🇦🇲 AM | 🔴 | trojan | @v2rayweb | 18",
+            "type": "trojan",
+            "server": "188.164.159.185",
+            "server_port": 8443,
+            "password": "Aimer"
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | trojan | @webhube | 4",
             "type": "trojan",
             "server": "15.204.175.111",
@@ -286,6 +297,22 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "grpc20337"
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | trojan | @netmellianti | 15",
+            "type": "trojan",
+            "server": "x5-france-scaleway-v2.devefun.org",
+            "server_port": 1935,
+            "password": "DHvyBZAYmM",
+            "tls": {
+                "enabled": true,
+                "server_name": "x5-france-scaleway-v2.devefun.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             }
         },
         {
