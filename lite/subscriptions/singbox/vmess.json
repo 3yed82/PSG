@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🔴 | vmess | @NamiraNet | 68",
                 "🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3",
                 "❔ XX | 🔴 | vmess | @armodchannel | 62",
                 "❔ XX | 🟢 | vmess | @cattvpn | 0",
@@ -118,7 +119,7 @@
                 "🇦🇹 AT | 🔴 | vmess | @rnrifci | 5",
                 "🇺🇸 US | 🔴 | vmess | @royal_shop87 | 17",
                 "🇮🇷 IR | 🔴 | vmess | @savagenet | 1",
-                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 2",
+                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 1",
                 "🇺🇸 US | 🟢 | vmess | @shadowsocksservers | 12",
                 "🇨🇳 CN | 🔴 | vmess | @sharecentrepro | 3",
                 "🇳🇱 NL | 🟢 | vmess | @tehranfreevpn | 7",
@@ -129,7 +130,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇩🇪 DE | 🔴 | vmess | @vpnfail_v2ray | 15",
+                "🇨🇦 CA | 🔴 | vmess | @vpnfail_v2ray | 15",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10"
             ],
@@ -139,6 +140,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🔴 | vmess | @NamiraNet | 68",
                 "🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3",
                 "❔ XX | 🔴 | vmess | @armodchannel | 62",
                 "❔ XX | 🟢 | vmess | @cattvpn | 0",
@@ -168,7 +170,7 @@
                 "🇦🇹 AT | 🔴 | vmess | @rnrifci | 5",
                 "🇺🇸 US | 🔴 | vmess | @royal_shop87 | 17",
                 "🇮🇷 IR | 🔴 | vmess | @savagenet | 1",
-                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 2",
+                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 1",
                 "🇺🇸 US | 🟢 | vmess | @shadowsocksservers | 12",
                 "🇨🇳 CN | 🔴 | vmess | @sharecentrepro | 3",
                 "🇳🇱 NL | 🟢 | vmess | @tehranfreevpn | 7",
@@ -179,7 +181,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇩🇪 DE | 🔴 | vmess | @vpnfail_v2ray | 15",
+                "🇨🇦 CA | 🔴 | vmess | @vpnfail_v2ray | 15",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10"
             ],
@@ -191,6 +193,15 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @NamiraNet | 68",
+            "type": "vmess",
+            "server": "62.60.176.240",
+            "server_port": 10410,
+            "uuid": "f107a60e-af79-44c9-bc7e-b5707f3208e1",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3",
@@ -628,7 +639,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 2",
+            "tag": "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 1",
             "type": "vmess",
             "server": "panel3.ipyar.org",
             "server_port": 32017,
@@ -796,16 +807,16 @@
             "alter_id": 0
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @vpnfail_v2ray | 15",
+            "tag": "🇨🇦 CA | 🔴 | vmess | @vpnfail_v2ray | 15",
             "type": "vmess",
-            "server": "23.158.56.241",
+            "server": "15.235.83.228",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "tls": {
                 "enabled": true,
-                "server_name": "",
+                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -816,7 +827,7 @@
                 "type": "ws",
                 "path": "/linkvws",
                 "headers": {
-                    "Host": ""
+                    "Host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
                 }
             }
         },
