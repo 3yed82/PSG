@@ -341,9 +341,9 @@
     "config_proxy": {
         "types": [
             "vless",
-            "ss",
+            "trojan",
             "vmess",
-            "trojan"
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -422,7 +422,6 @@
     },
     "configshubplus": {
         "types": [
-            "trojan",
             "vless",
             "ss"
         ],
@@ -1257,7 +1256,6 @@
     "hope_net": {
         "types": [
             "vless",
-            "vmess",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1935,7 +1933,6 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "vmess"
         ],
         "title": "Mowj Proxy",
@@ -2389,16 +2386,6 @@
         ],
         "title": "پروکسی VPN | کانفیگ V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxycrone.jpg"
-    },
-    "proxyfn": {
-        "types": [
-            "vless",
-            "vmess",
-            "ss",
-            "trojan"
-        ],
-        "title": "ProxyFn 🔥",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxyfn.jpg"
     },
     "proxyfull": {
         "types": [
@@ -3097,9 +3084,7 @@
     },
     "v2raych": {
         "types": [
-            "vless",
-            "trojan",
-            "vmess"
+            "vless"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -3424,9 +3409,9 @@
     },
     "v2rayweb": {
         "types": [
-            "trojan",
             "vless",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"

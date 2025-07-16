@@ -99,6 +99,7 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 0",
                 "🇩🇪 DE | 🟢 | vless | @dnsforyou | 3",
@@ -159,12 +160,12 @@
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 2",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
+                "🇹🇷 TR | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
+                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 11",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -255,7 +256,6 @@
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 4",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 5",
-                "🇷🇺 RU | 🟢 | vless | @proxyfn | 16",
                 "🇩🇪 DE | 🟢 | vless | @proxyfull | 9",
                 "🇩🇪 DE | 🟢 | vless | @proxygodratmand | 9",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -322,6 +322,7 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @dnsforyou | 0",
                 "🇩🇪 DE | 🟢 | vless | @dnsforyou | 3",
@@ -382,12 +383,12 @@
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 2",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "🇫🇮 FI | 🟢 | vless | @v2rayvpn2 | 2",
+                "🇹🇷 TR | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
+                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 11",
                 "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -478,7 +479,6 @@
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 4",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 5",
-                "🇷🇺 RU | 🟢 | vless | @proxyfn | 16",
                 "🇩🇪 DE | 🟢 | vless | @proxyfull | 9",
                 "🇩🇪 DE | 🟢 | vless | @proxygodratmand | 9",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -774,6 +774,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "server1.fergalvpnmod.com",
+            "server_port": 28338,
+            "uuid": "0b9ee474-19f6-4d7f-9281-96f239e6cebc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw",
+                    "short_id": "9ecc4615ce"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@FergalVpnMod"
             }
         },
         {
@@ -2256,33 +2283,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
-            "type": "vless",
-            "server": "server1.fergalvpnmod.com",
-            "server_port": 28338,
-            "uuid": "0b9ee474-19f6-4d7f-9281-96f239e6cebc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw",
-                    "short_id": "9ecc4615ce"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@FergalVpnMod"
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
             "type": "vless",
             "server": "de1.marzban-locations.com",
@@ -2356,6 +2356,29 @@
             }
         },
         {
+            "tag": "🇹🇷 TR | 🟢 | vless | @v2rayweb | 19",
+            "type": "vless",
+            "server": "tr.srv1.stafillo.com",
+            "server_port": 443,
+            "uuid": "cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
             "type": "vless",
             "server": "accpremium.outlineprivate.store",
@@ -2383,7 +2406,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vistav2ray | 11",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -4636,29 +4659,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "chessgame"
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | vless | @proxyfn | 16",
-            "type": "vless",
-            "server": "5.42.77.71",
-            "server_port": 443,
-            "uuid": "2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.datadoghq.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3q2rJ0IljIdNL0YvlAy7TwqtnPCr1woQv9KjoHjG3gE",
-                    "short_id": "366e5433f6196a6f"
-                }
             }
         },
         {
