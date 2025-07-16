@@ -889,7 +889,6 @@
     "hope_net": {
         "types": [
             "vless",
-            "ss",
             "trojan"
         ],
         "title": "🕊 Hope Net",
@@ -913,7 +912,6 @@
     },
     "icv2ray": {
         "types": [
-            "trojan",
             "vless"
         ],
         "title": "𝑰𝑪𝑽2𝑹𝒀 | 𝑪𝑶𝑵𝑭𝑰𝑮",
@@ -1380,8 +1378,8 @@
     },
     "meli_proxyy": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان خرید سرور وی پی ان ترید سیسکو آیپی ثابت vpn v2rayng vless vmess l2tp cisco",
@@ -1601,8 +1599,8 @@
     },
     "netmellianti": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan"
         ],
         "title": "VPN | V2rayNG | نت ملی",
@@ -2060,7 +2058,6 @@
     },
     "sinavm": {
         "types": [
-            "vless",
             "ss"
         ],
         "title": "𝗙𝗥𝗘𝗘 𝗩𝗣𝗡 | SiNAVM",
@@ -2100,9 +2097,9 @@
     },
     "summertimeus": {
         "types": [
-            "vless",
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "V2rayng/vpn",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/summertimeus.jpg"
@@ -2248,10 +2245,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
-            "ss",
             "trojan",
-            "vmess"
+            "ss",
+            "vmess",
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2358,8 +2355,8 @@
     },
     "v2raying": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "v2rayNG_VPN",
@@ -2557,7 +2554,6 @@
     },
     "v2rayweb": {
         "types": [
-            "vmess",
             "vless",
             "trojan"
         ],
@@ -3003,12 +2999,5 @@
         ],
         "title": "ZED PING | وی پی ان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zedping.jpg"
-    },
-    "zerov2shop": {
-        "types": [
-            "vless"
-        ],
-        "title": "V2SHOP | v2rayNG فیلترشکن وی پی ان ویتوری",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerov2shop.jpg"
     }
 }

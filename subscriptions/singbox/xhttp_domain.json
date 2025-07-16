@@ -112,7 +112,6 @@
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 18",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 11",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
@@ -128,9 +127,11 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
+                "🇺🇸 US | 🔴 | vless | @v2ray_tz | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
+                "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 16",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 13",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
@@ -165,7 +166,6 @@
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 18",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 11",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
@@ -181,9 +181,11 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
+                "🇺🇸 US | 🔴 | vless | @v2ray_tz | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
+                "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 16",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 13",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
@@ -420,15 +422,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @meli_proxyy | 18",
-            "type": "vless",
-            "server": "fast1.beraghsa.ir",
-            "server_port": 80,
-            "uuid": "SANRU",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
@@ -646,6 +639,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_tz | 7",
+            "type": "vless",
+            "server": "bos.lebasnoo.ir",
+            "server_port": 80,
+            "uuid": "9c2e1da7-8e50-4899-ad69-ad0b52de696c",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
             "type": "vless",
             "server": "viop.fast.hosting-ip.com",
@@ -669,6 +671,15 @@
             "server": "netmeli.noytads.ir",
             "server_port": 80,
             "uuid": "e018bfab-0902-47a0-abfc-7efbd017ec73",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 16",
+            "type": "vless",
+            "server": "fast1.beraghsa.ir",
+            "server_port": 80,
+            "uuid": "SANRU",
             "flow": "",
             "packet_encoding": "xudp"
         },
