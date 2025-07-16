@@ -9,8 +9,9 @@
     },
     "NamiraNet": {
         "types": [
-            "vless",
-            "vmess"
+            "ss",
+            "trojan",
+            "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -428,7 +429,8 @@
     "dnsforyou": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "DNS and v2rayNG and wireguard",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/dnsforyou.jpg"
@@ -751,8 +753,7 @@
     "freevirgoolnet": {
         "types": [
             "ss",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "🚀 Free VirgoolNet",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freevirgoolnet.jpg"
@@ -887,9 +888,8 @@
     "hope_net": {
         "types": [
             "vless",
-            "trojan",
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1744,8 +1744,8 @@
     },
     "outline_ir": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -2222,8 +2222,8 @@
     },
     "v2pedia": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan",
             "vmess"
         ],
@@ -2588,7 +2588,7 @@
     "v2source": {
         "types": [
             "vless",
-            "trojan"
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
@@ -2675,7 +2675,8 @@
     "vmess_ir": {
         "types": [
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmess_ir.jpg"
