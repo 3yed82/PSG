@@ -99,11 +99,12 @@
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 15",
-                "🇩🇪 DE | 🟢 | vless | @lranonline_new | 11",
+                "🇩🇪 DE | 🟢 | vless | @lranonline_new | 10",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
+                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 18",
@@ -122,11 +123,12 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
+                "🇩🇪 DE | 🟢 | vless | @proxyandvpnofficial1 | 16",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
             ],
@@ -146,11 +148,12 @@
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 15",
-                "🇩🇪 DE | 🟢 | vless | @lranonline_new | 11",
+                "🇩🇪 DE | 🟢 | vless | @lranonline_new | 10",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
+                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 18",
@@ -169,11 +172,12 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
+                "🇩🇪 DE | 🟢 | vless | @proxyandvpnofficial1 | 16",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
             ],
@@ -429,7 +433,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @lranonline_new | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @lranonline_new | 10",
             "type": "vless",
             "server": "88.99.87.227",
             "server_port": 2090,
@@ -549,6 +553,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "32135vless"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
+            "type": "vless",
+            "server": "104.248.194.230",
+            "server_port": 80,
+            "uuid": "b51aa057-c62e-4bd4-8ffe-f275714576f3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "marzijooon.adas.monster",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE",
+                    "short_id": "2a70224f5466"
+                }
             }
         },
         {
@@ -1006,6 +1033,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxyandvpnofficial1 | 16",
+            "type": "vless",
+            "server": "night.dl.darinips.com",
+            "server_port": 443,
+            "uuid": "cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @proxysudo | 2",
             "type": "vless",
             "server": "proxysudochannel.ddns.net",
@@ -1102,7 +1152,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
