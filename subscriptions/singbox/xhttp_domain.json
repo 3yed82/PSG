@@ -114,10 +114,10 @@
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
                 "🇺🇸 US | 🟢 | vless | @manzariyeh_rasht | 14",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 11",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 11",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 13",
+                "🇺🇸 US | 🔴 | vless | @nufilter | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -170,10 +170,10 @@
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
                 "🇺🇸 US | 🟢 | vless | @manzariyeh_rasht | 14",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 11",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 11",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 13",
+                "🇺🇸 US | 🔴 | vless | @nufilter | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -467,6 +467,15 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
+            "type": "vless",
+            "server": "fast1.beraghsa.ir",
+            "server_port": 80,
+            "uuid": "SANRU",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
@@ -503,16 +512,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @nufilter | 11",
-            "type": "vless",
-            "server": "test.fastly167.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "d7d59ef0-3344-44c7-9542-3d981411737c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @nufilter | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @nufilter | 12",
             "type": "vless",
             "server": "CONFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,

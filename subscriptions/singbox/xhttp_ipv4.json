@@ -94,6 +94,7 @@
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @configms | 15",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 11",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇹🇷 TR | 🔴 | vless | @freakconfig | 4",
@@ -117,7 +118,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayng_channel_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 14",
+                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 13",
@@ -135,6 +136,7 @@
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @configms | 15",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 11",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇹🇷 TR | 🔴 | vless | @freakconfig | 4",
@@ -158,7 +160,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayng_channel_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 14",
+                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 13",
@@ -216,6 +218,15 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "526984f4-f84e-4933-acc7-efa38b92c552",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 11",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "15219f08-71de-42e9-92ef-82ddded32704",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -519,7 +530,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 14",
+            "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 12",
             "type": "vless",
             "server": "206.71.158.10",
             "server_port": 443,
