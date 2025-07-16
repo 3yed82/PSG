@@ -92,8 +92,9 @@
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 17",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
+                "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -120,7 +121,6 @@
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
-                "🇬🇧 GB | 🟢 | ss | @vmess_ir | 16",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "❔ XX | 🟢 | ss | @vpidiamond | 9",
                 "🇺🇸 US | 🟢 | ss | @vpn451 | 11",
@@ -135,8 +135,9 @@
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 17",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
+                "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -163,7 +164,6 @@
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
-                "🇬🇧 GB | 🟢 | ss | @vmess_ir | 16",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "❔ XX | 🟢 | ss | @vpidiamond | 9",
                 "🇺🇸 US | 🟢 | ss | @vpn451 | 11",
@@ -203,7 +203,7 @@
             "password": "YTQ0Z"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 17",
             "type": "shadowsocks",
             "server": "104.167.197.25",
             "server_port": 57456,
@@ -217,6 +217,14 @@
             "server_port": 14255,
             "method": "chacha20-ietf-poly1305",
             "password": "fDDmH4QefmWqMJ8UURZrGh"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
+            "type": "shadowsocks",
+            "server": "46.17.63.178",
+            "server_port": 8443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "8RpzvJTy8kMerS471rXR3N"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -425,14 +433,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @vmess_ir | 16",
-            "type": "shadowsocks",
-            "server": "peweza2.digipedia.shop",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "WstuSnlu4ieA9M0L"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
