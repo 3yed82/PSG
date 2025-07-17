@@ -296,14 +296,6 @@
         "title": "Trapi Config | V2ray | فیلترشکن",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configtrapi.jpg"
     },
-    "confingv2raay": {
-        "types": [
-            "ss",
-            "vless"
-        ],
-        "title": "کانفینگ v2ray پروکسی و vpn مود شده رایگان",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/confingv2raay.jpg"
-    },
     "connectshu": {
         "types": [
             "vless"
@@ -1453,8 +1445,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"

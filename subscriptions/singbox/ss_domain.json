@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
-                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 7",
+                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 6",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
@@ -130,7 +130,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
-                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 7",
+                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 6",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
@@ -181,7 +181,7 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 7",
+            "tag": "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 6",
             "type": "shadowsocks",
             "server": "series-a2.varzesh360.co",
             "server_port": 443,
