@@ -65,9 +65,6 @@ proxies:
   - {"name":"❔ XX | 🔴 | vmess | @freev2rays | 17","type":"vmess","server":"gs03-1.guoshi1520.com","port":443,"cipher":"auto","uuid":"82ff6d30-2920-4ebd-b95c-b016ede1a841","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/82ff6d30","headers":{"Host":"gs03-1.guoshi1520.com"}}}
   - {"name":"🇺🇸 US | 🔴 | vmess | @freev2rays | 18","type":"vmess","server":"time.is","port":443,"cipher":"auto","uuid":"b526926d-1474-4f41-985e-8b877cb840cd","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"shs111.kejixiaoqi666.store"}}}
   - {"name":"🇺🇸 US | 🔴 | vmess | @freev2rays | 19","type":"vmess","server":"cloudgetservice.mcloudservice.site","port":443,"cipher":"auto","uuid":"5428dcc2-9950-4404-b8a5-9dac82acb210","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"Host":"maXNEtVIP-usA-VP3.nETKH3.SiTE"}}}
-  - {"name":"🇺🇸 US | 🟢 | vmess | @freevpnatm | 14","type":"vmess","server":"172.67.209.79","port":443,"cipher":"auto","uuid":"2d068083-2cb0-4ae3-a44a-6fc82f3039cc","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/87Ex2JiYYWr7FRa06b88JSo","headers":{"Host":"ssssddfghhnhhh.999834.xyz"}}}
-  - {"name":"🇺🇸 US | 🟢 | vmess | @freevpnatm | 16","type":"vmess","server":"104.21.26.17","port":443,"cipher":"auto","uuid":"cf8c791e-9d0b-4e90-aaf6-41ac62468416","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/CpsfR28bJO8180gomOew3d","headers":{"Host":"eeeeed.459.pp.ua"}}}
-  - {"name":"🇺🇸 US | 🟢 | vmess | @freevpnatm | 17","type":"vmess","server":"104.21.26.17","port":443,"cipher":"auto","uuid":"cf8c791e-9d0b-4e90-aaf6-41ac62468416","alterId":"0","tls":true,"skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"CpsfR28bla9D5o64T0dM","grpc-mode":""}}
   - {"name":"🇫🇷 FR | 🔴 | vmess | @garnet_free | 9","type":"vmess","server":"89.116.38.170","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 US | 🔴 | vmess | @ghotb_scarf | 6","type":"vmess","server":"xvon.fast.hosting-ip.com","port":80,"cipher":"auto","uuid":"39dbe83a-3dac-43e7-8c14-97270749f420","alterId":"0","tls":false,"skip-cert-verify":true,"network":"xhttp"}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1","type":"vmess","server":"mrgold.iranman.shop","port":52065,"cipher":"auto","uuid":"f29ea77c-6842-4ee0-9fc1-9c7a871566b2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -251,9 +248,6 @@ proxy-groups:
       - '❔ XX | 🔴 | vmess | @freev2rays | 17'
       - '🇺🇸 US | 🔴 | vmess | @freev2rays | 18'
       - '🇺🇸 US | 🔴 | vmess | @freev2rays | 19'
-      - '🇺🇸 US | 🟢 | vmess | @freevpnatm | 14'
-      - '🇺🇸 US | 🟢 | vmess | @freevpnatm | 16'
-      - '🇺🇸 US | 🟢 | vmess | @freevpnatm | 17'
       - '🇫🇷 FR | 🔴 | vmess | @garnet_free | 9'
       - '🇺🇸 US | 🔴 | vmess | @ghotb_scarf | 6'
       - '🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1'

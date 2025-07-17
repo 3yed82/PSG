@@ -102,8 +102,8 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
-                "🇬🇧 GB | 🟢 | vless | @v2source | 19",
+                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10"
             ],
             "tag": "proxy",
@@ -125,8 +125,8 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
-                "🇬🇧 GB | 🟢 | vless | @v2source | 19",
+                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10"
             ],
             "tag": "auto",
@@ -466,7 +466,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -489,9 +489,9 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @v2source | 19",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2source | 19",
             "type": "vless",
-            "server": "gb01-vlr01.tcp-reset-club.net",
+            "server": "us01-vlr01.tcp-reset-club.net",
             "server_port": 443,
             "uuid": "ae39728f-27fc-499b-b4a4-b894b65883a6",
             "flow": "xtls-rprx-vision",
