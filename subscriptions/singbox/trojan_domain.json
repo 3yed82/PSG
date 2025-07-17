@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
@@ -105,7 +104,6 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -117,7 +115,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
@@ -133,7 +130,6 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -147,22 +143,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
-            "type": "trojan",
-            "server": "au-full.privateip.net",
-            "server_port": 443,
-            "password": "882f187b-feb1-4be7-8678-32460f1ecfe6",
-            "tls": {
-                "enabled": true,
-                "server_name": "au-full.privateip.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -445,22 +425,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
-            "type": "trojan",
-            "server": "www.vpslook.com",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "uk704.cleanel.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
