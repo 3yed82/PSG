@@ -97,6 +97,7 @@
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇫🇷 FR | 🟢 | vless | @configshubplus | 15",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
@@ -104,7 +105,7 @@
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 7",
                 "🇨🇿 CZ | 🟢 | vless | @dnsforyou | 4",
                 "🇳🇱 NL | 🟢 | vless | @dnsforyou | 5",
-                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
                 "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
@@ -273,7 +274,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -316,6 +317,7 @@
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇫🇷 FR | 🟢 | vless | @configshubplus | 15",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
@@ -323,7 +325,7 @@
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 7",
                 "🇨🇿 CZ | 🟢 | vless | @dnsforyou | 4",
                 "🇳🇱 NL | 🟢 | vless | @dnsforyou | 5",
-                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
                 "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
@@ -492,7 +494,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -731,6 +733,29 @@
             }
         },
         {
+            "tag": "🇫🇷 FR | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "87.98.149.193",
+            "server_port": 443,
+            "uuid": "59b40e12-bc22-425c-9056-330d49b2ff7e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B9s5sNb0bSLLiUhofHrgaBPGrS6yz3VEpvPXG-YDGwE",
+                    "short_id": "c4"
+                }
+            }
+        },
+        {
             "tag": "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
             "type": "vless",
             "server": "185.239.2.101",
@@ -900,7 +925,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+            "tag": "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
             "type": "vless",
             "server": "194.182.79.117",
             "server_port": 35307,
@@ -5128,7 +5153,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,

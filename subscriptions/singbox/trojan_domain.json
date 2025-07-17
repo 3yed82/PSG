@@ -93,6 +93,7 @@
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "🇸🇬 SG | 🔴 | trojan | @hope_net | 15",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -104,7 +105,6 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇭🇰 HK | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -120,6 +120,7 @@
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "🇸🇬 SG | 🔴 | trojan | @hope_net | 15",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -131,7 +132,6 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇭🇰 HK | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -215,6 +215,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "t3.teslacdn2.live",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🔴 | trojan | @hope_net | 15",
+            "type": "trojan",
+            "server": "jp.lydurlclub.top",
+            "server_port": 443,
+            "password": "c4843eba-b070-403f-b43f-ef1ef7db571e",
+            "tls": {
+                "enabled": true,
+                "server_name": "jp.lydurlclub.top",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -433,13 +449,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | trojan | @v2raych | 17",
-            "type": "trojan",
-            "server": "6afce49908aacb7a6131d234fb03a9bd.v1.cac.node-is.green",
-            "server_port": 47489,
-            "password": "3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb"
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
