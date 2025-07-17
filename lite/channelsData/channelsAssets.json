@@ -455,14 +455,6 @@
         "title": "𝗘𝗟𝗙𝗩2𝗥𝗔𝗬",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/elfv2ray.jpg"
     },
-    "eliteproxyv2": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "Elite Proxy پروکسی رایگان",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/eliteproxyv2.jpg"
-    },
     "elitevpnv2": {
         "types": [
             "vless"
@@ -864,10 +856,10 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
+            "vless",
             "ss",
             "trojan",
-            "vless"
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1358,9 +1350,9 @@
     },
     "meli_proxyy": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان خرید سرور وی پی ان ترید سیسکو آیپی ثابت vpn v2rayng vless vmess l2tp cisco",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/meli_proxyy.jpg"
@@ -1716,8 +1708,8 @@
     },
     "outline_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -1837,8 +1829,8 @@
     },
     "proxyandvpnofficial1": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🧿 کانال رسمی پروکسی و فیلترشکن (VPN) دائمی و رایگان و امن🧿",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxyandvpnofficial1.jpg"
@@ -2528,8 +2520,8 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "trojan",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"

@@ -90,8 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,8 +99,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -141,22 +139,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 19",
-            "type": "trojan",
-            "server": "pt.mjt000.com",
-            "server_port": 443,
-            "password": "84587c21-9938-42fc-a4b0-4f72dd72b7aa",
-            "tls": {
-                "enabled": true,
-                "server_name": "pt.mjt000.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

@@ -98,10 +98,10 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+                "🇩🇪 DE | 🟢 | trojan | @v2rayweb | 10",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -118,10 +118,10 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+                "🇩🇪 DE | 🟢 | trojan | @v2rayweb | 10",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -298,6 +298,22 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | trojan | @v2rayweb | 10",
+            "type": "trojan",
+            "server": "63.178.209.45",
+            "server_port": 22223,
+            "password": "telegram-id-directvpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | trojan | @webhube | 4",
             "type": "trojan",
             "server": "15.204.175.111",
@@ -349,22 +365,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 19",
-            "type": "trojan",
-            "server": "pt.mjt000.com",
-            "server_port": 443,
-            "password": "84587c21-9938-42fc-a4b0-4f72dd72b7aa",
-            "tls": {
-                "enabled": true,
-                "server_name": "pt.mjt000.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

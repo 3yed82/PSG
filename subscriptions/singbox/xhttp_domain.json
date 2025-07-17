@@ -109,8 +109,9 @@
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 66",
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
+                "🏳️  | 🟢 | vless | @hope_net | 17",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+                "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 11",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
@@ -159,8 +160,9 @@
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 66",
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
+                "🏳️  | 🟢 | vless | @hope_net | 17",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+                "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 11",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
@@ -387,6 +389,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🏳️  | 🟢 | vless | @hope_net | 17",
+            "type": "vless",
+            "server": "join.kiava.cloud.ohbah.com",
+            "server_port": 2083,
+            "uuid": "fab84a1b-1832-4f4e-ad95-4049ce54a9af",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "s1-join.kiava.live",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
             "type": "vless",
             "server": "s5.1dnt.k-l.cloud",
@@ -396,7 +416,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+            "tag": "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
             "type": "vless",
             "server": "specxtech.ticketdatabase.info",
             "server_port": 15416,
