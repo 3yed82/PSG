@@ -89,9 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇨🇦 CA | 🔴 | vless | @alo_v2rayng | 0",
+                "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
-                "🇨🇦 CA | 🔴 | vless | @artemis_vpn_free | 1",
+                "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 17",
                 "🇺🇸 US | 🔴 | vless | @aryoovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @befreewithus | 1",
@@ -202,14 +202,13 @@
                 "🇮🇷 IR | 🟢 | vless | @v2rayngc | 18",
                 "❔ XX | 🟢 | vless | @v2rayngchaannel | 9",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "🇮🇷 IR | 🔴 | vless | @v2rayngvpn_1 | 8",
                 "❔ XX | 🟢 | vless | @v2rayninja | 16",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
-                "🇺🇸 US | 🟢 | vless | @v2source | 19",
-                "🇺🇸 US | 🟢 | vless | @v2trayproxy | 12",
+                "🇺🇸 US | 🟢 | vless | @v2trayproxy | 11",
                 "🇮🇷 IR | 🔴 | vless | @vezzevpn | 5",
                 "🇮🇷 IR | 🔴 | vless | @vip_vpn_2022 | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
@@ -234,9 +233,9 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇨🇦 CA | 🔴 | vless | @alo_v2rayng | 0",
+                "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
-                "🇨🇦 CA | 🔴 | vless | @artemis_vpn_free | 1",
+                "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 17",
                 "🇺🇸 US | 🔴 | vless | @aryoovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @befreewithus | 1",
@@ -347,14 +346,13 @@
                 "🇮🇷 IR | 🟢 | vless | @v2rayngc | 18",
                 "❔ XX | 🟢 | vless | @v2rayngchaannel | 9",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "🇮🇷 IR | 🔴 | vless | @v2rayngvpn_1 | 8",
                 "❔ XX | 🟢 | vless | @v2rayninja | 16",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
-                "🇺🇸 US | 🟢 | vless | @v2source | 19",
-                "🇺🇸 US | 🟢 | vless | @v2trayproxy | 12",
+                "🇺🇸 US | 🟢 | vless | @v2trayproxy | 11",
                 "🇮🇷 IR | 🔴 | vless | @vezzevpn | 5",
                 "🇮🇷 IR | 🔴 | vless | @vip_vpn_2022 | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
@@ -383,7 +381,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @alo_v2rayng | 0",
+            "tag": "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
             "type": "vless",
             "server": "sourceforge.net",
             "server_port": 2052,
@@ -408,7 +406,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @artemis_vpn_free | 1",
+            "tag": "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
             "type": "vless",
             "server": "Artemis.sbs",
             "server_port": 80,
@@ -2283,7 +2281,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -2390,30 +2388,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2source | 19",
-            "type": "vless",
-            "server": "us01-vlr01.tcp-reset-club.net",
-            "server_port": 443,
-            "uuid": "ae39728f-27fc-499b-b4a4-b894b65883a6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "31"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2trayproxy | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2trayproxy | 11",
             "type": "vless",
             "server": "web.xhamster.biz.id",
             "server_port": 443,
