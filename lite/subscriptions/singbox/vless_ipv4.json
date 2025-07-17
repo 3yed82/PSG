@@ -121,7 +121,6 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🏳️  | 🟢 | vless | @hope_net | 20",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 2",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 10",
@@ -183,8 +182,7 @@
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 13",
                 "🇫🇮 FI | 🔴 | vless | @v2rayprotocol | 12",
                 "🇩🇪 DE | 🔴 | vless | @v2rayvmess | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
-                "🇺🇸 US | 🔴 | vless | @v2source | 18",
+                "🇦🇹 AT | 🟢 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -239,7 +237,6 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🏳️  | 🟢 | vless | @hope_net | 20",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 2",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 10",
@@ -301,8 +298,7 @@
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 13",
                 "🇫🇮 FI | 🔴 | vless | @v2rayprotocol | 12",
                 "🇩🇪 DE | 🔴 | vless | @v2rayvmess | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
-                "🇺🇸 US | 🔴 | vless | @v2source | 18",
+                "🇦🇹 AT | 🟢 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -915,24 +911,6 @@
                     "enabled": true,
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
-                }
-            }
-        },
-        {
-            "tag": "🏳️  | 🟢 | vless | @hope_net | 20",
-            "type": "vless",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "cbaaacb-caab-baac-bdac-cbabbccaacab",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "127.0.0.1",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -2006,16 +1984,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
+            "tag": "🇦🇹 AT | 🟢 | vless | @v2rayweb | 18",
             "type": "vless",
-            "server": "104.26.6.89",
+            "server": "212.183.88.1",
             "server_port": 443,
-            "uuid": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
+            "uuid": "5879d109-8c92-448a-801b-3f3989019934",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "NpFzCqA01g.V2pLuSmLm.OrG",
+                "server_name": "pages.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -2024,25 +2002,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048",
                 "headers": {
-                    "Host": "NpFzCqA01g.V2pLuSmLm.OrG"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2source | 18",
-            "type": "vless",
-            "server": "104.16.178.238",
-            "server_port": 80,
-            "uuid": "d4eddaf9-a660-4905-b835-cad98677b380",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "104.16.178.238"
+                    "Host": "pages.dev"
                 }
             }
         },
