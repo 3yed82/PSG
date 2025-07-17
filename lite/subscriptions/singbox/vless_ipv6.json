@@ -92,6 +92,7 @@
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
+                "❔ XX | 🔴 | vless | @v2rayngcloud | 13",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 10",
                 "❔ XX | 🟢 | vless | @yekoyekvpn | 0"
             ],
@@ -104,6 +105,7 @@
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
+                "❔ XX | 🔴 | vless | @v2rayngcloud | 13",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 10",
                 "❔ XX | 🟢 | vless | @yekoyekvpn | 0"
             ],
@@ -174,6 +176,15 @@
                     "short_id": ""
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔴 | vless | @v2rayngcloud | 13",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1a:dc2b::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-285",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔴 | vless | @v2ryngfree | 10",

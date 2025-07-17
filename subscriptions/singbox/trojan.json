@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
@@ -134,8 +135,8 @@
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 17",
                 "🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 19",
-                "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 2",
-                "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 5",
+                "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 3",
+                "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 6",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -154,6 +155,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
@@ -199,8 +201,8 @@
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 17",
                 "🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 19",
-                "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 2",
-                "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 5",
+                "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 3",
+                "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 6",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -221,6 +223,22 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
+            "type": "trojan",
+            "server": "au-full.privateip.net",
+            "server_port": 443,
+            "password": "882f187b-feb1-4be7-8678-32460f1ecfe6",
+            "tls": {
+                "enabled": true,
+                "server_name": "au-full.privateip.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -1026,14 +1044,14 @@
             }
         },
         {
-            "tag": "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 2",
+            "tag": "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 3",
             "type": "trojan",
             "server": "0RiSuJPsug",
             "server_port": 0,
             "password": ""
         },
         {
-            "tag": "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 5",
+            "tag": "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 6",
             "type": "trojan",
             "server": "0RiSuJPsug",
             "server_port": 0,

@@ -94,10 +94,9 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
-                "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
+                "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
@@ -114,10 +113,9 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
-                "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
+                "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
@@ -178,7 +176,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
+            "tag": "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
             "type": "vless",
             "server": "server2.ultra-irancell.com",
             "server_port": 80,
@@ -203,29 +201,6 @@
             "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
-            "type": "vless",
-            "server": "specxtech.ticketdatabase.info",
-            "server_port": 15416,
-            "uuid": "9c28e484-55ed-4756-a6dc-64a9ec7141da",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno",
-                    "short_id": "1ed94ed9"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
