@@ -863,9 +863,9 @@
     },
     "hope_net": {
         "types": [
+            "vless",
             "trojan",
             "vmess",
-            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1438,8 +1438,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2223,9 +2223,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
-            "ss",
             "vless",
+            "ss",
+            "vmess",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2358,7 +2358,6 @@
     },
     "v2rayng_fars": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "v2rayng fars",
@@ -2451,14 +2450,6 @@
         "title": "W 🇩🇪 VPN 🇦🇪 &#036;/Y",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngrr13.jpg"
     },
-    "v2rayngvpn_1": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "سرور کانفیگ|v2ray🌍",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngvpn_1.jpg"
-    },
     "v2rayngvpnn": {
         "types": [
             "vmess"
@@ -2533,7 +2524,6 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "trojan",
             "vmess"
         ],
         "title": "V2ray | VPN",
@@ -2748,8 +2738,8 @@
     },
     "vpnaloo": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "رفع فیلتر | پروکسی",
@@ -2858,8 +2848,8 @@
     },
     "vpnv2rayngv": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "کانفینگ پروکسی وی توری نت ملی اسکوئید گیم خرید سرورفیلترشکن بازی مرکب وی پی ان اسکویید گیم ایران vpn v2rayNG vmess vless proxy",
