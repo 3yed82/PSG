@@ -97,7 +97,7 @@
                 "🇺🇸 US | 🔴 | vless | @dailyv2ry | 133",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 16",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
@@ -111,6 +111,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
+                "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 16",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @v2ray_one1 | 9",
@@ -137,7 +138,7 @@
                 "🇺🇸 US | 🔴 | vless | @dailyv2ry | 133",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 16",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
@@ -151,6 +152,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
+                "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 16",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @v2ray_one1 | 9",
@@ -263,7 +265,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
+            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -464,6 +466,24 @@
             "tls": {
                 "enabled": true,
                 "server_name": "Varda.Manwe.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 16",
+            "type": "vless",
+            "server": "172.237.147.79",
+            "server_port": 443,
+            "uuid": "a409d129-70fe-4bc4-906b-73985847e6ab",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.237.147.79",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 5",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
@@ -96,7 +97,7 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @hacknashid | 0",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
@@ -112,7 +113,7 @@
                 "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 3",
+                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -129,6 +130,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 5",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
@@ -136,7 +138,7 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @hacknashid | 0",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
@@ -152,7 +154,7 @@
                 "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 3",
+                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -171,6 +173,14 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
+            "type": "shadowsocks",
+            "server": "h110vpnch.outlinekeys.net",
+            "server_port": 4248,
+            "method": "chacha20-ietf-poly1305",
+            "password": "jw0DMgt0Q38j8aXiPuVIFS"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
@@ -229,7 +239,7 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
+            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
             "type": "shadowsocks",
             "server": "fin.outlinebot1.ru",
             "server_port": 5904,
@@ -357,7 +367,7 @@
             "password": "1U5MUwZqVsFkDGXQfabJP9"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 3",
+            "tag": "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
             "type": "shadowsocks",
             "server": "admin.c1.webramz.co",
             "server_port": 443,
