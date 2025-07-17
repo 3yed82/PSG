@@ -90,8 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇸🇬 SG | 🟢 | trojan | @v2rayweb | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,8 +99,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇸🇬 SG | 🟢 | trojan | @v2rayweb | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -141,22 +139,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @v2rayweb | 19",
-            "type": "trojan",
-            "server": "jp.liangyuandian.top",
-            "server_port": 443,
-            "password": "cc55e294-b76f-425a-9301-c18afbecaa22",
-            "tls": {
-                "enabled": true,
-                "server_name": "jp.liangyuandian.top",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

@@ -25,7 +25,6 @@ dns:
 proxies: 
   - {"name":"❔ XX | 🟢 | trojan | @maradona_vpn | 8","type":"trojan","server":"maradona_vpn.history-paint.art","port":443,"password":"Maradona_vpn","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6","type":"trojan","server":"de1.test3.net","port":443,"password":"b8841c50-c3ad-11ee-9be0-1239d0255272","skip-cert-verify":false}
-  - {"name":"🇸🇬 SG | 🟢 | trojan | @v2rayweb | 19","type":"trojan","server":"jp.liangyuandian.top","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -41,7 +40,6 @@ proxy-groups:
     proxies: 
       - '❔ XX | 🟢 | trojan | @maradona_vpn | 8'
       - '🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6'
-      - '🇸🇬 SG | 🟢 | trojan | @v2rayweb | 19'
 
   - name: 🌍 Global Media
     type: select
