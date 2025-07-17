@@ -116,15 +116,6 @@
         "title": "aryoovpn",
         "logo": ""
     },
-    "asak_vpn": {
-        "types": [
-            "vless",
-            "ss",
-            "vmess"
-        ],
-        "title": "آساک وی پی ان | AsakVpn",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/asak_vpn.jpg"
-    },
     "avaalvpn": {
         "types": [
             "vmess",
@@ -872,10 +863,10 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vless",
             "vmess",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2232,10 +2223,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2541,8 +2532,9 @@
     },
     "v2rayweb": {
         "types": [
+            "vmess",
             "vless",
-            "vmess"
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
@@ -2566,6 +2558,7 @@
     },
     "v2source": {
         "types": [
+            "trojan",
             "vless",
             "ss"
         ],

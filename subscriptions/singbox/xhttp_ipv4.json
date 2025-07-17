@@ -94,6 +94,7 @@
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @configms | 15",
+                "🇵🇱 PL | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇹🇷 TR | 🔴 | vless | @freakconfig | 4",
@@ -132,6 +133,7 @@
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @configms | 15",
+                "🇵🇱 PL | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇹🇷 TR | 🔴 | vless | @freakconfig | 4",
@@ -210,6 +212,15 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "526984f4-f84e-4933-acc7-efa38b92c552",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇵🇱 PL | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "212.162.155.204",
+            "server_port": 80,
+            "uuid": "a703e3f8-0f60-4342-b27e-7c6c5ea8e2b6",
             "flow": "",
             "packet_encoding": "xudp"
         },
