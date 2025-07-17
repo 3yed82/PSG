@@ -100,6 +100,7 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
+                "🇸🇬 SG | 🟢 | vless | @dailyv2ry | 132",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -127,7 +128,7 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
@@ -137,7 +138,7 @@
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 8",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
-                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 128",
+                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 123",
                 "❔ XX | 🟢 | vless | @public504 | 9",
                 "❔ XX | 🟢 | vless | @public504 | 11",
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
@@ -166,7 +167,7 @@
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇫🇷 FR | 🟢 | vless | @vpn_bal0uch | 0",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 15",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 14",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
@@ -194,6 +195,7 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
+                "🇸🇬 SG | 🟢 | vless | @dailyv2ry | 132",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -221,7 +223,7 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
@@ -231,7 +233,7 @@
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 8",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
-                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 128",
+                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 123",
                 "❔ XX | 🟢 | vless | @public504 | 9",
                 "❔ XX | 🟢 | vless | @public504 | 11",
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
@@ -260,7 +262,7 @@
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇫🇷 FR | 🟢 | vless | @vpn_bal0uch | 0",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 15",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 14",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
@@ -543,6 +545,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:"
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | vless | @dailyv2ry | 132",
+            "type": "vless",
+            "server": "amazon-13.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
             }
         },
         {
@@ -1226,7 +1251,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
+            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 14",
             "type": "vless",
             "server": "specxtech.ticketdatabase.info",
             "server_port": 51566,
@@ -1468,7 +1493,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 128",
+            "tag": "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 123",
             "type": "vless",
             "server": "server1.fergalvpnmod.com",
             "server_port": 28338,
@@ -2163,7 +2188,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 15",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 14",
             "type": "vless",
             "server": "pl.panelmarzban.com",
             "server_port": 3038,

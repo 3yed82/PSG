@@ -105,6 +105,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -132,6 +133,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 14",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -443,6 +445,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
+            "type": "trojan",
+            "server": "www.vpslook.com",
+            "server_port": 443,
+            "password": "bpb-trojan",
+            "tls": {
+                "enabled": true,
+                "server_name": "uk704.cleanel.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

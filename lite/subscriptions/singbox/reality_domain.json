@@ -102,7 +102,6 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
-                "🇩🇪 DE | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10"
             ],
             "tag": "proxy",
@@ -124,7 +123,6 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
-                "🇩🇪 DE | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10"
             ],
             "tag": "auto",
@@ -460,29 +458,6 @@
                     "enabled": true,
                     "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
                     "short_id": "f5"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2source | 19",
-            "type": "vless",
-            "server": "real-all3-2.sdcards.ir",
-            "server_port": 8501,
-            "uuid": "ac37eb9c-0db8-4056-8f61-e8db4e2da35e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI",
-                    "short_id": "e701a013553059ba"
                 }
             }
         },
