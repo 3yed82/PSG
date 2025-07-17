@@ -448,7 +448,6 @@
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
                 "🇫🇷 FR | 🔴 | vless | @proxyandvpnofficial1 | 10",
-                "🇮🇷 IR | 🔴 | vless | @proxycrone | 4",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
                 "🇩🇪 DE | 🔴 | vless | @proxygodratmand | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
@@ -578,7 +577,7 @@
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 15",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇮🇷 IR | 🟢 | vless | @v2rayngup | 3",
@@ -1055,7 +1054,6 @@
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
                 "🇫🇷 FR | 🔴 | vless | @proxyandvpnofficial1 | 10",
-                "🇮🇷 IR | 🔴 | vless | @proxycrone | 4",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
                 "🇩🇪 DE | 🔴 | vless | @proxygodratmand | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
@@ -1185,7 +1183,7 @@
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 15",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇮🇷 IR | 🟢 | vless | @v2rayngup | 3",
@@ -7505,15 +7503,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @proxycrone | 4",
-            "type": "vless",
-            "server": "dash.imgdownload.sbs",
-            "server_port": 4384,
-            "uuid": "14e26b17-e6ae-4db4-a4b3-c6c75786d2f5",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
             "type": "vless",
             "server": "sjdsnsj.varzesh3.com.tr",
@@ -9777,7 +9766,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
