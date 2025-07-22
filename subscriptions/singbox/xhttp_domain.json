@@ -91,7 +91,6 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @appsooner | 7",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 17",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
@@ -117,8 +116,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_v_vpn | 20",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 3",
                 "🇫🇮 FI | 🟢 | vless | @v2trayproxy | 9",
-                "🇺🇸 US | 🔴 | vless | @vmess_ir | 14",
-                "🇺🇸 US | 🔴 | vless | @vmess_ir | 17",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 16",
                 "🇫🇮 FI | 🟢 | vless | @vpnaloo | 13",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
@@ -133,7 +131,6 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @appsooner | 7",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 17",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
@@ -159,8 +156,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_v_vpn | 20",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 3",
                 "🇫🇮 FI | 🟢 | vless | @v2trayproxy | 9",
-                "🇺🇸 US | 🔴 | vless | @vmess_ir | 14",
-                "🇺🇸 US | 🔴 | vless | @vmess_ir | 17",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 16",
                 "🇫🇮 FI | 🟢 | vless | @vpnaloo | 13",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
@@ -207,15 +203,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
-            "type": "vless",
-            "server": "cdn.irancdngame.com",
-            "server_port": 80,
-            "uuid": "ab513a36-abe6-46ff-a356-edb8c280e28d",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -484,16 +471,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @vmess_ir | 14",
-            "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vmess_ir | 17",
+            "tag": "🇺🇸 US | 🔴 | vless | @vmess_ir | 16",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,

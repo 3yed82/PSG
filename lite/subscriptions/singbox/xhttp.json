@@ -98,7 +98,7 @@
                 "🇩🇪 DE | 🟢 | vless | @proxyandvpnofficial1 | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngcloud | 11",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngcloud | 10",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -124,7 +124,7 @@
                 "🇩🇪 DE | 🟢 | vless | @proxyandvpnofficial1 | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngcloud | 11",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngcloud | 10",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -305,11 +305,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngcloud | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngcloud | 10",
             "type": "vless",
             "server": "91.107.254.202",
             "server_port": 443,
-            "uuid": "Telegram---V2RAYNGCLOUD---",
+            "uuid": "telegram---V2RAYNGCLOUD---",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {

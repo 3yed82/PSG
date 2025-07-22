@@ -102,6 +102,7 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
+                "🇨🇦 CA | 🔴 | vmess | @ip_cf_config | 17",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -116,7 +117,7 @@
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
-                "🇩🇪 DE | 🔴 | vmess | @prrofile_purple | 122",
+                "🇩🇪 DE | 🔴 | vmess | @prrofile_purple | 129",
                 "❔ XX | 🔴 | vmess | @pydriclub | 3",
                 "🇦🇹 AT | 🔴 | vmess | @rnrifci | 5",
                 "🇺🇸 US | 🔴 | vmess | @royal_shop87 | 17",
@@ -128,7 +129,6 @@
                 "🇨🇳 CN | 🔴 | vmess | @v2aryng_vpn | 11",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇺🇸 US | 🟢 | vmess | @v2ray_fd | 0",
-                "🇨🇳 CN | 🔴 | vmess | @v2ray_free_conf | 19",
                 "❔ XX | 🔴 | vmess | @v2ray_n | 19",
                 "🇬🇧 GB | 🔴 | vmess | @v2rayng3 | 6",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
@@ -158,6 +158,7 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
+                "🇨🇦 CA | 🔴 | vmess | @ip_cf_config | 17",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -172,7 +173,7 @@
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
-                "🇩🇪 DE | 🔴 | vmess | @prrofile_purple | 122",
+                "🇩🇪 DE | 🔴 | vmess | @prrofile_purple | 129",
                 "❔ XX | 🔴 | vmess | @pydriclub | 3",
                 "🇦🇹 AT | 🔴 | vmess | @rnrifci | 5",
                 "🇺🇸 US | 🔴 | vmess | @royal_shop87 | 17",
@@ -184,7 +185,6 @@
                 "🇨🇳 CN | 🔴 | vmess | @v2aryng_vpn | 11",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇺🇸 US | 🟢 | vmess | @v2ray_fd | 0",
-                "🇨🇳 CN | 🔴 | vmess | @v2ray_free_conf | 19",
                 "❔ XX | 🔴 | vmess | @v2ray_n | 19",
                 "🇬🇧 GB | 🔴 | vmess | @v2rayng3 | 6",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
@@ -430,6 +430,22 @@
             }
         },
         {
+            "tag": "🇨🇦 CA | 🔴 | vmess | @ip_cf_config | 17",
+            "type": "vmess",
+            "server": "51.79.102.253",
+            "server_port": 80,
+            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
             "tag": "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
             "type": "vmess",
             "server": "89.116.38.184",
@@ -636,7 +652,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @prrofile_purple | 122",
+            "tag": "🇩🇪 DE | 🔴 | vmess | @prrofile_purple | 129",
             "type": "vmess",
             "server": "51.68.191.233",
             "server_port": 80,
@@ -799,15 +815,6 @@
                     "Host": "0-1panel0-1.net-work-plus.ir"
                 }
             }
-        },
-        {
-            "tag": "🇨🇳 CN | 🔴 | vmess | @v2ray_free_conf | 19",
-            "type": "vmess",
-            "server": "183.237.91.205",
-            "server_port": 60983,
-            "uuid": "fe25c900-1a52-4dd5-89a2-9a39d7fcde38",
-            "security": "auto",
-            "alter_id": 0
         },
         {
             "tag": "❔ XX | 🔴 | vmess | @v2ray_n | 19",
