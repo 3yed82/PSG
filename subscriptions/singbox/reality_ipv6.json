@@ -91,7 +91,7 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🟢 | vless | @kesslervpn | 2",
+                "❔ XX | 🟢 | vless | @kesslervpn | 1",
                 "❔ XX | 🟢 | vless | @vpnvg | 10"
             ],
             "tag": "proxy",
@@ -102,7 +102,7 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🟢 | vless | @kesslervpn | 2",
+                "❔ XX | 🟢 | vless | @kesslervpn | 1",
                 "❔ XX | 🟢 | vless | @vpnvg | 10"
             ],
             "tag": "auto",
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @kesslervpn | 2",
+            "tag": "❔ XX | 🟢 | vless | @kesslervpn | 1",
             "type": "vless",
             "server": "[2a03:b0c0:3:d0::10ad:7001]",
             "server_port": 29360,
