@@ -110,8 +110,8 @@
                 "🇺🇸 US | 🟢 | ss | @shadowsockskeys | 16",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
+                "🇬🇧 GB | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
-                "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
@@ -147,8 +147,8 @@
                 "🇺🇸 US | 🟢 | ss | @shadowsockskeys | 16",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
+                "🇬🇧 GB | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
-                "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
@@ -335,20 +335,20 @@
             "password": "1U5MUwZqVsFkDGXQfabJP9"
         },
         {
+            "tag": "🇬🇧 GB | 🟢 | ss | @v2ray_free_conf | 19",
+            "type": "shadowsocks",
+            "server": "series-a1.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA"
+        },
+        {
             "tag": "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
             "type": "shadowsocks",
             "server": "tr.vpnsparta.pro",
             "server_port": 57456,
             "method": "chacha20-ietf-poly1305",
             "password": "c40641c1f89e7acb"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
-            "type": "shadowsocks",
-            "server": "series-a1.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
