@@ -163,6 +163,10 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇳🇱 NL | 🟢 | ss | @v222ray | 7",
+                "🇸🇪 SE | 🟢 | ss | @v2ray_free_conf | 17",
+                "🇬🇧 GB | 🟢 | ss | @v2raych | 15",
+                "🇬🇧 GB | 🟢 | ss | @v2raych | 16",
+                "🇬🇧 GB | 🟢 | ss | @v2raych | 17",
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
@@ -264,6 +268,10 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇳🇱 NL | 🟢 | ss | @v222ray | 7",
+                "🇸🇪 SE | 🟢 | ss | @v2ray_free_conf | 17",
+                "🇬🇧 GB | 🟢 | ss | @v2raych | 15",
+                "🇬🇧 GB | 🟢 | ss | @v2raych | 16",
+                "🇬🇧 GB | 🟢 | ss | @v2raych | 17",
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
@@ -885,6 +893,38 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | ss | @v2ray_free_conf | 17",
+            "type": "shadowsocks",
+            "server": "176.124.207.105",
+            "server_port": 37322,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Ou1hXlPKx0wKJbOuRfr8Dy"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @v2raych | 15",
+            "type": "shadowsocks",
+            "server": "85.210.170.254",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "69MUii7VDwMqh7Hz"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @v2raych | 16",
+            "type": "shadowsocks",
+            "server": "74.177.142.158",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Bog0ELmMM9DSxDdQ"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @v2raych | 17",
+            "type": "shadowsocks",
+            "server": "131.145.22.97",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WstuSnlu4ieA9M0L"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
