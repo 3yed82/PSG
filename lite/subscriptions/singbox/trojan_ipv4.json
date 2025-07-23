@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇫🇷 FR | 🟢 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇺🇸 US | 🟢 | trojan | @orange_vpns | 17",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -106,7 +106,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇫🇷 FR | 🟢 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇺🇸 US | 🟢 | trojan | @orange_vpns | 17",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -141,14 +141,14 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @hope_net | 19",
             "type": "trojan",
-            "server": "162.159.22.29",
-            "server_port": 443,
-            "password": "blue2024",
+            "server": "13.36.72.191",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
             "tls": {
                 "enabled": true,
-                "server_name": "td.promote.icu",
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
