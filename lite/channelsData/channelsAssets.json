@@ -868,10 +868,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
-            "trojan",
             "ss",
-            "vless"
+            "trojan",
+            "vless",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1366,7 +1366,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2131,10 +2132,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
             "trojan",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2424,7 +2425,6 @@
     },
     "v2rayweb": {
         "types": [
-            "vmess",
             "vless"
         ],
         "title": "V2ray | VPN",
@@ -2607,8 +2607,8 @@
     },
     "vpn_meliii": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "پروکسی کانفینگ ویتوری وی پی ان ملی اخبار جنگ فیلترشکن ایران | vpn proxy sstp cisco v2rayng vemss vless",
