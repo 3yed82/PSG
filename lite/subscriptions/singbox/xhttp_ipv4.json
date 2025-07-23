@@ -91,7 +91,6 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 10",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 19",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
@@ -108,7 +107,6 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 10",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 19",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
@@ -169,29 +167,6 @@
                     "enabled": true,
                     "public_key": "4Xu_jqRD-mbhEwNyntlz_6zU4VhsE0-QWCxAbhEL_H4",
                     "short_id": "7ab467"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @getconfigir | 19",
-            "type": "vless",
-            "server": "5.178.106.30",
-            "server_port": 2055,
-            "uuid": "5990e261-1942-4983-aa40-3f585a699fae",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "kifpool.me",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "uUxB4kGyHwy-oKZ6mKoXTIWsXJGsDLop9NiRd0B36zI",
-                    "short_id": "54994c92a0"
                 }
             }
         },
