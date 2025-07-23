@@ -123,7 +123,9 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "❔ XX | 🟢 | vless | @vp22ray | 10"
+                "🇦🇪 AE | 🟢 | vless | @v2rayweb | 11",
+                "❔ XX | 🟢 | vless | @vp22ray | 10",
+                "🇫🇷 FR | 🟢 | vless | @vpnaloo | 15"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -165,7 +167,9 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "❔ XX | 🟢 | vless | @vp22ray | 10"
+                "🇦🇪 AE | 🟢 | vless | @v2rayweb | 11",
+                "❔ XX | 🟢 | vless | @vp22ray | 10",
+                "🇫🇷 FR | 🟢 | vless | @vpnaloo | 15"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1011,6 +1015,29 @@
             }
         },
         {
+            "tag": "🇦🇪 AE | 🟢 | vless | @v2rayweb | 11",
+            "type": "vless",
+            "server": "uae.momashost.ir",
+            "server_port": 8085,
+            "uuid": "f48ce62c-85cb-422f-9478-7d049b781ac7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cBiruUOymQvzSQnjAD7aaFXgZ45EDbVAEaxf3zxbg1o",
+                    "short_id": "fd7cbbe42ad29796"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @vp22ray | 10",
             "type": "vless",
             "server": "German.vp22ray.site",
@@ -1030,6 +1057,29 @@
                     "enabled": true,
                     "public_key": "XEpHiKs6YbcMrBR4YTRXLlIlO5RfGcVUUcbt4KZc7TY",
                     "short_id": "d90b293e"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | vless | @vpnaloo | 15",
+            "type": "vless",
+            "server": "fr.momashost.ir",
+            "server_port": 8086,
+            "uuid": "f48ce62c-85cb-422f-9478-7d049b781ac7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cBiruUOymQvzSQnjAD7aaFXgZ45EDbVAEaxf3zxbg1o",
+                    "short_id": "fd7cbbe42ad29796"
                 }
             }
         }
