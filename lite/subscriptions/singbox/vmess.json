@@ -102,7 +102,7 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
-                "🇨🇾 CY | 🔴 | vmess | @hope_net | 19",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -126,7 +126,6 @@
                 "🇺🇸 US | 🟢 | vmess | @shadowsocksservers | 12",
                 "🇨🇳 CN | 🔴 | vmess | @sharecentrepro | 3",
                 "🇳🇱 NL | 🟢 | vmess | @tehranfreevpn | 7",
-                "🇨🇳 CN | 🔴 | vmess | @v2aryng_vpn | 11",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇺🇸 US | 🟢 | vmess | @v2ray_fd | 0",
                 "❔ XX | 🔴 | vmess | @v2ray_n | 19",
@@ -134,7 +133,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇭🇰 HK | 🔴 | vmess | @vpnfail_v2ray | 18",
+                "🇰🇷 KR | 🔴 | vmess | @vpnfail_v2ray | 17",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇭🇰 HK | 🟢 | vmess | @zdyz2 | 1"
@@ -158,7 +157,7 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
-                "🇨🇾 CY | 🔴 | vmess | @hope_net | 19",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -182,7 +181,6 @@
                 "🇺🇸 US | 🟢 | vmess | @shadowsocksservers | 12",
                 "🇨🇳 CN | 🔴 | vmess | @sharecentrepro | 3",
                 "🇳🇱 NL | 🟢 | vmess | @tehranfreevpn | 7",
-                "🇨🇳 CN | 🔴 | vmess | @v2aryng_vpn | 11",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇺🇸 US | 🟢 | vmess | @v2ray_fd | 0",
                 "❔ XX | 🔴 | vmess | @v2ray_n | 19",
@@ -190,7 +188,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇭🇰 HK | 🔴 | vmess | @vpnfail_v2ray | 18",
+                "🇰🇷 KR | 🔴 | vmess | @vpnfail_v2ray | 17",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇭🇰 HK | 🟢 | vmess | @zdyz2 | 1"
@@ -430,18 +428,27 @@
             }
         },
         {
-            "tag": "🇨🇾 CY | 🔴 | vmess | @hope_net | 19",
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
             "type": "vmess",
-            "server": "77.37.33.8",
-            "server_port": 2082,
-            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
+            "server": "172.67.68.82",
+            "server_port": 443,
+            "uuid": "af6eedf5-f2b4-447f-8b93-5fca33af06f8",
             "security": "auto",
             "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "172.67.68.82",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/github.com/Alvin9999",
+                "path": "/",
                 "headers": {
-                    "Host": "77.37.33.8"
+                    "Host": "172.67.68.82"
                 }
             }
         },
@@ -774,15 +781,6 @@
             }
         },
         {
-            "tag": "🇨🇳 CN | 🔴 | vmess | @v2aryng_vpn | 11",
-            "type": "vmess",
-            "server": "47.92.152.169",
-            "server_port": 50002,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
             "type": "vmess",
             "server": "91.107.160.240",
@@ -892,18 +890,27 @@
             "alter_id": 0
         },
         {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @vpnfail_v2ray | 18",
+            "tag": "🇰🇷 KR | 🔴 | vmess | @vpnfail_v2ray | 17",
             "type": "vmess",
-            "server": "v10.heduian.link",
-            "server_port": 30807,
-            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "server": "202.79.160.164",
+            "server_port": 443,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
-            "alter_id": 2,
+            "alter_id": 64,
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/oooo",
+                "path": "/path/191019072927",
                 "headers": {
-                    "Host": "baidu.com"
+                    "Host": ""
                 }
             }
         },

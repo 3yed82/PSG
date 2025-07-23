@@ -559,8 +559,8 @@
     },
     "free1_vpn": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Free_VPN √ v2ray √ NapsternetV √ custom √ injector √",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1_vpn.jpg"
@@ -804,7 +804,8 @@
     "hope_net": {
         "types": [
             "trojan",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -842,7 +843,6 @@
     },
     "info_2it_channel": {
         "types": [
-            "ss",
             "vless",
             "vmess"
         ],
@@ -868,8 +868,8 @@
     "ip_cf_config": {
         "types": [
             "vmess",
-            "trojan",
             "ss",
+            "trojan",
             "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
@@ -1041,9 +1041,9 @@
     },
     "kanfig_majani": {
         "types": [
+            "vless",
             "ss",
-            "vmess",
-            "vless"
+            "vmess"
         ],
         "title": "کانفیگ رایگان | کانفیگ مجانی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/kanfig_majani.jpg"
@@ -2080,8 +2080,8 @@
     },
     "v2aryng_vpn": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "🌐 V2ray | proxy 🌐",
@@ -2133,10 +2133,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "vmess",
+            "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
