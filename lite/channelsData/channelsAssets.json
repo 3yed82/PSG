@@ -422,7 +422,6 @@
     },
     "evay_vpn": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "Evay vpn | Free V2ray config",
@@ -802,8 +801,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "ss",
             "vless"
         ],
@@ -869,8 +868,8 @@
         "types": [
             "vmess",
             "trojan",
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2125,8 +2124,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "trojan",
             "vless"
         ],
