@@ -94,11 +94,10 @@
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 10",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 3",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
-                "🇩🇪 DE | 🟢 | vless | @falcunargo | 5",
-                "🇩🇪 DE | 🟢 | vless | @falcunargo | 9",
+                "🇩🇪 DE | 🟢 | vless | @falcunargo | 3",
+                "🇩🇪 DE | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
-                "🇦🇪 AE | 🟢 | vless | @getconfigir | 15",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 14",
                 "🇳🇱 NL | 🟢 | vless | @ghalagyann | 15",
                 "🇳🇱 NL | 🟢 | vless | @ghalagyann2 | 5",
@@ -144,11 +143,10 @@
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 10",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 3",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
-                "🇩🇪 DE | 🟢 | vless | @falcunargo | 5",
-                "🇩🇪 DE | 🟢 | vless | @falcunargo | 9",
+                "🇩🇪 DE | 🟢 | vless | @falcunargo | 3",
+                "🇩🇪 DE | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
-                "🇦🇪 AE | 🟢 | vless | @getconfigir | 15",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 14",
                 "🇳🇱 NL | 🟢 | vless | @ghalagyann | 15",
                 "🇳🇱 NL | 🟢 | vless | @ghalagyann2 | 5",
@@ -284,7 +282,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @falcunargo | 5",
+            "tag": "🇩🇪 DE | 🟢 | vless | @falcunargo | 3",
             "type": "vless",
             "server": "138.199.168.187",
             "server_port": 28153,
@@ -307,7 +305,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @falcunargo | 9",
+            "tag": "🇩🇪 DE | 🟢 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "91.107.254.202",
             "server_port": 443,
@@ -367,29 +365,6 @@
                     "enabled": true,
                     "public_key": "cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc",
                     "short_id": "dc5db021ae2038a9"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇪 AE | 🟢 | vless | @getconfigir | 15",
-            "type": "vless",
-            "server": "130.185.122.252",
-            "server_port": 28964,
-            "uuid": "9987a847-5e57-440c-890e-33fd179af6ff",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.bing.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs",
-                    "short_id": "5405"
                 }
             }
         },
