@@ -111,6 +111,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
+                "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
@@ -127,7 +128,6 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
@@ -202,6 +202,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
+                "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
@@ -218,7 +219,6 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
@@ -825,6 +825,29 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
+            "type": "vless",
+            "server": "uuk3v.tok8888.com",
+            "server_port": 8443,
+            "uuid": "6e719400-b88e-4ab0-a05b-089d6cd3bcaa",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.thewilliamvale.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
             "type": "vless",
             "server": "uae.kitten-tube.com",
@@ -1233,29 +1256,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Hossien"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 4",
-            "type": "vless",
-            "server": "uuk3v.tok8888.com",
-            "server_port": 8443,
-            "uuid": "6e719400-b88e-4ab0-a05b-089d6cd3bcaa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.thewilliamvale.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8",
-                    "short_id": ""
-                }
             }
         },
         {
