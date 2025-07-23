@@ -868,10 +868,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
+            "trojan",
             "vless",
-            "ss",
-            "trojan"
+            "vmess",
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1366,9 +1366,9 @@
     },
     "mowjproxy": {
         "types": [
+            "ss",
             "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1505,7 +1505,6 @@
     },
     "netmellianti": {
         "types": [
-            "ss",
             "vless",
             "vmess"
         ],
@@ -2495,13 +2494,6 @@
         "title": "✨🇻​🇮​🇵✨🇻​🇵​🇳​​✨",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vip_vpn_2022.jpg"
     },
-    "vipnetmeli": {
-        "types": [
-            "vless"
-        ],
-        "title": "🚀Vip internet🚀",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vipnetmeli.jpg"
-    },
     "vipufovpn": {
         "types": [
             "ss",
@@ -2698,15 +2690,6 @@
         ],
         "title": "VPNHOUSE 🏠 | Internet | Proxy | Freedom",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnhouse_official.jpg"
-    },
-    "vpnkanfik": {
-        "types": [
-            "vless",
-            "ss",
-            "vmess"
-        ],
-        "title": "کانال پروکسی و کانفیگ سرعتی",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnkanfik.jpg"
     },
     "vpnmeg": {
         "types": [

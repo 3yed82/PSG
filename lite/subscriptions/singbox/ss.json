@@ -92,7 +92,7 @@
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇵🇹 PT | 🟢 | ss | @filtershekan_channel | 12",
-                "🇦🇹 AT | 🟢 | ss | @free1ss | 12",
+                "🇩🇪 DE | 🟢 | ss | @free1ss | 12",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
@@ -113,7 +113,6 @@
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
                 "🇩🇪 DE | 🟢 | ss | @vpn451 | 12",
-                "🇳🇱 NL | 🟢 | ss | @vpnkanfik | 9",
                 "❔ XX | 🟢 | ss | @chestertm | 19",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
@@ -134,7 +133,7 @@
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇵🇹 PT | 🟢 | ss | @filtershekan_channel | 12",
-                "🇦🇹 AT | 🟢 | ss | @free1ss | 12",
+                "🇩🇪 DE | 🟢 | ss | @free1ss | 12",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
@@ -155,7 +154,6 @@
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
                 "🇩🇪 DE | 🟢 | ss | @vpn451 | 12",
-                "🇳🇱 NL | 🟢 | ss | @vpnkanfik | 9",
                 "❔ XX | 🟢 | ss | @chestertm | 19",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
@@ -201,12 +199,12 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇦🇹 AT | 🟢 | ss | @free1ss | 12",
+            "tag": "🇩🇪 DE | 🟢 | ss | @free1ss | 12",
             "type": "shadowsocks",
-            "server": "152.53.2.128",
-            "server_port": 34045,
-            "method": "aes-256-gcm",
-            "password": "TG:@Enkelte_notif&&TG:@Notif_Chat"
+            "server": "185.140.12.217",
+            "server_port": 1080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "bCmNtjuyczgcKj2s3P3eBg"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
@@ -367,14 +365,6 @@
             "server_port": 38211,
             "method": "chacha20-ietf-poly1305",
             "password": "oq7r6MFgH5MROIUWEPAp7w"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @vpnkanfik | 9",
-            "type": "shadowsocks",
-            "server": "193.29.139.202",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "❔ XX | 🟢 | ss | @chestertm | 19",
