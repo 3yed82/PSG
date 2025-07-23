@@ -95,16 +95,18 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
+                "🇬🇧 GB | 🟢 | ss | @dailyv2ry | 99",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @g0dv2ray | 10",
+                "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 12",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "🇩🇪 DE | 🟢 | ss | @mowjproxy | 4",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
-                "🇳🇱 NL | 🟢 | ss | @outline_vpn | 27",
+                "🇺🇸 US | 🟢 | ss | @outline_vpn | 27",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "🇬🇧 GB | 🟢 | ss | @prroxyng | 0",
                 "❔ XX | 🟢 | ss | @public504 | 7",
@@ -134,16 +136,18 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
+                "🇬🇧 GB | 🟢 | ss | @dailyv2ry | 99",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @g0dv2ray | 10",
+                "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 12",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "🇩🇪 DE | 🟢 | ss | @mowjproxy | 4",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
-                "🇳🇱 NL | 🟢 | ss | @outline_vpn | 27",
+                "🇺🇸 US | 🟢 | ss | @outline_vpn | 27",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "🇬🇧 GB | 🟢 | ss | @prroxyng | 0",
                 "❔ XX | 🟢 | ss | @public504 | 7",
@@ -219,6 +223,14 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
+            "tag": "🇬🇧 GB | 🟢 | ss | @dailyv2ry | 99",
+            "type": "shadowsocks",
+            "server": "peweza2.digipedia.shop",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WstuSnlu4ieA9M0L"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
             "type": "shadowsocks",
             "server": "series-a2.varzesh360.co",
@@ -241,6 +253,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "1xO2cqPazqjGfCfd"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 12",
+            "type": "shadowsocks",
+            "server": "fin.outlinebot1.ru",
+            "server_port": 5904,
+            "method": "chacha20-ietf-poly1305",
+            "password": "5TZnwPb23pQS39lIucspJw"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -291,7 +311,7 @@
             "password": "WstuSnlu4ieA9M0L"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @outline_vpn | 27",
+            "tag": "🇺🇸 US | 🟢 | ss | @outline_vpn | 27",
             "type": "shadowsocks",
             "server": "beesyar.org",
             "server_port": 8080,

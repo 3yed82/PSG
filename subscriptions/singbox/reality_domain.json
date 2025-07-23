@@ -103,7 +103,8 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 6",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 7",
-                "❔ XX | 🟢 | vless | @farahvpn | 17",
+                "❔ XX | 🟢 | vless | @farahvpn | 16",
+                "🇳🇱 NL | 🟢 | vless | @farahvpn | 19",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "🇳🇱 NL | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -154,7 +155,6 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 8",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇫🇮 FI | 🟢 | vless | @v2trayproxy | 9",
                 "🇷🇺 RU | 🟢 | vless | @v2trayproxy | 10",
@@ -197,7 +197,8 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 6",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 7",
-                "❔ XX | 🟢 | vless | @farahvpn | 17",
+                "❔ XX | 🟢 | vless | @farahvpn | 16",
+                "🇳🇱 NL | 🟢 | vless | @farahvpn | 19",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "🇳🇱 NL | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -248,7 +249,6 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 8",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇫🇮 FI | 🟢 | vless | @v2trayproxy | 9",
                 "🇷🇺 RU | 🟢 | vless | @v2trayproxy | 10",
@@ -623,7 +623,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @farahvpn | 17",
+            "tag": "❔ XX | 🟢 | vless | @farahvpn | 16",
             "type": "vless",
             "server": "micro.slumbo.com",
             "server_port": 443,
@@ -643,6 +643,33 @@
                     "public_key": "jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8",
                     "short_id": "190d32b118caf07f"
                 }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @farahvpn | 19",
+            "type": "vless",
+            "server": "server2.fergalvpnmod.com",
+            "server_port": 25126,
+            "uuid": "bab6b157-a6e8-4756-a485-dcb4ca476eb9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik",
+                    "short_id": "1e"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@FergalVpnMod"
             }
         },
         {
@@ -1880,33 +1907,6 @@
                     "public_key": "bf0D8kLkfGVYP8NVpiOGKcm-wutxlcLXua3760tRgkI",
                     "short_id": "adf6b90c"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayweb | 8",
-            "type": "vless",
-            "server": "freedam.wirecard.store",
-            "server_port": 2053,
-            "uuid": "ce3acfb7-a0e8-4f96-b9ff-75c2657997fa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "freedom.wirecard.store",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hRwCV7x14uQ7jdsLqsxvklkR4Mtf7kRsZhboIKRbsR4",
-                    "short_id": "c531427f9b41"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "bing"
             }
         },
         {

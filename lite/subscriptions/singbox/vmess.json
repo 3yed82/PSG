@@ -102,7 +102,6 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -114,6 +113,7 @@
                 "🇫🇷 FR | 🟢 | vmess | @mahsaproxy | 3",
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
+                "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 7",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -157,7 +157,6 @@
                 "🇫🇮 FI | 🔴 | vmess | @freeshadowsock | 4",
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -169,6 +168,7 @@
                 "🇫🇷 FR | 🟢 | vmess | @mahsaproxy | 3",
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
+                "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 7",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -428,31 +428,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
-            "type": "vmess",
-            "server": "172.67.68.82",
-            "server_port": 443,
-            "uuid": "af6eedf5-f2b4-447f-8b93-5fca33af06f8",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "172.67.68.82",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "172.67.68.82"
-                }
-            }
-        },
-        {
             "tag": "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
             "type": "vmess",
             "server": "89.116.38.184",
@@ -607,6 +582,15 @@
                     "Host": "glweidf.sbs"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 7",
+            "type": "vmess",
+            "server": "91.107.243.150",
+            "server_port": 32017,
+            "uuid": "c0ccdeb9-784c-4d67-b904-20dcaac9902a",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
