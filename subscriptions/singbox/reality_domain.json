@@ -98,9 +98,9 @@
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 17",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇷 FR | 🟢 | vless | @config_proxy | 19",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 7",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 44",
+                "🇩🇪 DE | 🟢 | vless | @cook_vpn | 6",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 6",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 7",
@@ -128,7 +128,7 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 16",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
@@ -189,9 +189,9 @@
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 17",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇷 FR | 🟢 | vless | @config_proxy | 19",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 7",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 44",
+                "🇩🇪 DE | 🟢 | vless | @cook_vpn | 6",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 6",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 7",
@@ -219,7 +219,7 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 16",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
@@ -490,29 +490,6 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @config_proxy | 19",
-            "type": "vless",
-            "server": "hp.mastertunnel.shop",
-            "server_port": 2096,
-            "uuid": "474494eb-e8ef-402e-be1c-f9670fcf3f33",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Un5haKCXEnekiryaRDLmOHCGEufZfseV6IpdKHnav3M",
-                    "short_id": "089604fd79ac01fd"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @configasli | 7",
             "type": "vless",
             "server": "s1.aparat-movies-download.ir",
@@ -560,6 +537,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @cook_vpn | 6",
+            "type": "vless",
+            "server": "tr.marzban-locations.com",
+            "server_port": 5056,
+            "uuid": "d062467b-98fb-4ddb-8157-fa75ea8171da",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604",
+                    "short_id": ""
+                }
             }
         },
         {
@@ -1255,7 +1255,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 16",
+            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 14",
             "type": "vless",
             "server": "balanced-de.irancdngame.com",
             "server_port": 2012,

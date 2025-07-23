@@ -98,6 +98,7 @@
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @g0dv2ray | 10",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -110,7 +111,7 @@
                 "❔ XX | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 17",
+                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
@@ -119,7 +120,7 @@
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇺🇸 US | 🟢 | ss | @vpn451 | 9",
-                "🇳🇱 NL | 🟢 | ss | @vpn_ioss | 14"
+                "🇳🇱 NL | 🟢 | ss | @vpn_ioss | 13"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -136,6 +137,7 @@
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @g0dv2ray | 10",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -148,7 +150,7 @@
                 "❔ XX | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 17",
+                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
@@ -157,7 +159,7 @@
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇺🇸 US | 🟢 | ss | @vpn451 | 9",
-                "🇳🇱 NL | 🟢 | ss | @vpn_ioss | 14"
+                "🇳🇱 NL | 🟢 | ss | @vpn_ioss | 13"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -239,6 +241,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "1xO2cqPazqjGfCfd"
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 6",
+            "type": "shadowsocks",
+            "server": "azure-sto.edgeservers.org",
+            "server_port": 48172,
+            "method": "chacha20-ietf-poly1305",
+            "password": "51yloQC8D9w1Wae7FHtI65"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -337,7 +347,7 @@
             "password": "1U5MUwZqVsFkDGXQfabJP9"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 17",
+            "tag": "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 16",
             "type": "shadowsocks",
             "server": "ltnl16.saint.ydns.eu",
             "server_port": 8080,
@@ -409,7 +419,7 @@
             "password": "hKz1zPVzgdJ2mFXEqLuQnD"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @vpn_ioss | 14",
+            "tag": "🇳🇱 NL | 🟢 | ss | @vpn_ioss | 13",
             "type": "shadowsocks",
             "server": "switcher-nick-croquet.freesocks.work",
             "server_port": 443,
