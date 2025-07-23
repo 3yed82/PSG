@@ -119,7 +119,7 @@
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇮🇷 IR | 🔴 | vless | @freevpn3327 | 6",
                 "🇺🇸 US | 🟢 | vless | @gervpn | 0",
-                "🇺🇸 US | 🔴 | vless | @getconfigir | 19",
+                "🇳🇱 NL | 🟢 | vless | @getconfigir | 19",
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
@@ -185,7 +185,6 @@
                 "🇨🇿 CZ | 🟢 | vless | @v2rayopen | 8",
                 "🇳🇱 NL | 🔴 | vless | @v2rayprotocol | 11",
                 "🇩🇪 DE | 🔴 | vless | @v2rayvmess | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 15",
                 "🇺🇸 US | 🟢 | vless | @v2source | 19",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
@@ -241,7 +240,7 @@
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇮🇷 IR | 🔴 | vless | @freevpn3327 | 6",
                 "🇺🇸 US | 🟢 | vless | @gervpn | 0",
-                "🇺🇸 US | 🔴 | vless | @getconfigir | 19",
+                "🇳🇱 NL | 🟢 | vless | @getconfigir | 19",
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
@@ -307,7 +306,6 @@
                 "🇨🇿 CZ | 🟢 | vless | @v2rayopen | 8",
                 "🇳🇱 NL | 🔴 | vless | @v2rayprotocol | 11",
                 "🇩🇪 DE | 🔴 | vless | @v2rayvmess | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 15",
                 "🇺🇸 US | 🟢 | vless | @v2source | 19",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
@@ -886,18 +884,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @getconfigir | 19",
+            "tag": "🇳🇱 NL | 🟢 | vless | @getconfigir | 19",
             "type": "vless",
-            "server": "104.16.53.11",
-            "server_port": 80,
-            "uuid": "b221eccb-6823-4940-8980-59db5ee0dbf1",
-            "flow": "",
+            "server": "199.247.28.17",
+            "server_port": 44914,
+            "uuid": "06e3029a-bab5-455b-9fbc-e555e5c1caed",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed",
-                "headers": {
-                    "Host": "104.16.53.11"
+            "tls": {
+                "enabled": true,
+                "server_name": "black-moai.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8",
+                    "short_id": "1ac2a2dde288"
                 }
             }
         },
@@ -2003,29 +2008,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "116.202.177.190"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "172.233.164.237",
-            "server_port": 80,
-            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
-                    "short_id": "94aa1bdc"
                 }
             }
         },
