@@ -868,10 +868,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
-            "vless",
             "vmess",
-            "ss"
+            "trojan",
+            "ss",
+            "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1366,7 +1366,6 @@
     },
     "mowjproxy": {
         "types": [
-            "ss",
             "vless",
             "vmess"
         ],
@@ -2134,8 +2133,8 @@
     "v2ray_free_conf": {
         "types": [
             "trojan",
-            "vmess",
             "ss",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2244,7 +2243,6 @@
     "v2raying": {
         "types": [
             "vless",
-            "ss",
             "vmess"
         ],
         "title": "v2rayNG_VPN",
@@ -2592,9 +2590,8 @@
     "vpn_ioss": {
         "types": [
             "vless",
-            "vmess",
             "ss",
-            "trojan"
+            "vmess"
         ],
         "title": "کانفیگ سرور V2rayng🔐",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_ioss.jpg"
