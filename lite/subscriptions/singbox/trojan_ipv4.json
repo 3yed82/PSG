@@ -93,7 +93,7 @@
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
-                "🇺🇸 US | 🟢 | trojan | @orange_vpns | 18",
+                "🇺🇸 US | 🟢 | trojan | @orange_vpns | 17",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
@@ -110,7 +110,7 @@
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
-                "🇺🇸 US | 🟢 | trojan | @orange_vpns | 18",
+                "🇺🇸 US | 🟢 | trojan | @orange_vpns | 17",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
@@ -145,12 +145,12 @@
         {
             "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
             "type": "trojan",
-            "server": "172.64.35.161",
+            "server": "198.41.223.136",
             "server_port": 443,
-            "password": "blue2024",
+            "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "tb.promote.icu",
+                "server_name": "198.41.223.136",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -198,7 +198,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @orange_vpns | 18",
+            "tag": "🇺🇸 US | 🟢 | trojan | @orange_vpns | 17",
             "type": "trojan",
             "server": "172.67.181.173",
             "server_port": 443,
