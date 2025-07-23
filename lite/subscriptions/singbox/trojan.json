@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 13",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
@@ -108,7 +108,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 13",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
@@ -145,9 +145,9 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
             "type": "trojan",
-            "server": "104.19.163.145",
+            "server": "104.16.93.142",
             "server_port": 443,
             "password": "blue2024",
             "tls": {
