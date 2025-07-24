@@ -97,7 +97,6 @@
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
-                "🇺🇸 US | 🔴 | vless | @fastshovpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 6",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 7",
@@ -108,7 +107,7 @@
                 "🇺🇸 US | 🔴 | vless | @nufilter | 12",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 13",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 14",
-                "🇨🇭 CH | 🔴 | vless | @proxy_mtproto_vpns_free | 11",
+                "🇨🇭 CH | 🔴 | vless | @proxy_mtproto_vpns_free | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
@@ -120,7 +119,6 @@
                 "🇫🇮 FI | 🟢 | vless | @vpnaloo | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 14",
-                "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 15",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 13",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
@@ -139,7 +137,6 @@
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
-                "🇺🇸 US | 🔴 | vless | @fastshovpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 6",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 7",
@@ -150,7 +147,7 @@
                 "🇺🇸 US | 🔴 | vless | @nufilter | 12",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 13",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 14",
-                "🇨🇭 CH | 🔴 | vless | @proxy_mtproto_vpns_free | 11",
+                "🇨🇭 CH | 🔴 | vless | @proxy_mtproto_vpns_free | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
@@ -162,7 +159,6 @@
                 "🇫🇮 FI | 🟢 | vless | @vpnaloo | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 14",
-                "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 15",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 13",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
@@ -259,15 +255,6 @@
             "server": "CoNFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "b0dc0687-a93b-48e0-b80c-e7604d3a3f05",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @fastshovpn | 3",
-            "type": "vless",
-            "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "bb691001-faf8-4b4e-af2e-bfb27780f689",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -371,7 +358,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇭 CH | 🔴 | vless | @proxy_mtproto_vpns_free | 11",
+            "tag": "🇨🇭 CH | 🔴 | vless | @proxy_mtproto_vpns_free | 10",
             "type": "vless",
             "server": "s2.1dnt.k-l.cloud",
             "server_port": 80,
@@ -531,15 +518,6 @@
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 14",
-            "type": "vless",
-            "server": "speedy.mooo.info",
-            "server_port": 80,
-            "uuid": "b22e50a2-a1d5-45e4-aeb1-550d322ae2fb",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @vpnplusee_free | 15",
             "type": "vless",
             "server": "speedy.mooo.info",
             "server_port": 80,
