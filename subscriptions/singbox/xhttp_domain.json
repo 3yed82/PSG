@@ -96,6 +96,7 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 6",
@@ -115,7 +116,6 @@
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 3",
                 "🇫🇮 FI | 🟢 | vless | @v2trayproxy | 5",
                 "🇺🇸 US | 🔴 | vless | @v2trayproxy | 7",
-                "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 15",
                 "🇫🇮 FI | 🟢 | vless | @vpnaloo | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
@@ -135,6 +135,7 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 6",
@@ -154,7 +155,6 @@
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 3",
                 "🇫🇮 FI | 🟢 | vless | @v2trayproxy | 5",
                 "🇺🇸 US | 🔴 | vless | @v2trayproxy | 7",
-                "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 15",
                 "🇫🇮 FI | 🟢 | vless | @vpnaloo | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 12",
@@ -244,6 +244,15 @@
             "server": "Evay.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+            "type": "vless",
+            "server": "CoNFiGLiNE.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "b0dc0687-a93b-48e0-b80c-e7604d3a3f05",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -456,15 +465,6 @@
             "server": "CoNFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "TELEGRAM-CONFiGLiNE",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 15",
-            "type": "vless",
-            "server": "CoNFiGLiNE.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "b0dc0687-a93b-48e0-b80c-e7604d3a3f05",
             "flow": "",
             "packet_encoding": "xudp"
         },
