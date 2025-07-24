@@ -97,10 +97,10 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 17",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "❔ XX | 🟢 | vless | @club_profsor | 14",
+                "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 41",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 7",
-                "🇫🇮 FI | 🟢 | vless | @configfa | 13",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
+                "🇩🇪 DE | 🟢 | vless | @configfa | 17",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @farahvpn | 15",
                 "🇳🇱 NL | 🟢 | vless | @farahvpn | 18",
@@ -138,8 +138,8 @@
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 9",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
-                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 117",
-                "🇱🇰 LK | 🟢 | vless | @prrofile_purple | 118",
+                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 123",
+                "🇱🇰 LK | 🟢 | vless | @prrofile_purple | 124",
                 "❔ XX | 🟢 | vless | @public504 | 9",
                 "❔ XX | 🟢 | vless | @public504 | 11",
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
@@ -189,10 +189,10 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 17",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "❔ XX | 🟢 | vless | @club_profsor | 14",
+                "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 41",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 7",
-                "🇫🇮 FI | 🟢 | vless | @configfa | 13",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
+                "🇩🇪 DE | 🟢 | vless | @configfa | 17",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @farahvpn | 15",
                 "🇳🇱 NL | 🟢 | vless | @farahvpn | 18",
@@ -230,8 +230,8 @@
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 9",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
-                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 117",
-                "🇱🇰 LK | 🟢 | vless | @prrofile_purple | 118",
+                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 123",
+                "🇱🇰 LK | 🟢 | vless | @prrofile_purple | 124",
                 "❔ XX | 🟢 | vless | @public504 | 9",
                 "❔ XX | 🟢 | vless | @public504 | 11",
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
@@ -469,7 +469,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @club_profsor | 14",
+            "tag": "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
             "type": "vless",
             "server": "bmi.raheaiande.ir",
             "server_port": 1001,
@@ -488,6 +488,29 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 41",
+            "type": "vless",
+            "server": "world-of.ru",
+            "server_port": 443,
+            "uuid": "854d000e-b99c-4655-9f3e-5fe8d8f508c1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs",
+                    "short_id": "71e48a"
                 }
             }
         },
@@ -515,11 +538,11 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @configfa | 13",
+            "tag": "🇩🇪 DE | 🟢 | vless | @configfa | 17",
             "type": "vless",
-            "server": "legend.zooboming.com",
-            "server_port": 443,
-            "uuid": "ItsLegendaryking",
+            "server": "real-all3-2.sdcards.ir",
+            "server_port": 8501,
+            "uuid": "ac37eb9c-0db8-4056-8f61-e8db4e2da35e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -532,35 +555,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "IYxYhQXI0D8th_9qUhKe7NQbMup2yVVl2yVduVBfQz4",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "uuk4v.tok8888.com",
-            "server_port": 8443,
-            "uuid": "6e719400-b88e-4ab0-a05b-089d6cd3bcaa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.apple.com.cn",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8",
-                    "short_id": ""
+                    "public_key": "OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI",
+                    "short_id": "e701a013553059ba"
                 }
             }
         },
@@ -1499,7 +1495,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 117",
+            "tag": "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 123",
             "type": "vless",
             "server": "xpanel.panelfreedom.com",
             "server_port": 2090,
@@ -1522,7 +1518,7 @@
             }
         },
         {
-            "tag": "🇱🇰 LK | 🟢 | vless | @prrofile_purple | 118",
+            "tag": "🇱🇰 LK | 🟢 | vless | @prrofile_purple | 124",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,
