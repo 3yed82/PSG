@@ -94,7 +94,6 @@
                 "❔ XX | 🟢 | ss | @chestertm | 19",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 16",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
@@ -112,7 +111,7 @@
                 "❔ XX | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 6",
-                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 17",
+                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
@@ -120,8 +119,7 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
-                "🇺🇸 US | 🟢 | ss | @vpn451 | 9",
-                "❔ XX | 🟢 | ss | @zerobaipiao | 41"
+                "🇺🇸 US | 🟢 | ss | @vpn451 | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -134,7 +132,6 @@
                 "❔ XX | 🟢 | ss | @chestertm | 19",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 16",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
@@ -152,7 +149,7 @@
                 "❔ XX | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 6",
-                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 17",
+                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
@@ -160,8 +157,7 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
-                "🇺🇸 US | 🟢 | ss | @vpn451 | 9",
-                "❔ XX | 🟢 | ss | @zerobaipiao | 41"
+                "🇺🇸 US | 🟢 | ss | @vpn451 | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -211,14 +207,6 @@
             "server_port": 10107,
             "method": "aes-256-gcm",
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | ss | @configshubplus | 16",
-            "type": "shadowsocks",
-            "server": "h110vpnde.outlinekeys.net",
-            "server_port": 21712,
-            "method": "chacha20-ietf-poly1305",
-            "password": "GNF4E3ASA7lDLhjFEqp9Qk"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
@@ -357,7 +345,7 @@
             "password": "1U5MUwZqVsFkDGXQfabJP9"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 17",
+            "tag": "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 16",
             "type": "shadowsocks",
             "server": "de-freevmess.privateip.net",
             "server_port": 8443,
@@ -427,14 +415,6 @@
             "server_port": 34868,
             "method": "chacha20-ietf-poly1305",
             "password": "hKz1zPVzgdJ2mFXEqLuQnD"
-        },
-        {
-            "tag": "❔ XX | 🟢 | ss | @zerobaipiao | 41",
-            "type": "shadowsocks",
-            "server": "iepl.huli168.com",
-            "server_port": 42277,
-            "method": "aes-256-gcm",
-            "password": "cj3STx+0NwLUQFvJWHbKmQ=="
         }
     ],
     "route": {
