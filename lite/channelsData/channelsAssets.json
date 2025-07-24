@@ -859,10 +859,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
             "trojan",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2399,9 +2399,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vmess",
             "vless",
-            "trojan"
+            "vmess"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
