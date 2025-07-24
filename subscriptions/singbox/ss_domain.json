@@ -111,7 +111,6 @@
                 "❔ XX | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 6",
-                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
@@ -149,7 +148,6 @@
                 "❔ XX | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 6",
-                "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
@@ -343,14 +341,6 @@
             "server_port": 39448,
             "method": "chacha20-ietf-poly1305",
             "password": "1U5MUwZqVsFkDGXQfabJP9"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | ss | @v2ray_free_conf | 16",
-            "type": "shadowsocks",
-            "server": "de-freevmess.privateip.net",
-            "server_port": 8443,
-            "method": "aes-256-gcm",
-            "password": "5bda2736-81e7-43b4-86fc-286f8f8e6578"
         },
         {
             "tag": "🇹🇷 TR | 🟢 | ss | @v2ray_v_vpn | 19",
