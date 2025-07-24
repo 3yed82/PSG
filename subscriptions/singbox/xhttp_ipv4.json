@@ -90,15 +90,14 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 52",
                 "🇺🇸 US | 🔴 | vless | @configfa | 40",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 10",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 1",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇩🇪 DE | 🟢 | vless | @falcunargo | 4",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
+                "🇺🇸 US | 🟢 | vless | @getconfigir | 18",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
                 "🇳🇱 NL | 🟢 | vless | @ghalagyann | 15",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 6",
@@ -140,15 +139,14 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 52",
                 "🇺🇸 US | 🔴 | vless | @configfa | 40",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 10",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 1",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇩🇪 DE | 🟢 | vless | @falcunargo | 4",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
+                "🇺🇸 US | 🟢 | vless | @getconfigir | 18",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
                 "🇳🇱 NL | 🟢 | vless | @ghalagyann | 15",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 6",
@@ -216,24 +214,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 52",
-            "type": "vless",
-            "server": "104.21.48.1",
-            "server_port": 2083,
-            "uuid": "c4e6a6ef-d782-4a12-a38a-906a61ee5bc1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cho.chonon.sbs",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @configfa | 40",
             "type": "vless",
             "server": "198.58.118.49",
@@ -248,29 +228,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "159.65.24.214",
-            "server_port": 44486,
-            "uuid": "bddee8f2-784e-47b4-a7a5-65557bf813ff",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4Iu8Qa-XePGCSkg0_W_KEUV7bJj7ysmfAYsOJvZsFxM",
-                    "short_id": "1b74288a"
                 }
             }
         },
@@ -385,6 +342,24 @@
                     "enabled": true,
                     "public_key": "cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc",
                     "short_id": "dc5db021ae2038a9"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @getconfigir | 18",
+            "type": "vless",
+            "server": "104.21.48.1",
+            "server_port": 2083,
+            "uuid": "c4e6a6ef-d782-4a12-a38a-906a61ee5bc1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cho.chonon.sbs",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
