@@ -104,7 +104,7 @@
                 "🇺🇸 US | 🔴 | vless | @cr7v2ry | 17",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇮🇷 IR | 🔴 | vless | @easy_free_vpn | 2",
@@ -123,10 +123,10 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "❔ XX | 🟢 | vless | @garnet_free | 11",
                 "❔ XX | 🔴 | vless | @ge2ray | 4",
-                "🇹🇷 TR | 🔴 | vless | @getconfigir | 18",
                 "❔ XX | 🟢 | vless | @god_server7 | 1",
                 "🇮🇷 IR | 🔴 | vless | @golf_vpn | 14",
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
+                "🇺🇸 US | 🔴 | vless | @ip_cf_config | 15",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -236,7 +236,7 @@
                 "🇺🇸 US | 🔴 | vless | @cr7v2ry | 17",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇮🇷 IR | 🔴 | vless | @easy_free_vpn | 2",
@@ -255,10 +255,10 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "❔ XX | 🟢 | vless | @garnet_free | 11",
                 "❔ XX | 🔴 | vless | @ge2ray | 4",
-                "🇹🇷 TR | 🔴 | vless | @getconfigir | 18",
                 "❔ XX | 🟢 | vless | @god_server7 | 1",
                 "🇮🇷 IR | 🔴 | vless | @golf_vpn | 14",
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
+                "🇺🇸 US | 🔴 | vless | @ip_cf_config | 15",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -602,7 +602,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -902,15 +902,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇹🇷 TR | 🔴 | vless | @getconfigir | 18",
-            "type": "vless",
-            "server": "dl1-tr-cdn.easy-upload.org",
-            "server_port": 2010,
-            "uuid": "c32819a3-bb1c-4e15-be00-ffcb657f8323",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @god_server7 | 1",
             "type": "vless",
             "server": "qio.gsvd.xyz",
@@ -957,6 +948,22 @@
                 "path": "/custom-config",
                 "headers": {
                     "Host": "cdn.king4father.shop"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @ip_cf_config | 15",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8080,
+            "uuid": "---Parsashonam--10-",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },

@@ -90,13 +90,13 @@
                 "auto",
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
-                "🇸🇪 SE | 🟢 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇺🇸 US | 🟢 | trojan | @orange_vpns | 17",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
+                "🇺🇸 US | 🔴 | trojan | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4"
             ],
             "tag": "proxy",
@@ -106,13 +106,13 @@
             "interval": "10m",
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
-                "🇸🇪 SE | 🟢 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇺🇸 US | 🟢 | trojan | @orange_vpns | 17",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
+                "🇺🇸 US | 🔴 | trojan | @v2rayweb | 18",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4"
             ],
             "tag": "auto",
@@ -130,22 +130,6 @@
             "server": "15.236.67.13",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🟢 | trojan | @hope_net | 19",
-            "type": "trojan",
-            "server": "51.20.16.243",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
@@ -259,6 +243,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @v2rayweb | 18",
+            "type": "trojan",
+            "server": "104.17.33.7",
+            "server_port": 443,
+            "password": "blue2024",
+            "tls": {
+                "enabled": true,
+                "server_name": "td.promote.icu",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
