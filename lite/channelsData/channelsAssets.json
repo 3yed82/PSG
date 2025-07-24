@@ -794,9 +794,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "vmess",
             "ss",
+            "vmess",
+            "trojan",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -859,8 +859,8 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
             "vmess",
+            "trojan",
             "vless",
             "ss"
         ],
@@ -1357,9 +1357,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "vmess",
-            "ss"
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
