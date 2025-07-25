@@ -111,9 +111,9 @@
         {
             "tag": "❔ XX | 🟢 | trojan | @freevpnatm | 15",
             "type": "trojan",
-            "server": "[2606:4700:3030::6815:4001]",
+            "server": "[2606:4700:3030::6815:6001]",
             "server_port": 443,
-            "password": "2d068083-2cb0-4ae3-a44a-6fc82f3039cc",
+            "password": "c891d9fe-c4eb-4526-94e0-d9bf841c572a",
             "tls": {
                 "enabled": true,
                 "server_name": "",
@@ -125,7 +125,7 @@
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "yBqYg1mv8ED4MTTdA9h4p"
+                "service_name": "xMZBZXFlWfYwwC6ybGb"
             }
         }
     ],

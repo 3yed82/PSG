@@ -94,9 +94,9 @@
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 11",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configasli | 4",
-                "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 18",
+                "🇨🇦 CA | 🟢 | vless | @config_proxy | 23",
+                "🇦🇺 AU | 🟢 | vless | @configshubplus | 14",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 9",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -207,9 +207,9 @@
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 11",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configasli | 4",
-                "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 18",
+                "🇨🇦 CA | 🟢 | vless | @config_proxy | 23",
+                "🇦🇺 AU | 🟢 | vless | @configshubplus | 14",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 9",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -438,16 +438,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configasli | 4",
+            "tag": "🇨🇦 CA | 🟢 | vless | @config_proxy | 23",
             "type": "vless",
-            "server": "91.107.183.90",
-            "server_port": 53234,
-            "uuid": "83e410d7-810f-48f8-9c90-f90010642313",
+            "server": "51.79.28.157",
+            "server_port": 2053,
+            "uuid": "08f7c98e-506c-4aca-a3ab-6fc99d015555",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "91.107.183.90",
+                "server_name": "sourceforge.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -455,40 +455,40 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "nHcG3w_9U-6o7Cu-IBfxt28sUm7Cge8O6va5c3oJ0y8",
-                    "short_id": ""
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "Telegram"
+                "service_name": "t.me/entryNET"
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+            "tag": "🇦🇺 AU | 🟢 | vless | @configshubplus | 14",
             "type": "vless",
-            "server": "172.232.33.18",
-            "server_port": 443,
-            "uuid": "fe48773b-df06-409a-bc61-117cd8fb1eb7",
+            "server": "45.80.230.190",
+            "server_port": 65076,
+            "uuid": "655a6618-4d41-46e8-a8e1-9e9f47798985",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ftp.debian.org",
+                "server_name": "stackoverflow.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "randomized"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
-                    "short_id": "b5ecd44d"
+                    "public_key": "F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw",
+                    "short_id": "f481"
                 }
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 18",
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
             "type": "vless",
             "server": "142.93.171.104",
             "server_port": 443,
