@@ -94,9 +94,9 @@
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 11",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 25",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇮🇪 IE | 🟢 | vless | @configshubplus | 18",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 9",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -207,9 +207,9 @@
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 11",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 25",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇮🇪 IE | 🟢 | vless | @configshubplus | 18",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 9",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -438,6 +438,33 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 25",
+            "type": "vless",
+            "server": "91.99.195.6",
+            "server_port": 80,
+            "uuid": "91a5d5b3-4b88-4359-aeec-e1532f535fd6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4",
+                    "short_id": "bc063769cb"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "refersion.com"
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @configasli | 4",
             "type": "vless",
             "server": "91.107.183.90",
@@ -484,29 +511,6 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇪 IE | 🟢 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "95.164.44.237",
-            "server_port": 49790,
-            "uuid": "99210efd-1a49-4085-add3-d1d2e4fdd6c2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU",
-                    "short_id": "9d90d7ada8"
                 }
             }
         },
