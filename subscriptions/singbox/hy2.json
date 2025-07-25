@@ -89,8 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | hy2 | @filter_breaker | 43",
-                "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 11"
+                "❔ XX | 🟢 | hy2 | @filter_breaker | 43"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -98,8 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | hy2 | @filter_breaker | 43",
-                "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 11"
+                "❔ XX | 🟢 | hy2 | @filter_breaker | 43"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -123,25 +121,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "nlnl.yinheyz.cfd",
-                "insecure": true,
-                "alpn": [
-                    "h3"
-                ]
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | hy2 | @noforcedheaven | 11",
-            "type": "hysteria2",
-            "server": "46.62.152.236",
-            "server_port": 443,
-            "password": "a2678c97b8d79059",
-            "obfs": {
-                "type": "salamander",
-                "password": "9242a8bf"
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "46.62.152.236",
                 "insecure": true,
                 "alpn": [
                     "h3"

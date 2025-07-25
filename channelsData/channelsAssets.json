@@ -360,7 +360,10 @@
     },
     "configshubplus": {
         "types": [
-            "vless"
+            "vmess",
+            "vless",
+            "trojan",
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -1143,9 +1146,9 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
-            "vless",
             "trojan",
+            "vless",
+            "vmess",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1217,8 +1220,8 @@
         "types": [
             "trojan",
             "ss",
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1404,9 +1407,9 @@
     },
     "kafing_2": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "کافینگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/kafing_2.jpg"
@@ -1798,8 +1801,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2834,7 +2837,6 @@
     },
     "v2raych": {
         "types": [
-            "ss",
             "vless",
             "trojan"
         ],
@@ -3270,8 +3272,8 @@
     },
     "vmess_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmess_ir.jpg"
