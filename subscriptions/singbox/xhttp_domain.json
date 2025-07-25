@@ -101,6 +101,7 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 5",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 7",
+                "🇺🇸 US | 🔴 | vless | @getconfigir | 11",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🔴 | vless | @nofiltering2 | 20",
@@ -135,6 +136,7 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 5",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 7",
+                "🇺🇸 US | 🔴 | vless | @getconfigir | 11",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🔴 | vless | @nofiltering2 | 20",
@@ -279,6 +281,15 @@
             "server": "speedtest.net",
             "server_port": 80,
             "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @getconfigir | 11",
+            "type": "vless",
+            "server": "CoNFiGLiNE.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "ca34ab0c-eb9e-48e0-9077-24c39e6effb7",
             "flow": "",
             "packet_encoding": "xudp"
         },

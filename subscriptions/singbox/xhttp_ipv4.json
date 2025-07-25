@@ -103,9 +103,8 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 9",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 6",
+                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 5",
                 "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 20",
-                "🇺🇸 US | 🔴 | vless | @mehrosaboran | 5",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
@@ -113,7 +112,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
-                "🇩🇪 DE | 🔴 | vless | @proxy_mtproto_vpns_free | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 3",
@@ -150,9 +148,8 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 9",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 6",
+                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 5",
                 "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 20",
-                "🇺🇸 US | 🔴 | vless | @mehrosaboran | 5",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
@@ -160,7 +157,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
-                "🇩🇪 DE | 🔴 | vless | @proxy_mtproto_vpns_free | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 3",
@@ -415,7 +411,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @lranonline_new | 6",
+            "tag": "🇩🇪 DE | 🔴 | vless | @lranonline_new | 5",
             "type": "vless",
             "server": "91.99.80.215",
             "server_port": 8443,
@@ -429,15 +425,6 @@
             "server": "45.150.33.157",
             "server_port": 50810,
             "uuid": "1ea87307-1d00-4c15-af3f-b363f8562ac5",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @mehrosaboran | 5",
-            "type": "vless",
-            "server": "151.101.195.8",
-            "server_port": 80,
-            "uuid": "90b89fd9-1682-4b01-93ac-bd1300d2a22f",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -548,15 +535,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @proxy_mtproto_vpns_free | 15",
-            "type": "vless",
-            "server": "91.99.181.47",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -681,7 +659,7 @@
             "type": "vless",
             "server": "45.150.33.157",
             "server_port": 50810,
-            "uuid": "88903270-dc79-4dc2-9ce8-3c230eca3cf6",
+            "uuid": "0a806f40-bd95-42c3-8457-f520f80bfd61",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -704,7 +682,7 @@
             "type": "vless",
             "server": "45.150.33.157",
             "server_port": 50810,
-            "uuid": "0a806f40-bd95-42c3-8457-f520f80bfd61",
+            "uuid": "9d21a437-dbae-4995-949b-d9920f2613a9",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
