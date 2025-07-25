@@ -368,7 +368,8 @@
     "configshubplus": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -425,7 +426,7 @@
         "types": [
             "vless"
         ],
-        "title": "💜𝐂𝐎𝐎𝐊 𝐕𝐏𝐍 𝐂𝐨𝐧𝐅𝐢𝐆💜",
+        "title": "🩷 𝐂𝐨𝐨𝐤 𝐕𝐩𝐧 𝐂𝐨𝐧𝐅𝐢𝐆 🩷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/cook_vpn.jpg"
     },
     "cr7v2ry": {
@@ -1149,8 +1150,8 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess",
             "trojan"
         ],
@@ -1221,10 +1222,9 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
-            "vmess",
             "ss",
-            "vless"
+            "trojan",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2239,7 +2239,6 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
-            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2863,7 +2862,6 @@
     },
     "v2raych": {
         "types": [
-            "vmess",
             "vless",
             "trojan"
         ],
@@ -2888,7 +2886,6 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -3133,8 +3130,7 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
-            "trojan"
+            "vless"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
