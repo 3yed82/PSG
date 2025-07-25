@@ -91,12 +91,12 @@
                 "direct",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇵🇱 PL | 🟢 | trojan | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇸🇬 SG | 🟢 | trojan | @freevpnatm | 16",
                 "🇸🇬 SG | 🟢 | trojan | @freevpnatm | 17",
                 "🇸🇬 SG | 🟢 | trojan | @freevpnatm | 18",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 12",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -118,12 +118,12 @@
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇵🇱 PL | 🟢 | trojan | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "🇸🇬 SG | 🟢 | trojan | @freevpnatm | 16",
                 "🇸🇬 SG | 🟢 | trojan | @freevpnatm | 17",
                 "🇸🇬 SG | 🟢 | trojan | @freevpnatm | 18",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 12",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -180,22 +180,6 @@
                 "path": "/trojan-ntls",
                 "headers": {
                     "Host": "asia.artunnel57.host"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱 PL | 🟢 | trojan | @configshubplus | 14",
-            "type": "trojan",
-            "server": "pl-1.stunnel.cc",
-            "server_port": 8441,
-            "password": "tunnel-astro",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir.AstroVPN-official.AstroVPN-official.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -304,6 +288,22 @@
                 "path": "/",
                 "headers": {
                     "Host": "www.alibaba.com"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 12",
+            "type": "trojan",
+            "server": "stirring-parakeet.shiner427.skin",
+            "server_port": 443,
+            "password": "74260628090146500",
+            "tls": {
+                "enabled": true,
+                "server_name": "stirring-parakeet.shiner427.skin",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
