@@ -131,8 +131,7 @@
                 "❔ XX | 🔴 | vless | @ch_a2l | 3",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇸🇮 SI | 🟢 | vless | @config_proxy | 22",
-                "🇫🇮 FI | 🔴 | vless | @config_proxy | 24",
+                "🇹🇷 TR | 🔴 | vless | @config_proxy | 24",
                 "🇺🇸 US | 🟢 | vless | @config_proxy_ir | 14",
                 "🇺🇸 US | 🔴 | vless | @config_proxy_ir | 18",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 7",
@@ -167,8 +166,8 @@
                 "❔ XX | 🔴 | vless | @customizev2ray | 26",
                 "❔ XX | 🔴 | vless | @dargiiriis | 2",
                 "🇮🇷 IR | 🔴 | vless | @dargiiriis | 3",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 0",
                 "❔ XX | 🟢 | vless | @deragv2ray | 1",
                 "❔ XX | 🔴 | vless | @dgkbza | 17",
@@ -683,8 +682,7 @@
                 "❔ XX | 🔴 | vless | @ch_a2l | 3",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇸🇮 SI | 🟢 | vless | @config_proxy | 22",
-                "🇫🇮 FI | 🔴 | vless | @config_proxy | 24",
+                "🇹🇷 TR | 🔴 | vless | @config_proxy | 24",
                 "🇺🇸 US | 🟢 | vless | @config_proxy_ir | 14",
                 "🇺🇸 US | 🔴 | vless | @config_proxy_ir | 18",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 7",
@@ -719,8 +717,8 @@
                 "❔ XX | 🔴 | vless | @customizev2ray | 26",
                 "❔ XX | 🔴 | vless | @dargiiriis | 2",
                 "🇮🇷 IR | 🔴 | vless | @dargiiriis | 3",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 0",
                 "❔ XX | 🟢 | vless | @deragv2ray | 1",
                 "❔ XX | 🔴 | vless | @dgkbza | 17",
@@ -1983,36 +1981,20 @@
             }
         },
         {
-            "tag": "🇸🇮 SI | 🟢 | vless | @config_proxy | 22",
+            "tag": "🇹🇷 TR | 🔴 | vless | @config_proxy | 24",
             "type": "vless",
-            "server": "tunnyl.ru",
-            "server_port": 443,
-            "uuid": "48ca5947-d3b7-4716-b51a-ef1df1c47ecc",
-            "flow": "xtls-rprx-vision",
+            "server": "tr-vip.digitalldns.net",
+            "server_port": 8080,
+            "uuid": "638182ae-9b98-449e-bdc0-4e3fadb3e244",
+            "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI",
-                    "short_id": "5c0333ed45b1"
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-vip.digitalldns.net"
                 }
             }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔴 | vless | @config_proxy | 24",
-            "type": "vless",
-            "server": "fl-vip.digitalldns.net",
-            "server_port": 8080,
-            "uuid": "7babd487-be4a-4392-b28e-0bbed53c82cd",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @config_proxy_ir | 14",
@@ -2612,7 +2594,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -2621,7 +2603,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,

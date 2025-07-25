@@ -116,9 +116,9 @@
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 15",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 17",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
-                "🏳️  | 🟢 | trojan | @hope_net | 19",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 15",
+                "🏳️  | 🟢 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 12",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
@@ -132,8 +132,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 19",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 4",
                 "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 5",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 15",
-                "🇲🇻 MV | 🔴 | trojan | @v2raych | 17",
+                "🇺🇸 US | 🟢 | trojan | @v2raych | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2raying | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 9",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 10",
@@ -175,9 +174,9 @@
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 15",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 17",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
-                "🏳️  | 🟢 | trojan | @hope_net | 19",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 15",
+                "🏳️  | 🟢 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 12",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
@@ -191,8 +190,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 19",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 4",
                 "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 5",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 15",
-                "🇲🇻 MV | 🔴 | trojan | @v2raych | 17",
+                "🇺🇸 US | 🟢 | trojan | @v2raych | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2raying | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 9",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 10",
@@ -707,30 +705,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
-            "type": "trojan",
-            "server": "188.114.98.138",
-            "server_port": 2053,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "G1-21N.paGEs.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "G1-21N.paGEs.dev"
-                }
-            }
-        },
-        {
-            "tag": "🏳️  | 🟢 | trojan | @hope_net | 19",
+            "tag": "🏳️  | 🟢 | trojan | @hope_net | 17",
             "type": "trojan",
             "server": "127.0.0.1",
             "server_port": 8080,
@@ -746,7 +721,23 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 15",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+            "type": "trojan",
+            "server": "104.27.63.104",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "104.27.63.104",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 12",
             "type": "trojan",
             "server": "192.3.107.252",
             "server_port": 443,
@@ -959,41 +950,18 @@
             "password": ""
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 15",
+            "tag": "🇺🇸 US | 🟢 | trojan | @v2raych | 19",
             "type": "trojan",
-            "server": "198.41.214.39",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
+            "server": "52.21.177.242",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
             "tls": {
                 "enabled": true,
-                "server_name": "198.41.214.39",
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇲🇻 MV | 🔴 | trojan | @v2raych | 17",
-            "type": "trojan",
-            "server": "154.85.99.206",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "bpb.my79801.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tr",
-                "headers": {
-                    "Host": "bpb.my79801.com"
                 }
             }
         },
