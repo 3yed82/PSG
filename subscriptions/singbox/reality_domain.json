@@ -104,11 +104,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 16",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 17",
-                "🇫🇷 FR | 🟢 | vless | @getconfigir | 19",
-                "🇷🇺 RU | 🟢 | vless | @icv2ray | 15",
+                "🇷🇺 RU | 🟢 | vless | @icv2ray | 14",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
@@ -150,7 +146,7 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 15",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -191,11 +187,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 16",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 17",
-                "🇫🇷 FR | 🟢 | vless | @getconfigir | 19",
-                "🇷🇺 RU | 🟢 | vless | @icv2ray | 15",
+                "🇷🇺 RU | 🟢 | vless | @icv2ray | 14",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
@@ -237,7 +229,7 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 15",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -648,99 +640,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
-            "type": "vless",
-            "server": "uuk4v.tok8888.com",
-            "server_port": 8443,
-            "uuid": "d1bcd5ee-7bdb-4de9-9aa7-48f54a97390d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.apple.com.cn",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @getconfigir | 16",
-            "type": "vless",
-            "server": "uuk5v.tok8888.com",
-            "server_port": 8443,
-            "uuid": "d1bcd5ee-7bdb-4de9-9aa7-48f54a97390d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.apple.com.cn",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @getconfigir | 17",
-            "type": "vless",
-            "server": "uuk6v.tok8888.com",
-            "server_port": 45445,
-            "uuid": "d1bcd5ee-7bdb-4de9-9aa7-48f54a97390d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.webilop.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @getconfigir | 19",
-            "type": "vless",
-            "server": "Fr.safeline.afterhav.ir",
-            "server_port": 8880,
-            "uuid": "85c01ede-aba6-4097-9f08-7bcca4b7e36b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nY67OJRIT6u5NFprYLX51XsiPF9yC1ZrJOUm7IrYiQQ",
-                    "short_id": "a45148143948"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | vless | @icv2ray | 15",
+            "tag": "🇷🇺 RU | 🟢 | vless | @icv2ray | 14",
             "type": "vless",
             "server": "ru01-vlr01.tcp-reset-club.net",
             "server_port": 443,
@@ -1773,7 +1673,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
