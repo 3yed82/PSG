@@ -183,13 +183,6 @@
         "title": "bislullproxy | پروکسی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/bislullproxy.jpg"
     },
-    "bluevpn111": {
-        "types": [
-            "vmess"
-        ],
-        "title": "لطفا عضو کانال جدید شوید",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/bluevpn111.jpg"
-    },
     "bolbolvpn": {
         "types": [
             "vless"
@@ -241,13 +234,6 @@
         "title": "CaT VpN | خرید ارزان - برترین کیفیت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/catvpns.jpg"
     },
-    "cconfig_v2ray": {
-        "types": [
-            "vless"
-        ],
-        "title": "ℭ𝕔𝕠𝕟𝕗𝕚𝕘 𝓥2𝓻𝓪𝔂",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/cconfig_v2ray.jpg"
-    },
     "ch_a2l": {
         "types": [
             "vmess",
@@ -281,8 +267,8 @@
     },
     "config_proxy": {
         "types": [
-            "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -346,6 +332,7 @@
     "configshubplus": {
         "types": [
             "vless",
+            "vmess",
             "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -1200,9 +1187,9 @@
     "ip_cf_config": {
         "types": [
             "vless",
-            "ss",
             "vmess",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2709,10 +2696,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2804,6 +2791,7 @@
     "v2raych": {
         "types": [
             "vless",
+            "vmess",
             "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -3059,8 +3047,7 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
-            "trojan"
+            "vless"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
