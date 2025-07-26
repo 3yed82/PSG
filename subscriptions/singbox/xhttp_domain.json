@@ -94,9 +94,9 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
+                "🇺🇸 US | 🔴 | vless | @evay_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 2",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 5",
@@ -114,7 +114,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
                 "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
-                "🇺🇸 US | 🔴 | vless | @vmess_ir | 18",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 17",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -129,9 +129,9 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
+                "🇺🇸 US | 🔴 | vless | @evay_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 2",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 5",
@@ -149,7 +149,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
                 "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
-                "🇺🇸 US | 🔴 | vless | @vmess_ir | 18",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 17",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -222,7 +222,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 11",
             "type": "vless",
             "server": "Evay.fast.hosting-ip.com",
             "server_port": 80,
@@ -231,7 +231,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 12",
             "type": "vless",
             "server": "Evay-vpn.fast.hosting-ip.com",
             "server_port": 80,
@@ -240,7 +240,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 13",
             "type": "vless",
             "server": "Evay_vpn.fast.hosting-ip.com",
             "server_port": 80,
@@ -490,7 +490,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @vmess_ir | 18",
+            "tag": "🇺🇸 US | 🔴 | vless | @vmess_ir | 17",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
