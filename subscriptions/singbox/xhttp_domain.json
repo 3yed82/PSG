@@ -113,6 +113,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+                "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 19",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 9",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 10",
@@ -148,6 +150,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+                "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 19",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 9",
                 "🇺🇸 US | 🔴 | vless | @vtworay_wolf | 10",
@@ -465,6 +469,38 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
+            "type": "vless",
+            "server": "jakvar.mygoldiran.com",
+            "server_port": 31620,
+            "uuid": "6a662ec2-b975-407d-8a12-e64fdd569f9a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "iYLmd5EeyX5RfDwKpEBsESTRo9Z9Ybg1guiymunDXSc",
+                    "short_id": "ae"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @vmess_ir | 19",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",

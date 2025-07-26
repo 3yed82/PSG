@@ -104,6 +104,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
+                "🇸🇪 SE | 🟢 | vless | @getconfigir | 10",
                 "🇷🇺 RU | 🟢 | vless | @icv2ray | 15",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
@@ -143,13 +144,14 @@
                 "🇺🇸 US | 🟢 | vless | @v2ray_v_vpn | 20",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
+                "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
+                "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇫🇮 FI | 🟢 | vless | @vaynora | 5",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
+                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
@@ -187,6 +189,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
+                "🇸🇪 SE | 🟢 | vless | @getconfigir | 10",
                 "🇷🇺 RU | 🟢 | vless | @icv2ray | 15",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
@@ -226,13 +229,14 @@
                 "🇺🇸 US | 🟢 | vless | @v2ray_v_vpn | 20",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
+                "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
+                "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇫🇮 FI | 🟢 | vless | @vaynora | 5",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
+                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
@@ -637,6 +641,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@FsV2ray"
+            }
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | vless | @getconfigir | 10",
+            "type": "vless",
+            "server": "amazon-4.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
             }
         },
         {
@@ -1600,6 +1627,29 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 17",
+            "type": "vless",
+            "server": "jakvar.mygoldiran.com",
+            "server_port": 31620,
+            "uuid": "6a662ec2-b975-407d-8a12-e64fdd569f9a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "iYLmd5EeyX5RfDwKpEBsESTRo9Z9Ybg1guiymunDXSc",
+                    "short_id": "ae"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -1650,7 +1700,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
+            "tag": "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1750,7 +1800,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vmess_ir | 16",
             "type": "vless",
             "server": "pouriacheat.fergalvpnmod.com",
             "server_port": 2025,
