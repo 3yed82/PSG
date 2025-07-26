@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | vless | @canfing_vpn | 17",
+                "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -103,7 +103,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 7",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇬🇧 GB | 🟢 | vless | @netmellianti | 12",
+                "🇬🇧 GB | 🟢 | vless | @netmellianti | 11",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 11",
@@ -123,7 +123,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | vless | @canfing_vpn | 17",
+                "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -137,7 +137,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 7",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇬🇧 GB | 🟢 | vless | @netmellianti | 12",
+                "🇬🇧 GB | 🟢 | vless | @netmellianti | 11",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 11",
@@ -161,7 +161,7 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @canfing_vpn | 17",
+            "tag": "❔ XX | 🟢 | vless | @canfing_vpn | 16",
             "type": "vless",
             "server": "de6rt.samsungmarketshop.ir",
             "server_port": 2083,
@@ -301,7 +301,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @netmellianti | 12",
+            "tag": "🇬🇧 GB | 🟢 | vless | @netmellianti | 11",
             "type": "vless",
             "server": "luna.postpapet.ir",
             "server_port": 8443,
