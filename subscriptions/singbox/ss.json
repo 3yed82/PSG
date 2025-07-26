@@ -95,6 +95,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 13",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -136,11 +137,10 @@
                 "🇺🇸 US | 🟢 | ss | @filter_breaker | 51",
                 "🇵🇹 PT | 🟢 | ss | @filtershekan_channel | 12",
                 "🇸🇪 SE | 🟢 | ss | @freakconfig1 | 1",
-                "🇮🇳 IN | 🟢 | ss | @free1ss | 12",
-                "🇨🇴 CO | 🟢 | ss | @free1ss | 13",
-                "🇳🇱 NL | 🟢 | ss | @free1ss | 14",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 15",
-                "🇩🇪 DE | 🟢 | ss | @free1ss | 16",
+                "🇨🇴 CO | 🟢 | ss | @free1ss | 12",
+                "🇳🇱 NL | 🟢 | ss | @free1ss | 13",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 14",
+                "🇩🇪 DE | 🟢 | ss | @free1ss | 15",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇳🇱 NL | 🟢 | ss | @freevirgoolnet | 6",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
@@ -223,6 +223,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 13",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -264,11 +265,10 @@
                 "🇺🇸 US | 🟢 | ss | @filter_breaker | 51",
                 "🇵🇹 PT | 🟢 | ss | @filtershekan_channel | 12",
                 "🇸🇪 SE | 🟢 | ss | @freakconfig1 | 1",
-                "🇮🇳 IN | 🟢 | ss | @free1ss | 12",
-                "🇨🇴 CO | 🟢 | ss | @free1ss | 13",
-                "🇳🇱 NL | 🟢 | ss | @free1ss | 14",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 15",
-                "🇩🇪 DE | 🟢 | ss | @free1ss | 16",
+                "🇨🇴 CO | 🟢 | ss | @free1ss | 12",
+                "🇳🇱 NL | 🟢 | ss | @free1ss | 13",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 14",
+                "🇩🇪 DE | 🟢 | ss | @free1ss | 15",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇳🇱 NL | 🟢 | ss | @freevirgoolnet | 6",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
@@ -395,6 +395,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 13",
+            "type": "shadowsocks",
+            "server": "fin.outlinebot1.ru",
+            "server_port": 5904,
+            "method": "chacha20-ietf-poly1305",
+            "password": "5TZnwPb23pQS39lIucspJw"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -725,15 +733,7 @@
             "password": "ETt8vY8HbPwOfk21c3i13h"
         },
         {
-            "tag": "🇮🇳 IN | 🟢 | ss | @free1ss | 12",
-            "type": "shadowsocks",
-            "server": "103.111.114.29",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "360e21d21977dc11"
-        },
-        {
-            "tag": "🇨🇴 CO | 🟢 | ss | @free1ss | 13",
+            "tag": "🇨🇴 CO | 🟢 | ss | @free1ss | 12",
             "type": "shadowsocks",
             "server": "181.119.30.20",
             "server_port": 990,
@@ -741,7 +741,7 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @free1ss | 14",
+            "tag": "🇳🇱 NL | 🟢 | ss | @free1ss | 13",
             "type": "shadowsocks",
             "server": "80.92.206.214",
             "server_port": 8388,
@@ -749,7 +749,7 @@
             "password": "1fcYFV94a2oPYqwZ"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 15",
+            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 14",
             "type": "shadowsocks",
             "server": "104.167.197.25",
             "server_port": 57456,
@@ -757,7 +757,7 @@
             "password": "360e21d21977dc11"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @free1ss | 16",
+            "tag": "🇩🇪 DE | 🟢 | ss | @free1ss | 15",
             "type": "shadowsocks",
             "server": "81.19.141.45",
             "server_port": 443,
