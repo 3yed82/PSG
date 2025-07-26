@@ -122,6 +122,7 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 7",
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 9",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇵🇱 PL | 🟢 | vless | @hope_net | 19",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 2",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇦🇪 AE | 🟢 | vless | @icv2ray | 12",
@@ -231,6 +232,7 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 7",
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 9",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇵🇱 PL | 🟢 | vless | @hope_net | 19",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 2",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇦🇪 AE | 🟢 | vless | @icv2ray | 12",
@@ -1130,6 +1132,29 @@
                     "enabled": true,
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "🇵🇱 PL | 🟢 | vless | @hope_net | 19",
+            "type": "vless",
+            "server": "146.19.170.113",
+            "server_port": 443,
+            "uuid": "e380b385-c450-44ca-b34a-44e30ad377af",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "EsvkKogbRPn7YK-U5Rx5G5Q255VDmJMY4TU37KTVN14",
+                    "short_id": "1be095b3"
                 }
             }
         },
