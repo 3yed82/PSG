@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🔴 | trojan | @freevpnatm | 7"
+                "❔ XX | 🔴 | trojan | @freevpnatm | 5"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🔴 | trojan | @freevpnatm | 7"
+                "❔ XX | 🔴 | trojan | @freevpnatm | 5"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,7 +109,7 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🔴 | trojan | @freevpnatm | 7",
+            "tag": "❔ XX | 🔴 | trojan | @freevpnatm | 5",
             "type": "trojan",
             "server": "[2606:4700:3030::6815:4001]",
             "server_port": 443,
