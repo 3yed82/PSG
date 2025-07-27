@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇫🇮 FI | 🔴 | vless | @config_proxy | 44",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -103,7 +102,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇩🇪 DE | 🔴 | vless | @netmellianti | 10",
+                "🇩🇪 DE | 🔴 | vless | @netmellianti | 9",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 9",
@@ -123,7 +122,6 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇫🇮 FI | 🔴 | vless | @config_proxy | 44",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -136,7 +134,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇩🇪 DE | 🔴 | vless | @netmellianti | 10",
+                "🇩🇪 DE | 🔴 | vless | @netmellianti | 9",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 9",
@@ -180,15 +178,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔴 | vless | @config_proxy | 44",
-            "type": "vless",
-            "server": "xhttp-gr.hardwarenew.ir",
-            "server_port": 8081,
-            "uuid": "2fda02f1-7eee-42d3-beeb-bfe5a5608fb4",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -299,7 +288,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @netmellianti | 10",
+            "tag": "🇩🇪 DE | 🔴 | vless | @netmellianti | 9",
             "type": "vless",
             "server": "s5.1dnt.k-l.cloud",
             "server_port": 80,

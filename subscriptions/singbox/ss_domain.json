@@ -91,15 +91,15 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇬🇧 GB | 🟢 | ss | @cook_vpn | 2",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
-                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 13",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 11",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
+                "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "🇺🇸 US | 🟢 | ss | @outlinereleasedkey | 19",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
@@ -112,7 +112,6 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
-                "🇹🇷 TR | 🟢 | ss | @vmess_ir | 13",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
@@ -124,15 +123,15 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇬🇧 GB | 🟢 | ss | @cook_vpn | 2",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
-                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 13",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 11",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
+                "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "🇺🇸 US | 🟢 | ss | @outlinereleasedkey | 19",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
@@ -145,7 +144,6 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
-                "🇹🇷 TR | 🟢 | ss | @vmess_ir | 13",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
@@ -175,14 +173,6 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @cook_vpn | 2",
-            "type": "shadowsocks",
-            "server": "admin.c2.webramz.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "WstuSnlu4ieA9M0L"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
             "type": "shadowsocks",
             "server": "account-mec.emofid.co",
@@ -199,12 +189,12 @@
             "password": "u17T3BvpYaaiuW2c"
         },
         {
-            "tag": "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 13",
+            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 11",
             "type": "shadowsocks",
-            "server": "azure-sto.edgeservers.org",
-            "server_port": 48172,
+            "server": "beesyar.org",
+            "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "51yloQC8D9w1Wae7FHtI65"
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -245,6 +235,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
+            "type": "shadowsocks",
+            "server": "admin.c2.webramz.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WstuSnlu4ieA9M0L"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @outlinereleasedkey | 19",
@@ -341,14 +339,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ"
-        },
-        {
-            "tag": "🇹🇷 TR | 🟢 | ss | @vmess_ir | 13",
-            "type": "shadowsocks",
-            "server": "tr.vpnsparta.pro",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "c40641c1f89e7acb"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
