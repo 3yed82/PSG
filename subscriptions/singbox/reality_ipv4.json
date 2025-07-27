@@ -95,7 +95,6 @@
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇭🇺 HU | 🟢 | vless | @configfa | 14",
-                "🇱🇻 LV | 🟢 | vless | @configshubplus | 17",
                 "🇩🇪 DE | 🟢 | vless | @cook_vpn | 6",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
@@ -154,7 +153,6 @@
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 4",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 5",
-                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 7",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 129",
                 "🇦🇹 AT | 🟢 | vless | @rnrifci | 2",
@@ -168,9 +166,10 @@
                 "🇫🇷 FR | 🟢 | vless | @v2ray_one1 | 13",
                 "🇨🇿 CZ | 🟢 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 6",
+                "🇺🇸 US | 🟢 | vless | @v2raych | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngninja | 8",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 18",
                 "🇩🇪 DE | 🟢 | vless | @v2rayxservers | 14",
                 "🇳🇱 NL | 🟢 | vless | @v2trayproxy | 10",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
@@ -205,7 +204,6 @@
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇭🇺 HU | 🟢 | vless | @configfa | 14",
-                "🇱🇻 LV | 🟢 | vless | @configshubplus | 17",
                 "🇩🇪 DE | 🟢 | vless | @cook_vpn | 6",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
@@ -264,7 +262,6 @@
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 4",
                 "🇩🇪 DE | 🟢 | vless | @proxy_emperor | 5",
-                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 7",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 129",
                 "🇦🇹 AT | 🟢 | vless | @rnrifci | 2",
@@ -278,9 +275,10 @@
                 "🇫🇷 FR | 🟢 | vless | @v2ray_one1 | 13",
                 "🇨🇿 CZ | 🟢 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 6",
+                "🇺🇸 US | 🟢 | vless | @v2raych | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngninja | 8",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 18",
                 "🇩🇪 DE | 🟢 | vless | @v2rayxservers | 14",
                 "🇳🇱 NL | 🟢 | vless | @v2trayproxy | 10",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
@@ -451,29 +449,6 @@
                     "enabled": true,
                     "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
                     "short_id": "4ae260"
-                }
-            }
-        },
-        {
-            "tag": "🇱🇻 LV | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "213.21.222.172",
-            "server_port": 443,
-            "uuid": "e134f4a5-346e-493f-b74a-988ef7a4ff27",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cdnjs.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg",
-                    "short_id": "19aa22f681923dc8"
                 }
             }
         },
@@ -1919,29 +1894,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 7",
-            "type": "vless",
-            "server": "91.107.166.12",
-            "server_port": 8444,
-            "uuid": "531a2bd7-c7ea-8e2c-5b9c-4dafdbc25595",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "mega.io",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Tpf84iyo4XjKruHcEhy1eY76OWycx8VxAWvdRg0sXWE",
-                    "short_id": "42ded0abe590717d"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
             "type": "vless",
             "server": "147.182.183.207",
@@ -2269,6 +2221,29 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2raych | 19",
+            "type": "vless",
+            "server": "107.172.72.164",
+            "server_port": 32657,
+            "uuid": "86c346de-26ad-4cc9-a728-c295653f9b05",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "app.trelica.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZeVuBzqmPFI9tKpeD016_hkpoaZkG7Q-BofaEcprgyQ",
+                    "short_id": "f6620642"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
             "type": "vless",
             "server": "5.75.215.191",
@@ -2326,25 +2301,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 18",
             "type": "vless",
-            "server": "5.181.171.10",
+            "server": "5.253.246.137",
             "server_port": 443,
-            "uuid": "49ed01ad-3bb4-204f-b0ff-a58f658fd618",
+            "uuid": "5ddef7f7-ae60-435f-8413-3b1b01a68d41",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "speed.cloudflare.com",
+                "server_name": "www.aparat.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
-                    "short_id": ""
+                    "public_key": "spoCcVz7MlzugleKorXVNP6mI7zTnLIT3H0ehUIplRw",
+                    "short_id": "87ee"
                 }
             }
         },
