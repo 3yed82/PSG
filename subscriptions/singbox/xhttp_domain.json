@@ -91,7 +91,6 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -107,7 +106,7 @@
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 12",
-                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 122",
+                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
@@ -125,7 +124,6 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -141,7 +139,7 @@
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 12",
-                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 122",
+                "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
@@ -191,24 +189,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "server271816966957306554.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server271816966957306554.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔴 | vless | @dgkbza | 18",
@@ -397,7 +377,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 122",
+            "tag": "🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127",
             "type": "vless",
             "server": "vip1.proxystore11.news",
             "server_port": 15110,
