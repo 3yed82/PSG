@@ -94,6 +94,7 @@
                 "🇬🇧 GB | 🟢 | ss | @cook_vpn | 2",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 13",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -111,7 +112,7 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
-                "🇹🇷 TR | 🟢 | ss | @vmess_ir | 14",
+                "🇹🇷 TR | 🟢 | ss | @vmess_ir | 13",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
@@ -126,6 +127,7 @@
                 "🇬🇧 GB | 🟢 | ss | @cook_vpn | 2",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 13",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -143,7 +145,7 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
-                "🇹🇷 TR | 🟢 | ss | @vmess_ir | 14",
+                "🇹🇷 TR | 🟢 | ss | @vmess_ir | 13",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
@@ -195,6 +197,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 13",
+            "type": "shadowsocks",
+            "server": "azure-sto.edgeservers.org",
+            "server_port": 48172,
+            "method": "chacha20-ietf-poly1305",
+            "password": "51yloQC8D9w1Wae7FHtI65"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -333,7 +343,7 @@
             "password": "Bog0ELmMM9DSxDdQ"
         },
         {
-            "tag": "🇹🇷 TR | 🟢 | ss | @vmess_ir | 14",
+            "tag": "🇹🇷 TR | 🟢 | ss | @vmess_ir | 13",
             "type": "shadowsocks",
             "server": "tr.vpnsparta.pro",
             "server_port": 57456,
