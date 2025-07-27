@@ -116,7 +116,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 10",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 7",
                 "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 24",
@@ -159,7 +159,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 10",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 7",
                 "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 24",
@@ -597,13 +597,22 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 7",
             "type": "vless",
-            "server": "91.99.153.233",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "server": "172.235.153.100",
+            "server_port": 443,
+            "uuid": "a544232b-b26e-4dee-a147-f77b2f66168e",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.235.153.100",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
