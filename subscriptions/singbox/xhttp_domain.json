@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 41",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -111,7 +112,7 @@
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
-                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -122,6 +123,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 41",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -143,7 +145,7 @@
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
-                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -176,6 +178,29 @@
                     "enabled": true,
                     "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
                     "short_id": "aeba"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 41",
+            "type": "vless",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 53055,
+            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
+                    "short_id": "15a19f76"
                 }
             }
         },
@@ -420,7 +445,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,

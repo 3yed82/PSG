@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 10",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 0",
@@ -116,6 +116,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 10",
                 "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 24",
@@ -125,6 +126,7 @@
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 13",
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 12",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 41",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -146,7 +148,7 @@
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
-                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -156,7 +158,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 10",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 0",
@@ -183,6 +185,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 10",
                 "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 24",
@@ -192,6 +195,7 @@
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 13",
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 12",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 41",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -213,7 +217,7 @@
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
-                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -227,7 +231,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 8",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -645,6 +649,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 10",
+            "type": "vless",
+            "server": "91.99.153.233",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
             "type": "vless",
             "server": "91.99.85.185",
@@ -792,6 +805,29 @@
                     "enabled": true,
                     "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
                     "short_id": "aeba"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 41",
+            "type": "vless",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 53055,
+            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
+                    "short_id": "15a19f76"
                 }
             }
         },
@@ -1036,7 +1072,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
