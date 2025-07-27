@@ -112,10 +112,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
-                "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
-                "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 11",
-                "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 12",
+                "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 9",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
             "tag": "proxy",
@@ -147,10 +145,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7",
-                "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
-                "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 11",
-                "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 12",
+                "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 9",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
             "tag": "auto",
@@ -458,29 +454,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayng_fars | 11",
-            "type": "vless",
-            "server": "jakvar.mygoldiran.com",
-            "server_port": 31620,
-            "uuid": "6a662ec2-b975-407d-8a12-e64fdd569f9a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "iYLmd5EeyX5RfDwKpEBsESTRo9Z9Ybg1guiymunDXSc",
-                    "short_id": "ae"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
             "type": "vless",
             "server": "netmeli.noytads.ir",
@@ -490,30 +463,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 11",
-            "type": "vless",
-            "server": "speedtest.net.zula.ir.nobitex.ir.shakhle.ir",
-            "server_port": 39001,
-            "uuid": "15449e06-b519-414a-9e0d-fbb4a0fd2780",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
-                    "short_id": "f23547"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 9",
             "type": "vless",
             "server": "EVAY_VPN.fast.hosting-ip.com",
             "server_port": 80,

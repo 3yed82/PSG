@@ -89,9 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇫🇷 FR | 🔴 | vless | @configshubplus | 11",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🟢 | vless | @freevpnatm | 13",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -112,9 +112,9 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇫🇷 FR | 🔴 | vless | @configshubplus | 11",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🟢 | vless | @freevpnatm | 13",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -137,6 +137,15 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇫🇷 FR | 🔴 | vless | @configshubplus | 11",
+            "type": "vless",
+            "server": "2a13:7c00:5:18:f816:3eff:fe04:78f2",
+            "server_port": 9901,
+            "uuid": "cc8e5f61-b9ec-43ff-b5ae-e93f40e239fe",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🟢 | vless | @deli_servers | 1",
@@ -186,28 +195,6 @@
                     "public_key": "Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ",
                     "short_id": "6412"
                 }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @freevpnatm | 13",
-            "type": "vless",
-            "server": "[2606:4700:3030::6815:2001]",
-            "server_port": 443,
-            "uuid": "67e010ae-0df0-40d7-893d-32cd0f8657f4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "NuXEb47YbDQtna5qxayLw"
             }
         },
         {
