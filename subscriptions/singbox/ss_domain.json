@@ -94,7 +94,6 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
-                "🇬🇧 GB | 🟢 | ss | @hope_net | 47",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -103,13 +102,14 @@
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
-                "🇦🇪 AE | 🟢 | ss | @shadowsockskeys | 17",
+                "🇺🇸 US | 🟢 | ss | @shadowsockskeys | 17",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 5",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
+                "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
@@ -124,7 +124,6 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
-                "🇬🇧 GB | 🟢 | ss | @hope_net | 47",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -133,13 +132,14 @@
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
-                "🇦🇪 AE | 🟢 | ss | @shadowsockskeys | 17",
+                "🇺🇸 US | 🟢 | ss | @shadowsockskeys | 17",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 5",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
+                "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
@@ -191,14 +191,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @hope_net | 47",
-            "type": "shadowsocks",
-            "server": "series-a2-me.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -265,7 +257,7 @@
             "password": "4e9ufa1a2jeANAVebF0wqN"
         },
         {
-            "tag": "🇦🇪 AE | 🟢 | ss | @shadowsockskeys | 17",
+            "tag": "🇺🇸 US | 🟢 | ss | @shadowsockskeys | 17",
             "type": "shadowsocks",
             "server": "ae-1.stunnel.cc",
             "server_port": 8444,
@@ -319,6 +311,14 @@
             "server_port": 32448,
             "method": "chacha20-ietf-poly1305",
             "password": "WVU27LquAMOeXmYeStI897"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
+            "type": "shadowsocks",
+            "server": "series-a2-me.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Bog0ELmMM9DSxDdQ"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
