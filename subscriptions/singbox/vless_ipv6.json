@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇫🇷 FR | 🔴 | vless | @configshubplus | 11",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
@@ -112,7 +111,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇫🇷 FR | 🔴 | vless | @configshubplus | 11",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
@@ -137,15 +135,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇫🇷 FR | 🔴 | vless | @configshubplus | 11",
-            "type": "vless",
-            "server": "2a13:7c00:5:18:f816:3eff:fe04:78f2",
-            "server_port": 9901,
-            "uuid": "cc8e5f61-b9ec-43ff-b5ae-e93f40e239fe",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🟢 | vless | @deli_servers | 1",

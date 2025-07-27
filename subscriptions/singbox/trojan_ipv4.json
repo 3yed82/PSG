@@ -97,8 +97,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @flyv2ray | 3",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 41",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 45",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 37",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
@@ -109,10 +108,11 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
-                "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 19",
+                "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 18",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 3",
                 "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 4",
-                "🇫🇷 FR | 🔴 | trojan | @v2raych | 15",
+                "🇬🇧 GB | 🔴 | trojan | @v2raych | 18",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 19",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
@@ -134,8 +134,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @flyv2ray | 3",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 41",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 45",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 37",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
@@ -146,10 +145,11 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
-                "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 19",
+                "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 18",
                 "v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 3",
                 "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 4",
-                "🇫🇷 FR | 🔴 | trojan | @v2raych | 15",
+                "🇬🇧 GB | 🔴 | trojan | @v2raych | 18",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 19",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
@@ -286,21 +286,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 41",
-            "type": "trojan",
-            "server": "198.41.214.224",
-            "server_port": 2052,
-            "password": "f0d584bc-342f-4443-ba24-79e4d0e504b1",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "198.41.214.224"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 45",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 37",
             "type": "trojan",
             "server": "104.25.22.6",
             "server_port": 443,
@@ -483,7 +469,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 19",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 18",
             "type": "trojan",
             "server": "104.248.18.1",
             "server_port": 1935,
@@ -513,11 +499,43 @@
             "password": ""
         },
         {
-            "tag": "🇫🇷 FR | 🔴 | trojan | @v2raych | 15",
+            "tag": "🇬🇧 GB | 🔴 | trojan | @v2raych | 18",
             "type": "trojan",
-            "server": "152.228.155.118",
-            "server_port": 41291,
-            "password": "5FfDe0liJ2"
+            "server": "164.38.155.246",
+            "server_port": 443,
+            "password": "bpb-trojan",
+            "tls": {
+                "enabled": true,
+                "server_name": "bpb.my79801.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tr",
+                "headers": {
+                    "Host": "bpb.my79801.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 19",
+            "type": "trojan",
+            "server": "188.114.99.181",
+            "server_port": 443,
+            "password": "blue2024",
+            "tls": {
+                "enabled": true,
+                "server_name": "hb.lii2010.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
