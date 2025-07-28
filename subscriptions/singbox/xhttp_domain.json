@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇨🇭 CH | 🟢 | vless | @config_proxy | 49",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -101,7 +101,6 @@
                 "🇩🇪 DE | 🔴 | vless | @fastvpnorummobile | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
-                "🇺🇸 US | 🔴 | vless | @getconfigir | 15",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
                 "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
@@ -125,7 +124,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇨🇭 CH | 🟢 | vless | @config_proxy | 49",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -136,7 +135,6 @@
                 "🇩🇪 DE | 🔴 | vless | @fastvpnorummobile | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
-                "🇺🇸 US | 🔴 | vless | @getconfigir | 15",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
                 "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
@@ -186,27 +184,13 @@
             }
         },
         {
-            "tag": "🇨🇭 CH | 🟢 | vless | @config_proxy | 49",
+            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
             "type": "vless",
-            "server": "5am.postpapet.ir",
-            "server_port": 443,
-            "uuid": "4e282978-79fd-483e-a588-2726ea8f3d5e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
-                    "short_id": "27e6b66aa77662fb"
-                }
-            }
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "7bcb1c0c-4134-46f2-a010-13f60dab1649",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -306,15 +290,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @getconfigir | 15",
-            "type": "vless",
-            "server": "ftp55.basalam.eu",
-            "server_port": 80,
-            "uuid": "- KINGOFV2RAY -",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
