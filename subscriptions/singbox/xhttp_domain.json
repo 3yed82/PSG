@@ -90,8 +90,8 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇫🇷 FR | 🟢 | vless | @config_proxy | 45",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
+                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -100,7 +100,9 @@
                 "🇩🇪 DE | 🔴 | vless | @evay_vpn | 14",
                 "🇩🇪 DE | 🔴 | vless | @fastvpnorummobile | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
+                "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -109,7 +111,7 @@
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
@@ -122,8 +124,8 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇫🇷 FR | 🟢 | vless | @config_proxy | 45",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
+                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -132,7 +134,9 @@
                 "🇩🇪 DE | 🔴 | vless | @evay_vpn | 14",
                 "🇩🇪 DE | 🔴 | vless | @fastvpnorummobile | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
+                "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -141,7 +145,7 @@
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
@@ -180,7 +184,16 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @config_proxy | 45",
+            "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
+            "type": "vless",
+            "server": "2sudo.winapp3.ir",
+            "server_port": 80,
+            "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
             "type": "vless",
             "server": "45.grizzzlyyyy.ir",
             "server_port": 26790,
@@ -201,15 +214,6 @@
                     "short_id": "bba58c5a0af751"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-            "type": "vless",
-            "server": "2sudo.winapp3.ir",
-            "server_port": 80,
-            "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔴 | vless | @dgkbza | 18",
@@ -284,6 +288,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
+            "type": "vless",
+            "server": "server271816966957306554.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server271816966957306554.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
             "type": "vless",
             "server": "ips.rainoteam.store",
@@ -291,6 +313,29 @@
             "uuid": "6a45de8b-46e5-4da4-b242-3e18f3228087",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
+            "type": "vless",
+            "server": "45.grizzzlyyyy.ir",
+            "server_port": 26790,
+            "uuid": "bc465b6c-cf16-46e9-83aa-2a4eb1c34f29",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "init.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r8WfLlHqw76XJkfJKHMgk0MlDAL6n7Mu5lQqvezgAjI",
+                    "short_id": "bba58c5a0af751"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
@@ -402,7 +447,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
+            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
