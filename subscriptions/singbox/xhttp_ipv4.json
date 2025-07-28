@@ -102,10 +102,9 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 6",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 4",
+                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 3",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇬🇧 GB | 🟢 | vless | @mowjproxy | 0",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -147,10 +146,9 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 6",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 4",
+                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 3",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇬🇧 GB | 🟢 | vless | @mowjproxy | 0",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -402,7 +400,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @lranonline_new | 4",
+            "tag": "🇩🇪 DE | 🔴 | vless | @lranonline_new | 3",
             "type": "vless",
             "server": "91.99.126.77",
             "server_port": 8443,
@@ -427,29 +425,6 @@
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @mowjproxy | 0",
-            "type": "vless",
-            "server": "83.147.18.191",
-            "server_port": 4653,
-            "uuid": "d9bd2578-dc93-40cc-87ab-69a915a0baad",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8",
-                    "short_id": "a1b2c3d4e5f67890"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @proxie | 11",

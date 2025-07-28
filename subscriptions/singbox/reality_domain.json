@@ -95,11 +95,8 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
-                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 48",
+                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 43",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
@@ -146,9 +143,9 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 14",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 9",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -178,11 +175,8 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
-                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 48",
+                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 43",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
@@ -229,9 +223,9 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 14",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 9",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -405,75 +399,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "amazon-13.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "darkping_free.darkping.net",
-            "server_port": 40913,
-            "uuid": "aa1200c3-5b9e-4cc0-f264-1cc3e0b32def",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mVj_pmTI8zQrQXaKbC53s0HMOtlab5O1b9a5b312uW8",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "45.grizzzlyyyy.ir",
-            "server_port": 26790,
-            "uuid": "bc465b6c-cf16-46e9-83aa-2a4eb1c34f29",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "init.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r8WfLlHqw76XJkfJKHMgk0MlDAL6n7Mu5lQqvezgAjI",
-                    "short_id": "bba58c5a0af751"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -501,7 +426,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @filter_breaker | 48",
+            "tag": "🇩🇪 DE | 🟢 | vless | @filter_breaker | 43",
             "type": "vless",
             "server": "geteway.nub-shop.ir",
             "server_port": 443,
@@ -1669,7 +1594,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1715,9 +1640,9 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 9",
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
             "type": "vless",
-            "server": "de01-vlr01.tcp-reset-club.net",
+            "server": "nl01-vlr01.tcp-reset-club.net",
             "server_port": 443,
             "uuid": "4a640781-f5c8-4d17-80db-a6b0a091ba05",
             "flow": "xtls-rprx-vision",
@@ -1733,7 +1658,7 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "31"
+                    "short_id": "d3b13f31"
                 }
             }
         },

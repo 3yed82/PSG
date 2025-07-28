@@ -102,10 +102,9 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 6",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 4",
+                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 3",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇬🇧 GB | 🟢 | vless | @mowjproxy | 0",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -129,7 +128,6 @@
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -174,10 +172,9 @@
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 6",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 4",
+                "🇩🇪 DE | 🔴 | vless | @lranonline_new | 3",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇬🇧 GB | 🟢 | vless | @mowjproxy | 0",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -201,7 +198,6 @@
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -456,7 +452,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @lranonline_new | 4",
+            "tag": "🇩🇪 DE | 🔴 | vless | @lranonline_new | 3",
             "type": "vless",
             "server": "91.99.126.77",
             "server_port": 8443,
@@ -481,29 +477,6 @@
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @mowjproxy | 0",
-            "type": "vless",
-            "server": "83.147.18.191",
-            "server_port": 4653,
-            "uuid": "d9bd2578-dc93-40cc-87ab-69a915a0baad",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8",
-                    "short_id": "a1b2c3d4e5f67890"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @proxie | 11",
@@ -882,29 +855,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "45.grizzzlyyyy.ir",
-            "server_port": 26790,
-            "uuid": "bc465b6c-cf16-46e9-83aa-2a4eb1c34f29",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "init.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r8WfLlHqw76XJkfJKHMgk0MlDAL6n7Mu5lQqvezgAjI",
-                    "short_id": "bba58c5a0af751"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔴 | vless | @dgkbza | 18",

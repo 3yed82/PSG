@@ -91,7 +91,6 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -125,7 +124,6 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -191,29 +189,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "45.grizzzlyyyy.ir",
-            "server_port": 26790,
-            "uuid": "bc465b6c-cf16-46e9-83aa-2a4eb1c34f29",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "init.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r8WfLlHqw76XJkfJKHMgk0MlDAL6n7Mu5lQqvezgAjI",
-                    "short_id": "bba58c5a0af751"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔴 | vless | @dgkbza | 18",
