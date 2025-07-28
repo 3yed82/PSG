@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | trojan | @freevpnatm | 15"
+                "❔ XX | 🔴 | trojan | @freevpnatm | 15"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | trojan | @freevpnatm | 15"
+                "❔ XX | 🔴 | trojan | @freevpnatm | 15"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,14 +109,14 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🟢 | trojan | @freevpnatm | 15",
+            "tag": "❔ XX | 🔴 | trojan | @freevpnatm | 15",
             "type": "trojan",
             "server": "[2606:4700:3030::6815:6001]",
             "server_port": 443,
-            "password": "9263f72d-87a7-4d06-b2e3-fac3dea1eefa",
+            "password": "afc9d688-520a-46fa-a98d-4511d1198cdd",
             "tls": {
                 "enabled": true,
-                "server_name": "",
+                "server_name": "[2606:4700:3030::6815:6001]",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -124,8 +124,11 @@
                 }
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "ma3FfmSRBbEaF96NKAkgn"
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "[2606:4700:3030::6815:6001]"
+                }
             }
         }
     ],
