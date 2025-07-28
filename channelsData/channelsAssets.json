@@ -1135,10 +1135,10 @@
     },
     "ip_cf_config": {
         "types": [
+            "vmess",
             "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1718,8 +1718,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1797,7 +1797,6 @@
     },
     "mtpv2ray": {
         "types": [
-            "trojan",
             "vless",
             "vmess"
         ],
@@ -2344,7 +2343,7 @@
         "types": [
             "vless"
         ],
-        "title": "فیلتر شکن v2ray",
+        "title": "سرور رایگان v2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/server_nekobox.jpg"
     },
     "serverii": {
@@ -2620,9 +2619,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
-            "vmess",
             "trojan",
+            "vmess",
+            "ss",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2714,6 +2713,7 @@
     },
     "v2raych": {
         "types": [
+            "vmess",
             "vless",
             "trojan",
             "ss"
@@ -3107,8 +3107,7 @@
     "vistav2ray": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "Vista Pc (It _ja)",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vistav2ray.jpg"
@@ -3124,7 +3123,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmess_ir.jpg"
@@ -3399,8 +3399,7 @@
     },
     "wedbazvpn": {
         "types": [
-            "vless",
-            "ss"
+            "vless"
         ],
         "title": "WedBaZ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/wedbazvpn.jpg"
