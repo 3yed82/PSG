@@ -89,9 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🔴 | vless | @configshubplus | 12",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
+                "❔ XX | 🟢 | vless | @freevpnatm | 3",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -99,6 +99,7 @@
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🟢 | vless | @kesslervpn | 1",
+                "❔ XX | 🔴 | vless | @lranonline_new | 10",
                 "❔ XX | 🔴 | vless | @parsashonam | 9",
                 "❔ XX | 🔴 | vless | @parsashonam | 11",
                 "❔ XX | 🟢 | vless | @v2raytg | 73",
@@ -111,9 +112,9 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🔴 | vless | @configshubplus | 12",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
+                "❔ XX | 🟢 | vless | @freevpnatm | 3",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -121,6 +122,7 @@
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🟢 | vless | @kesslervpn | 1",
+                "❔ XX | 🔴 | vless | @lranonline_new | 10",
                 "❔ XX | 🔴 | vless | @parsashonam | 9",
                 "❔ XX | 🔴 | vless | @parsashonam | 11",
                 "❔ XX | 🟢 | vless | @v2raytg | 73",
@@ -135,15 +137,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "❔ XX | 🔴 | vless | @configshubplus | 12",
-            "type": "vless",
-            "server": "[2a01:4f8:1c1a:dc2b::1]",
-            "server_port": 8888,
-            "uuid": "Parsashonam-291",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🟢 | vless | @deli_servers | 1",
@@ -193,6 +186,28 @@
                     "public_key": "Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ",
                     "short_id": "6412"
                 }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @freevpnatm | 3",
+            "type": "vless",
+            "server": "[2606:4700:3030::6815:4001]",
+            "server_port": 443,
+            "uuid": "afc9d688-520a-46fa-a98d-4511d1198cdd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Bla4bwO5lnIT6TyYfDBtQK9"
             }
         },
         {
@@ -312,6 +327,15 @@
                     "short_id": ""
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔴 | vless | @lranonline_new | 10",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1a:dc2b::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-291",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔴 | vless | @parsashonam | 9",
