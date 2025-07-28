@@ -104,13 +104,14 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
-                "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
+                "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 17",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -135,13 +136,14 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
-                "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
+                "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 17",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -327,7 +329,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
+            "tag": "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
             "type": "vless",
             "server": "s5.1dnt.k-l.cloud",
             "server_port": 80,
@@ -411,6 +413,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 17",
+            "type": "vless",
+            "server": "fghgdhgdh.seluna.ir",
+            "server_port": 80,
+            "uuid": "ea5351df-68ef-4416-a861-33e56ea72343",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
