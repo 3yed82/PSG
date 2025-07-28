@@ -119,7 +119,8 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 12",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 11",
+                "🇮🇳 IN | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -140,12 +141,10 @@
                 "🇬🇧 GB | 🟢 | vless | @v2ray1_ng | 2",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
-                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -199,7 +198,8 @@
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 12",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 11",
+                "🇮🇳 IN | 🟢 | vless | @netmellianti | 14",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -220,12 +220,10 @@
                 "🇬🇧 GB | 🟢 | vless | @v2ray1_ng | 2",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
-                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -1014,7 +1012,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 12",
+            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 11",
             "type": "vless",
             "server": "ger.afterhav.ir",
             "server_port": 8880,
@@ -1033,6 +1031,29 @@
                     "enabled": true,
                     "public_key": "i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA",
                     "short_id": "e5caf4654f"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇳 IN | 🟢 | vless | @netmellianti | 14",
+            "type": "vless",
+            "server": "ind01-vlr01.tcp-reset-club.net",
+            "server_port": 443,
+            "uuid": "4a640781-f5c8-4d17-80db-a6b0a091ba05",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hls-svod.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "48720c"
                 }
             }
         },
@@ -1521,29 +1542,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 14",
-            "type": "vless",
-            "server": "geteway.nub-shop.ir",
-            "server_port": 443,
-            "uuid": "c97efd65-10e4-4014-8725-19e4e3014574",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sqPEvDuHhNvglx0mxSX1tUharYmm-rb-0yGXEvIrbhA",
-                    "short_id": "83b0fe5e2e457b59"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -1636,29 +1634,6 @@
                     "enabled": true,
                     "public_key": "bf0D8kLkfGVYP8NVpiOGKcm-wutxlcLXua3760tRgkI",
                     "short_id": "adf6b90c"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
-            "type": "vless",
-            "server": "nl01-vlr01.tcp-reset-club.net",
-            "server_port": 443,
-            "uuid": "4a640781-f5c8-4d17-80db-a6b0a091ba05",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "d3b13f31"
                 }
             }
         },
