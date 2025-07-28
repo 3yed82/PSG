@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 121",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -105,7 +104,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
-                "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
+                "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
@@ -122,7 +121,6 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 121",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -137,7 +135,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 9",
-                "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
+                "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
@@ -178,15 +176,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 121",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8080,
-            "uuid": "8fd03f5b-c522-4c05-91aa-0771658794bf",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -338,7 +327,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
+            "tag": "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
             "type": "vless",
             "server": "s5.1dnt.k-l.cloud",
             "server_port": 80,
