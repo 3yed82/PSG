@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇫🇷 FR | 🟢 | vless | @config_proxy | 45",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -99,7 +100,7 @@
                 "🇩🇪 DE | 🔴 | vless | @evay_vpn | 14",
                 "🇩🇪 DE | 🔴 | vless | @fastvpnorummobile | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
-                "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
+                "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -111,7 +112,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 17",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -122,6 +122,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇫🇷 FR | 🟢 | vless | @config_proxy | 45",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -131,7 +132,7 @@
                 "🇩🇪 DE | 🔴 | vless | @evay_vpn | 14",
                 "🇩🇪 DE | 🔴 | vless | @fastvpnorummobile | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
-                "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
+                "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -143,7 +144,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 5",
                 "🇺🇸 US | 🔴 | vless | @v2ray_tz | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 17",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -176,6 +176,29 @@
                     "enabled": true,
                     "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
                     "short_id": "aeba"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | vless | @config_proxy | 45",
+            "type": "vless",
+            "server": "45.grizzzlyyyy.ir",
+            "server_port": 26790,
+            "uuid": "bc465b6c-cf16-46e9-83aa-2a4eb1c34f29",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "init.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r8WfLlHqw76XJkfJKHMgk0MlDAL6n7Mu5lQqvezgAjI",
+                    "short_id": "bba58c5a0af751"
                 }
             }
         },
@@ -261,7 +284,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
             "type": "vless",
             "server": "ips.rainoteam.store",
             "server_port": 80,
@@ -413,15 +436,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 17",
-            "type": "vless",
-            "server": "fghgdhgdh.seluna.ir",
-            "server_port": 80,
-            "uuid": "ea5351df-68ef-4416-a861-33e56ea72343",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
