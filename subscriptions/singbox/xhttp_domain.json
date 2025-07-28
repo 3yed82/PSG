@@ -91,7 +91,6 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -103,7 +102,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇩🇪 DE | 🔴 | vless | @netmellianti | 9",
+                "🇩🇪 DE | 🔴 | vless | @netmellianti | 7",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 9",
@@ -124,7 +123,6 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -136,7 +134,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇩🇪 DE | 🔴 | vless | @netmellianti | 9",
+                "🇩🇪 DE | 🔴 | vless | @netmellianti | 7",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 9",
@@ -187,15 +185,6 @@
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "EVAY_VPN.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "371c3285-f15a-4a64-b8e1-1ad8a5d8f01d",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -299,7 +288,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @netmellianti | 9",
+            "tag": "🇩🇪 DE | 🔴 | vless | @netmellianti | 7",
             "type": "vless",
             "server": "s5.1dnt.k-l.cloud",
             "server_port": 80,
