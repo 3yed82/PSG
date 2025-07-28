@@ -90,11 +90,17 @@
                 "auto",
                 "direct",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 15",
                 "🇺🇸 US | 🟢 | trojan | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
-                "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 12",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+                "🇷🇺 RU | 🔴 | trojan | @hope_net | 19",
+                "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 12",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
@@ -120,11 +126,17 @@
             "interval": "10m",
             "outbounds": [
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 15",
                 "🇺🇸 US | 🟢 | trojan | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
-                "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 12",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+                "🇷🇺 RU | 🔴 | trojan | @hope_net | 19",
+                "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 12",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
@@ -169,14 +181,60 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 16",
+            "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 15",
             "type": "trojan",
-            "server": "162.159.153.19",
+            "server": "188.114.96.208",
             "server_port": 443,
-            "password": "bpb-trojan",
+            "password": "blue2024",
             "tls": {
                 "enabled": true,
-                "server_name": "cf.090227.xyz",
+                "server_name": "hb.lii2010.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "hb.lii2010.us.kg"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 16",
+            "type": "trojan",
+            "server": "104.20.22.149",
+            "server_port": 443,
+            "password": "auto",
+            "tls": {
+                "enabled": true,
+                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
+                "headers": {
+                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 17",
+            "type": "trojan",
+            "server": "108.162.195.161",
+            "server_port": 443,
+            "password": "blue2024",
+            "tls": {
+                "enabled": true,
+                "server_name": "tb.promote.icu",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -187,12 +245,12 @@
         {
             "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
             "type": "trojan",
-            "server": "104.17.52.133",
+            "server": "103.21.244.161",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "104.17.52.133",
+                "server_name": "103.21.244.161",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -208,7 +266,53 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
+            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
+            "type": "trojan",
+            "server": "172.67.162.74",
+            "server_port": 443,
+            "password": "7248e825-887c-48b9-83bc-c26bc6392bf8",
+            "tls": {
+                "enabled": true,
+                "server_name": "XXsCdfr.iRAN.pp.ua",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/ctdmgeIg3NII3ibrzzKXJGy3S1",
+                "headers": {
+                    "Host": "XXsCdfr.iRAN.pp.ua"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
+            "type": "trojan",
+            "server": "104.21.25.72",
+            "server_port": 443,
+            "password": "7248e825-887c-48b9-83bc-c26bc6392bf8",
+            "tls": {
+                "enabled": true,
+                "server_name": "GggBnmJk.006660666.xYZ",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/ctdmgeIg3NII3ibrzzKXJGy3S1",
+                "headers": {
+                    "Host": "GggBnmJk.006660666.xYZ"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 17",
             "type": "trojan",
             "server": "104.17.36.105",
             "server_port": 443,
@@ -231,11 +335,52 @@
             }
         },
         {
-            "tag": "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 12",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
             "type": "trojan",
-            "server": "155.117.228.70",
-            "server_port": 26193,
-            "password": "7367d04e-4c59-4dff-a50e-12e730a09891"
+            "server": "198.41.193.49",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "198.41.193.49",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔴 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "185.148.104.114",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "185.148.104.114",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | trojan | @ip_cf_config | 12",
+            "type": "trojan",
+            "server": "51.91.11.29",
+            "server_port": 80,
+            "password": "598c19f3-a48e-47cd-8451-1ba04ea094d0",
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
