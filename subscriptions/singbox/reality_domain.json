@@ -97,15 +97,12 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "🇮🇳 IN | 🟢 | vless | @configfa | 15",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
-                "🇸🇮 SI | 🟢 | vless | @getconfigir | 15",
                 "🇷🇺 RU | 🟢 | vless | @icv2ray | 13",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
@@ -146,7 +143,7 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 18",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 14",
+                "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -154,7 +151,7 @@
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 9",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
-                "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 10",
+                "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 8",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
@@ -179,15 +176,12 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "🇮🇳 IN | 🟢 | vless | @configfa | 15",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
-                "🇸🇮 SI | 🟢 | vless | @getconfigir | 15",
                 "🇷🇺 RU | 🟢 | vless | @icv2ray | 13",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
@@ -228,7 +222,7 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 18",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 14",
+                "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
@@ -236,7 +230,7 @@
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 9",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
-                "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 10",
+                "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 8",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
@@ -449,52 +443,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "apple.rinet.ai",
-            "server_port": 55100,
-            "uuid": "9cffbdcf-e54c-4e5c-8af8-a98756edce13",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8",
-                    "short_id": "190d32b118caf07f"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "world-of.ru",
-            "server_port": 443,
-            "uuid": "689cf0f8-daa4-4fac-a3d3-0cdf904882ae",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs",
-                    "short_id": "71e48a"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -650,29 +598,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@FsV2ray"
-            }
-        },
-        {
-            "tag": "🇸🇮 SI | 🟢 | vless | @getconfigir | 15",
-            "type": "vless",
-            "server": "tunnyl.ru",
-            "server_port": 443,
-            "uuid": "171c1154-6b3e-4e1d-ad11-e75de2f56f0b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI",
-                    "short_id": "5c0333ed45b1"
-                }
             }
         },
         {
@@ -1667,7 +1592,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 14",
+            "tag": "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1855,7 +1780,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 10",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 8",
             "type": "vless",
             "server": "cert.gamberonvps.ir",
             "server_port": 28076,

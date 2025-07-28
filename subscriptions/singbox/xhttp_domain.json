@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 121",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -121,6 +122,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 121",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -176,6 +178,15 @@
                     "short_id": "aeba"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 121",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8080,
+            "uuid": "8fd03f5b-c522-4c05-91aa-0771658794bf",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
