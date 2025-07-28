@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -102,11 +101,11 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
-                "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
+                "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 9",
+                "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
@@ -124,7 +123,6 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -136,11 +134,11 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
-                "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
+                "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 9",
+                "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
@@ -182,15 +180,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 50",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "7bcb1c0c-4134-46f2-a010-13f60dab1649",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -301,7 +290,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 9",
+            "tag": "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 6",
             "type": "vless",
             "server": "45.grizzzlyyyy.ir",
             "server_port": 26790,
@@ -374,7 +363,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @nufilter | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @nufilter | 7",
             "type": "vless",
             "server": "CoNFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,

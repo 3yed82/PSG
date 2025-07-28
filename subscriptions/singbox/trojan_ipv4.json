@@ -90,11 +90,12 @@
                 "auto",
                 "direct",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
+                "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 12",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
-                "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
@@ -110,7 +111,6 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇦🇺 AU | 🟢 | trojan | @v2rayweb | 14",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "proxy",
@@ -120,11 +120,12 @@
             "interval": "10m",
             "outbounds": [
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
+                "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 12",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
-                "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
@@ -140,7 +141,6 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇦🇺 AU | 🟢 | trojan | @v2rayweb | 14",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "auto",
@@ -169,25 +169,34 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
+            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 16",
             "type": "trojan",
-            "server": "108.162.195.209",
+            "server": "162.159.153.19",
             "server_port": 443,
-            "password": "auto",
+            "password": "bpb-trojan",
             "tls": {
                 "enabled": true,
-                "server_name": "trojanmz.pages.dev",
+                "server_name": "cf.090227.xyz",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "trojanmz.pages.dev"
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
+            "type": "trojan",
+            "server": "104.17.52.133",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "104.17.52.133",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -199,41 +208,39 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 19",
             "type": "trojan",
-            "server": "190.93.245.32",
+            "server": "104.17.36.105",
             "server_port": 443,
-            "password": "NISHIKUITAN111",
+            "password": "blue2024",
             "tls": {
                 "enabled": true,
-                "server_name": "190.93.245.32",
+                "server_name": "hb.lii2010.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "hb.lii2010.us.kg"
+                }
             }
+        },
+        {
+            "tag": "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 12",
+            "type": "trojan",
+            "server": "155.117.228.70",
+            "server_port": 26193,
+            "password": "7367d04e-4c59-4dff-a50e-12e730a09891"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
             "type": "trojan",
             "server": "15.236.173.146",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
-            "type": "trojan",
-            "server": "3.126.113.178",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "tls": {
@@ -488,29 +495,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇺 AU | 🟢 | trojan | @v2rayweb | 14",
-            "type": "trojan",
-            "server": "103.169.142.224",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "zb.ylks.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "zb.ylks.xyz"
                 }
             }
         },
