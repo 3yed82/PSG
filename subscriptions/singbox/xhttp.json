@@ -116,7 +116,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 7",
                 "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 24",
@@ -184,7 +183,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 7",
                 "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 24",
@@ -645,24 +643,6 @@
             "uuid": "joinshotoV2rayNGFreee",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 7",
-            "type": "vless",
-            "server": "172.235.153.100",
-            "server_port": 443,
-            "uuid": "a544232b-b26e-4dee-a147-f77b2f66168e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "172.235.153.100",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
