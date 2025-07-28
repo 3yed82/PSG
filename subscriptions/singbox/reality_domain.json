@@ -95,12 +95,11 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇳🇱 NL | 🟢 | vless | @config_proxy | 29",
-                "🇳🇱 NL | 🟢 | vless | @config_proxy | 30",
                 "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "🇮🇳 IN | 🟢 | vless | @configfa | 15",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇳🇱 NL | 🟢 | vless | @farahvpn | 15",
+                "🇳🇱 NL | 🟢 | vless | @filter_breaker | 48",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
@@ -145,14 +144,14 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 13",
-                "🇵🇱 PL | 🟢 | vless | @v2rayng_fars | 16",
+                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 14",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇩🇪 DE | 🟢 | vless | @vistav2ray | 12",
-                "🇯🇵 JP | 🟢 | vless | @vistav2ray | 14",
+                "🇸🇬 SG | 🟢 | vless | @vistav2ray | 14",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
@@ -181,12 +180,11 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇳🇱 NL | 🟢 | vless | @config_proxy | 29",
-                "🇳🇱 NL | 🟢 | vless | @config_proxy | 30",
                 "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "🇮🇳 IN | 🟢 | vless | @configfa | 15",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇳🇱 NL | 🟢 | vless | @farahvpn | 15",
+                "🇳🇱 NL | 🟢 | vless | @filter_breaker | 48",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
@@ -231,14 +229,14 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 13",
-                "🇵🇱 PL | 🟢 | vless | @v2rayng_fars | 16",
+                "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 14",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇩🇪 DE | 🟢 | vless | @vistav2ray | 12",
-                "🇯🇵 JP | 🟢 | vless | @vistav2ray | 14",
+                "🇸🇬 SG | 🟢 | vless | @vistav2ray | 14",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
@@ -411,52 +409,6 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 29",
-            "type": "vless",
-            "server": "irancell2.sbarshia.ir",
-            "server_port": 2095,
-            "uuid": "168ff749-f14d-4092-a456-cdaf25afc290",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "snap.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "c7S104FqE1TNyQ39PoMoCxYpJkyKpC-gdOuwlzGOphg",
-                    "short_id": "14bae9cf136fce37"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 30",
-            "type": "vless",
-            "server": "irancell2.sbarshia.ir",
-            "server_port": 8443,
-            "uuid": "168ff749-f14d-4092-a456-cdaf25afc290",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "miare.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "GkCxlHoVtlBNunDhQfYrz9QunYg3NhMRsKOscdrG83E",
-                    "short_id": "14bae9cf136fce37"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @configfa | 14",
             "type": "vless",
             "server": "de1.configlinepanel.com",
@@ -554,6 +506,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@FergalVpnMod"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @filter_breaker | 48",
+            "type": "vless",
+            "server": "irancell2.sbarshia.ir",
+            "server_port": 8443,
+            "uuid": "168ff749-f14d-4092-a456-cdaf25afc290",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "miare.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "GkCxlHoVtlBNunDhQfYrz9QunYg3NhMRsKOscdrG83E",
+                    "short_id": "14bae9cf136fce37"
+                }
             }
         },
         {
@@ -1652,7 +1627,7 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🟢 | vless | @v2rayng_fars | 16",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
             "type": "vless",
             "server": "ptshop.carbutik.ir",
             "server_port": 8880,
@@ -1725,7 +1700,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1821,7 +1796,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🟢 | vless | @vistav2ray | 14",
+            "tag": "🇸🇬 SG | 🟢 | vless | @vistav2ray | 14",
             "type": "vless",
             "server": "amazon-17.cristiano.name.ng",
             "server_port": 443,

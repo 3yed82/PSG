@@ -91,6 +91,7 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 18",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 0",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
@@ -116,7 +117,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
-                "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 22",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🔴 | vless | @vpnaloo | 11",
@@ -126,7 +127,7 @@
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 12",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -159,6 +160,7 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 18",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 0",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
@@ -184,7 +186,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
-                "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
                 "🇩🇪 DE | 🔴 | vless | @vmessorg | 22",
                 "🇩🇪 DE | 🟢 | vless | @vmessorg | 23",
                 "🇩🇪 DE | 🔴 | vless | @vpnaloo | 11",
@@ -194,7 +196,7 @@
                 "🇺🇸 US | 🔴 | vless | @xpnteam | 12",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
@@ -259,6 +261,15 @@
                     "short_id": "f58f"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 18",
+            "type": "vless",
+            "server": "91.99.85.185",
+            "server_port": 8443,
+            "uuid": "e66beedb-dd44-47f0-baf8-7ba947d919d0",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
@@ -647,7 +658,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @vmess_ir | 16",
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
             "type": "vless",
             "server": "91.99.85.185",
             "server_port": 8443,
@@ -807,7 +818,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
             "type": "vless",
             "server": "EVAY_VPN.fast.hosting-ip.com",
             "server_port": 80,
