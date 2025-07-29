@@ -92,7 +92,8 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 8",
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇧🇪 BE | 🟢 | vless | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 27",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 28",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -175,6 +176,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngninja | 8",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayxservers | 14",
                 "🇨🇿 CZ | 🟢 | vless | @v2ry_proxy | 10",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
@@ -207,7 +209,8 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 8",
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇧🇪 BE | 🟢 | vless | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 27",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 28",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -290,6 +293,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngninja | 8",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayxservers | 14",
                 "🇨🇿 CZ | 🟢 | vless | @v2ry_proxy | 10",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
@@ -392,16 +396,43 @@
             }
         },
         {
-            "tag": "🇧🇪 BE | 🟢 | vless | @configshubplus | 15",
+            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 27",
             "type": "vless",
-            "server": "45.83.20.34",
-            "server_port": 58164,
-            "uuid": "34c9f621-0614-4b7f-aab3-c4400bb15a89",
+            "server": "78.141.210.52",
+            "server_port": 37770,
+            "uuid": "51d7dff3-5c81-4986-ab05-dd4f218805fb",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "Ubuntu.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xrVhuItoOJhQXPOi6ROdYAQosiVzE2hMKJylru3VtXM",
+                    "short_id": "fc"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs?ed=2056"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 28",
+            "type": "vless",
+            "server": "78.141.210.52",
+            "server_port": 55302,
+            "uuid": "91dddf80-6acc-460d-bf52-977a55191eea",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -409,8 +440,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE",
-                    "short_id": "788456bc"
+                    "public_key": "dw9G4kyw_REg5aQXHfhKIYgYQbn4k71N3b-gu5P87CI",
+                    "short_id": "006325e08dfe80ab"
                 }
             }
         },
@@ -2468,6 +2499,29 @@
                     "www.speedtest.net"
                 ],
                 "path": "/"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 13",
+            "type": "vless",
+            "server": "165.232.82.89",
+            "server_port": 8990,
+            "uuid": "ea5351df-68ef-4416-a861-33e56ea72343",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
+                    "short_id": "9912311de4630f2d"
+                }
             }
         },
         {

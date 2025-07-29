@@ -91,14 +91,12 @@
                 "direct",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
-                "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 15",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 16",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 13",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
+                "🇷🇺 RU | 🟢 | trojan | @ip_cf_config | 14",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
@@ -121,14 +119,12 @@
             "outbounds": [
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
-                "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 15",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 16",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 13",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
+                "🇷🇺 RU | 🟢 | trojan | @ip_cf_config | 14",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
@@ -176,30 +172,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 14",
-            "type": "trojan",
-            "server": "172.67.162.74",
-            "server_port": 443,
-            "password": "7248e825-887c-48b9-83bc-c26bc6392bf8",
-            "tls": {
-                "enabled": true,
-                "server_name": "XXsCdfr.iRAN.pp.ua",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ctdmgeIg3NII3ibrzzKXJGy3S1",
-                "headers": {
-                    "Host": "XXsCdfr.iRAN.pp.ua"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
+            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 13",
             "type": "trojan",
             "server": "104.21.25.72",
             "server_port": 443,
@@ -222,21 +195,37 @@
             }
         },
         {
-            "tag": "🇭🇰 HK | 🔴 | trojan | @ip_cf_config | 15",
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
             "type": "trojan",
-            "server": "155.117.228.70",
-            "server_port": 26193,
-            "password": "7367d04e-4c59-4dff-a50e-12e730a09891"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 16",
-            "type": "trojan",
-            "server": "104.149.155.13",
+            "server": "104.21.29.75",
             "server_port": 443,
-            "password": "79c935c0-27dc-4383-b307-dcac1b8e5509",
+            "password": "891d999f-7864-45c5-8db9-3c69f35dcb96",
             "tls": {
                 "enabled": true,
-                "server_name": "vzwzasc.cn",
+                "server_name": "uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram@V2ray_Alpha/?ed=2047",
+                "headers": {
+                    "Host": "uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🟢 | trojan | @ip_cf_config | 14",
+            "type": "trojan",
+            "server": "176.32.39.29",
+            "server_port": 443,
+            "password": "8OXD5VVt8s",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -292,22 +281,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
-            "type": "trojan",
-            "server": "176.32.39.29",
-            "server_port": 443,
-            "password": "8OXD5VVt8s",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
