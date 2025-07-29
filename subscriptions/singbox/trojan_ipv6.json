@@ -89,7 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🔴 | trojan | @freevpnatm | 13"
+                "❔ XX | 🔴 | trojan | @freevpnatm | 14",
+                "❔ XX | 🟢 | trojan | @freevpnatm | 15"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +98,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🔴 | trojan | @freevpnatm | 13"
+                "❔ XX | 🔴 | trojan | @freevpnatm | 14",
+                "❔ XX | 🟢 | trojan | @freevpnatm | 15"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,14 +111,14 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🔴 | trojan | @freevpnatm | 13",
+            "tag": "❔ XX | 🔴 | trojan | @freevpnatm | 14",
             "type": "trojan",
-            "server": "[2606:4700:3035::ac43:a24a]",
+            "server": "[2606:4700:3030::6815:6001]",
             "server_port": 443,
-            "password": "7248e825-887c-48b9-83bc-c26bc6392bf8",
+            "password": "1876f750-5f40-4a15-82e1-0b6b060ed7c6",
             "tls": {
                 "enabled": true,
-                "server_name": "[2606:4700:3035::ac43:a24a]",
+                "server_name": "[2606:4700:3030::6815:6001]",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -127,8 +129,28 @@
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "[2606:4700:3035::ac43:a24a]"
+                    "Host": "[2606:4700:3030::6815:6001]"
                 }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | trojan | @freevpnatm | 15",
+            "type": "trojan",
+            "server": "[2606:4700:3030::6815:2001]",
+            "server_port": 443,
+            "password": "1876f750-5f40-4a15-82e1-0b6b060ed7c6",
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "NZOSDvKmiLvMrQIchVg"
             }
         }
     ],

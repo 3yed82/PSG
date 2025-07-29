@@ -91,7 +91,7 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🔴 | vless | @freevpnatm | 16",
+                "❔ XX | 🟢 | vless | @freevpnatm | 13",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -116,7 +116,7 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🔴 | vless | @freevpnatm | 16",
+                "❔ XX | 🟢 | vless | @freevpnatm | 13",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -193,16 +193,16 @@
             }
         },
         {
-            "tag": "❔ XX | 🔴 | vless | @freevpnatm | 16",
+            "tag": "❔ XX | 🟢 | vless | @freevpnatm | 13",
             "type": "vless",
-            "server": "[2606:4700:3030::ac43:dff3]",
+            "server": "[2606:4700:3033::6815:3fe2]",
             "server_port": 443,
-            "uuid": "7248e825-887c-48b9-83bc-c26bc6392bf8",
+            "uuid": "1876f750-5f40-4a15-82e1-0b6b060ed7c6",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "[2606:4700:3030::ac43:dff3]",
+                "server_name": "XxXSDEr.457.PP.Ua",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -210,11 +210,8 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "[2606:4700:3030::ac43:dff3]"
-                }
+                "type": "grpc",
+                "service_name": "teftBgmeSrQIchVg"
             }
         },
         {
