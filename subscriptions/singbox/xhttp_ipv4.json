@@ -92,19 +92,17 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 7",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🔴 | vless | @configfa | 13",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 12",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 9",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
-                "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 2",
+                "🇦🇲 AM | 🔴 | vless | @getconfigir | 13",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 0",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 16",
@@ -136,19 +134,17 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 7",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🔴 | vless | @configfa | 13",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 12",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 9",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
-                "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 2",
+                "🇦🇲 AM | 🔴 | vless | @getconfigir | 13",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 0",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 16",
@@ -218,24 +214,6 @@
             "server": "91.99.183.30",
             "server_port": 8443,
             "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 12",
-            "type": "vless",
-            "server": "141.193.213.10",
-            "server_port": 8080,
-            "uuid": "508d96e8-953f-4a67-bc7d-8aba5878f38a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "141.101.121.108",
-            "server_port": 8080,
-            "uuid": "508d96e8-953f-4a67-bc7d-8aba5878f38a",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -322,27 +300,13 @@
             }
         },
         {
-            "tag": "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 2",
+            "tag": "🇦🇲 AM | 🔴 | vless | @getconfigir | 13",
             "type": "vless",
-            "server": "130.185.122.252",
-            "server_port": 28964,
-            "uuid": "9987a847-5e57-440c-890e-33fd179af6ff",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.bing.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs",
-                    "short_id": "5405"
-                }
-            }
+            "server": "5.10.214.123",
+            "server_port": 8080,
+            "uuid": "508d96e8-953f-4a67-bc7d-8aba5878f38a",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @komail315 | 1",
@@ -381,7 +345,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 0",
+            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
             "type": "vless",
             "server": "104.21.62.144",
             "server_port": 443,

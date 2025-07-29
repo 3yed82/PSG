@@ -94,7 +94,6 @@
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
-                "❔ XX | 🟢 | vless | @ghalagyann | 19",
                 "❔ XX | 🟢 | vless | @ghalagyann2 | 4",
                 "❔ XX | 🔴 | vless | @internet_nor | 0",
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
@@ -118,7 +117,6 @@
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
-                "❔ XX | 🟢 | vless | @ghalagyann | 19",
                 "❔ XX | 🟢 | vless | @ghalagyann2 | 4",
                 "❔ XX | 🔴 | vless | @internet_nor | 0",
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
@@ -240,33 +238,6 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @ghalagyann | 19",
-            "type": "vless",
-            "server": "[2001:15e8:110:6e8e::1]",
-            "server_port": 11747,
-            "uuid": "172a19c2-80f6-4c10-8f10-3a1e80846762",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tcU9NYYuI86TwcXCesNVN2aED32Uzuw3rE-glcJ8Dgw",
-                    "short_id": "07097bf90a38b8ae"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {
