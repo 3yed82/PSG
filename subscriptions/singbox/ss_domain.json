@@ -92,9 +92,8 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 17",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇬🇧 GB | 🟢 | ss | @freakconfig | 16",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -123,9 +122,8 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 17",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇬🇧 GB | 🟢 | ss | @freakconfig | 16",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -179,14 +177,6 @@
             "password": "nzba2zEDWdOW3MYiPZn1ly"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @configshubplus | 17",
-            "type": "shadowsocks",
-            "server": "h110vpnde.outlinekeys.net",
-            "server_port": 21712,
-            "method": "chacha20-ietf-poly1305",
-            "password": "vjb0TlSElwCUr414y8nc7N"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
             "type": "shadowsocks",
             "server": "account-mec.emofid.co",
@@ -195,7 +185,7 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+            "tag": "🇬🇧 GB | 🟢 | ss | @freakconfig | 16",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
