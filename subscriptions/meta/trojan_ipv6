@@ -23,8 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"❔ XX | 🔴 | trojan | @freevpnatm | 14","type":"trojan","server":"[2606:4700:3030::6815:6001]","port":443,"password":"1876f750-5f40-4a15-82e1-0b6b060ed7c6","skip-cert-verify":false}
-  - {"name":"❔ XX | 🟢 | trojan | @freevpnatm | 15","type":"trojan","server":"[2606:4700:3030::6815:2001]","port":443,"password":"1876f750-5f40-4a15-82e1-0b6b060ed7c6","skip-cert-verify":false}
+  - {"name":"❔ XX | 🟢 | trojan | @freevpnatm | 11","type":"trojan","server":"[2606:4700:3030::6815:2001]","port":443,"password":"1876f750-5f40-4a15-82e1-0b6b060ed7c6","skip-cert-verify":false}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -38,8 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '❔ XX | 🔴 | trojan | @freevpnatm | 14'
-      - '❔ XX | 🟢 | trojan | @freevpnatm | 15'
+      - '❔ XX | 🟢 | trojan | @freevpnatm | 11'
 
   - name: 🌍 Global Media
     type: select
