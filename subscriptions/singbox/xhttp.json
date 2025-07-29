@@ -106,6 +106,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
+                "🇳🇱 NL | 🔴 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 5",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -140,7 +141,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 7",
-                "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
+                "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
@@ -173,6 +174,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
+                "🇳🇱 NL | 🔴 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 5",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -207,7 +209,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 7",
-                "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
+                "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 10",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
@@ -484,6 +486,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔴 | vless | @proxy_mtproto_vpns_free | 9",
+            "type": "vless",
+            "server": "45.131.4.147",
+            "server_port": 8080,
+            "uuid": "829e5113-632d-46b1-aed8-3637f19b9322",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 5",
@@ -978,7 +989,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @proxycrone | 15",
+            "tag": "🇩🇪 DE | 🔴 | vless | @proxycrone | 14",
             "type": "vless",
             "server": "s5.1dnt.k-l.cloud",
             "server_port": 80,

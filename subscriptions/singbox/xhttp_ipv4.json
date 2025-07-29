@@ -106,6 +106,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
+                "🇳🇱 NL | 🔴 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 5",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -147,6 +148,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
+                "🇳🇱 NL | 🔴 | vless | @proxy_mtproto_vpns_free | 9",
                 "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 5",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -432,6 +434,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔴 | vless | @proxy_mtproto_vpns_free | 9",
+            "type": "vless",
+            "server": "45.131.4.147",
+            "server_port": 8080,
+            "uuid": "829e5113-632d-46b1-aed8-3637f19b9322",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 5",

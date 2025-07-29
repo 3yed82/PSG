@@ -119,6 +119,7 @@
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇫🇮 FI | 🟢 | ss | @info_2it_channel | 4",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 9",
                 "🇬🇧 GB | 🟢 | ss | @ir_netproxy | 12",
                 "🇩🇪 DE | 🟢 | ss | @jiedianf | 5",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 6",
@@ -213,6 +214,7 @@
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇫🇮 FI | 🟢 | ss | @info_2it_channel | 4",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 9",
                 "🇬🇧 GB | 🟢 | ss | @ir_netproxy | 12",
                 "🇩🇪 DE | 🟢 | ss | @jiedianf | 5",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 6",
@@ -519,6 +521,14 @@
             "server_port": 49499,
             "method": "chacha20-ietf-poly1305",
             "password": "kTjlLxrncKx4i2HIjxfA3M"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 9",
+            "type": "shadowsocks",
+            "server": "45.87.175.154",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @ir_netproxy | 12",
