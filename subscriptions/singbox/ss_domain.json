@@ -91,9 +91,9 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇨🇭 CH | 🟢 | ss | @configshubplus | 15",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
-                "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 10",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -122,9 +122,9 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇨🇭 CH | 🟢 | ss | @configshubplus | 15",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
-                "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 10",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -171,6 +171,14 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
+            "tag": "🇨🇭 CH | 🟢 | ss | @configshubplus | 15",
+            "type": "shadowsocks",
+            "server": "h110vpnch.outlinekeys.net",
+            "server_port": 4248,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Q23DtCr6SLf7OqxCfoJcRl"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
             "type": "shadowsocks",
             "server": "account-mec.emofid.co",
@@ -185,14 +193,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | ss | @ip_cf_config | 10",
-            "type": "shadowsocks",
-            "server": "fin.outlinebot1.ru",
-            "server_port": 5904,
-            "method": "chacha20-ietf-poly1305",
-            "password": "5TZnwPb23pQS39lIucspJw"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
