@@ -95,7 +95,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇸🇬 SG | 🟢 | vless | @configshubplus | 15",
+                "🇸🇬 SG | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
@@ -144,9 +144,8 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 14",
+                "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -177,7 +176,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇸🇬 SG | 🟢 | vless | @configshubplus | 15",
+                "🇸🇬 SG | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
@@ -226,9 +225,8 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayng_fars | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 14",
+                "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 14",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -403,7 +401,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | vless | @configshubplus | 15",
+            "tag": "🇸🇬 SG | 🟢 | vless | @configshubplus | 14",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -1617,7 +1615,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 14",
+            "tag": "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1659,29 +1657,6 @@
                     "enabled": true,
                     "public_key": "bf0D8kLkfGVYP8NVpiOGKcm-wutxlcLXua3760tRgkI",
                     "short_id": "adf6b90c"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "de1.seluna.ir",
-            "server_port": 8990,
-            "uuid": "ea5351df-68ef-4416-a861-33e56ea72343",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
                 }
             }
         },

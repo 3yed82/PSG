@@ -92,10 +92,7 @@
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 13",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 11",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
@@ -105,10 +102,10 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 18",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 15",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 16",
                 "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 4",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 17",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
                 "🇺🇸 US | 🟢 | trojan | @v2raying | 16",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
@@ -126,10 +123,7 @@
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 13",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 11",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇩🇪 DE | 🟢 | trojan | @mt_proxy | 6",
@@ -139,10 +133,10 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 18",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 15",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 16",
                 "v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=tls&alpn=http/1.1&host=getasa.ir&fp=randomized&type=ws&sni=gEtASa.Ir#🇺🇸 US | 🟢 | trojan | @v2ray_tz | 4",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 17",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
                 "🇺🇸 US | 🟢 | trojan | @v2raying | 16",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
@@ -207,66 +201,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
-            "type": "trojan",
-            "server": "104.21.29.75",
-            "server_port": 443,
-            "password": "891d999f-7864-45c5-8db9-3c69f35dcb96",
-            "tls": {
-                "enabled": true,
-                "server_name": "uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram@V2ray_Alpha/?ed=2047",
-                "headers": {
-                    "Host": "uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
             "type": "trojan",
             "server": "217.60.249.171",
             "server_port": 45375,
             "password": "9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 11",
-            "type": "trojan",
-            "server": "198.23.229.250",
-            "server_port": 443,
-            "password": "2ee85121-31de-4581-a492-eb00f606e392",
-            "tls": {
-                "enabled": true,
-                "server_name": "rc6.freeguard.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
-            "type": "trojan",
-            "server": "104.149.155.13",
-            "server_port": 443,
-            "password": "79c935c0-27dc-4383-b307-dcac1b8e5509",
-            "tls": {
-                "enabled": true,
-                "server_name": "vzwzasc.cn",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianf | 4",
@@ -420,7 +359,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 18",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 15",
             "type": "trojan",
             "server": "15.236.74.230",
             "server_port": 22223,
@@ -436,7 +375,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 16",
             "type": "trojan",
             "server": "13.36.217.61",
             "server_port": 22223,
@@ -459,25 +398,18 @@
             "password": ""
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @v2raych | 17",
+            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 17",
             "type": "trojan",
-            "server": "151.101.66.228",
+            "server": "162.120.94.3",
             "server_port": 443,
-            "password": "d6b6ea41-0950-4611-8246-224583e4ed1e",
+            "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "pscresearch.faculty.ucdavis.edu",
+                "server_name": "162.120.94.3",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ws/?ed=2048",
-                "headers": {
-                    "Host": "pscresearch.faculty.ucdavis.edu"
                 }
             }
         },

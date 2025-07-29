@@ -105,7 +105,6 @@
                 "❔ XX | 🔴 | vless | @parsashonam | 8",
                 "❔ XX | 🔴 | vless | @parsashonam | 10",
                 "❔ XX | 🟢 | vless | @v2raytg | 73",
-                "❔ XX | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🔴 | vless | @vpn_matin_best1 | 0",
                 "❔ XX | 🟢 | vless | @vpnvg | 10"
             ],
@@ -131,7 +130,6 @@
                 "❔ XX | 🔴 | vless | @parsashonam | 8",
                 "❔ XX | 🔴 | vless | @parsashonam | 10",
                 "❔ XX | 🟢 | vless | @v2raytg | 73",
-                "❔ XX | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🔴 | vless | @vpn_matin_best1 | 0",
                 "❔ XX | 🟢 | vless | @vpnvg | 10"
             ],
@@ -440,31 +438,6 @@
                 "path": "/PSZPkYG71g6bn84o/MTQxLjE0OC4yMDMuNg==?ed=2560",
                 "headers": {
                     "Host": "MypHOtomoments.iR"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @v2rayweb | 16",
-            "type": "vless",
-            "server": "[2606:4700:3030::ac43:dff3]",
-            "server_port": 443,
-            "uuid": "7248e825-887c-48b9-83bc-c26bc6392bf8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "MMkKiO9.006660666.xYz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/W02wBrOOqlSUywV3ibrzzKXJGy3S1",
-                "headers": {
-                    "Host": "MMkKiO9.006660666.xYz"
                 }
             }
         },
