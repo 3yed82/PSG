@@ -92,7 +92,6 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 8",
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 47",
                 "🇧🇪 BE | 🟢 | vless | @configfa | 12",
                 "🇵🇱 PL | 🟢 | vless | @configfa | 13",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
@@ -109,6 +108,7 @@
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇷🇺 RU | 🟢 | vless | @game_file2020 | 8",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
+                "🇷🇺 RU | 🟢 | vless | @getconfigir | 17",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 19",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 21",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann2 | 2",
@@ -119,6 +119,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇳🇱 NL | 🟢 | vless | @hope_net | 19",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 2",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇨🇿 CZ | 🟢 | vless | @icv2ray | 15",
@@ -206,7 +207,6 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 8",
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 47",
                 "🇧🇪 BE | 🟢 | vless | @configfa | 12",
                 "🇵🇱 PL | 🟢 | vless | @configfa | 13",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
@@ -223,6 +223,7 @@
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇷🇺 RU | 🟢 | vless | @game_file2020 | 8",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
+                "🇷🇺 RU | 🟢 | vless | @getconfigir | 17",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 19",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 21",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann2 | 2",
@@ -233,6 +234,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇳🇱 NL | 🟢 | vless | @hope_net | 19",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 2",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇨🇿 CZ | 🟢 | vless | @icv2ray | 15",
@@ -386,29 +388,6 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 47",
-            "type": "vless",
-            "server": "35.88.48.118",
-            "server_port": 4433,
-            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0",
-                    "short_id": "f785b38130e64177"
                 }
             }
         },
@@ -805,6 +784,29 @@
             }
         },
         {
+            "tag": "🇷🇺 RU | 🟢 | vless | @getconfigir | 17",
+            "type": "vless",
+            "server": "45.134.12.5",
+            "server_port": 443,
+            "uuid": "c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hls-svod.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "48720c"
+                }
+            }
+        },
+        {
             "tag": "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 19",
             "type": "vless",
             "server": "194.182.79.216",
@@ -1064,6 +1066,33 @@
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
                 }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @hope_net | 19",
+            "type": "vless",
+            "server": "31.44.2.219",
+            "server_port": 8443,
+            "uuid": "e84e0eac-7ac9-4029-bdf9-0d79219e60ce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r5t0FMNYQZ6MyEjittGRVQtAtyV8miQC3Cqzcx_cRG4",
+                    "short_id": "37c6859775"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "JoinBadeChannel@antimeli"
             }
         },
         {
