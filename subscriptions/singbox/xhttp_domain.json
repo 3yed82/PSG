@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 40",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -124,7 +123,6 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 40",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 18",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
@@ -182,15 +180,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 40",
-            "type": "vless",
-            "server": "tunel.smartpanel.com.tr",
-            "server_port": 80,
-            "uuid": "70bea667-d767-4592-8247-016f66c41e85",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",

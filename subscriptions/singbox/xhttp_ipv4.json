@@ -98,14 +98,13 @@
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 2",
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 3",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 0",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -143,14 +142,13 @@
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 2",
                 "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 3",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 0",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
@@ -329,29 +327,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
-            "type": "vless",
-            "server": "80.240.23.101",
-            "server_port": 443,
-            "uuid": "97d53a59-918e-45fc-bc5d-ba487f090cc1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hundleymechanical.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o",
-                    "short_id": "008c74"
-                }
-            }
-        },
-        {
             "tag": "🇦🇪 AE | 🟢 | vless | @grizzlyvpn | 2",
             "type": "vless",
             "server": "130.185.122.139",
@@ -434,7 +409,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 0",
             "type": "vless",
             "server": "104.21.62.144",
             "server_port": 443,
