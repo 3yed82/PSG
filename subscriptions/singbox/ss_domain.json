@@ -93,9 +93,10 @@
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 12",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
-                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 4",
+                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 1",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
@@ -123,9 +124,10 @@
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 12",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
-                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 4",
+                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 1",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
@@ -185,6 +187,14 @@
             "password": "u17T3BvpYaaiuW2c"
         },
         {
+            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 12",
+            "type": "shadowsocks",
+            "server": "beesyar.org",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
             "type": "shadowsocks",
             "server": "api.namasha.co",
@@ -201,7 +211,7 @@
             "password": "2be0c954-4291-45ea-b47d-ca713180550b"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @mowjproxy | 4",
+            "tag": "🇬🇧 GB | 🟢 | ss | @mowjproxy | 1",
             "type": "shadowsocks",
             "server": "admin.c4.webramz.co",
             "server_port": 443,
