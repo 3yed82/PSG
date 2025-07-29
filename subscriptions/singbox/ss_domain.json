@@ -91,6 +91,8 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
+                "🇩🇪 DE | 🟢 | ss | @configshubplus | 17",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -120,6 +122,8 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
+                "🇩🇪 DE | 🟢 | ss | @configshubplus | 17",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -165,6 +169,22 @@
             "server_port": 10107,
             "method": "aes-256-gcm",
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
+            "type": "shadowsocks",
+            "server": "h110vpnnl.outlinekeys.net",
+            "server_port": 52571,
+            "method": "chacha20-ietf-poly1305",
+            "password": "nzba2zEDWdOW3MYiPZn1ly"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | ss | @configshubplus | 17",
+            "type": "shadowsocks",
+            "server": "h110vpnde.outlinekeys.net",
+            "server_port": 21712,
+            "method": "chacha20-ietf-poly1305",
+            "password": "vjb0TlSElwCUr414y8nc7N"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
