@@ -89,15 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | trojan | @armodchannel | 59",
-                "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 9",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 6",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 7",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -111,15 +103,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | trojan | @armodchannel | 59",
-                "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 9",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 6",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 7",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -135,75 +119,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
-            "type": "trojan",
-            "server": "asia.artunnel57.host",
-            "server_port": 443,
-            "password": "fa9b326c-ca6f-4bb2-88f5-a163b404fcf8",
-            "tls": {
-                "enabled": true,
-                "server_name": "asia.artunnel57.host",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/trojan-tls",
-                "headers": {
-                    "Host": "asia.artunnel57.host"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔴 | trojan | @armodchannel | 60",
-            "type": "trojan",
-            "server": "asia.artunnel57.host",
-            "server_port": 80,
-            "password": "fa9b326c-ca6f-4bb2-88f5-a163b404fcf8",
-            "transport": {
-                "type": "ws",
-                "path": "/trojan-ntls",
-                "headers": {
-                    "Host": "asia.artunnel57.host"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-            "type": "trojan",
-            "server": "t3.teslacdn2.live",
-            "server_port": 443,
-            "password": "e1c12e6f-a555-4ff8-b071-1e09dd5d91e6",
-            "tls": {
-                "enabled": true,
-                "server_name": "t3.teslacdn2.live",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 9",
-            "type": "trojan",
-            "server": "stirring-parakeet.shiner427.skin",
-            "server_port": 443,
-            "password": "74260628090146500",
-            "tls": {
-                "enabled": true,
-                "server_name": "stirring-parakeet.shiner427.skin",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -223,95 +138,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "iraniV2ray"
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
-            "type": "trojan",
-            "server": "maradona_vpn.history-paint.art",
-            "server_port": 443,
-            "password": "maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/wss24142?ed=2048",
-                "headers": {
-                    "Host": "teo.history-paint.art"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 6",
-            "type": "trojan",
-            "server": "maradona_vpn14.history-paint.art",
-            "server_port": 443,
-            "password": "maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/wss24142?ed=2048",
-                "headers": {
-                    "Host": "teo.history-paint.art"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 7",
-            "type": "trojan",
-            "server": "maradona_vpn10.history-paint.art",
-            "server_port": 443,
-            "password": "maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/wss24142?ed=2048",
-                "headers": {
-                    "Host": "teo.history-paint.art"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-            "type": "trojan",
-            "server": "maradona_vpn.history-paint.art",
-            "server_port": 443,
-            "password": "Maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "grpc20337"
             }
         },
         {
