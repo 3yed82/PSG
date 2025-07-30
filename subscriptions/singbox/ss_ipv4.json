@@ -107,7 +107,7 @@
                 "🇵🇹 PT | 🟢 | ss | @filtershekan_channel | 12",
                 "🇺🇸 US | 🟢 | ss | @flyv2ray | 5",
                 "🇸🇪 SE | 🟢 | ss | @freakconfig1 | 1",
-                "🇫🇮 FI | 🟢 | ss | @free1ss | 10",
+                "🇳🇱 NL | 🟢 | ss | @free1ss | 10",
                 "🇳🇱 NL | 🟢 | ss | @free1ss | 11",
                 "🇹🇷 TR | 🟢 | ss | @free1ss | 12",
                 "🇺🇸 US | 🟢 | ss | @free1ss | 13",
@@ -118,7 +118,9 @@
                 "🇷🇺 RU | 🟢 | ss | @gh_v2rayng | 15",
                 "🇵🇱 PL | 🟢 | ss | @gh_v2rayng | 16",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇩🇪 DE | 🟢 | ss | @hope_net | 18",
+                "🇩🇪 DE | 🟢 | ss | @hope_net | 16",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 19",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 20",
                 "🇫🇮 FI | 🟢 | ss | @info_2it_channel | 3",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇬🇧 GB | 🟢 | ss | @ir_netproxy | 12",
@@ -199,7 +201,7 @@
                 "🇵🇹 PT | 🟢 | ss | @filtershekan_channel | 12",
                 "🇺🇸 US | 🟢 | ss | @flyv2ray | 5",
                 "🇸🇪 SE | 🟢 | ss | @freakconfig1 | 1",
-                "🇫🇮 FI | 🟢 | ss | @free1ss | 10",
+                "🇳🇱 NL | 🟢 | ss | @free1ss | 10",
                 "🇳🇱 NL | 🟢 | ss | @free1ss | 11",
                 "🇹🇷 TR | 🟢 | ss | @free1ss | 12",
                 "🇺🇸 US | 🟢 | ss | @free1ss | 13",
@@ -210,7 +212,9 @@
                 "🇷🇺 RU | 🟢 | ss | @gh_v2rayng | 15",
                 "🇵🇱 PL | 🟢 | ss | @gh_v2rayng | 16",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇩🇪 DE | 🟢 | ss | @hope_net | 18",
+                "🇩🇪 DE | 🟢 | ss | @hope_net | 16",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 19",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 20",
                 "🇫🇮 FI | 🟢 | ss | @info_2it_channel | 3",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇬🇧 GB | 🟢 | ss | @ir_netproxy | 12",
@@ -421,20 +425,20 @@
             "password": "ETt8vY8HbPwOfk21c3i13h"
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | ss | @free1ss | 10",
-            "type": "shadowsocks",
-            "server": "83.147.216.70",
-            "server_port": 64519,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9z4XoS0TfzxNsSqBVAWt7N"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @free1ss | 11",
+            "tag": "🇳🇱 NL | 🟢 | ss | @free1ss | 10",
             "type": "shadowsocks",
             "server": "178.208.91.118",
             "server_port": 19805,
             "method": "chacha20-ietf-poly1305",
             "password": "SF8UOa2Hgsjo12DtIOSRVp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @free1ss | 11",
+            "type": "shadowsocks",
+            "server": "193.29.139.227",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "QCXDxuDlTTMD7jtgHUjIoj"
         },
         {
             "tag": "🇹🇷 TR | 🟢 | ss | @free1ss | 12",
@@ -509,12 +513,28 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @hope_net | 18",
+            "tag": "🇩🇪 DE | 🟢 | ss | @hope_net | 16",
             "type": "shadowsocks",
             "server": "81.19.141.45",
             "server_port": 52873,
             "method": "chacha20-ietf-poly1305",
             "password": "yeRCTY8OEBXmchr5rzD5pJ"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "89.110.70.175",
+            "server_port": 13402,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ZXByXCVah8pX5yNSDRsTVT"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 20",
+            "type": "shadowsocks",
+            "server": "69.50.95.53",
+            "server_port": 5498,
+            "method": "aes-256-gcm",
+            "password": "lGqs95QkFHo2NV"
         },
         {
             "tag": "🇫🇮 FI | 🟢 | ss | @info_2it_channel | 3",
