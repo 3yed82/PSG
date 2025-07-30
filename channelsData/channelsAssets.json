@@ -225,7 +225,9 @@
     "config_proxy": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess",
+            "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -290,9 +292,9 @@
     "configshubplus": {
         "types": [
             "vless",
+            "ss",
             "trojan",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -1012,9 +1014,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "ss",
             "vless",
+            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1085,10 +1087,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
             "ss",
-            "vless",
-            "vmess"
+            "trojan",
+            "vmess",
+            "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1658,7 +1660,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1776,14 +1779,6 @@
         ],
         "title": "گلچین پروکسی | بهترین پروکسی ها کانفینگ قوی کانفیگ سرعتی 🔘 پراکسی ملی فعال 🔘",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/nationalproxytelegram.jpg"
-    },
-    "nepo_v2ray": {
-        "types": [
-            "ss",
-            "vless"
-        ],
-        "title": "Nepo_v2ray",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/nepo_v2ray.jpg"
     },
     "net_azad_1": {
         "types": [
@@ -2525,9 +2520,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
-            "trojan",
             "ss",
+            "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2620,7 +2615,6 @@
     "v2raych": {
         "types": [
             "vless",
-            "vmess",
             "trojan",
             "ss"
         ],
@@ -2883,7 +2877,6 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "vmess",
             "trojan"
         ],
         "title": "V2ray | VPN",
@@ -3400,7 +3393,8 @@
     "zerobaipiao": {
         "types": [
             "vmess",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerobaipiao.jpg"

@@ -100,7 +100,7 @@
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @proxie | 13",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 16",
                 "🇺🇸 US | 🟢 | vless | @proxie | 17",
@@ -139,7 +139,7 @@
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @proxie | 13",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 16",
                 "🇺🇸 US | 🟢 | vless | @proxie | 17",
@@ -326,11 +326,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 13",
+            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 2",
             "type": "vless",
             "server": "104.21.62.144",
             "server_port": 443,
-            "uuid": "b0d51fa0-20e8-447c-832a-c24546a74595",
+            "uuid": "c791bcdc-b9b3-4ca2-8110-fa705f4a9d32",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
