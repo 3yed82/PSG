@@ -92,10 +92,8 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 8",
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇯🇵 JP | 🟢 | vless | @config_proxy | 34",
                 "🇧🇪 BE | 🟢 | vless | @configfa | 12",
                 "🇵🇱 PL | 🟢 | vless | @configfa | 13",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -173,6 +171,7 @@
                 "🇨🇿 CZ | 🟢 | vless | @v2ray_sos | 2",
                 "🇭🇺 HU | 🟢 | vless | @v2ray_sos | 4",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
+                "🇨🇿 CZ | 🟢 | vless | @v2raych | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2raymelliii | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngninja | 8",
@@ -208,10 +207,8 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 8",
                 "🇫🇮 FI | 🟢 | vless | @appsooner | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇯🇵 JP | 🟢 | vless | @config_proxy | 34",
                 "🇧🇪 BE | 🟢 | vless | @configfa | 12",
                 "🇵🇱 PL | 🟢 | vless | @configfa | 13",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
@@ -289,6 +286,7 @@
                 "🇨🇿 CZ | 🟢 | vless | @v2ray_sos | 2",
                 "🇭🇺 HU | 🟢 | vless | @v2ray_sos | 4",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
+                "🇨🇿 CZ | 🟢 | vless | @v2raych | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2raymelliii | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngninja | 8",
@@ -394,29 +392,6 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🟢 | vless | @config_proxy | 34",
-            "type": "vless",
-            "server": "141.11.51.69",
-            "server_port": 443,
-            "uuid": "a05d3b5b-3274-42c0-a63a-58c1b644f042",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.j-wave.co.jp",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "DaVESe6LnHDkrjuiq8Mk3bsxtDuMJYfX-Pp4qeu1rhc",
-                    "short_id": "23ecfbbf"
-                }
-            }
-        },
-        {
             "tag": "🇧🇪 BE | 🟢 | vless | @configfa | 12",
             "type": "vless",
             "server": "45.83.20.34",
@@ -459,29 +434,6 @@
                     "enabled": true,
                     "public_key": "joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10",
                     "short_id": "6d638e"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "141.11.21.166",
-            "server_port": 8443,
-            "uuid": "eb167fac-56a4-4ed2-b037-6233adf519e7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.bing.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "y0s_XNGvc7txwL0PDA0YA5xK6u186vExkVLZp1-0yF0",
-                    "short_id": "c3fa49b8"
                 }
             }
         },
@@ -2405,6 +2357,33 @@
                     "public_key": "aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY",
                     "short_id": "a0209e22"
                 }
+            }
+        },
+        {
+            "tag": "🇨🇿 CZ | 🟢 | vless | @v2raych | 15",
+            "type": "vless",
+            "server": "194.182.79.250",
+            "server_port": 52612,
+            "uuid": "83dc5c38-92fb-4d92-adb2-038575a12d49",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs",
+                    "short_id": "78a48e1e"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "t.me/entryNET"
             }
         },
         {
