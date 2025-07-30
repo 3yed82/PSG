@@ -808,9 +808,9 @@
     },
     "freevpnatm": {
         "types": [
-            "vless",
             "vmess",
-            "hy2"
+            "hy2",
+            "trojan"
         ],
         "title": "科學上网 free configs",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freevpnatm.jpg"
@@ -997,8 +997,8 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
@@ -1070,10 +1070,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
-            "trojan",
             "vless",
-            "ss"
+            "vmess",
+            "ss",
+            "trojan"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1644,8 +1644,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2502,8 +2502,8 @@
     "v2ray_free_conf": {
         "types": [
             "trojan",
-            "vmess",
             "ss",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2840,8 +2840,7 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
@@ -3344,8 +3343,8 @@
     "zerobaipiao": {
         "types": [
             "vmess",
-            "trojan",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerobaipiao.jpg"

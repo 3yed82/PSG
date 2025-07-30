@@ -95,7 +95,6 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇩🇪 DE | 🟢 | vless | @config_proxy | 37",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
@@ -128,6 +127,7 @@
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
+                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
                 "🇵🇱 PL | 🟢 | vless | @proxygodratmand | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 13",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
@@ -142,11 +142,10 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇬🇧 GB | 🟢 | vless | @v2ray_v_vpn | 44",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
-                "🇩🇪 DE | 🟢 | vless | @v2raych | 18",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇯🇵 JP | 🟢 | vless | @v2rayngrit | 13",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
@@ -178,7 +177,6 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇩🇪 DE | 🟢 | vless | @config_proxy | 37",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
@@ -211,6 +209,7 @@
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
+                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
                 "🇵🇱 PL | 🟢 | vless | @proxygodratmand | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 13",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
@@ -225,11 +224,10 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇬🇧 GB | 🟢 | vless | @v2ray_v_vpn | 44",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
-                "🇩🇪 DE | 🟢 | vless | @v2raych | 18",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇯🇵 JP | 🟢 | vless | @v2rayngrit | 13",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
@@ -401,29 +399,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 37",
-            "type": "vless",
-            "server": "prteam.darkping.net",
-            "server_port": 2422,
-            "uuid": "55ec6907-f07b-486a-cc00-995f20e6ff35",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
-                    "short_id": ""
                 }
             }
         },
@@ -1243,6 +1218,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
+            "type": "vless",
+            "server": "prteam.darkping.net",
+            "server_port": 2422,
+            "uuid": "55ec6907-f07b-486a-cc00-995f20e6ff35",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "🇵🇱 PL | 🟢 | vless | @proxygodratmand | 5",
             "type": "vless",
             "server": "dl-04.saitsazs.ir",
@@ -1569,33 +1567,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2raych | 18",
-            "type": "vless",
-            "server": "dev.loadbalance.iranstars-shop.ir",
-            "server_port": 2689,
-            "uuid": "c44ae46c-eee5-45a8-b90f-d5a3ae99fd34",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U",
-                    "short_id": "b6c24852f86067a6"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "t.me/entryNET"
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
             "type": "vless",
             "server": "pub2.legendaryking.link",
@@ -1673,7 +1644,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🟢 | vless | @v2rayngrit | 13",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 13",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
