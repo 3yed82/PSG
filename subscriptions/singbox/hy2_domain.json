@@ -88,14 +88,23 @@
         {
             "outbounds": [
                 "auto",
-                "direct"
+                "direct",
+                "🇩🇪 DE | 🟢 | hy2 | @freevpnatm | 12",
+                "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 13",
+                "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 14",
+                "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 15"
             ],
             "tag": "proxy",
             "type": "selector"
         },
         {
             "interval": "10m",
-            "outbounds": [],
+            "outbounds": [
+                "🇩🇪 DE | 🟢 | hy2 | @freevpnatm | 12",
+                "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 13",
+                "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 14",
+                "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 15"
+            ],
             "tag": "auto",
             "tolerance": 50,
             "type": "urltest",
@@ -104,6 +113,82 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | hy2 | @freevpnatm | 12",
+            "type": "hysteria2",
+            "server": "dehub.xg-hub.icu",
+            "server_port": 25784,
+            "password": "e6c29ae0-f573-4dca-9b02-b4133edd7e38",
+            "obfs": {
+                "type": "salamander",
+                "password": "ZDQxZDhjZDk4ZjAwYjIwNA=="
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "dehub.xg-hub.icu",
+                "insecure": true,
+                "alpn": [
+                    "h3"
+                ]
+            }
+        },
+        {
+            "tag": "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 13",
+            "type": "hysteria2",
+            "server": "twhub.xg-hub.icu",
+            "server_port": 25786,
+            "password": "e6c29ae0-f573-4dca-9b02-b4133edd7e38",
+            "obfs": {
+                "type": "salamander",
+                "password": "ZDQxZDhjZDk4ZjAwYjIwNA=="
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "twhub.xg-hub.icu",
+                "insecure": true,
+                "alpn": [
+                    "h3"
+                ]
+            }
+        },
+        {
+            "tag": "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 14",
+            "type": "hysteria2",
+            "server": "krhub.xg-hub.icu",
+            "server_port": 25783,
+            "password": "e6c29ae0-f573-4dca-9b02-b4133edd7e38",
+            "obfs": {
+                "type": "salamander",
+                "password": "ZDQxZDhjZDk4ZjAwYjIwNA=="
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "krhub.xg-hub.icu",
+                "insecure": true,
+                "alpn": [
+                    "h3"
+                ]
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 15",
+            "type": "hysteria2",
+            "server": "ukhub.xg-hub.icu",
+            "server_port": 25785,
+            "password": "e6c29ae0-f573-4dca-9b02-b4133edd7e38",
+            "obfs": {
+                "type": "salamander",
+                "password": "ZDQxZDhjZDk4ZjAwYjIwNA=="
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ukhub.xg-hub.icu",
+                "insecure": true,
+                "alpn": [
+                    "h3"
+                ]
+            }
         }
     ],
     "route": {

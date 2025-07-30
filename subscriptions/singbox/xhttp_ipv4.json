@@ -115,7 +115,6 @@
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 7",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 9",
@@ -155,7 +154,6 @@
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 7",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 9",
@@ -553,29 +551,6 @@
             "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 8",
-            "type": "vless",
-            "server": "206.71.158.75",
-            "server_port": 465,
-            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "smtp.zoho.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "ios"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk",
-                    "short_id": "7f2798f9"
-                }
-            }
         },
         {
             "tag": "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",

@@ -225,7 +225,6 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
             "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -290,8 +289,10 @@
     },
     "configshubplus": {
         "types": [
+            "vless",
+            "trojan",
             "vmess",
-            "vless"
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -822,8 +823,9 @@
     "freevpnatm": {
         "types": [
             "vless",
+            "trojan",
             "vmess",
-            "trojan"
+            "hy2"
         ],
         "title": "科學上网 free configs",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freevpnatm.jpg"
@@ -1010,10 +1012,10 @@
     },
     "hope_net": {
         "types": [
+            "trojan",
             "ss",
             "vless",
-            "vmess",
-            "trojan"
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1084,8 +1086,8 @@
     "ip_cf_config": {
         "types": [
             "trojan",
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
@@ -1656,9 +1658,7 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2620,9 +2620,9 @@
     "v2raych": {
         "types": [
             "vless",
-            "ss",
+            "vmess",
             "trojan",
-            "vmess"
+            "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2883,7 +2883,8 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
