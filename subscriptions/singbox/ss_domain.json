@@ -106,7 +106,6 @@
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 4",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
-                "🇵🇹 PT | 🟢 | ss | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
@@ -135,7 +134,6 @@
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 4",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
-                "🇵🇹 PT | 🟢 | ss | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
@@ -285,14 +283,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇵🇹 PT | 🟢 | ss | @v2rayng_fars | 14",
-            "type": "shadowsocks",
-            "server": "pt-1.stunnel.cc",
-            "server_port": 8444,
-            "method": "chacha20-ietf-poly1305",
-            "password": "tunnel-astrovpn_pt"
         },
         {
             "tag": "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
