@@ -96,6 +96,8 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
+                "🇱🇰 LK | 🟢 | vless | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -129,7 +131,7 @@
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
                 "🇵🇱 PL | 🟢 | vless | @proxygodratmand | 5",
-                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 13",
+                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 12",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @public504 | 9",
@@ -145,7 +147,7 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 13",
+                "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
@@ -178,6 +180,8 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
+                "🇱🇰 LK | 🟢 | vless | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -211,7 +215,7 @@
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 10",
                 "🇵🇱 PL | 🟢 | vless | @proxygodratmand | 5",
-                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 13",
+                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 12",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @public504 | 9",
@@ -227,7 +231,7 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 13",
+                "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
@@ -427,6 +431,52 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers"
+            }
+        },
+        {
+            "tag": "🇱🇰 LK | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "direct.yasharteam.com",
+            "server_port": 443,
+            "uuid": "b7359528-87bd-4806-bdde-04a70b42326f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "direct2.yasharteam.com",
+            "server_port": 443,
+            "uuid": "b7359528-87bd-4806-bdde-04a70b42326f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
+                }
             }
         },
         {
@@ -1264,7 +1314,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 13",
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 12",
             "type": "vless",
             "server": "vip1.proxystore11.news",
             "server_port": 10358,
@@ -1644,7 +1694,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 13",
+            "tag": "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 13",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
