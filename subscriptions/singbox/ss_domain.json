@@ -93,6 +93,7 @@
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freakconfig | 17",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 14",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -110,7 +111,6 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
-                "🇵🇱 PL | 🟢 | ss | @zerobaipiao | 37",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
             "tag": "proxy",
@@ -123,6 +123,7 @@
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freakconfig | 17",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 14",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -140,7 +141,6 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vmess_iran | 0",
-                "🇵🇱 PL | 🟢 | ss | @zerobaipiao | 37",
                 "🇬🇧 GB | 🟢 | ss | @zibanabz | 0"
             ],
             "tag": "auto",
@@ -183,6 +183,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 14",
+            "type": "shadowsocks",
+            "server": "beesyar.org",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -319,14 +327,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "1xO2cqPazqjGfCfd"
-        },
-        {
-            "tag": "🇵🇱 PL | 🟢 | ss | @zerobaipiao | 37",
-            "type": "shadowsocks",
-            "server": "pr.fastsoonlink.com",
-            "server_port": 40030,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ae6e933b-8874-4bf4-a384-0de216ef2bf4"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @zibanabz | 0",

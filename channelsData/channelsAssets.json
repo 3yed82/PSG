@@ -225,9 +225,9 @@
     "config_proxy": {
         "types": [
             "vless",
+            "ss",
             "vmess",
-            "trojan",
-            "ss"
+            "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -291,8 +291,6 @@
     },
     "configshubplus": {
         "types": [
-            "vmess",
-            "ss",
             "vless"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -1012,9 +1010,9 @@
     },
     "hope_net": {
         "types": [
+            "trojan",
             "vless",
             "ss",
-            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1085,10 +1083,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
-            "trojan",
+            "vless",
             "ss",
-            "vless"
+            "trojan",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2072,9 +2070,9 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
+            "vmess",
             "vless",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2147,8 +2145,8 @@
     "prrofile_purple": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "سرور - V2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/prrofile_purple.jpg"
@@ -2440,7 +2438,7 @@
         "types": [
             "vless"
         ],
-        "title": "Turboo-server",
+        "title": "Turboo Server",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/turboo_server.jpg"
     },
     "ultrasurf_12": {
@@ -2517,10 +2515,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "ss",
             "vmess",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2636,9 +2634,9 @@
     },
     "v2rayfree": {
         "types": [
+            "vmess",
             "vless",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2833,14 +2831,6 @@
         "title": "V2ray TG ™",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raytg.jpg"
     },
-    "v2rayturbo": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "Turbo V2Ray | فیلترشکن پرسرعت",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayturbo.jpg"
-    },
     "v2rayvmess": {
         "types": [
             "vmess",
@@ -2974,18 +2964,6 @@
         ],
         "title": "💥VIP V2ray💥",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vipv2rayvip.jpg"
-    },
-    "vipv2rey": {
-        "types": [
-            "vless",
-            "ss",
-            "vmess",
-            "hy2",
-            "hysteria",
-            "tuic"
-        ],
-        "title": "V2RAYNG💥VIP",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vipv2rey.jpg"
     },
     "vipvpn_v2ray": {
         "types": [
