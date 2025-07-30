@@ -97,12 +97,14 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
+                "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 16",
+                "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
+                "🇫🇮 FI | 🟢 | vless | @getconfigir | 18",
                 "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 4",
                 "🇵🇱 PL | 🟢 | vless | @grizzlyvpn | 5",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
@@ -143,10 +145,10 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 13",
+                "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇺🇸 US | 🟢 | vless | @vistav2ray | 16",
+                "🇺🇸 US | 🟢 | vless | @vistav2ray | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
@@ -176,12 +178,14 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
+                "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 0",
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
-                "🇺🇸 US | 🟢 | vless | @getconfigir | 16",
+                "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
+                "🇫🇮 FI | 🟢 | vless | @getconfigir | 18",
                 "🇫🇷 FR | 🟢 | vless | @grizzlyvpn | 4",
                 "🇵🇱 PL | 🟢 | vless | @grizzlyvpn | 5",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
@@ -222,10 +226,10 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 13",
+                "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇺🇸 US | 🟢 | vless | @vistav2ray | 16",
+                "🇺🇸 US | 🟢 | vless | @vistav2ray | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
                 "❔ XX | 🟢 | vless | @vp22ray | 8",
@@ -451,6 +455,29 @@
             }
         },
         {
+            "tag": "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
+            "type": "vless",
+            "server": "speedtest.net.zula.ir.nobitex.ir.shakhle.ir",
+            "server_port": 39001,
+            "uuid": "15449e06-b519-414a-9e0d-fbb4a0fd2780",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
+                    "short_id": "f23547"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @free_omega | 0",
             "type": "vless",
             "server": "free.omegav.fun",
@@ -582,7 +609,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @getconfigir | 16",
+            "tag": "🇺🇸 US | 🟢 | vless | @getconfigir | 15",
             "type": "vless",
             "server": "api.hostbaran.info",
             "server_port": 15810,
@@ -601,6 +628,29 @@
                     "enabled": true,
                     "public_key": "Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY",
                     "short_id": "75"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @getconfigir | 18",
+            "type": "vless",
+            "server": "imac.irmobileshopp.ir",
+            "server_port": 5555,
+            "uuid": "01a244ae-a84b-4d02-be2e-48c4562dd382",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Ug2ed7Ftati8pzbtzpzSIV4xwwbp9lSSsyB6yloe-ng",
+                    "short_id": "65e7"
                 }
             }
         },
@@ -1592,7 +1642,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 13",
+            "tag": "🇰🇷 KR | 🟢 | vless | @v2rayngrit | 13",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1665,7 +1715,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @vistav2ray | 16",
+            "tag": "🇺🇸 US | 🟢 | vless | @vistav2ray | 15",
             "type": "vless",
             "server": "api.hostbaran.info",
             "server_port": 15810,
