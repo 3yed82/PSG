@@ -93,7 +93,7 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
-                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 58",
+                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 51",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
@@ -105,7 +105,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 16",
                 "🇺🇸 US | 🟢 | vless | @proxie | 18",
-                "🇩🇪 DE | 🔴 | vless | @proxy_mtproto_vpns_free | 4",
                 "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇳🇱 NL | 🟢 | vless | @prrofile_purple | 123",
@@ -116,8 +115,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
+                "🇩🇪 DE | 🔴 | vless | @v2rayopen | 5",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
-                "🇩🇪 DE | 🔴 | vless | @v2rayopen | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 12",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
@@ -136,7 +135,7 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
-                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 58",
+                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 51",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
@@ -148,7 +147,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 16",
                 "🇺🇸 US | 🟢 | vless | @proxie | 18",
-                "🇩🇪 DE | 🔴 | vless | @proxy_mtproto_vpns_free | 4",
                 "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇳🇱 NL | 🟢 | vless | @prrofile_purple | 123",
@@ -159,8 +157,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
+                "🇩🇪 DE | 🔴 | vless | @v2rayopen | 5",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
-                "🇩🇪 DE | 🔴 | vless | @v2rayopen | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 12",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
@@ -243,7 +241,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @filter_breaker | 58",
+            "tag": "🇩🇪 DE | 🟢 | vless | @filter_breaker | 51",
             "type": "vless",
             "server": "91.99.153.13",
             "server_port": 443,
@@ -415,15 +413,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @proxy_mtproto_vpns_free | 4",
-            "type": "vless",
-            "server": "91.99.132.59",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | vless | @proxygodratmand | 2",
             "type": "vless",
             "server": "83.147.18.191",
@@ -570,7 +559,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayopen | 5",
             "type": "vless",
             "server": "91.99.176.24",
             "server_port": 8443,
@@ -579,7 +568,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayopen | 7",
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
             "type": "vless",
             "server": "91.99.153.233",
             "server_port": 8443,

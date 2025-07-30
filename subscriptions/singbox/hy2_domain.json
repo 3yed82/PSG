@@ -89,9 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 8",
-                "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 9",
-                "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 10"
+                "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 6",
+                "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 7",
+                "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -99,9 +99,9 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 8",
-                "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 9",
-                "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 10"
+                "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 6",
+                "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 7",
+                "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -113,7 +113,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 8",
+            "tag": "🇹🇼 TW | 🟢 | hy2 | @freevpnatm | 6",
             "type": "hysteria2",
             "server": "twhub.xg-hub.icu",
             "server_port": 25786,
@@ -132,7 +132,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 9",
+            "tag": "🇰🇷 KR | 🟢 | hy2 | @freevpnatm | 7",
             "type": "hysteria2",
             "server": "krhub.xg-hub.icu",
             "server_port": 25783,
@@ -151,7 +151,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 10",
+            "tag": "🇬🇧 GB | 🟢 | hy2 | @freevpnatm | 8",
             "type": "hysteria2",
             "server": "ukhub.xg-hub.icu",
             "server_port": 25785,
