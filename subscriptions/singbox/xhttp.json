@@ -93,6 +93,7 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
+                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 77",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
@@ -114,6 +115,7 @@
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 7",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 9",
@@ -148,7 +150,6 @@
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "❔ XX | 🔴 | vless | @v2ray_tz | 5",
-                "🇺🇸 US | 🔴 | vless | @v2raych | 15",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -162,6 +163,7 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
+                "🇩🇪 DE | 🟢 | vless | @filter_breaker | 77",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
@@ -183,6 +185,7 @@
                 "🇫🇮 FI | 🔴 | vless | @v2rayngfreee | 4",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 6",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 7",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "🇩🇪 DE | 🟢 | vless | @vpnkanfik | 9",
@@ -217,7 +220,6 @@
                 "🇺🇸 US | 🔴 | vless | @turboo_server | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "❔ XX | 🔴 | vless | @v2ray_tz | 5",
-                "🇺🇸 US | 🔴 | vless | @v2raych | 15",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -293,6 +295,29 @@
             "uuid": "Parsashonam-262",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @filter_breaker | 77",
+            "type": "vless",
+            "server": "91.99.153.13",
+            "server_port": 443,
+            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk",
+                    "short_id": "cd0b"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
@@ -588,6 +613,29 @@
             "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 8",
+            "type": "vless",
+            "server": "206.71.158.75",
+            "server_port": 465,
+            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "smtp.zoho.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "ios"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk",
+                    "short_id": "7f2798f9"
+                }
+            }
         },
         {
             "tag": "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
@@ -1064,15 +1112,6 @@
             "server": "bos.lebasnoo.ir",
             "server_port": 80,
             "uuid": "9c2e1da7-8e50-4899-ad69-ad0b52de696c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2raych | 15",
-            "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
             "flow": "",
             "packet_encoding": "xudp"
         },
