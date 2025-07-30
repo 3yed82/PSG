@@ -95,7 +95,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇩🇪 DE | 🟢 | vless | @config_proxy | 46",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 37",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
@@ -142,12 +142,12 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇬🇧 GB | 🟢 | vless | @v2ray_v_vpn | 44",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
+                "🇩🇪 DE | 🟢 | vless | @v2raych | 18",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 13",
+                "🇯🇵 JP | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
                 "🇷🇺 RU | 🟢 | vless | @vistav2ray | 15",
@@ -178,7 +178,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇩🇪 DE | 🟢 | vless | @config_proxy | 46",
+                "🇩🇪 DE | 🟢 | vless | @config_proxy | 37",
                 "🇫🇮 FI | 🟢 | vless | @configfa | 13",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇫🇮 FI | 🟢 | vless | @evay_vpn | 16",
@@ -225,12 +225,12 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇬🇧 GB | 🟢 | vless | @v2ray_v_vpn | 44",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
+                "🇩🇪 DE | 🟢 | vless | @v2raych | 18",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 13",
+                "🇯🇵 JP | 🟢 | vless | @v2rayngrit | 13",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
                 "🇷🇺 RU | 🟢 | vless | @vistav2ray | 15",
@@ -405,16 +405,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 46",
+            "tag": "🇩🇪 DE | 🟢 | vless | @config_proxy | 37",
             "type": "vless",
-            "server": "flower.mahi-yar.com",
-            "server_port": 7893,
-            "uuid": "5b224df1-cae9-48a5-b099-a30c8f2d241c",
+            "server": "prteam.darkping.net",
+            "server_port": 2422,
+            "uuid": "55ec6907-f07b-486a-cc00-995f20e6ff35",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "tgju.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -422,7 +422,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo",
+                    "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
                     "short_id": ""
                 }
             }
@@ -1569,6 +1569,33 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2raych | 18",
+            "type": "vless",
+            "server": "dev.loadbalance.iranstars-shop.ir",
+            "server_port": 2689,
+            "uuid": "c44ae46c-eee5-45a8-b90f-d5a3ae99fd34",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U",
+                    "short_id": "b6c24852f86067a6"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "t.me/entryNET"
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
             "type": "vless",
             "server": "pub2.legendaryking.link",
@@ -1646,7 +1673,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 13",
+            "tag": "🇯🇵 JP | 🟢 | vless | @v2rayngrit | 13",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1688,29 +1715,6 @@
                     "enabled": true,
                     "public_key": "GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ",
                     "short_id": "974a74bf"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 16",
-            "type": "vless",
-            "server": "dp.roverlow.com",
-            "server_port": 7893,
-            "uuid": "5b224df1-cae9-48a5-b099-a30c8f2d241c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo",
-                    "short_id": ""
                 }
             }
         },
