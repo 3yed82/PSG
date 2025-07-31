@@ -90,21 +90,20 @@
                 "auto",
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 3",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇩🇪 DE | 🔴 | vless | @mowjproxy | 3",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 6",
+                "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇬🇧 GB | 🟢 | vless | @tehranargo | 5",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
@@ -121,21 +120,20 @@
             "interval": "10m",
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 3",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇩🇪 DE | 🔴 | vless | @mowjproxy | 3",
-                "🇺🇸 US | 🔴 | vless | @nufilter | 6",
+                "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇬🇧 GB | 🟢 | vless | @tehranargo | 5",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
@@ -160,6 +158,15 @@
             "server": "151.101.67.8",
             "server_port": 80,
             "uuid": "TELEGRAM-CONFiGLiNE",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "0e3677c8-3512-4961-ddfc-42fde6803f58",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -246,16 +253,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @mowjproxy | 3",
-            "type": "vless",
-            "server": "91.99.153.233",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @nufilter | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @nufilter | 7",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -372,24 +370,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "server581122609014369419.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server581122609014369419.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
