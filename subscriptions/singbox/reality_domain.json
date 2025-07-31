@@ -94,6 +94,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
@@ -106,7 +107,8 @@
                 "❔ XX | 🟢 | vless | @jedal_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
                 "🇮🇳 IN | 🟢 | vless | @manzariyeh_rasht | 37",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 1",
+                "🇫🇮 FI | 🟢 | vless | @mowjproxy | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -117,7 +119,6 @@
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
                 "❔ XX | 🟢 | vless | @rezaw_server | 1",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
-                "🇩🇪 DE | 🟢 | vless | @selinc | 5",
                 "❔ XX | 🟢 | vless | @tc_v2ray | 1",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
@@ -145,6 +146,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
@@ -157,7 +159,8 @@
                 "❔ XX | 🟢 | vless | @jedal_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
                 "🇮🇳 IN | 🟢 | vless | @manzariyeh_rasht | 37",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+                "🇺🇸 US | 🟢 | vless | @mowjproxy | 1",
+                "🇫🇮 FI | 🟢 | vless | @mowjproxy | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -168,7 +171,6 @@
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
                 "❔ XX | 🟢 | vless | @rezaw_server | 1",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
-                "🇩🇪 DE | 🟢 | vless | @selinc | 5",
                 "❔ XX | 🟢 | vless | @tc_v2ray | 1",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
@@ -310,6 +312,29 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 55",
+            "type": "vless",
+            "server": "uuk5v.tok8888.com",
+            "server_port": 8443,
+            "uuid": "b807c5f7-98b4-4a91-9e1e-98865d949a51",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.apple.com.cn",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4",
+                    "short_id": ""
                 }
             }
         },
@@ -621,7 +646,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 1",
             "type": "vless",
             "server": "api.hostbaran.info",
             "server_port": 15810,
@@ -640,6 +665,29 @@
                     "enabled": true,
                     "public_key": "Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY",
                     "short_id": "75"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @mowjproxy | 4",
+            "type": "vless",
+            "server": "list.dayhostpro.com",
+            "server_port": 14685,
+            "uuid": "fc628c94-3c38-44e7-90aa-5ccde28ef29c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "getchef.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs",
+                    "short_id": "aa9c5414806589"
                 }
             }
         },
@@ -886,29 +934,6 @@
                     "enabled": true,
                     "public_key": "rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk",
                     "short_id": "69"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @selinc | 5",
-            "type": "vless",
-            "server": "xpanel.panelfreedom.com",
-            "server_port": 2090,
-            "uuid": "815d62b0-6838-424d-97c6-cca58ba97381",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo",
-                    "short_id": ""
                 }
             }
         },

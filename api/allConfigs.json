@@ -123,7 +123,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/artemis_vpn_free.jpg"
         },
         "type": "vless",
-        "config": "vless://6ae833da-e51f-48b4-a870-1f1aafe17378@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40artemis_vpn_free%20%7C%200"
+        "config": "vless://6ae833da-e51f-48b4-a870-1f1aafe17378@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40artemis_vpn_free%20%7C%200"
     },
     {
         "channel": {
@@ -132,7 +132,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/artemis_vpn_free.jpg"
         },
         "type": "vless",
-        "config": "vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40artemis_vpn_free%20%7C%201"
+        "config": "vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40artemis_vpn_free%20%7C%201"
     },
     {
         "channel": {
@@ -410,8 +410,8 @@
             "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
         },
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjE5My4xMDguMTE5LjExMiIsInBvcnQiOiIxMjI4MSIsImlkIjoiMzgwZWI1YWUtYTYwOS00OGNhLTkzYjMtOWQ4NTY0NzE0YzljIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzYiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQGNvbmZpZ19wcm94eSB8IDM1In0"
+        "type": "vless",
+        "config": "vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@188.114.98.112:2095?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2052"
     },
     {
         "channel": {
@@ -420,7 +420,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
         },
         "type": "vless",
-        "config": "vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2036"
+        "config": "vless://77836325-68d3-4b82-a195-524993ccf56b@151.101.130.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.TzZLiMitTNeWz.NeT&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2053"
     },
     {
         "channel": {
@@ -429,16 +429,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
         },
         "type": "vless",
-        "config": "vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?mode=auto&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=&encryption=none&host=joinshhproxybede.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2037"
-    },
-    {
-        "channel": {
-            "username": "config_proxy",
-            "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
-        },
-        "type": "vless",
-        "config": "vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.198.54:8880?path=%2Fa5B32PZjS8yfkA3C%3Fed%3D2560&security=&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsuPPLY.IP-ddNs.coM#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2038"
+        "config": "vless://77836325-68d3-4b82-a195-524993ccf56b@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeWz.NeT#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2054"
     },
     {
         "channel": {
@@ -447,7 +438,16 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
         },
         "type": "reality",
-        "config": "vless://-N--@88.99.87.227:2090?mode=gun&security=reality&encryption=none&authority=-%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN&pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&fp=chrome&spx=%2F&type=grpc&serviceName=t.me%2FentryNET&sni=journalofbigdata.springeropen.com&sid=aa0dd5ba#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2039"
+        "config": "vless://b807c5f7-98b4-4a91-9e1e-98865d949a51@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=safari&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&spx=%2F&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2055"
+    },
+    {
+        "channel": {
+            "username": "config_proxy",
+            "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
+        },
+        "type": "reality",
+        "config": "vless://e5e5b28d-8c6d-4094-97b3-ca561231610b@165.22.205.134:443?mode=gun&security=reality&encryption=none&pbk=eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ&fp=chrome&spx=%2F&type=grpc&serviceName=%40IRAN_V2RAY1%40IRAN_V2RAY1%40IRAN_V2RAY1%40IRAN_V2RAY1%40IRAN_V2RAY1%40IRAN_V2RAY1%40IRAN_V2RAY1%40IRAN_V2RAY1%40IRAN_V2RAY1+%40IRAN_V2RAY1%40IRAN_V2RAY1+%40IRAN_V2RAY1&sni=refersion.com&sid=a9#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40config_proxy%20%7C%2056"
     },
     {
         "channel": {
@@ -536,8 +536,8 @@
             "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
         },
-        "type": "vless",
-        "config": "vless://04327cef-1084-431a-d595-cfcf9593cbc3@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=qeshmserverfree.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2015"
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxOTkuMTk1LjI1My45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZmYzYjFmZS1iNDU4LTU5ZTItYjMyYS03M2YwYjhlZmQ1YjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQGNvbmZpZ3NodWJwbHVzIHwgMTQifQ"
     },
     {
         "channel": {
@@ -546,7 +546,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
         },
         "type": "vless",
-        "config": "vless://0eed5550-98ca-4d46-8f88-f4194a441e2f@vip13.v1pdomainsldz.ir:15247?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2016"
+        "config": "vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.178.25:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2015"
     },
     {
         "channel": {
@@ -555,7 +555,16 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
         },
         "type": "vless",
-        "config": "vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2017"
+        "config": "vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2016"
+    },
+    {
+        "channel": {
+            "username": "configshubplus",
+            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
+        },
+        "type": "trojan",
+        "config": "trojan://telegram-id-directvpn@52.47.42.196:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40configshubplus%20%7C%2017"
     },
     {
         "channel": {
@@ -564,16 +573,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
         },
         "type": "vless",
-        "config": "vless://afb48f0d-0b6d-45a2-9ad0-500e30d0c2a0@104.237.130.169:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2018"
-    },
-    {
-        "channel": {
-            "username": "configshubplus",
-            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
-        },
-        "type": "vless",
-        "config": "vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2FBIA_CHANEL%40JKVPN&security=tls&alpn=http%2F1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2019"
+        "config": "vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F%3F%40v2ray_configs_pools----%40v2ray_configs_pools#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configshubplus%20%7C%2018"
     },
     {
         "channel": {
@@ -771,7 +771,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/defenyx_vpn.jpg"
         },
         "type": "vless",
-        "config": "vless://1fdfca5b-ce15-4dc6-8539-f117469dfc1d@194.147.142.231:53920?type=tcp&path=%2F&host=creativecommons.org%2Cwebtechsurvey.com%2Csourceforge.net%2Ccoinstats.app%2Ccdn.discordapp.com&headerType=http&security=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40defenyx_vpn%20%7C%201"
+        "config": "vless://1fdfca5b-ce15-4dc6-8539-f117469dfc1d@194.147.142.231:53920?type=tcp&path=%2F&host=creativecommons.org%2Cwebtechsurvey.com%2Csourceforge.net%2Ccoinstats.app%2Ccdn.discordapp.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40defenyx_vpn%20%7C%201"
     },
     {
         "channel": {
@@ -888,7 +888,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/elitevpnv2.jpg"
         },
         "type": "vless",
-        "config": "vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40elitevpnv2%20%7C%208"
+        "config": "vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40elitevpnv2%20%7C%208"
     },
     {
         "channel": {
@@ -906,7 +906,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/falcunargo.jpg"
         },
         "type": "vless",
-        "config": "vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40falcunargo%20%7C%209"
+        "config": "vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40falcunargo%20%7C%2010"
     },
     {
         "channel": {
@@ -915,16 +915,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/falcunargo.jpg"
         },
         "type": "vless",
-        "config": "vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40falcunargo%20%7C%2011"
-    },
-    {
-        "channel": {
-            "username": "falcunargo",
-            "title": "کانفیگ ایرانسل همراه اول کانفینگ اینستاگرام فیلترشکن سرور پروکسی رایگان",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/falcunargo.jpg"
-        },
-        "type": "vless",
-        "config": "vless://b1e76a39-1d89-4c07-f755-dd60839def7e@104.21.112.1:8080?security=&type=ws&path=%2F%40unlimiteddev----%40unlimiteddev-----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimitedev----%40unlimitedev----%40unlimiteddev----%40unlimiteddev%3Fed%3D2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40falcunargo%20%7C%2012"
+        "config": "vless://b1e76a39-1d89-4c07-f755-dd60839def7e@104.21.112.1:8080?security=&type=ws&path=%2F%40unlimiteddev----%40unlimiteddev-----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimitedev----%40unlimitedev----%40unlimiteddev----%40unlimiteddev%3Fed%3D2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40falcunargo%20%7C%2011"
     },
     {
         "channel": {
@@ -1149,15 +1140,6 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1ss.jpg"
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2010"
-    },
-    {
-        "channel": {
-            "username": "free1ss",
-            "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1ss.jpg"
-        },
-        "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2011"
     },
     {
@@ -1186,6 +1168,15 @@
         },
         "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#%F0%9F%87%A6%F0%9F%87%B9%20AT%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2014"
+    },
+    {
+        "channel": {
+            "username": "free1ss",
+            "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1ss.jpg"
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRjhVT2EySGdzam8xMkR0SU9TUlZw@178.208.91.118:19805#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2015"
     },
     {
         "channel": {
@@ -1671,7 +1662,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/g0dv2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40g0dv2ray%20%7C%2013"
+        "config": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40g0dv2ray%20%7C%2014"
     },
     {
         "channel": {
@@ -1680,7 +1671,16 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/g0dv2ray.jpg"
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40g0dv2ray%20%7C%2014"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40g0dv2ray%20%7C%2015"
+    },
+    {
+        "channel": {
+            "username": "g0dv2ray",
+            "title": "V2ray &amp; Napsternet V",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/g0dv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40g0dv2ray%20%7C%2018"
     },
     {
         "channel": {
@@ -1941,7 +1941,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
         },
         "type": "trojan",
-        "config": "trojan://NISHIKUITAN111@104.17.85.90:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20trojan%20%7C%20%40hope_net%20%7C%2022"
+        "config": "trojan://NISHIKUITAN111@104.23.133.126:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20trojan%20%7C%20%40hope_net%20%7C%2022"
     },
     {
         "channel": {
@@ -1949,17 +1949,8 @@
             "title": "🕊 Hope Net",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
         },
-        "type": "trojan",
-        "config": "trojan://NISHIKUITAN111@172.66.45.29:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20trojan%20%7C%20%40hope_net%20%7C%2023"
-    },
-    {
-        "channel": {
-            "username": "hope_net",
-            "title": "🕊 Hope Net",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://NISHIKUITAN111@104.23.133.126:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20trojan%20%7C%20%40hope_net%20%7C%2024"
+        "type": "vmess",
+        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjE5My4xMDguMTE5LjExMiIsInBvcnQiOiIxMjI4MSIsImlkIjoiMzgwZWI1YWUtYTYwOS00OGNhLTkzYjMtOWQ4NTY0NzE0YzljIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzYiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQGhvcGVfbmV0IHwgMjMifQ"
     },
     {
         "channel": {
@@ -1968,7 +1959,16 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
         },
         "type": "vless",
-        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.37.231.34:11310?allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560security%3Dtls#%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40hope_net%20%7C%2026"
+        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.37.231.34:11310?allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560security%3Dtls#%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40hope_net%20%7C%2024"
+    },
+    {
+        "channel": {
+            "username": "hope_net",
+            "title": "🕊 Hope Net",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
+        },
+        "type": "ss",
+        "config": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40hope_net%20%7C%2026"
     },
     {
         "channel": {
@@ -3362,8 +3362,8 @@
             "title": "Mowj Proxy",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
         },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJhcGkzLndhbHRvbndlYi5pciIsImlkIjoiOGFlNjU2NjQtODRlOC00MGUxLTk3MDgtOTIzNmYwODA4ZGZkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYW5lbD9lZD0yNTYwIiwicG9ydCI6IjIwODMiLCJzY3kiOiJhdXRvIiwic25pIjoiYXBpMy53YWx0b253ZWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG1vd2pwcm94eSB8IDEifQ"
+        "type": "reality",
+        "config": "vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?security=reality&encryption=none&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.pottermore.com&sid=75#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40mowjproxy%20%7C%201"
     },
     {
         "channel": {
@@ -3372,7 +3372,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InoubG9vbG9vbG9vbG9vLmNvbSIsImlkIjoiMS10ZWxlZ3JhbS1pZC12cG5mMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3RlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2MiIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQG1vd2pwcm94eSB8IDIifQ"
+        "config": "vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwNTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyBJTiB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQG1vd2pwcm94eSB8IDIifQ"
     },
     {
         "channel": {
@@ -3381,7 +3381,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
         },
         "type": "reality",
-        "config": "vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?security=reality&encryption=none&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.pottermore.com&sid=75#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40mowjproxy%20%7C%203"
+        "config": "vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40mowjproxy%20%7C%204"
     },
     {
         "channel": {
@@ -3389,8 +3389,8 @@
             "title": "Mowj Proxy",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
         },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwNTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyBJTiB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQG1vd2pwcm94eSB8IDQifQ"
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40mowjproxy%20%7C%205"
     },
     {
         "channel": {
@@ -3858,7 +3858,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/nufilter.jpg"
         },
         "type": "vless",
-        "config": "vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=boro.aziranbegermany.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40nufilter%20%7C%207"
+        "config": "vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=boro.aziranbegermany.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40nufilter%20%7C%205"
     },
     {
         "channel": {
@@ -3867,7 +3867,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/nufilter.jpg"
         },
         "type": "vless",
-        "config": "vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40nufilter%20%7C%2010"
+        "config": "vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40nufilter%20%7C%208"
     },
     {
         "channel": {
@@ -3876,7 +3876,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/nufilter.jpg"
         },
         "type": "vless",
-        "config": "vless://0d3d9e3a-0fc3-4a0d-8d6d-e8663114c475@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D8880&security=none&encryption=none&host=LsUs.Motorphrotan.ir.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40nufilter%20%7C%2011"
+        "config": "vless://0d3d9e3a-0fc3-4a0d-8d6d-e8663114c475@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D8880&security=none&encryption=none&host=LsUs.Motorphrotan.ir.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40nufilter%20%7C%209"
     },
     {
         "channel": {
@@ -4065,7 +4065,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/privatevpns.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@3.120.35.48:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2011"
+        "config": "trojan://telegram-id-privatevpns@63.179.68.57:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2011"
     },
     {
         "channel": {
@@ -4074,7 +4074,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/privatevpns.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@63.179.68.57:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2012"
+        "config": "trojan://telegram-id-privatevpns@13.37.151.196:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2012"
     },
     {
         "channel": {
@@ -4083,7 +4083,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/privatevpns.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@13.37.151.196:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2013"
+        "config": "trojan://telegram-id-privatevpns@52.59.53.31:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2013"
     },
     {
         "channel": {
@@ -4092,7 +4092,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/privatevpns.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@52.59.53.31:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2014"
+        "config": "trojan://telegram-id-privatevpns@63.179.65.24:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2014"
     },
     {
         "channel": {
@@ -4101,7 +4101,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/privatevpns.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@63.179.65.24:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2015"
+        "config": "trojan://telegram-id-privatevpns@52.47.42.196:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2015"
     },
     {
         "channel": {
@@ -4496,15 +4496,6 @@
             "title": "فیلترشکنV2rayng",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/selinc.jpg"
         },
-        "type": "reality",
-        "config": "vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel.panelfreedom.com:2090?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40selinc%20%7C%205"
-    },
-    {
-        "channel": {
-            "username": "selinc",
-            "title": "فیلترشکنV2rayng",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/selinc.jpg"
-        },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIEZJIHwgXHVkODNkXHVkZDM0IHwgdm1lc3MgfCBAc2VsaW5jIHwgNiJ9"
     },
@@ -4534,6 +4525,15 @@
         },
         "type": "vless",
         "config": "vless://0815223d-7855-42b0-b526-76fa691101ea@ir-netherland.v2shop2.xyz:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40selinc%20%7C%209"
+    },
+    {
+        "channel": {
+            "username": "selinc",
+            "title": "فیلترشکنV2rayng",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/selinc.jpg"
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40selinc%20%7C%2010"
     },
     {
         "channel": {
@@ -5829,7 +5829,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-v2rayvpnchannel@3.120.35.48:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2010"
+        "config": "trojan://telegram-id-v2rayvpnchannel@63.179.68.57:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2010"
     },
     {
         "channel": {
@@ -5838,7 +5838,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-v2rayvpnchannel@63.179.68.57:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2011"
+        "config": "trojan://telegram-id-v2rayvpnchannel@13.37.151.196:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2011"
     },
     {
         "channel": {
@@ -5847,7 +5847,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-v2rayvpnchannel@13.37.151.196:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2012"
+        "config": "trojan://telegram-id-v2rayvpnchannel@52.59.53.31:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2012"
     },
     {
         "channel": {
@@ -5856,7 +5856,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-v2rayvpnchannel@52.59.53.31:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2013"
+        "config": "trojan://telegram-id-v2rayvpnchannel@63.179.65.24:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2013"
     },
     {
         "channel": {
@@ -5865,7 +5865,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-v2rayvpnchannel@63.179.65.24:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2014"
+        "config": "trojan://telegram-id-v2rayvpnchannel@52.47.42.196:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2014"
     },
     {
         "channel": {
@@ -5919,7 +5919,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
         },
         "type": "vless",
-        "config": "vless://a94a2efa-0bf9-48e2-cc7f-d3fc2420ae31@www.speedtest.net:2095?path=%2FTELEGRAM_BYA_CHANEL_v2ray_configs_pools-v2ray_configs_pools%3Fed%3D2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayweb%20%7C%2011"
+        "config": "vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayweb%20%7C%2013"
     },
     {
         "channel": {
@@ -5927,8 +5927,8 @@
             "title": "V2ray | VPN",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
         },
-        "type": "trojan",
-        "config": "trojan://NISHIKUITAN111@45.142.120.53:443?allowInsecure=1&ws=1&wspath=%2F#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20%F0%9F%94%B4%20%7C%20trojan%20%7C%20%40v2rayweb%20%7C%2012"
+        "type": "vless",
+        "config": "vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=%2Fds&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayweb%20%7C%2014"
     },
     {
         "channel": {
@@ -5936,26 +5936,8 @@
             "title": "V2ray | VPN",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
         },
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsImFkZCI6InZhbGwuY29kZWZ5aW5jLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNjA2ZWNlMTctNzI3OS00YTQzLWI4NzktZjg1MDIxMDNkZThmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InZhbGwuY29kZWZ5aW5jLmNvbSIsInBhdGgiOiJcL3dvcnJ5ZnJlZSIsInRscyI6IiIsInNuaSI6InZhbGwuY29kZWZ5aW5jLmNvbSIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIHwgXHVkODNkXHVkZDM0IHwgdm1lc3MgfCBAdjJyYXl3ZWIgfCAxMyJ9"
-    },
-    {
-        "channel": {
-            "username": "v2rayweb",
-            "title": "V2ray | VPN",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsImFkZCI6InZhbGwuY29kZWZ5aW5jLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjYwNmVjZTE3LTcyNzktNGE0My1iODc5LWY4NTAyMTAzZGU4ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2YWxsLmNvZGVmeWluYy5jb20iLCJwYXRoIjoiXC92bWVzc3dzIiwidGxzIjoidGxzIiwic25pIjoidmFsbC5jb2RlZnlpbmMuY29tIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2MnJheXdlYiB8IDE0In0"
-    },
-    {
-        "channel": {
-            "username": "v2rayweb",
-            "title": "V2ray | VPN",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsImFkZCI6ImZ2ZG5zLmNvZGVmeWluYy5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI4YTFlNDMwYi1kYTc1LTQ0YTctOTRiOS1iNzY0ZGRhMWI3MWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZnZkbnMuY29kZWZ5aW5jLmNvbSIsInBhdGgiOiJcL3NFVmpSTTNyXC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYycmF5d2ViIHwgMTUifQ"
+        "type": "vless",
+        "config": "vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayweb%20%7C%2017"
     },
     {
         "channel": {
@@ -6117,7 +6099,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vlessconfig.jpg"
         },
         "type": "vless",
-        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.35.48:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2011"
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.68.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2011"
     },
     {
         "channel": {
@@ -6126,7 +6108,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vlessconfig.jpg"
         },
         "type": "vless",
-        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.68.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2012"
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.151.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2012"
     },
     {
         "channel": {
@@ -6135,7 +6117,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vlessconfig.jpg"
         },
         "type": "vless",
-        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.151.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2013"
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.53.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2013"
     },
     {
         "channel": {
@@ -6144,7 +6126,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vlessconfig.jpg"
         },
         "type": "vless",
-        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.53.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2014"
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.65.24:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2014"
     },
     {
         "channel": {
@@ -6153,7 +6135,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vlessconfig.jpg"
         },
         "type": "vless",
-        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.65.24:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2015"
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.42.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vlessconfig%20%7C%2015"
     },
     {
         "channel": {
@@ -6405,7 +6387,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnaloo.jpg"
         },
         "type": "vless",
-        "config": "vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40vpnaloo%20%7C%2011"
+        "config": "vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40vpnaloo%20%7C%2010"
     },
     {
         "channel": {
@@ -6414,7 +6396,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnaloo.jpg"
         },
         "type": "vless",
-        "config": "vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?path=%2F&security=tls&encryption=none&host=wlma.jeremaih-talik.workers.dev&type=ws&sni=wlma.jeremaih-talik.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vpnaloo%20%7C%2014"
+        "config": "vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?path=%2F&security=tls&encryption=none&host=wlma.jeremaih-talik.workers.dev&type=ws&sni=wlma.jeremaih-talik.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vpnaloo%20%7C%2013"
     },
     {
         "channel": {
@@ -6423,7 +6405,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnaloo.jpg"
         },
         "type": "vless",
-        "config": "vless://42808c59-4d9e-46ee-a9c4-33e7c31ce9e3@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fyaqnnows&security=tls&encryption=none&host=638890561652286310.esfahan-prx-dnraaao.info&type=ws&sni=638890561652286310.esfahan-prx-dnraaao.info#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vpnaloo%20%7C%2015"
+        "config": "vless://42808c59-4d9e-46ee-a9c4-33e7c31ce9e3@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fyaqnnows&security=tls&encryption=none&host=638890561652286310.esfahan-prx-dnraaao.info&type=ws&sni=638890561652286310.esfahan-prx-dnraaao.info#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vpnaloo%20%7C%2014"
     },
     {
         "channel": {
@@ -6450,7 +6432,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfail_v2ray.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjAiLCJhaWQiOjEsImhvc3QiOiI1Ny4xMjkuMjUuMjAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgREUgfCBcdWQ4M2RcdWRkMzQgfCB2bWVzcyB8IEB2cG5mYWlsX3YycmF5IHwgMTIifQ"
+        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjE0Ni41OS41NS41MCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiXC9saW5rdndzIiwicHMiOiJcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEgUEwgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2cG5mYWlsX3YycmF5IHwgMTIifQ"
     },
     {
         "channel": {
@@ -6459,7 +6441,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfail_v2ray.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIyMy4xNjYuODguMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZWQgQ0ggfCBcdWQ4M2RcdWRkMzQgfCB2bWVzcyB8IEB2cG5mYWlsX3YycmF5IHwgMTMifQ"
+        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjE2OS4xNTAuMjA4LjgzIiwicG9ydCI6MTgwMDAsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSBTRSB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQHZwbmZhaWxfdjJyYXkgfCAxMyJ9"
     },
     {
         "channel": {
@@ -6468,7 +6450,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfail_v2ray.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZTkgSUQgfCBcdWQ4M2RcdWRkMzQgfCB2bWVzcyB8IEB2cG5mYWlsX3YycmF5IHwgMTQifQ"
+        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjE1LjIzNS44My4yMjciLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJob3N0IjoibWFua2FkbXUuY29tIiwicGF0aCI6IlwvbGlua3Z3cyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENBIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAdnBuZmFpbF92MnJheSB8IDE0In0"
     },
     {
         "channel": {
@@ -6477,7 +6459,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfail_v2ray.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjE0Ni41OS41NS41MCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiXC9saW5rdndzIiwicHMiOiJcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEgUEwgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2cG5mYWlsX3YycmF5IHwgMTUifQ"
+        "config": "vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwiYWlkIjowLCJob3N0IjoiYmFyYWRpaGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ0EgfCBcdWQ4M2RcdWRkMzQgfCB2bWVzcyB8IEB2cG5mYWlsX3YycmF5IHwgMTUifQ"
     },
     {
         "channel": {
@@ -6486,7 +6468,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfail_v2ray.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjE2OS4xNTAuMjA4LjgzIiwicG9ydCI6MTgwMDAsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSBTRSB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQHZwbmZhaWxfdjJyYXkgfCAxNiJ9"
+        "config": "vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yNS4yNSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJmLmtoaWxlaS5jb20iLCJwYXRoIjoiXC9saW5rdndzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgREUgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2cG5mYWlsX3YycmF5IHwgMTYifQ"
     },
     {
         "channel": {
@@ -6756,7 +6738,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnwlf.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhaWQiOiIwIiwiaWQiOiJiZTRhYTYxMC02M2JhLTRhMWEtOTMyMS1jZGNjYmIzOTgyNzYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwiYWRkIjoiMDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6NDE2ZDpkYmEyIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGFya21vZGUyLmRuc2ZyZWUub25lIiwicG9ydCI6NDQzLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZCBDSCB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQHZwbndsZiB8IDYifQ"
+        "config": "vmess://eyJhaWQiOiIwIiwiaWQiOiJiZTRhYTYxMC02M2JhLTRhMWEtOTMyMS1jZGNjYmIzOTgyNzYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwiYWRkIjoiMDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6NDE2ZDpkYmEyIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGFya21vZGUyLmRuc2ZyZWUub25lIiwicG9ydCI6NDQzLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBGSSB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQHZwbndsZiB8IDYifQ"
     },
     {
         "channel": {
@@ -6765,7 +6747,7 @@
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnwlf.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo0ZjdmOjM2NDQiLCJhaWQiOiIwIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJ0eXBlIjoibm9uZSIsInBvcnQiOjQ0MywidGxzIjoidGxzIiwiaG9zdCI6ImRhcmttb2RlMi5kbnNmcmVlLm9uZSIsImlkIjoiYmU0YWE2MTAtNjNiYS00YTFhLTkzMjEtY2RjY2JiMzk4Mjc2IiwibmV0Ijoid3MiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZCBDSCB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQHZwbndsZiB8IDgifQ"
+        "config": "vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo0ZjdmOjM2NDQiLCJhaWQiOiIwIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJ0eXBlIjoibm9uZSIsInBvcnQiOjQ0MywidGxzIjoidGxzIiwiaG9zdCI6ImRhcmttb2RlMi5kbnNmcmVlLm9uZSIsImlkIjoiYmU0YWE2MTAtNjNiYS00YTFhLTkzMjEtY2RjY2JiMzk4Mjc2IiwibmV0Ijoid3MiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUiB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQHZwbndsZiB8IDgifQ"
     },
     {
         "channel": {
