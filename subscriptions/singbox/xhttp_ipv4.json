@@ -103,7 +103,8 @@
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 4",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
-                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 11"
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 7",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -125,7 +126,8 @@
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 4",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
-                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 11"
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 7",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -333,7 +335,30 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 7",
+            "type": "vless",
+            "server": "91.99.153.13",
+            "server_port": 443,
+            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk",
+                    "short_id": "cd0b"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 9",
             "type": "vless",
             "server": "104.21.62.144",
             "server_port": 443,
