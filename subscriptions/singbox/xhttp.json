@@ -97,6 +97,7 @@
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
+                "🇩🇪 DE | 🔴 | vless | @mowjproxy | 5",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇬🇧 GB | 🟢 | vless | @tehranargo | 5",
@@ -127,6 +128,7 @@
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
+                "🇩🇪 DE | 🔴 | vless | @mowjproxy | 5",
                 "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇬🇧 GB | 🟢 | vless | @tehranargo | 5",
@@ -249,6 +251,15 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @mowjproxy | 5",
+            "type": "vless",
+            "server": "91.99.153.233",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
         },
