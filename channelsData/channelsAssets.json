@@ -133,7 +133,6 @@
     "configshubplus": {
         "types": [
             "vless",
-            "ss",
             "vmess",
             "trojan"
         ],
@@ -395,7 +394,8 @@
     },
     "g0dv2ray": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "V2ray &amp; Napsternet V",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/g0dv2ray.jpg"
@@ -819,7 +819,6 @@
     },
     "mowjproxy": {
         "types": [
-            "ss",
             "vless",
             "vmess"
         ],
@@ -1380,7 +1379,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"

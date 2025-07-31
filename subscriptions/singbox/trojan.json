@@ -91,10 +91,10 @@
                 "direct",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇺🇸 US | 🔴 | trojan | @configshubplus | 15",
-                "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+                "🇨🇳 CN | 🔴 | trojan | @hope_net | 22",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
@@ -107,6 +107,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 14",
+                "🇺🇸 US | 🟢 | trojan | @v2rayweb | 15",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
@@ -114,7 +115,7 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 0"
+                "🇨🇦 CA | 🟢 | trojan | @zdyz2 | 0"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -124,10 +125,10 @@
             "outbounds": [
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇺🇸 US | 🔴 | trojan | @configshubplus | 15",
-                "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+                "🇨🇳 CN | 🔴 | trojan | @hope_net | 22",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
@@ -140,6 +141,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 14",
+                "🇺🇸 US | 🟢 | trojan | @v2rayweb | 15",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
@@ -147,7 +149,7 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 0"
+                "🇨🇦 CA | 🟢 | trojan | @zdyz2 | 0"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -177,28 +179,12 @@
         {
             "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 15",
             "type": "trojan",
-            "server": "104.24.133.61",
+            "server": "172.67.67.8",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "104.24.133.61",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
-            "type": "trojan",
-            "server": "103.21.244.240",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "103.21.244.240",
+                "server_name": "172.67.67.8",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -216,22 +202,6 @@
         {
             "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
             "type": "trojan",
-            "server": "104.18.113.114",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.18.113.114",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
-            "type": "trojan",
             "server": "162.159.58.108",
             "server_port": 443,
             "password": "NISHIKUITAN111",
@@ -244,6 +214,29 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+            "type": "trojan",
+            "server": "104.24.242.244",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "104.24.242.244",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇳 CN | 🔴 | trojan | @hope_net | 22",
+            "type": "trojan",
+            "server": "36.151.192.242",
+            "server_port": 27381,
+            "password": "QwwHvrnN"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
@@ -438,6 +431,29 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | trojan | @v2rayweb | 15",
+            "type": "trojan",
+            "server": "172.67.181.173",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "vpn.stupidworld.web.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram",
+                "headers": {
+                    "Host": "vpn.stupidworld.web.id"
+                }
+            }
+        },
+        {
             "tag": "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
             "type": "trojan",
             "server": "13.39.209.28",
@@ -559,7 +575,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @zdyz2 | 0",
+            "tag": "🇨🇦 CA | 🟢 | trojan | @zdyz2 | 0",
             "type": "trojan",
             "server": "www.visa.com.sg",
             "server_port": 2053,
