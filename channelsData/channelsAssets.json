@@ -133,8 +133,10 @@
     },
     "configshubplus": {
         "types": [
+            "ss",
             "vless",
-            "ss"
+            "vmess",
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -1146,8 +1148,8 @@
     },
     "strongprotocol": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "پروکسی VPN سرور v2ray openvpn فیلترشکن",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/strongprotocol.jpg"
@@ -1330,8 +1332,8 @@
     },
     "v2rayopen": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "🛡️ اکانت های رایگان V2RAY",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayopen.jpg"

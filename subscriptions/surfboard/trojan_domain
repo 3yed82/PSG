@@ -9,6 +9,7 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
+❔ XX | 🔴 | trojan | @configshubplus | 16 = trojan, lmgj.hongxingdl.vip, 39593, password = 1f962f36-f751-40c3-91b3-cb6d2360b450, skip-cert-verify = false
 ❔ XX | 🟢 | trojan | @iraniv2ray | 3 = trojan, lllliraniv2rayllll.norooz.shop, 2083, password = BWDcALS5TU, skip-cert-verify = false
 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11 = trojan, ru2.asc-sam.ir, 443, password = AdPYCBfMUM, skip-cert-verify = false
 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12 = trojan, ru2.asc-sam.ir, 443, password = IM4e0ZQNPU, skip-cert-verify = false
@@ -18,9 +19,9 @@ DIRECT = direct
 🇺🇸 US | 🟢 | trojan | @zdyz2 | 0 = trojan, www.visa.com.sg, 2053, password = 0F22D008-24D4-4DFE-947B-8D2FD64CD24C, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🟢 | trojan | @iraniv2ray | 3, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4, 🇺🇸 US | 🟢 | trojan | @zdyz2 | 0
-PSG-AUTO = url-test, ❔ XX | 🟢 | trojan | @iraniv2ray | 3, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4, 🇺🇸 US | 🟢 | trojan | @zdyz2 | 0
-PSG-FALLBACK = fallback, ❔ XX | 🟢 | trojan | @iraniv2ray | 3, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4, 🇺🇸 US | 🟢 | trojan | @zdyz2 | 0
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🔴 | trojan | @configshubplus | 16, ❔ XX | 🟢 | trojan | @iraniv2ray | 3, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4, 🇺🇸 US | 🟢 | trojan | @zdyz2 | 0
+PSG-AUTO = url-test, ❔ XX | 🔴 | trojan | @configshubplus | 16, ❔ XX | 🟢 | trojan | @iraniv2ray | 3, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4, 🇺🇸 US | 🟢 | trojan | @zdyz2 | 0
+PSG-FALLBACK = fallback, ❔ XX | 🔴 | trojan | @configshubplus | 16, ❔ XX | 🟢 | trojan | @iraniv2ray | 3, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4, 🇺🇸 US | 🟢 | trojan | @zdyz2 | 0
 
 [Rule]
 GEOIP,IR,DIRECT

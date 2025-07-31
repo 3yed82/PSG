@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "❔ XX | 🔴 | trojan | @configshubplus | 16",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
@@ -103,6 +104,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "❔ XX | 🔴 | trojan | @configshubplus | 16",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
@@ -119,6 +121,13 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "❔ XX | 🔴 | trojan | @configshubplus | 16",
+            "type": "trojan",
+            "server": "lmgj.hongxingdl.vip",
+            "server_port": 39593,
+            "password": "1f962f36-f751-40c3-91b3-cb6d2360b450"
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
