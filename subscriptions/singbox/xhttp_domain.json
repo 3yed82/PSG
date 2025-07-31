@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 45",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
@@ -99,8 +98,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 15"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,7 +107,6 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 45",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
@@ -118,8 +115,7 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 15"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -152,15 +148,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 45",
-            "type": "vless",
-            "server": "star.fastsoft98.ir",
-            "server_port": 80,
-            "uuid": "2d827b0e-93a6-4e65-af06-f962a126a535",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
@@ -274,24 +261,6 @@
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         }
     ],
     "route": {

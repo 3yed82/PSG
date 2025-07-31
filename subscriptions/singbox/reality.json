@@ -90,8 +90,6 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -132,6 +130,7 @@
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "🇷🇺 RU | 🟢 | vless | @vpnod | 11",
                 "🇧🇪 BE | 🟢 | vless | @vpnod | 13",
+                "🇹🇷 TR | 🟢 | vless | @vpnplusee_free | 11",
                 "🇳🇴 NO | 🟢 | vless | @vpnv2rayonline | 8",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇫🇮 FI | 🟢 | vless | @x4azadi | 11",
@@ -163,7 +162,7 @@
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
                 "❔ XX | 🟢 | vless | @rezaw_server | 1",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
-                "🇩🇪 DE | 🟢 | vless | @selinc | 6",
+                "🇩🇪 DE | 🟢 | vless | @selinc | 5",
                 "❔ XX | 🟢 | vless | @tc_v2ray | 1",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
@@ -190,8 +189,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -232,6 +229,7 @@
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "🇷🇺 RU | 🟢 | vless | @vpnod | 11",
                 "🇧🇪 BE | 🟢 | vless | @vpnod | 13",
+                "🇹🇷 TR | 🟢 | vless | @vpnplusee_free | 11",
                 "🇳🇴 NO | 🟢 | vless | @vpnv2rayonline | 8",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇫🇮 FI | 🟢 | vless | @x4azadi | 11",
@@ -263,7 +261,7 @@
                 "❔ XX | 🟢 | vless | @rezaw_server | 0",
                 "❔ XX | 🟢 | vless | @rezaw_server | 1",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
-                "🇩🇪 DE | 🟢 | vless | @selinc | 6",
+                "🇩🇪 DE | 🟢 | vless | @selinc | 5",
                 "❔ XX | 🟢 | vless | @tc_v2ray | 1",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
@@ -312,52 +310,6 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "103.175.79.10",
-            "server_port": 443,
-            "uuid": "49ed01ad-3bb4-204f-b0ff-a58f658fd618",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "91.99.153.13",
-            "server_port": 443,
-            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk",
-                    "short_id": "cd0b"
                 }
             }
         },
@@ -1365,6 +1317,29 @@
             }
         },
         {
+            "tag": "🇹🇷 TR | 🟢 | vless | @vpnplusee_free | 11",
+            "type": "vless",
+            "server": "45.12.143.191",
+            "server_port": 20329,
+            "uuid": "e105e56a-5f81-41a2-ab44-bfffc9b00674",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo",
+                    "short_id": "4602ee9f9f36"
+                }
+            }
+        },
+        {
             "tag": "🇳🇴 NO | 🟢 | vless | @vpnv2rayonline | 8",
             "type": "vless",
             "server": "185.125.171.13",
@@ -2133,7 +2108,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @selinc | 6",
+            "tag": "🇩🇪 DE | 🟢 | vless | @selinc | 5",
             "type": "vless",
             "server": "xpanel.panelfreedom.com",
             "server_port": 2090,
