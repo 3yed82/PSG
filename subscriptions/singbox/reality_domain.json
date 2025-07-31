@@ -94,7 +94,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇸🇬 SG | 🟢 | vless | @config_proxy | 33",
+                "🇭🇰 HK | 🟢 | vless | @config_proxy | 21",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
@@ -125,8 +125,7 @@
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
                 "🇷🇺 RU | 🟢 | vless | @vistav2ray | 15",
-                "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 7",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 10",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 8",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
@@ -146,7 +145,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇸🇬 SG | 🟢 | vless | @config_proxy | 33",
+                "🇭🇰 HK | 🟢 | vless | @config_proxy | 21",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
@@ -177,8 +176,7 @@
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 12",
                 "🇷🇺 RU | 🟢 | vless | @vistav2ray | 15",
-                "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 7",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 10",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 8",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
@@ -316,11 +314,11 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | vless | @config_proxy | 33",
+            "tag": "🇭🇰 HK | 🟢 | vless | @config_proxy | 21",
             "type": "vless",
-            "server": "free-sg.vpnkey.dev",
+            "server": "free-hk.vpnkey.dev",
             "server_port": 8443,
-            "uuid": "7054f3b4-c335-4ceb-93cf-da55d5b7a7d6",
+            "uuid": "47f16a7c-459c-4b45-857a-12b7cdaaff3d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -333,7 +331,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Hwo0WHqcCHSqP1vh44R--QVnLm2SXneVIctiiHbMJ1E",
+                    "public_key": "ucT4hi_tMqNJXDtwkJffbsYPNX4qDJoBk61cm5U50lg",
                     "short_id": ""
                 }
             }
@@ -1088,30 +1086,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 7",
-            "type": "vless",
-            "server": "goat.postpapet.ir",
-            "server_port": 666,
-            "uuid": "508d96e8-953f-4a67-bc7d-8aba5878f38a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
-                    "short_id": "27e6b66aa77662fb"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 10",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 8",
             "type": "vless",
             "server": "ger.afterhav.ir",
             "server_port": 8880,
