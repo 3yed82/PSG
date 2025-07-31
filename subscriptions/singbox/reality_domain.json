@@ -94,7 +94,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇬🇧 GB | 🟢 | vless | @config_proxy | 40",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 61",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
@@ -145,7 +145,7 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇬🇧 GB | 🟢 | vless | @config_proxy | 40",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 61",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 5",
@@ -314,11 +314,11 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @config_proxy | 40",
+            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 61",
             "type": "vless",
-            "server": "free-gb.vpnkey.dev",
+            "server": "free-nl.vpnkey.dev",
             "server_port": 8443,
-            "uuid": "bf2eaa5b-c6f2-4fa6-8262-7e7ffe55d16b",
+            "uuid": "4cb3e505-c793-4155-8133-df9e6d98c0c2",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -331,7 +331,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "q7Ph2P9zJWxiGr0LZsUGrYLyxC7uLRBoPtUi_jyeew0",
+                    "public_key": "IFP6-DHmPEybBWDfXFgR3BSLZFTULXsOC3YKCuiOmkY",
                     "short_id": ""
                 }
             }
