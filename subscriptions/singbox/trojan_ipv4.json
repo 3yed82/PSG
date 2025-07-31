@@ -91,11 +91,9 @@
                 "direct",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇫🇷 FR | 🟢 | trojan | @hope_net | 22",
-                "🇬🇧 GB | 🟢 | trojan | @hope_net | 23",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 22",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 23",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 25",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 26",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
@@ -108,7 +106,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 15",
+                "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 12",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "proxy",
@@ -119,11 +117,9 @@
             "outbounds": [
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇫🇷 FR | 🟢 | trojan | @hope_net | 22",
-                "🇬🇧 GB | 🟢 | trojan | @hope_net | 23",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 22",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 23",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 25",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 26",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
@@ -136,7 +132,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 15",
+                "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 12",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "auto",
@@ -172,39 +168,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @hope_net | 22",
-            "type": "trojan",
-            "server": "52.47.154.110",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | trojan | @hope_net | 23",
-            "type": "trojan",
-            "server": "18.169.254.65",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 22",
             "type": "trojan",
             "server": "104.17.85.90",
             "server_port": 443,
@@ -220,7 +184,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 25",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 23",
             "type": "trojan",
             "server": "172.66.45.29",
             "server_port": 443,
@@ -236,7 +200,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 26",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
             "type": "trojan",
             "server": "104.23.133.126",
             "server_port": 443,
@@ -444,7 +408,7 @@
             }
         },
         {
-            "tag": "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 15",
+            "tag": "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 12",
             "type": "trojan",
             "server": "45.142.120.53",
             "server_port": 443,

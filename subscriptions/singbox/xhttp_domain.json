@@ -92,7 +92,6 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
@@ -109,7 +108,6 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
@@ -166,24 +164,6 @@
             "uuid": "13a44840-ac14-4748-b498-d97597042563",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
-            "type": "vless",
-            "server": "server271816966957306554.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server271816966957306554.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
