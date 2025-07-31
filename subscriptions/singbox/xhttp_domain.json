@@ -92,11 +92,8 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
-                "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
             "tag": "proxy",
@@ -108,11 +105,8 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
-                "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @serverii | 3",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
             "tag": "auto",
@@ -166,25 +160,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 6",
-            "type": "vless",
-            "server": "ips.rainoteam.store",
-            "server_port": 80,
-            "uuid": "6a45de8b-46e5-4da4-b242-3e18f3228087",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @iseqaro | 0",
-            "type": "vless",
-            "server": "s5.1dnt.k-l.cloud",
-            "server_port": 80,
-            "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+            "tag": "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -223,15 +199,6 @@
                     "short_id": "d3044a6aa923a9"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @serverii | 3",
-            "type": "vless",
-            "server": "nl-fa.adm-cll.ir",
-            "server_port": 80,
-            "uuid": "fee253e9-b903-5c7a-e7f7-2a557718c810",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",

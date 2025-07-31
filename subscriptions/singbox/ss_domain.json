@@ -91,15 +91,10 @@
                 "direct",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇬🇧 GB | 🟢 | ss | @freakconfig | 12",
-                "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
-                "🇦🇪 AE | 🟢 | ss | @shadowsockskeys | 13",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3",
-                "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
-                "🇬🇧 GB | 🟢 | ss | @v2raybe | 6"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
+                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,15 +104,10 @@
             "outbounds": [
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇬🇧 GB | 🟢 | ss | @freakconfig | 12",
-                "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
-                "🇦🇪 AE | 🟢 | ss | @shadowsockskeys | 13",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3",
-                "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
-                "🇬🇧 GB | 🟢 | ss | @v2raybe | 6"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
+                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -145,22 +135,6 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @freakconfig | 12",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
-            "type": "shadowsocks",
-            "server": "api.namasha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
             "type": "shadowsocks",
             "server": "series-a2.varzesh360.co",
@@ -177,20 +151,12 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
+            "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
             "type": "shadowsocks",
-            "server": "series-a2-me.samanehha.co",
+            "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ"
-        },
-        {
-            "tag": "🇦🇪 AE | 🟢 | ss | @shadowsockskeys | 13",
-            "type": "shadowsocks",
-            "server": "ae-1.stunnel.cc",
-            "server_port": 8444,
-            "method": "chacha20-ietf-poly1305",
-            "password": "tunnel-astrovpn_official_ae"
+            "password": "u17T3BvpYaaiuW2c"
         },
         {
             "tag": "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3",
@@ -199,22 +165,6 @@
             "server_port": 39448,
             "method": "chacha20-ietf-poly1305",
             "password": "1U5MUwZqVsFkDGXQfabJP9"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
-            "type": "shadowsocks",
-            "server": "series-a1.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
         }
     ],
     "route": {
