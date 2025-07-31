@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🔴 | vless | @hope_net | 16",
                 "❔ XX | 🔴 | vless | @internet_nor | 0",
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
@@ -107,7 +106,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🔴 | vless | @hope_net | 16",
                 "❔ XX | 🔴 | vless | @internet_nor | 0",
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
@@ -127,22 +125,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "❔ XX | 🔴 | vless | @hope_net | 16",
-            "type": "vless",
-            "server": "[::ffff:55ed:d3db]",
-            "server_port": 80,
-            "uuid": "ea233827-38b4-4397-a2d1-4cb49bb6bc18",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "[::ffff:55ed:d3db]"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔴 | vless | @internet_nor | 0",

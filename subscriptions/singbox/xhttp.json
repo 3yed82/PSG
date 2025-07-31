@@ -91,6 +91,8 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 49",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
@@ -100,13 +102,11 @@
                 "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇬🇧 GB | 🟢 | vless | @tehranargo | 5",
-                "🇩🇪 DE | 🔴 | vless | @v2rayopen | 4",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 7",
-                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 9",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 8",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 50",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 45",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
@@ -115,7 +115,8 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 15"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -125,6 +126,8 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 49",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
@@ -134,13 +137,11 @@
                 "🇺🇸 US | 🔴 | vless | @nufilter | 7",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇬🇧 GB | 🟢 | vless | @tehranargo | 5",
-                "🇩🇪 DE | 🔴 | vless | @v2rayopen | 4",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
-                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 7",
-                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 9",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 8",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 50",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 45",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
@@ -149,7 +150,8 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 15"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -189,6 +191,38 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 49",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "15ad5600-ac54-4333-a1ce-b9c1c1cee50b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "91.99.153.13",
+            "server_port": 443,
+            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk",
+                    "short_id": "cd0b"
                 }
             }
         },
@@ -302,15 +336,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayopen | 4",
-            "type": "vless",
-            "server": "91.99.153.233",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
             "type": "vless",
             "server": "45.150.33.157",
@@ -357,30 +382,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 7",
-            "type": "vless",
-            "server": "91.99.153.13",
-            "server_port": 443,
-            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk",
-                    "short_id": "cd0b"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 9",
+            "tag": "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 8",
             "type": "vless",
             "server": "104.21.62.144",
             "server_port": 443,
@@ -421,22 +423,13 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 50",
+            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 45",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5",
+            "server": "star.fastsoft98.ir",
+            "server_port": 80,
+            "uuid": "2d827b0e-93a6-4e65-af06-f962a126a535",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "auto.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
@@ -550,6 +543,24 @@
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 15",
+            "type": "vless",
+            "server": "statue.lnmarketplace.net",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         }
     ],
     "route": {
