@@ -93,8 +93,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,8 +105,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -157,14 +155,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3",
-            "type": "shadowsocks",
-            "server": "push4.p-ko.ru",
-            "server_port": 39448,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1U5MUwZqVsFkDGXQfabJP9"
         }
     ],
     "route": {

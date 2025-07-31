@@ -91,8 +91,6 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 21",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 22",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -120,8 +118,6 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 21",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 22",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -159,45 +155,6 @@
         },
         {
             "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 21",
-            "type": "trojan",
-            "server": "104.26.10.219",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.26.10.219",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 22",
-            "type": "trojan",
-            "server": "104.21.70.175",
-            "server_port": 443,
-            "password": "blue2024",
-            "tls": {
-                "enabled": true,
-                "server_name": "ha.lii2010.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed",
-                "headers": {
-                    "Host": "ha.lii2010.us.kg"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
             "type": "trojan",
             "server": "104.19.188.107",
             "server_port": 443,

@@ -98,8 +98,10 @@
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 16",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇳🇱 NL | 🟢 | ss | @hope_net | 23",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 25",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 20",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 22",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 23",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 24",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 11",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 12",
@@ -113,8 +115,8 @@
                 "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15",
                 "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 16",
                 "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 17",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 5",
-                "🇫🇮 FI | 🟢 | ss | @strongprotocol | 6",
+                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 4",
+                "🇫🇮 FI | 🟢 | ss | @strongprotocol | 5",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
@@ -125,8 +127,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -143,8 +144,10 @@
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 16",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇳🇱 NL | 🟢 | ss | @hope_net | 23",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 25",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 20",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 22",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 23",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 24",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 11",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 12",
@@ -158,8 +161,8 @@
                 "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15",
                 "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 16",
                 "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 17",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 5",
-                "🇫🇮 FI | 🟢 | ss | @strongprotocol | 6",
+                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 4",
+                "🇫🇮 FI | 🟢 | ss | @strongprotocol | 5",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
@@ -170,8 +173,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
-                "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -255,7 +257,7 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @hope_net | 23",
+            "tag": "🇳🇱 NL | 🟢 | ss | @hope_net | 20",
             "type": "shadowsocks",
             "server": "89.110.70.175",
             "server_port": 13402,
@@ -263,12 +265,28 @@
             "password": "ZXByXCVah8pX5yNSDRsTVT"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 25",
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 22",
             "type": "shadowsocks",
             "server": "139.64.165.144",
             "server_port": 7001,
             "method": "aes-256-gcm",
             "password": "RexnBgU7EV5ADxG"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 23",
+            "type": "shadowsocks",
+            "server": "23.157.40.113",
+            "server_port": 8118,
+            "method": "aes-256-gcm",
+            "password": "cdBIDV42DCwnfIN"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 24",
+            "type": "shadowsocks",
+            "server": "69.50.95.174",
+            "server_port": 443,
+            "method": "aes-256-gcm",
+            "password": "pKEW8JPByTVTLtM"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -375,7 +393,7 @@
             "password": "Dgq8kZruoFn6yYHDibQZUH"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @strongprotocol | 5",
+            "tag": "🇳🇱 NL | 🟢 | ss | @strongprotocol | 4",
             "type": "shadowsocks",
             "server": "103.106.1.92",
             "server_port": 23492,
@@ -383,7 +401,7 @@
             "password": "yMX9WGPgUEcRZmlaa0YHHC"
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | ss | @strongprotocol | 6",
+            "tag": "🇫🇮 FI | 🟢 | ss | @strongprotocol | 5",
             "type": "shadowsocks",
             "server": "45.12.135.36",
             "server_port": 47076,
@@ -477,14 +495,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @strongprotocol | 3",
-            "type": "shadowsocks",
-            "server": "push4.p-ko.ru",
-            "server_port": 39448,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1U5MUwZqVsFkDGXQfabJP9"
         }
     ],
     "route": {

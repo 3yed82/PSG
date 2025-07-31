@@ -99,14 +99,15 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 13",
-                "❔ XX | 🔴 | vless | @configshubplus | 15",
+                "🇪🇪 EE | 🔴 | vless | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -195,8 +196,8 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "🇺🇸 US | 🔴 | vless | @savagev2ray | 8",
                 "❔ XX | 🔴 | vless | @server444 | 1",
-                "❔ XX | 🟢 | vless | @strongprotocol | 4",
-                "🇮🇷 IR | 🔴 | vless | @strongprotocol | 7",
+                "❔ XX | 🟢 | vless | @strongprotocol | 3",
+                "🇮🇷 IR | 🔴 | vless | @strongprotocol | 6",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 2",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 4",
                 "🇺🇸 US | 🟢 | vless | @v2ray4win | 3",
@@ -259,14 +260,15 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 13",
-                "❔ XX | 🔴 | vless | @configshubplus | 15",
+                "🇪🇪 EE | 🔴 | vless | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -355,8 +357,8 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "🇺🇸 US | 🔴 | vless | @savagev2ray | 8",
                 "❔ XX | 🔴 | vless | @server444 | 1",
-                "❔ XX | 🟢 | vless | @strongprotocol | 4",
-                "🇮🇷 IR | 🔴 | vless | @strongprotocol | 7",
+                "❔ XX | 🟢 | vless | @strongprotocol | 3",
+                "🇮🇷 IR | 🔴 | vless | @strongprotocol | 6",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 2",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 4",
                 "🇺🇸 US | 🟢 | vless | @v2ray4win | 3",
@@ -612,22 +614,54 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @configshubplus | 13",
+            "tag": "🇪🇪 EE | 🔴 | vless | @configshubplus | 15",
             "type": "vless",
-            "server": "NL-SERVER-VIP-N-G-S-IS.nl-vip-nightgemshop.pledh.com",
-            "server_port": 8080,
-            "uuid": "fafe936d-0b5a-4c46-86ad-85b65126b436",
+            "server": "essi.blacklike.ir",
+            "server_port": 2052,
+            "uuid": "f8f1cf84-6abf-4c3b-bddc-f9b313ac419a",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "essi.blacklike.ir"
+                }
+            }
         },
         {
-            "tag": "❔ XX | 🔴 | vless | @configshubplus | 15",
+            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
             "type": "vless",
-            "server": "sv2.iranazizm.com",
-            "server_port": 8585,
-            "uuid": "7d205769-3ab3-47a3-8dfc-bfec25960d53",
+            "server": "statue.lnmarketplace.net",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "9c942b13-72da-45e4-bdbe-0598679209c5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
@@ -703,7 +737,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -712,7 +746,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -2330,7 +2364,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @strongprotocol | 4",
+            "tag": "❔ XX | 🟢 | vless | @strongprotocol | 3",
             "type": "vless",
             "server": "tr-s.xor-vpn.ru",
             "server_port": 443,
@@ -2348,7 +2382,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @strongprotocol | 7",
+            "tag": "🇮🇷 IR | 🔴 | vless | @strongprotocol | 6",
             "type": "vless",
             "server": "irr1.topsflag.sbs",
             "server_port": 2094,
