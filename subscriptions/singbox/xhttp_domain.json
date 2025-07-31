@@ -98,7 +98,8 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -115,7 +116,8 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -261,6 +263,29 @@
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 9",
+            "type": "vless",
+            "server": "speedtest.net.zula.ir.nobitex.ir.shakhle.ir",
+            "server_port": 39001,
+            "uuid": "15449e06-b519-414a-9e0d-fbb4a0fd2780",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
+                    "short_id": "f23547"
+                }
+            }
         }
     ],
     "route": {

@@ -133,8 +133,8 @@
     "configshubplus": {
         "types": [
             "vless",
-            "trojan",
             "ss",
+            "trojan",
             "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -480,9 +480,9 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "trojan",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -820,7 +820,6 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "vmess"
         ],
         "title": "Mowj Proxy",

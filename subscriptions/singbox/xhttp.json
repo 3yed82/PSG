@@ -91,7 +91,6 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
@@ -104,6 +103,7 @@
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 4",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 11",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -113,7 +113,8 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -123,7 +124,6 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
@@ -136,6 +136,7 @@
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 4",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
+                "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 11",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -145,7 +146,8 @@
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @serverii | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -185,29 +187,6 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "91.99.153.13",
-            "server_port": 443,
-            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk",
-                    "short_id": "cd0b"
                 }
             }
         },
@@ -376,6 +355,24 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @vpnplusee_free | 11",
+            "type": "vless",
+            "server": "104.21.62.144",
+            "server_port": 443,
+            "uuid": "c791bcdc-b9b3-4ca2-8110-fa705f4a9d32",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "varda2.manwe.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @canfing_vpn | 16",
             "type": "vless",
             "server": "de6rt.samsungmarketshop.ir",
@@ -510,6 +507,29 @@
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @vpnplusee_free | 9",
+            "type": "vless",
+            "server": "speedtest.net.zula.ir.nobitex.ir.shakhle.ir",
+            "server_port": 39001,
+            "uuid": "15449e06-b519-414a-9e0d-fbb4a0fd2780",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
+                    "short_id": "f23547"
+                }
+            }
         }
     ],
     "route": {
