@@ -99,9 +99,6 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇪🇪 EE | 🔴 | vless | @configshubplus | 15",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -195,7 +192,6 @@
                 "🇺🇸 US | 🔴 | vless | @pydriclub | 2",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "🇺🇸 US | 🔴 | vless | @savagev2ray | 8",
-                "❔ XX | 🔴 | vless | @server444 | 1",
                 "❔ XX | 🟢 | vless | @strongprotocol | 3",
                 "🇮🇷 IR | 🔴 | vless | @strongprotocol | 6",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 2",
@@ -260,9 +256,6 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇪🇪 EE | 🔴 | vless | @configshubplus | 15",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -356,7 +349,6 @@
                 "🇺🇸 US | 🔴 | vless | @pydriclub | 2",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "🇺🇸 US | 🔴 | vless | @savagev2ray | 8",
-                "❔ XX | 🔴 | vless | @server444 | 1",
                 "❔ XX | 🟢 | vless | @strongprotocol | 3",
                 "🇮🇷 IR | 🔴 | vless | @strongprotocol | 6",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 2",
@@ -612,56 +604,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇪🇪 EE | 🔴 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "essi.blacklike.ir",
-            "server_port": 2052,
-            "uuid": "f8f1cf84-6abf-4c3b-bddc-f9b313ac419a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "essi.blacklike.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "9c942b13-72da-45e4-bdbe-0598679209c5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
@@ -2344,22 +2286,6 @@
                 "path": "/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048",
                 "headers": {
                     "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔴 | vless | @server444 | 1",
-            "type": "vless",
-            "server": "wolf550.royalmt.life",
-            "server_port": 10000,
-            "uuid": "6af1f086-ffa0-4931-a112-0d669a6713ef",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "wolf550.royalmt.life"
                 }
             }
         },
