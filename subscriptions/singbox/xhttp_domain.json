@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=lake5.global.ssl.fastly.net&type=xhttp#🇺🇸 US | 🔴 | vless | @config_proxy | 48",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
@@ -108,7 +107,6 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=lake5.global.ssl.fastly.net&type=xhttp#🇺🇸 US | 🔴 | vless | @config_proxy | 48",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 12",
@@ -150,15 +148,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=lake5.global.ssl.fastly.net&type=xhttp#🇺🇸 US | 🔴 | vless | @config_proxy | 48",
-            "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
