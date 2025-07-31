@@ -90,6 +90,8 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 48",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 50",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -143,6 +145,8 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 48",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 50",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -218,6 +222,52 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 48",
+            "type": "vless",
+            "server": "44.210.243.21",
+            "server_port": 443,
+            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0",
+                    "short_id": "f785b38130e64177"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 50",
+            "type": "vless",
+            "server": "18.117.196.58",
+            "server_port": 4433,
+            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0",
+                    "short_id": "f785b38130e64177"
                 }
             }
         },

@@ -93,6 +93,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freakconfig | 13",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
+                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 5",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
@@ -111,6 +112,7 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @freakconfig | 13",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
+                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 5",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
@@ -159,6 +161,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @mowjproxy | 5",
+            "type": "shadowsocks",
+            "server": "admin.c4.webramz.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "69MUii7VDwMqh7Hz"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
