@@ -89,9 +89,10 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -107,9 +108,7 @@
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
-                "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 32",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 33"
+                "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -117,9 +116,10 @@
         {
             "interval": "10m",
             "outbounds": [
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -135,9 +135,7 @@
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
-                "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 32",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 33"
+                "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -147,6 +145,52 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
+            "type": "vless",
+            "server": "de.multiapvps.ir",
+            "server_port": 4433,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
+            "type": "vless",
+            "server": "usa.multiapvps.ir",
+            "server_port": 4434,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
+                    "short_id": ""
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | vless | @canfing_vpn | 16",
@@ -191,29 +235,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "mnxexflix2348.blacklike.ir",
-            "server_port": 2065,
-            "uuid": "f8f1cf84-6abf-4c3b-bddc-f9b313ac419a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "IqSKHvETwm15L1CW3JfEA052UrEaUakJEhyUKb_9kz4",
-                    "short_id": "87606ed6cdfaa532"
                 }
             }
         },
@@ -621,52 +642,6 @@
                     "enabled": true,
                     "public_key": "9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI",
                     "short_id": "ce"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 32",
-            "type": "vless",
-            "server": "de.multiapvps.ir",
-            "server_port": 4433,
-            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "docker.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 33",
-            "type": "vless",
-            "server": "usa.multiapvps.ir",
-            "server_port": 4434,
-            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "docker.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
-                    "short_id": ""
                 }
             }
         }

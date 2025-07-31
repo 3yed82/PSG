@@ -90,15 +90,16 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 25",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 26",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 21",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 22",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 9",
-                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 10",
-                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 12",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
@@ -113,15 +114,16 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 25",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 26",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 21",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 22",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 9",
-                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 10",
-                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 12",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
@@ -146,7 +148,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 25",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 21",
             "type": "trojan",
             "server": "104.26.10.219",
             "server_port": 443,
@@ -162,7 +164,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 26",
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 22",
             "type": "trojan",
             "server": "104.21.70.175",
             "server_port": 443,
@@ -181,6 +183,22 @@
                 "path": "/?ed",
                 "headers": {
                     "Host": "ha.lii2010.us.kg"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 24",
+            "type": "trojan",
+            "server": "104.19.188.107",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "104.19.188.107",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -217,7 +235,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 9",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
             "type": "trojan",
             "server": "13.37.151.196",
             "server_port": 22222,
@@ -233,7 +251,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 10",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
             "type": "trojan",
             "server": "52.59.53.31",
             "server_port": 22222,
@@ -249,7 +267,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
             "type": "trojan",
             "server": "63.179.65.24",
             "server_port": 22222,
@@ -265,7 +283,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 12",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
             "type": "trojan",
             "server": "52.47.42.196",
             "server_port": 22222,
@@ -281,7 +299,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
             "type": "trojan",
             "server": "15.236.10.186",
             "server_port": 22222,
