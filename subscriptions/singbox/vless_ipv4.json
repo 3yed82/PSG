@@ -97,6 +97,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -121,7 +122,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
+                "🏳️  | 🟢 | vless | @hope_net | 18",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -173,7 +174,6 @@
                 "🇺🇸 US | 🟢 | vless | @v2raying | 14",
                 "🇺🇸 US | 🟢 | vless | @v2rayngconfings | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 14",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇩🇪 DE | 🔴 | vless | @vip_vpn_2022 | 6",
                 "🇺🇸 US | 🔴 | vless | @vip_vpn_2022 | 7",
@@ -212,6 +212,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -236,7 +237,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
+                "🏳️  | 🟢 | vless | @hope_net | 18",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -288,7 +289,6 @@
                 "🇺🇸 US | 🟢 | vless | @v2raying | 14",
                 "🇺🇸 US | 🟢 | vless | @v2rayngconfings | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 14",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇩🇪 DE | 🔴 | vless | @vip_vpn_2022 | 6",
                 "🇺🇸 US | 🔴 | vless | @vip_vpn_2022 | 7",
@@ -435,6 +435,31 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+            "type": "vless",
+            "server": "104.18.36.24",
+            "server_port": 443,
+            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/=zani.yaemiko.ggff.net/telegram--MTMVPN--MTMVPN?ed=2560",
+                "headers": {
+                    "Host": "carlotta.shoorekeeper.cloudns.org"
                 }
             }
         },
@@ -872,27 +897,20 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 15",
+            "tag": "🏳️  | 🟢 | vless | @hope_net | 18",
             "type": "vless",
-            "server": "151.101.194.133",
-            "server_port": 443,
-            "uuid": "3a03786d-d0ab-4ccd-a9a3-cbb6d0f27f37",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "abbaacc-abac-acab-cadb-abccababacbc",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "mio.splashthat.com",
+                "server_name": "127.0.0.1",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray?ed=2560",
-                "headers": {
-                    "Host": "mio.splashthat.com"
                 }
             }
         },
@@ -1894,29 +1912,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | vless | @v2rayweb | 14",
-            "type": "vless",
-            "server": "109.73.206.90",
-            "server_port": 443,
-            "uuid": "4eff2388-2092-4b0a-aa74-0e464889ffaf",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c",
-                    "short_id": ""
-                }
             }
         },
         {

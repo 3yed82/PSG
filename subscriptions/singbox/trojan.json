@@ -89,10 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
                 "🇺🇸 US | 🟢 | trojan | @freakconfig | 12",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🏳️  | 🟢 | trojan | @hope_net | 18",
+                "🏳️  | 🟢 | trojan | @hope_net | 16",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -118,10 +117,9 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
                 "🇺🇸 US | 🟢 | trojan | @freakconfig | 12",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🏳️  | 🟢 | trojan | @hope_net | 18",
+                "🏳️  | 🟢 | trojan | @hope_net | 16",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -149,29 +147,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
-            "type": "trojan",
-            "server": "104.16.146.105",
-            "server_port": 443,
-            "password": "blue2024",
-            "tls": {
-                "enabled": true,
-                "server_name": "ha.lii2010.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed",
-                "headers": {
-                    "Host": "ha.lii2010.us.kg"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | trojan | @freakconfig | 12",
@@ -204,7 +179,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🏳️  | 🟢 | trojan | @hope_net | 18",
+            "tag": "🏳️  | 🟢 | trojan | @hope_net | 16",
             "type": "trojan",
             "server": "127.0.0.1",
             "server_port": 8080,
