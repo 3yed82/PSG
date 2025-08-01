@@ -95,10 +95,12 @@
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 14",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -116,10 +118,12 @@
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 14",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -217,6 +221,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 14",
+            "type": "vless",
+            "server": "91.99.223.115",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
             "type": "vless",
             "server": "45.150.33.157",
@@ -291,6 +304,15 @@
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "de2.leperfume.ir",
+            "server_port": 2323,
+            "uuid": "ba56e95b-10fe-43d3-aaa2-417b0df52adf",
             "flow": "",
             "packet_encoding": "xudp"
         },

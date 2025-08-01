@@ -50,7 +50,9 @@
     "configshubplus": {
         "types": [
             "vless",
-            "vmess"
+            "ss",
+            "vmess",
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -263,8 +265,8 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "ss",
+            "trojan",
             "vmess",
             "vless"
         ],
@@ -325,9 +327,9 @@
     },
     "jiedianssr": {
         "types": [
-            "vless",
             "vmess",
             "trojan",
+            "vless",
             "ss"
         ],
         "title": "ssr 小火箭 免费节点",
@@ -677,8 +679,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan"
         ],
         "title": "V2ray | VPN",

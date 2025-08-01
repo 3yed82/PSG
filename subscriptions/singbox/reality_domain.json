@@ -93,10 +93,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇰🇷 KR | 🟢 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
-                "🇯🇵 JP | 🟢 | vless | @configshubplus | 13",
-                "🇰🇷 KR | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -124,10 +120,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇰🇷 KR | 🟢 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
-                "🇯🇵 JP | 🟢 | vless | @configshubplus | 13",
-                "🇰🇷 KR | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -243,98 +235,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇷 KR | 🟢 | vless | @configshubplus | 11",
-            "type": "vless",
-            "server": "amazon-13.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
-            "type": "vless",
-            "server": "amazon-20.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🟢 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "amazon-17.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇷 KR | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "amazon-15.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
                 }
             }
         },
