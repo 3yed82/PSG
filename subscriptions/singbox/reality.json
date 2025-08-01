@@ -132,7 +132,7 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
-                "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
+                "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -140,6 +140,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 14",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -196,7 +197,7 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
-                "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
+                "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
@@ -204,6 +205,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 14",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -1296,7 +1298,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
+            "tag": "❔ XX | 🟢 | vless | @kesslervpn | 2",
             "type": "vless",
             "server": "germansana.kesslershop.ir",
             "server_port": 8997,
@@ -1497,6 +1499,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 14",
+            "type": "vless",
+            "server": "direct2.yasharteam.com",
+            "server_port": 443,
+            "uuid": "ddaf37b4-a481-4f25-877a-4a34445040db",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
+                }
             }
         },
         {

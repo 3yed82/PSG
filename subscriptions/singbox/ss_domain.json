@@ -91,6 +91,7 @@
                 "direct",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
+                "🇯🇵 JP | 🟢 | ss | @hope_net | 18",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
@@ -103,6 +104,7 @@
             "outbounds": [
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
+                "🇯🇵 JP | 🟢 | ss | @hope_net | 18",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
@@ -131,6 +133,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "7ivrGEHY88sQk3DP"
+        },
+        {
+            "tag": "🇯🇵 JP | 🟢 | ss | @hope_net | 18",
+            "type": "shadowsocks",
+            "server": "k-r03.loveroise.com",
+            "server_port": 54012,
+            "method": "chacha20-ietf-poly1305",
+            "password": "09833a6f-4d46-426e-87fe-7793a5489f84"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
