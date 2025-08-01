@@ -90,13 +90,14 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
+                "🇮🇩 ID | 🟢 | vless | @configshubplus | 17",
+                "🇦🇲 AM | 🟢 | vless | @configshubplus | 19",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
+                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -129,7 +130,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -157,13 +157,14 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
+                "🇮🇩 ID | 🟢 | vless | @configshubplus | 17",
+                "🇦🇲 AM | 🟢 | vless | @configshubplus | 19",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
+                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -196,7 +197,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -250,16 +250,39 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
+            "tag": "🇮🇩 ID | 🟢 | vless | @configshubplus | 17",
             "type": "vless",
-            "server": "165.22.205.134",
+            "server": "31.56.206.70",
             "server_port": 443,
-            "uuid": "bb747893-51e8-4131-895d-edaae3f7cc80",
+            "uuid": "b67ddb53-9e46-492a-84be-0f5b752d7e83",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo",
+                    "short_id": "c6d0465acae1"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇲 AM | 🟢 | vless | @configshubplus | 19",
+            "type": "vless",
+            "server": "77.91.68.70",
+            "server_port": 55983,
+            "uuid": "f667a096-5231-4cfb-8759-92bb32473139",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -267,13 +290,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ",
-                    "short_id": "a9"
+                    "public_key": "nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg",
+                    "short_id": "0e"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "t.me/entryNET"
             }
         },
         {
@@ -400,7 +419,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
+            "tag": "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
             "type": "vless",
             "server": "51.89.119.200",
             "server_port": 46933,
@@ -1218,29 +1237,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "tr01-vlr01.tcp-reset-club.net",
-            "server_port": 443,
-            "uuid": "2a02cb25-0f58-4b19-a7a6-8c205fdb9042",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "8453e5fd9af927"
                 }
             }
         },
