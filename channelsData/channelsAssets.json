@@ -50,6 +50,8 @@
     "configshubplus": {
         "types": [
             "vless",
+            "ss",
+            "trojan",
             "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -140,9 +142,10 @@
     },
     "freakconfig": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "vmess",
+            "ss",
+            "trojan"
         ],
         "title": "سرور کانفیگ کانفینگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freakconfig.jpg"
@@ -263,10 +266,10 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "trojan",
             "vmess",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -677,8 +680,9 @@
     },
     "v2rayweb": {
         "types": [
-            "trojan",
-            "vless"
+            "vless",
+            "vmess",
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"

@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇩🇪 DE | 🔴 | vmess | @configshubplus | 18",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -100,7 +101,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "❔ XX | 🔴 | vmess | @hope_net | 19",
+                "❔ XX | 🔴 | vmess | @hope_net | 17",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -154,6 +155,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇩🇪 DE | 🔴 | vmess | @configshubplus | 18",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -165,7 +167,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "❔ XX | 🔴 | vmess | @hope_net | 19",
+                "❔ XX | 🔴 | vmess | @hope_net | 17",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -221,6 +223,15 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vmess | @configshubplus | 18",
+            "type": "vmess",
+            "server": "135.125.182.74",
+            "server_port": 28213,
+            "uuid": "81852771-76fb-4e94-e4f1-4e37a698a49a",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
@@ -373,7 +384,7 @@
             "alter_id": 0
         },
         {
-            "tag": "❔ XX | 🔴 | vmess | @hope_net | 19",
+            "tag": "❔ XX | 🔴 | vmess | @hope_net | 17",
             "type": "vmess",
             "server": "shs.xiaoqi666.xyz",
             "server_port": 2086,
