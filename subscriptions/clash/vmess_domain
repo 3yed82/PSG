@@ -23,7 +23,6 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇸🇬 SG | 🔴 | vmess | @configshubplus | 11","type":"vmess","server":"62.146.235.193","port":28011,"cipher":"auto","uuid":"cfc5a87f-3c13-4e25-b556-176cdd6b5c6a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇫🇮 FI | 🔴 | vmess | @freeconfing | 10","type":"vmess","server":"37.27.21.225","port":18855,"cipher":"auto","uuid":"59cdb3eb-13de-436d-9b6a-6c815863baf4","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇷🇸 RS | 🔴 | vmess | @freeconfing | 11","type":"vmess","server":"37.120.193.102","port":52920,"cipher":"auto","uuid":"57170ff0-7180-4664-8f61-8debdda345f7","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔ XX | 🔴 | vmess | @freeshadowsock | 0","type":"vmess","server":"ddns-tw02.plnode.xyz","port":8901,"cipher":"auto","uuid":"7bb78d3e-c1ce-430d-b0ab-cd85fabd09c5","alterId":"1","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
@@ -34,7 +33,8 @@ proxies:
   - {"name":"🇩🇪 DE | 🔴 | vmess | @freev2raym | 6","type":"vmess","server":"91.107.141.0","port":21024,"cipher":"auto","uuid":"c8486376-22f4-49ce-9b7f-cb0a3530bdb8","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"🇫🇷 FR | 🔴 | vmess | @garnet_free | 9","type":"vmess","server":"89.116.38.170","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1","type":"vmess","server":"mrgold.iranman.shop","port":52065,"cipher":"auto","uuid":"f29ea77c-6842-4ee0-9fc1-9c7a871566b2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸 US | 🔴 | vmess | @hope_net | 19","type":"vmess","server":"172.67.70.92","port":2082,"cipher":"auto","uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"Host":"ip16.6929198.xyz"}}}
+  - {"name":"🇺🇸 US | 🔴 | vmess | @hope_net | 17","type":"vmess","server":"172.67.70.92","port":2082,"cipher":"auto","uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"Host":"ip16.6929198.xyz"}}}
+  - {"name":"🇺🇸 US | 🔴 | vmess | @hope_net | 18","type":"vmess","server":"104.21.238.158","port":2086,"cipher":"auto","uuid":"bc65fac2-7dc7-426f-acdd-0779a5035bde","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"Host":"p1.613055.xyz"}}}
   - {"name":"🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10","type":"vmess","server":"78.47.120.173","port":443,"cipher":"auto","uuid":"6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12","type":"vmess","server":"142.93.238.178","port":80,"cipher":"auto","uuid":"941e0ba2-01b6-4bfe-81a4-6be93702cae3","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/graphql","headers":{"Host":""}}}
   - {"name":"❔ XX | 🔴 | vmess | @khoneproxy | 13","type":"vmess","server":"join-bede.vmessorg.fun","port":80,"cipher":"auto","uuid":"def53246-e7d7-4e7c-8427-0dc5602d3cba","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
@@ -83,7 +83,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇸🇬 SG | 🔴 | vmess | @configshubplus | 11'
       - '🇫🇮 FI | 🔴 | vmess | @freeconfing | 10'
       - '🇷🇸 RS | 🔴 | vmess | @freeconfing | 11'
       - '❔ XX | 🔴 | vmess | @freeshadowsock | 0'
@@ -94,7 +93,8 @@ proxy-groups:
       - '🇩🇪 DE | 🔴 | vmess | @freev2raym | 6'
       - '🇫🇷 FR | 🔴 | vmess | @garnet_free | 9'
       - '🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1'
-      - '🇺🇸 US | 🔴 | vmess | @hope_net | 19'
+      - '🇺🇸 US | 🔴 | vmess | @hope_net | 17'
+      - '🇺🇸 US | 🔴 | vmess | @hope_net | 18'
       - '🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10'
       - '🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12'
       - '❔ XX | 🔴 | vmess | @khoneproxy | 13'

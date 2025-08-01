@@ -90,13 +90,13 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 8",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
+                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -133,13 +133,13 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 8",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
+                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -202,16 +202,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 8",
+            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
             "type": "vless",
-            "server": "91.99.97.62",
-            "server_port": 51479,
-            "uuid": "dcdbb1fb-ab20-447b-aa0a-7d149add2a53",
+            "server": "165.22.205.134",
+            "server_port": 443,
+            "uuid": "bb747893-51e8-4131-895d-edaae3f7cc80",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.cdn77.com",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -219,13 +219,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg",
-                    "short_id": ""
+                    "public_key": "eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ",
+                    "short_id": "a9"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
+                "service_name": "t.me/entryNET"
             }
         },
         {
@@ -352,7 +352,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
+            "tag": "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
             "type": "vless",
             "server": "51.89.119.200",
             "server_port": 46933,

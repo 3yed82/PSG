@@ -89,10 +89,10 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | trojan | @freakconfig | 15",
+                "🇺🇸 US | 🟢 | trojan | @freakconfig | 14",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
@@ -118,10 +118,10 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | trojan | @freakconfig | 15",
+                "🇺🇸 US | 🟢 | trojan | @freakconfig | 14",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
@@ -151,7 +151,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @freakconfig | 15",
+            "tag": "🇺🇸 US | 🟢 | trojan | @freakconfig | 14",
             "type": "trojan",
             "server": "172.67.181.173",
             "server_port": 443,
@@ -181,14 +181,14 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
             "type": "trojan",
-            "server": "104.21.33.65",
+            "server": "190.93.244.223",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "104.21.33.65",
+                "server_name": "190.93.244.223",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -197,14 +197,14 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
             "type": "trojan",
-            "server": "190.93.244.223",
+            "server": "198.41.193.49",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "190.93.244.223",
+                "server_name": "198.41.193.49",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
