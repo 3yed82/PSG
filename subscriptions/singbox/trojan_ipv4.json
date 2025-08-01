@@ -89,9 +89,10 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -104,7 +105,8 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 12",
+                "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 10",
+                "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 12",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "proxy",
@@ -113,9 +115,10 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -128,7 +131,8 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 12",
+                "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 10",
+                "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 12",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "auto",
@@ -141,6 +145,22 @@
             "type": "direct"
         },
         {
+            "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 18",
+            "type": "trojan",
+            "server": "172.67.254.32",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.67.254.32",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
             "type": "trojan",
             "server": "91.107.141.0",
@@ -148,7 +168,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
             "type": "trojan",
             "server": "172.66.47.147",
             "server_port": 443,
@@ -171,7 +191,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
             "type": "trojan",
             "server": "104.17.114.140",
             "server_port": 443,
@@ -379,7 +399,7 @@
             }
         },
         {
-            "tag": "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 12",
+            "tag": "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 10",
             "type": "trojan",
             "server": "154.92.9.71",
             "server_port": 443,
@@ -387,6 +407,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "154.92.9.71",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇧🇬 BG | 🔴 | trojan | @v2rayweb | 12",
+            "type": "trojan",
+            "server": "45.142.120.53",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "45.142.120.53",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
