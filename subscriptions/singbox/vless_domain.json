@@ -99,6 +99,10 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇰🇷 KR | 🟢 | vless | @configshubplus | 11",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
+                "🇯🇵 JP | 🟢 | vless | @configshubplus | 13",
+                "🇰🇷 KR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -203,7 +207,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 9",
-                "🇺🇸 US | 🔴 | vless | @v2ray_youtube | 6",
+                "🇺🇸 US | 🔴 | vless | @v2ray_youtube | 7",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 5",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 7",
@@ -257,6 +261,10 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇰🇷 KR | 🟢 | vless | @configshubplus | 11",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
+                "🇯🇵 JP | 🟢 | vless | @configshubplus | 13",
+                "🇰🇷 KR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -361,7 +369,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 9",
-                "🇺🇸 US | 🔴 | vless | @v2ray_youtube | 6",
+                "🇺🇸 US | 🔴 | vless | @v2ray_youtube | 7",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 5",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 7",
@@ -606,6 +614,98 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇰🇷 KR | 🟢 | vless | @configshubplus | 11",
+            "type": "vless",
+            "server": "amazon-13.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
+            "type": "vless",
+            "server": "amazon-20.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
+            }
+        },
+        {
+            "tag": "🇯🇵 JP | 🟢 | vless | @configshubplus | 13",
+            "type": "vless",
+            "server": "amazon-17.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
+            }
+        },
+        {
+            "tag": "🇰🇷 KR | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "amazon-15.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
@@ -2485,7 +2585,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_youtube | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_youtube | 7",
             "type": "vless",
             "server": "SvnTeam.fast.hosting-ip.com",
             "server_port": 80,
