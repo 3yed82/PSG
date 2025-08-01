@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
@@ -105,6 +104,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
+                "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 12",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "proxy",
@@ -114,7 +114,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 10",
@@ -129,6 +128,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
+                "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 12",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "auto",
@@ -148,30 +148,14 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
-            "type": "trojan",
-            "server": "104.20.159.113",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.20.159.113",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
             "type": "trojan",
-            "server": "172.66.47.155",
+            "server": "172.66.47.147",
             "server_port": 443,
-            "password": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "password": "1187ba87-8ebc-4a07-aa89-b331ed2cb356",
             "tls": {
                 "enabled": true,
-                "server_name": "Bloom-cHh.PAGEs.DeV",
+                "server_name": "meti-u9d.pages.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -182,30 +166,23 @@
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "Bloom-cHh.PAGEs.DeV"
+                    "Host": "meti-u9d.pages.dev"
                 }
             }
         },
         {
             "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 20",
             "type": "trojan",
-            "server": "162.159.138.112",
+            "server": "104.17.114.140",
             "server_port": 443,
             "password": "blue2024",
             "tls": {
                 "enabled": true,
-                "server_name": "hb.lii2010.us.kg",
+                "server_name": "ha.lii2010.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "hb.lii2010.us.kg"
                 }
             }
         },
@@ -394,6 +371,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇾 CY | 🔴 | trojan | @v2rayweb | 12",
+            "type": "trojan",
+            "server": "154.92.9.71",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "154.92.9.71",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
