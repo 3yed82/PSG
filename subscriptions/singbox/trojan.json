@@ -89,9 +89,10 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 15",
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
                 "🇺🇸 US | 🟢 | trojan | @freakconfig | 12",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🏳️  | 🟢 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -117,9 +118,10 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 15",
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
                 "🇺🇸 US | 🟢 | trojan | @freakconfig | 12",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🏳️  | 🟢 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -149,14 +151,14 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 15",
+            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 18",
             "type": "trojan",
-            "server": "172.67.181.173",
+            "server": "104.16.146.105",
             "server_port": 443,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "password": "blue2024",
             "tls": {
                 "enabled": true,
-                "server_name": "vpn.stupidworld.web.id",
+                "server_name": "ha.lii2010.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -165,9 +167,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/telegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN",
+                "path": "/?ed",
                 "headers": {
-                    "Host": "vpn.stupidworld.web.id"
+                    "Host": "ha.lii2010.us.kg"
                 }
             }
         },
@@ -200,6 +202,22 @@
             "server": "91.107.141.0",
             "server_port": 23825,
             "password": "ziIjOlyGbM"
+        },
+        {
+            "tag": "🏳️  | 🟢 | trojan | @hope_net | 18",
+            "type": "trojan",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "password": "abbaacc-abac-acab-cadb-abccababacbc",
+            "tls": {
+                "enabled": true,
+                "server_name": "127.0.0.1",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",

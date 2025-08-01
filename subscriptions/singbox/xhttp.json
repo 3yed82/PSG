@@ -101,10 +101,10 @@
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇮🇹 IT | 🔴 | vless | @v2rayweb | 14"
+                "🇮🇹 IT | 🔴 | vless | @v2rayweb | 13"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -124,10 +124,10 @@
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇮🇹 IT | 🔴 | vless | @v2rayweb | 14"
+                "🇮🇹 IT | 🔴 | vless | @v2rayweb | 13"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -326,7 +326,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+            "tag": "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -376,11 +376,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇹 IT | 🔴 | vless | @v2rayweb | 14",
+            "tag": "🇮🇹 IT | 🔴 | vless | @v2rayweb | 13",
             "type": "vless",
             "server": "filmnet.filimnet.com",
             "server_port": 80,
-            "uuid": "8fa56720-6d4f-49ab-8529-7cbb82299894",
+            "uuid": "daa5183c-7da5-4e1b-b064-491c9afc80fe",
             "flow": "",
             "packet_encoding": "xudp"
         }
