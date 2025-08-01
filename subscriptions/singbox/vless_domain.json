@@ -99,12 +99,13 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇫🇮 FI | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -192,6 +193,7 @@
                 "🇺🇸 US | 🔴 | vless | @pydriclub | 2",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "🇺🇸 US | 🔴 | vless | @savagev2ray | 8",
+                "🇫🇮 FI | 🔴 | vless | @server444 | 0",
                 "❔ XX | 🟢 | vless | @strongprotocol | 3",
                 "🇮🇷 IR | 🔴 | vless | @strongprotocol | 6",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 2",
@@ -215,6 +217,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
+                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 13",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -256,12 +259,13 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇫🇮 FI | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -349,6 +353,7 @@
                 "🇺🇸 US | 🔴 | vless | @pydriclub | 2",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "🇺🇸 US | 🔴 | vless | @savagev2ray | 8",
+                "🇫🇮 FI | 🔴 | vless | @server444 | 0",
                 "❔ XX | 🟢 | vless | @strongprotocol | 3",
                 "🇮🇷 IR | 🔴 | vless | @strongprotocol | 6",
                 "❔ XX | 🔴 | vless | @teamvpnpro | 2",
@@ -372,6 +377,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
+                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 13",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -606,6 +612,29 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇫🇮 FI | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "speedtest.net.zula.ir.nobitex.ir.shakhle.ir",
+            "server_port": 39001,
+            "uuid": "15449e06-b519-414a-9e0d-fbb4a0fd2780",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
+                    "short_id": "f23547"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -679,7 +708,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -688,7 +717,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -2290,6 +2319,22 @@
             }
         },
         {
+            "tag": "🇫🇮 FI | 🔴 | vless | @server444 | 0",
+            "type": "vless",
+            "server": "wolf558.royalmt.life",
+            "server_port": 53625,
+            "uuid": "d83c8440-4bd9-4695-aec5-c39b52313e1c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "wolf558.royalmt.life"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @strongprotocol | 3",
             "type": "vless",
             "server": "tr-s.xor-vpn.ru",
@@ -2770,6 +2815,15 @@
                     "Host": "w1.sylar8.eu.org"
                 }
             }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔴 | vless | @v2rayweb | 13",
+            "type": "vless",
+            "server": "cb6.connectbaash.info",
+            "server_port": 4406,
+            "uuid": "0fc95877-cdc3-458f-8b00-d554c99ecbfb",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",

@@ -100,6 +100,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -137,6 +138,8 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
+                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 10",
+                "🇬🇧 GB | 🔴 | vmess | @v2rayweb | 11",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -164,6 +167,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -201,6 +205,8 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
+                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 10",
+                "🇬🇧 GB | 🔴 | vmess | @v2rayweb | 11",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -369,6 +375,22 @@
             "uuid": "f29ea77c-6842-4ee0-9fc1-9c7a871566b2",
             "security": "auto",
             "alter_id": 0
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
+            "type": "vmess",
+            "server": "104.17.213.241",
+            "server_port": 2052,
+            "uuid": "4453aa95-c236-46a1-8066-8145ab8ebee6",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
@@ -988,6 +1010,24 @@
             "server": "195.201.2.27",
             "server_port": 25761,
             "uuid": "de746cfd-c2db-4618-83c2-9bd1d763cc25",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 10",
+            "type": "vmess",
+            "server": "panel1.ipyar.org",
+            "server_port": 42684,
+            "uuid": "c4bd9eba-8aea-4d5e-a2ee-b5de65ac14e1",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇬🇧 GB | 🔴 | vmess | @v2rayweb | 11",
+            "type": "vmess",
+            "server": "91.228.10.125",
+            "server_port": 47682,
+            "uuid": "6b837ddd-7dfb-4520-dd9c-65d61d640896",
             "security": "auto",
             "alter_id": 0
         },

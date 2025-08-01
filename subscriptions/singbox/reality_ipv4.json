@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -114,7 +115,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -133,6 +133,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -157,7 +158,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -198,6 +198,29 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "83.147.18.179",
+            "server_port": 443,
+            "uuid": "075d71f7-1adf-4a10-b3a5-201d34d9ca85",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "snapp.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4",
+                    "short_id": "5bef46444e87"
                 }
             }
         },
@@ -814,29 +837,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @v2rayweb | 17",
-            "type": "vless",
-            "server": "83.147.18.179",
-            "server_port": 443,
-            "uuid": "075d71f7-1adf-4a10-b3a5-201d34d9ca85",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "snapp.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4",
-                    "short_id": "5bef46444e87"
-                }
             }
         },
         {

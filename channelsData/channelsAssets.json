@@ -264,8 +264,8 @@
     "hope_net": {
         "types": [
             "trojan",
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -677,7 +677,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
