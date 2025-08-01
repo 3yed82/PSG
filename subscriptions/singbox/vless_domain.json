@@ -100,7 +100,7 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -218,7 +218,8 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 14",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 11",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -262,7 +263,7 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -380,7 +381,8 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 14",
+                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 11",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -632,13 +634,29 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
             "type": "vless",
-            "server": "sr59.tonights.sbs",
-            "server_port": 2086,
-            "uuid": "03ac3194-0592-4e4e-85b3-7c58eef9a6fc",
+            "server": "sourceforge.net",
+            "server_port": 443,
+            "uuid": "7a80a8d9-92f9-4f0a-8352-9005a8215ab8",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "rAyAn-H09.LeIlA.DpDnS.OrG",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/@Rayan_Config",
+                "headers": {
+                    "Host": "rAyAn-H09.LeIlA.DpDnS.OrG"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
@@ -2823,7 +2841,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 14",
+            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 11",
             "type": "vless",
             "server": "direct2.yasharteam.com",
             "server_port": 443,
@@ -2842,6 +2860,31 @@
                     "enabled": true,
                     "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
                     "short_id": "e54b5ad736ae4c38"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "lease-20.access.name.ng",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "lease-20.access.name.ng"
                 }
             }
         },

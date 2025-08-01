@@ -91,14 +91,15 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 18",
+                "🇵🇱 PL | 🟢 | ss | @configshubplus | 17",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇺🇸 US | 🟢 | ss | @flyv2ray | 3",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 16",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -122,7 +123,7 @@
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 10",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇯🇵 JP | 🟢 | ss | @hope_net | 18",
+                "🇭🇰 HK | 🟢 | ss | @hope_net | 16",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
@@ -135,14 +136,15 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 18",
+                "🇵🇱 PL | 🟢 | ss | @configshubplus | 17",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇺🇸 US | 🟢 | ss | @flyv2ray | 3",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 16",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -166,7 +168,7 @@
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 10",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇯🇵 JP | 🟢 | ss | @hope_net | 18",
+                "🇭🇰 HK | 🟢 | ss | @hope_net | 16",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
@@ -197,20 +199,12 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
+            "tag": "🇵🇱 PL | 🟢 | ss | @configshubplus | 17",
             "type": "shadowsocks",
-            "server": "45.158.171.60",
-            "server_port": 8080,
+            "server": "23.27.24.181",
+            "server_port": 40030,
             "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 18",
-            "type": "shadowsocks",
-            "server": "142.202.49.84",
-            "server_port": 8008,
-            "method": "aes-256-gcm",
-            "password": "XKFKl2rULjIp74"
+            "password": "7905a32b-012c-4711-89e2-73b6713eca75"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
@@ -259,6 +253,22 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "9b3b33c24f203e40"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 17",
+            "type": "shadowsocks",
+            "server": "142.202.49.84",
+            "server_port": 8008,
+            "method": "aes-256-gcm",
+            "password": "XKFKl2rULjIp74"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "142.202.49.75",
+            "server_port": 8000,
+            "method": "aes-256-gcm",
+            "password": "KixLvKzwjekG00rm"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -445,7 +455,7 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
-            "tag": "🇯🇵 JP | 🟢 | ss | @hope_net | 18",
+            "tag": "🇭🇰 HK | 🟢 | ss | @hope_net | 16",
             "type": "shadowsocks",
             "server": "k-r03.loveroise.com",
             "server_port": 54012,
