@@ -127,7 +127,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @configshubplus | 16",
+                "🇦🇪 AE | 🟢 | vless | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -192,7 +192,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @configshubplus | 16",
+                "🇦🇪 AE | 🟢 | vless | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -1164,25 +1164,25 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @configshubplus | 16",
+            "tag": "🇦🇪 AE | 🟢 | vless | @configshubplus | 16",
             "type": "vless",
-            "server": "de-re.afteam.ir",
-            "server_port": 3810,
-            "uuid": "1d79ae59-02b4-402d-c529-4c0a7facec28",
+            "server": "reality.sbarshia.ir",
+            "server_port": 443,
+            "uuid": "2be7495d-847b-40ea-a517-b5779effb7ac",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "digikala.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU",
-                    "short_id": "f830f6"
+                    "public_key": "RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0",
+                    "short_id": "fdf18126a0768480"
                 }
             }
         },

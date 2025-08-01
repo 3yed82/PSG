@@ -92,10 +92,11 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
-                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇮🇹 IT | 🔴 | vless | @v2rayweb | 14"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,10 +107,11 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
-                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇮🇹 IT | 🔴 | vless | @v2rayweb | 14"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -162,7 +164,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
+            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
             "type": "vless",
             "server": "server229242717676380726.tas-bazi.com",
             "server_port": 443,
@@ -180,7 +182,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -226,6 +228,15 @@
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇮🇹 IT | 🔴 | vless | @v2rayweb | 14",
+            "type": "vless",
+            "server": "filmnet.filimnet.com",
+            "server_port": 80,
+            "uuid": "8fa56720-6d4f-49ab-8529-7cbb82299894",
             "flow": "",
             "packet_encoding": "xudp"
         }
