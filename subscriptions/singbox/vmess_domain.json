@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🔴 | vmess | @configshubplus | 18",
+                "🇨🇭 CH | 🔴 | vmess | @configshubplus | 17",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -101,7 +101,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "❔ XX | 🔴 | vmess | @hope_net | 17",
+                "❔ XX | 🔴 | vmess | @hope_net | 15",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -155,7 +155,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🔴 | vmess | @configshubplus | 18",
+                "🇨🇭 CH | 🔴 | vmess | @configshubplus | 17",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -167,7 +167,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "❔ XX | 🔴 | vmess | @hope_net | 17",
+                "❔ XX | 🔴 | vmess | @hope_net | 15",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -225,11 +225,11 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @configshubplus | 18",
+            "tag": "🇨🇭 CH | 🔴 | vmess | @configshubplus | 17",
             "type": "vmess",
-            "server": "135.125.182.74",
-            "server_port": 28213,
-            "uuid": "81852771-76fb-4e94-e4f1-4e37a698a49a",
+            "server": "23.166.88.183",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
             "security": "auto",
             "alter_id": 0
         },
@@ -384,7 +384,7 @@
             "alter_id": 0
         },
         {
-            "tag": "❔ XX | 🔴 | vmess | @hope_net | 17",
+            "tag": "❔ XX | 🔴 | vmess | @hope_net | 15",
             "type": "vmess",
             "server": "shs.xiaoqi666.xyz",
             "server_port": 2086,

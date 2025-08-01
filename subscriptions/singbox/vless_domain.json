@@ -91,6 +91,7 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 17",
                 "🇺🇸 US | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
@@ -216,8 +217,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 15",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 18",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -251,6 +251,7 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 17",
                 "🇺🇸 US | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
@@ -376,8 +377,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇺🇸 US | 🔴 | vless | @v2rayweb | 15",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 18",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -455,6 +455,22 @@
                     "enabled": true,
                     "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 17",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "9c942b13-72da-45e4-bdbe-0598679209c5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -2794,46 +2810,28 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 10",
             "type": "vless",
-            "server": "famous-experience.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "7f09e7b4-4680-4653-a2da-307d110b6961",
+            "server": "www.visa.com.sg",
+            "server_port": 2087,
+            "uuid": "90c7ad5e-cd15-4314-b39b-aeabd397d592",
             "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "famous-experience.seotoolsforyou.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 18",
-            "type": "vless",
-            "server": "gr.globalunlimitedinternet.xyz",
-            "server_port": 1911,
-            "uuid": "26c264b7-fd44-4adc-a29d-1c3fd37c0d63",
-            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "vl.hongkong6.qzz.io",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "VCwUyNFL_IMTZfEKeIUYEuXbPfzCpuUBGNW1kAu2VW4",
-                    "short_id": "32aaf12b"
                 }
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "grpc.reality"
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "vl.hongkong6.qzz.io"
+                }
             }
         },
         {
