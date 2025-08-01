@@ -91,13 +91,14 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 14",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇦🇹 AT | 🟢 | ss | @hope_net | 16",
-                "🇸🇪 SE | 🟢 | ss | @hope_net | 18",
+                "🇸🇪 SE | 🟢 | ss | @hope_net | 16",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -119,10 +120,13 @@
                 "🇦🇲 AM | 🟢 | ss | @vpnod | 9",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 10",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 15",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 17",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -132,13 +136,14 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 14",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇦🇹 AT | 🟢 | ss | @hope_net | 16",
-                "🇸🇪 SE | 🟢 | ss | @hope_net | 18",
+                "🇸🇪 SE | 🟢 | ss | @hope_net | 16",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -160,10 +165,13 @@
                 "🇦🇲 AM | 🟢 | ss | @vpnod | 9",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 10",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 15",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 17",
+                "🇬🇧 GB | 🟢 | ss | @configshubplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
+                "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -189,6 +197,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 14",
+            "type": "shadowsocks",
+            "server": "45.87.175.181",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cvII85TrW6n0OGyfpHVS1u"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
@@ -231,20 +247,20 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇦🇹 AT | 🟢 | ss | @hope_net | 16",
-            "type": "shadowsocks",
-            "server": "95.164.9.144",
-            "server_port": 2927,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ug4Fu79SEREdFGlt2sUyT4"
-        },
-        {
-            "tag": "🇸🇪 SE | 🟢 | ss | @hope_net | 18",
+            "tag": "🇸🇪 SE | 🟢 | ss | @hope_net | 16",
             "type": "shadowsocks",
             "server": "94.228.165.178",
             "server_port": 58176,
             "method": "chacha20-ietf-poly1305",
             "password": "afKAHp1VfRWZu91LIi9o0D"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "38.114.114.69",
+            "server_port": 5004,
+            "method": "aes-256-gcm",
+            "password": "g5MeD6Ft3CWlJId"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -415,6 +431,38 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
+            "tag": "🇬🇧 GB | 🟢 | ss | @configshubplus | 15",
+            "type": "shadowsocks",
+            "server": "admin.c2.webramz.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WstuSnlu4ieA9M0L"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @configshubplus | 16",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 17",
+            "type": "shadowsocks",
+            "server": "hackney-latest-strike.freesocks.work",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "XUMTygEM1jVYIvysXKqA5T"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @configshubplus | 18",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
             "type": "shadowsocks",
             "server": "account-mec.emofid.co",
@@ -437,14 +485,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
         }
     ],
     "route": {
