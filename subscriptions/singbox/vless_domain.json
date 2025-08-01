@@ -100,8 +100,6 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-                "🇳🇱 NL | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -122,7 +120,7 @@
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
-                "🇺🇸 US | 🔴 | vless | @free_serverir | 32",
+                "🇺🇸 US | 🔴 | vless | @free_serverir | 18",
                 "❔ XX | 🔴 | vless | @freedom_config | 5",
                 "❔ XX | 🔴 | vless | @freedom_config | 6",
                 "❔ XX | 🔴 | vless | @freedom_config | 7",
@@ -169,9 +167,9 @@
                 "❔ XX | 🔴 | vless | @loatvpn | 4",
                 "❔ XX | 🔴 | vless | @mastervpnshop1 | 16",
                 "❔ XX | 🟢 | vless | @mastervpnshop1 | 17",
-                "🇺🇸 US | 🔴 | vless | @melov2ray | 25",
-                "🇺🇸 US | 🔴 | vless | @melov2ray | 26",
+                "🇺🇸 US | 🔴 | vless | @melov2ray | 27",
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 28",
+                "🇺🇸 US | 🔴 | vless | @melov2ray | 29",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 61",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 62",
@@ -264,8 +262,6 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 13",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-                "🇳🇱 NL | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -286,7 +282,7 @@
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
-                "🇺🇸 US | 🔴 | vless | @free_serverir | 32",
+                "🇺🇸 US | 🔴 | vless | @free_serverir | 18",
                 "❔ XX | 🔴 | vless | @freedom_config | 5",
                 "❔ XX | 🔴 | vless | @freedom_config | 6",
                 "❔ XX | 🔴 | vless | @freedom_config | 7",
@@ -333,9 +329,9 @@
                 "❔ XX | 🔴 | vless | @loatvpn | 4",
                 "❔ XX | 🔴 | vless | @mastervpnshop1 | 16",
                 "❔ XX | 🟢 | vless | @mastervpnshop1 | 17",
-                "🇺🇸 US | 🔴 | vless | @melov2ray | 25",
-                "🇺🇸 US | 🔴 | vless | @melov2ray | 26",
+                "🇺🇸 US | 🔴 | vless | @melov2ray | 27",
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 28",
+                "🇺🇸 US | 🔴 | vless | @melov2ray | 29",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 61",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 62",
@@ -632,38 +628,6 @@
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "amazon-4.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔴 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "ok.goodratiano.ir",
-            "server_port": 5001,
-            "uuid": "72c32adb-d00e-40d7-b908-b30929985645",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -990,7 +954,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @free_serverir | 32",
+            "tag": "🇺🇸 US | 🔴 | vless | @free_serverir | 18",
             "type": "vless",
             "server": "famous-experience.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -1849,43 +1813,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @melov2ray | 25",
-            "type": "vless",
-            "server": "chat.deepseek.com",
-            "server_port": 80,
-            "uuid": "d81a5ac7-b2b9-4445-a364-1c6233ac686f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/olem/ws?ed=1024",
-                "headers": {
-                    "Host": "chat.deepseek.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @melov2ray | 26",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "d81a5ac7-b2b9-4445-a364-1c6233ac686f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/olem/ws?ed=1024",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @melov2ray | 28",
+            "tag": "🇺🇸 US | 🔴 | vless | @melov2ray | 27",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
-            "uuid": "d81a5ac7-b2b9-4445-a364-1c6233ac686f",
+            "uuid": "9eca9c74-951c-4947-c108-72c0ae70a74a",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1893,6 +1825,38 @@
                 "path": "/olem/ws?ed=1024",
                 "headers": {
                     "Host": "tgju.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @melov2ray | 28",
+            "type": "vless",
+            "server": "cafearz.com",
+            "server_port": 8080,
+            "uuid": "0e85f203-160e-4039-fb31-d62728b7acaa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/olem/ws?ed=1024",
+                "headers": {
+                    "Host": "cafearz.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @melov2ray | 29",
+            "type": "vless",
+            "server": "chat.openai.com",
+            "server_port": 8080,
+            "uuid": "0e85f203-160e-4039-fb31-d62728b7acaa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/olem/ws?ed=1024",
+                "headers": {
+                    "Host": "chat.openai.com"
                 }
             }
         },

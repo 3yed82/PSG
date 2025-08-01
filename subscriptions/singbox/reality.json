@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -108,14 +107,13 @@
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
                 "🇫🇷 FR | 🟢 | vless | @manstervpn | 71",
                 "🇩🇪 DE | 🟢 | vless | @mastervpnshop1 | 14",
-                "🇫🇮 FI | 🟢 | vless | @melov2ray | 27",
+                "🇫🇮 FI | 🟢 | vless | @melov2ray | 26",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 4",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 5",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 19",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -130,7 +128,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -158,7 +155,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 4",
@@ -176,14 +172,13 @@
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
                 "🇫🇷 FR | 🟢 | vless | @manstervpn | 71",
                 "🇩🇪 DE | 🟢 | vless | @mastervpnshop1 | 14",
-                "🇫🇮 FI | 🟢 | vless | @melov2ray | 27",
+                "🇫🇮 FI | 🟢 | vless | @melov2ray | 26",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 4",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 5",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 19",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -198,7 +193,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 8",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -248,29 +242,6 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "91.99.216.9",
-            "server_port": 8443,
-            "uuid": "c928cc14-4bb1-48bd-b4da-69448ec797ba",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
-                    "short_id": "27e6b66aa77662fb"
                 }
             }
         },
@@ -713,9 +684,9 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @melov2ray | 27",
+            "tag": "🇫🇮 FI | 🟢 | vless | @melov2ray | 26",
             "type": "vless",
-            "server": "65.109.221.186",
+            "server": "65.109.208.107",
             "server_port": 2083,
             "uuid": "949e6151-6899-4605-f2d1-51570f60d51d",
             "flow": "xtls-rprx-vision",
@@ -887,29 +858,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 19",
-            "type": "vless",
-            "server": "91.107.227.187",
-            "server_port": 8990,
-            "uuid": "c582e031-338a-4263-95d7-c98d52abed9c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
             }
         },
         {
@@ -1239,29 +1187,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "amazon-4.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
                 }
             }
         },
