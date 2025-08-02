@@ -23,12 +23,12 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇺🇸 US | 🔴 | trojan | @configshubplus | 12","type":"trojan","server":"172.67.225.134","port":443,"password":"NISHIKUITAN111","skip-cert-verify":false}
-  - {"name":"🏳️  | 🟢 | trojan | @configshubplus | 15","type":"trojan","server":"127.0.0.1","port":8080,"password":"cabbaca-caba-abac-adcb-acaccbbcabab","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🟢 | trojan | @configshubplus | 17","type":"trojan","server":"172.67.181.173","port":443,"password":"f282b878-8711-45a1-8c69-5564172123c1","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔴 | trojan | @freev2raym | 7","type":"trojan","server":"91.107.141.0","port":23825,"password":"ziIjOlyGbM","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🟢 | trojan | @hope_net | 17","type":"trojan","server":"104.17.148.22","port":2087,"password":"auto","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🟢 | trojan | @hope_net | 18","type":"trojan","server":"162.159.152.59","port":443,"password":"bpb-trojan","skip-cert-verify":false}
-  - {"name":"🇭🇺 HU | 🔴 | trojan | @hope_net | 19","type":"trojan","server":"141.11.203.203","port":443,"password":"NISHIKUITAN111","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🟢 | trojan | @hope_net | 15","type":"trojan","server":"104.17.148.22","port":2087,"password":"auto","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🟢 | trojan | @hope_net | 16","type":"trojan","server":"162.159.152.59","port":443,"password":"bpb-trojan","skip-cert-verify":false}
+  - {"name":"🇭🇺 HU | 🔴 | trojan | @hope_net | 17","type":"trojan","server":"141.11.203.203","port":443,"password":"NISHIKUITAN111","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🔴 | trojan | @hope_net | 18","type":"trojan","server":"198.41.201.193","port":443,"password":"NISHIKUITAN111","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9","type":"trojan","server":"15.236.173.146","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":true}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13","type":"trojan","server":"176.32.39.29","port":443,"password":"8OXD5VVt8s","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🟢 | trojan | @privatevpns | 8","type":"trojan","server":"52.59.85.17","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
@@ -55,12 +55,12 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇺🇸 US | 🔴 | trojan | @configshubplus | 12'
-      - '🏳️  | 🟢 | trojan | @configshubplus | 15'
+      - '🇺🇸 US | 🟢 | trojan | @configshubplus | 17'
       - '🇩🇪 DE | 🔴 | trojan | @freev2raym | 7'
-      - '🇺🇸 US | 🟢 | trojan | @hope_net | 17'
-      - '🇺🇸 US | 🟢 | trojan | @hope_net | 18'
-      - '🇭🇺 HU | 🔴 | trojan | @hope_net | 19'
+      - '🇺🇸 US | 🟢 | trojan | @hope_net | 15'
+      - '🇺🇸 US | 🟢 | trojan | @hope_net | 16'
+      - '🇭🇺 HU | 🔴 | trojan | @hope_net | 17'
+      - '🇺🇸 US | 🔴 | trojan | @hope_net | 18'
       - '🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13'
       - '🇩🇪 DE | 🟢 | trojan | @privatevpns | 8'
