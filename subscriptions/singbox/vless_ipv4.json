@@ -95,7 +95,6 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 19",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -170,7 +169,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2raying | 16",
                 "🇺🇸 US | 🟢 | vless | @v2rayngconfings | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇵🇱 PL | 🟢 | vless | @v2rayweb | 15",
+                "🏳️  | 🔴 | vless | @v2rayweb | 18",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇩🇪 DE | 🔴 | vless | @vip_vpn_2022 | 6",
                 "🇺🇸 US | 🔴 | vless | @vip_vpn_2022 | 7",
@@ -211,7 +210,6 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇳🇱 NL | 🟢 | vless | @configshubplus | 19",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -286,7 +284,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2raying | 16",
                 "🇺🇸 US | 🟢 | vless | @v2rayngconfings | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇵🇱 PL | 🟢 | vless | @v2rayweb | 15",
+                "🏳️  | 🔴 | vless | @v2rayweb | 18",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇩🇪 DE | 🔴 | vless | @vip_vpn_2022 | 6",
                 "🇺🇸 US | 🔴 | vless | @vip_vpn_2022 | 7",
@@ -420,33 +418,6 @@
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
                 }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 19",
-            "type": "vless",
-            "server": "213.21.245.54",
-            "server_port": 2030,
-            "uuid": "6c34743c-1b09-4ee5-a725-3e53f7807b48",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "icloud.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": "7fe29733"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@@jet_config-@jet_config-@jet_config"
             }
         },
         {
@@ -1869,27 +1840,13 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🟢 | vless | @v2rayweb | 15",
+            "tag": "🏳️  | 🔴 | vless | @v2rayweb | 18",
             "type": "vless",
-            "server": "2.56.125.209",
-            "server_port": 49868,
-            "uuid": "be015dd2-30b4-4fcf-a9ee-080c13ac13fb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10",
-                    "short_id": "6d638e"
-                }
-            }
+            "server": "0.0.0.0",
+            "server_port": 3,
+            "uuid": "92e1ef2b-c1f6-4198-abc7-a930cb498d30",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
