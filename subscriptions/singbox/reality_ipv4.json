@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
@@ -131,6 +132,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
@@ -194,6 +196,29 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "83.147.18.179",
+            "server_port": 443,
+            "uuid": "6d685c3d-153e-4b9a-98a9-134dd814cd54",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "snapp.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4",
+                    "short_id": "5bef46444e87"
                 }
             }
         },

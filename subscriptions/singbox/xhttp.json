@@ -101,10 +101,11 @@
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 14",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇫🇮 FI | 🔴 | vless | @configshubplus | 17",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
+                "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
@@ -127,10 +128,11 @@
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 14",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇫🇮 FI | 🔴 | vless | @configshubplus | 17",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
+                "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
@@ -341,16 +343,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇮 FI | 🔴 | vless | @configshubplus | 17",
+            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
             "type": "vless",
-            "server": "server990857935246795719.tas-bazi.com",
+            "server": "server134372561849834943.tas-bazi.com",
             "server_port": 443,
-            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "server990857935246795719.tas-bazi.com",
+                "server_name": "server134372561849834943.tas-bazi.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -402,6 +404,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",

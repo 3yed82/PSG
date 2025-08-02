@@ -42,7 +42,7 @@ proxies:
   - {"name":"🇺🇸 US | 🟢 | vmess | @manstervpn | 73","type":"vmess","server":"172.67.223.119","port":443,"cipher":"auto","uuid":"6c168fcc-2231-4f3b-8c1e-f6391692df4a","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/link","headers":{"Host":"hms02.fxiaomi.sbs"}}}
   - {"name":"🇺🇸 US | 🟢 | vmess | @manstervpn | 74","type":"vmess","server":"104.21.74.239","port":443,"cipher":"auto","uuid":"a1655f51-1e20-4a92-8a11-b7ca30a7a353","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"Host":"afrhms07.xfixedfloat.cfd"}}}
   - {"name":"🇺🇸 US | 🟢 | vmess | @minovpnch | 10","type":"vmess","server":"151.101.66.219","port":443,"cipher":"auto","uuid":"2d94dff9-fb62-44c6-8ce8-78eb663f20cd","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"Host":"googleb.net"}}}
-  - {"name":"🇷🇺 RU | 🔴 | vmess | @mtproxy22_v2ray | 35","type":"vmess","server":"45.67.230.79","port":11052,"cipher":"auto","uuid":"314185f7-931d-4656-922d-0857e7afd224","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇷🇺 RU | 🔴 | vmess | @mtproxy22_v2ray | 33","type":"vmess","server":"45.67.230.79","port":11052,"cipher":"auto","uuid":"314185f7-931d-4656-922d-0857e7afd224","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 US | 🔴 | vmess | @nn_vpn | 1","type":"vmess","server":"www.speedtest.net","port":80,"cipher":"auto","uuid":"c4eeb4bd-1a7a-43e4-bc22-31062dd0c61c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"2d.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列列男事的事列上赛.abkon.cyou."}}}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @pistachiovpn | 0","type":"vmess","server":"de.speedhunter.top","port":21257,"cipher":"auto","uuid":"692cf949-bcf2-4cad-8067-2762b8e24874","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇱 NL | 🟢 | vmess | @prooxyk | 1","type":"vmess","server":"77.v2ray1.xyz","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/A2DJOPFT","headers":{"Host":"77.v2ray1.xyz"}}}
@@ -101,7 +101,7 @@ proxy-groups:
       - '🇺🇸 US | 🟢 | vmess | @manstervpn | 73'
       - '🇺🇸 US | 🟢 | vmess | @manstervpn | 74'
       - '🇺🇸 US | 🟢 | vmess | @minovpnch | 10'
-      - '🇷🇺 RU | 🔴 | vmess | @mtproxy22_v2ray | 35'
+      - '🇷🇺 RU | 🔴 | vmess | @mtproxy22_v2ray | 33'
       - '🇺🇸 US | 🔴 | vmess | @nn_vpn | 1'
       - '🇮🇷 IR | 🔴 | vmess | @pistachiovpn | 0'
       - '🇳🇱 NL | 🟢 | vmess | @prooxyk | 1'
