@@ -102,7 +102,6 @@
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
-                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
                 "🇫🇷 FR | 🟢 | vless | @manstervpn | 71",
                 "🇩🇪 DE | 🟢 | vless | @mastervpnshop1 | 14",
@@ -113,6 +112,8 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 16",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -143,7 +144,6 @@
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
-                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
                 "🇫🇷 FR | 🟢 | vless | @manstervpn | 71",
                 "🇩🇪 DE | 🟢 | vless | @mastervpnshop1 | 14",
@@ -154,6 +154,8 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 16",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -498,33 +500,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
-            "type": "vless",
-            "server": "91.107.136.146",
-            "server_port": 24070,
-            "uuid": "752806a6-f83f-4cc8-b1f0-7d3c541f9d09",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk",
-                    "short_id": "93"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--"
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
             "type": "vless",
             "server": "91.107.130.44",
@@ -783,6 +758,56 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🟢 | vless | @v2rayweb | 16",
+            "type": "vless",
+            "server": "45.134.14.12",
+            "server_port": 2053,
+            "uuid": "dee87e2f-3c7b-425b-8db3-979c40185173",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "duckduckgo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "vDtHq6BQ3diJFic_8ZfH2b016cosYqpEuZ9kZJrUEwM",
+                    "short_id": "401457688d3241eb"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "duckduckgo.com"
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🟢 | vless | @v2rayweb | 17",
+            "type": "vless",
+            "server": "45.134.14.12",
+            "server_port": 2083,
+            "uuid": "dee87e2f-3c7b-425b-8db3-979c40185173",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "duckduckgo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "6BxzZ04rnH6E7xOMta9yPcRaV_x_3XkcwSkhFx87chw",
+                    "short_id": "0316a85d97e37075"
+                }
             }
         },
         {

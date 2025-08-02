@@ -101,6 +101,9 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 12",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇫🇮 FI | 🔴 | vless | @configshubplus | 11",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 12",
+                "🇮🇷 IR | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -122,8 +125,8 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
-                "🇺🇸 US | 🔴 | vless | @free_serverir | 18",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "❔ XX | 🔴 | vless | @freedom_config | 5",
                 "❔ XX | 🔴 | vless | @freedom_config | 6",
                 "❔ XX | 🔴 | vless | @freedom_config | 7",
@@ -212,7 +215,7 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 5",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 7",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 8",
-                "🇺🇸 US | 🔴 | vless | @v2raying | 16",
+                "🇺🇸 US | 🔴 | vless | @v2raying | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngalpha | 6",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 13",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 15",
@@ -263,6 +266,9 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 12",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇫🇮 FI | 🔴 | vless | @configshubplus | 11",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 12",
+                "🇮🇷 IR | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -284,8 +290,8 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
-                "🇺🇸 US | 🔴 | vless | @free_serverir | 18",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "❔ XX | 🔴 | vless | @freedom_config | 5",
                 "❔ XX | 🔴 | vless | @freedom_config | 6",
                 "❔ XX | 🔴 | vless | @freedom_config | 7",
@@ -374,7 +380,7 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 5",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 7",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 8",
-                "🇺🇸 US | 🔴 | vless | @v2raying | 16",
+                "🇺🇸 US | 🔴 | vless | @v2raying | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngalpha | 6",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 13",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 15",
@@ -644,6 +650,49 @@
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇮 FI | 🔴 | vless | @configshubplus | 11",
+            "type": "vless",
+            "server": "server990857935246795719.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server990857935246795719.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 12",
+            "type": "vless",
+            "server": "famous-experience.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "7f09e7b4-4680-4653-a2da-307d110b6961",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "famous-experience.seotoolsforyou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "cb6.connectbaash.info",
+            "server_port": 4406,
+            "uuid": "0fc95877-cdc3-458f-8b00-d554c99ecbfb",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -984,7 +1033,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
+            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
             "type": "vless",
             "server": "server581122609014369419.tas-bazi.com",
             "server_port": 443,
@@ -1002,18 +1051,20 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @free_serverir | 18",
+            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
             "type": "vless",
-            "server": "famous-experience.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "7f09e7b4-4680-4653-a2da-307d110b6961",
+            "server": "server134372561849834943.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
             "flow": "",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "famous-experience.seotoolsforyou.co.uk"
+            "tls": {
+                "enabled": true,
+                "server_name": "server134372561849834943.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -2689,7 +2740,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2raying | 16",
+            "tag": "🇺🇸 US | 🔴 | vless | @v2raying | 15",
             "type": "vless",
             "server": "n0.asmdns.net",
             "server_port": 2082,
