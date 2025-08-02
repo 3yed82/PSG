@@ -99,8 +99,8 @@
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 7",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -113,8 +113,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇦🇺 AU | 🟢 | vless | @v2rayweb | 10",
-                "🇰🇿 KZ | 🟢 | vless | @v2rayweb | 11",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -142,8 +140,8 @@
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 7",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -156,8 +154,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇦🇺 AU | 🟢 | vless | @v2rayweb | 10",
-                "🇰🇿 KZ | 🟢 | vless | @v2rayweb | 11",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -421,7 +417,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
+            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
             "type": "vless",
             "server": "5.75.195.253",
             "server_port": 443,
@@ -448,7 +444,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 7",
+            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
             "type": "vless",
             "server": "5.75.195.253",
             "server_port": 443,
@@ -787,52 +783,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "🇦🇺 AU | 🟢 | vless | @v2rayweb | 10",
-            "type": "vless",
-            "server": "45.80.229.254",
-            "server_port": 58258,
-            "uuid": "f73d8952-81f2-4bac-b6c4-d81348f282ef",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk",
-                    "short_id": "a3"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇿 KZ | 🟢 | vless | @v2rayweb | 11",
-            "type": "vless",
-            "server": "83.222.23.81",
-            "server_port": 38065,
-            "uuid": "4b9063e0-3288-44e9-9aac-80fbfce323a0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo",
-                    "short_id": "fa"
-                }
             }
         },
         {

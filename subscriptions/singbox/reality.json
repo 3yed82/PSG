@@ -99,8 +99,8 @@
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 7",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -113,8 +113,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇦🇺 AU | 🟢 | vless | @v2rayweb | 10",
-                "🇰🇿 KZ | 🟢 | vless | @v2rayweb | 11",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -129,6 +127,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -165,8 +164,8 @@
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 7",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -179,8 +178,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇦🇺 AU | 🟢 | vless | @v2rayweb | 10",
-                "🇰🇿 KZ | 🟢 | vless | @v2rayweb | 11",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -195,6 +192,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -467,7 +465,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
+            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
             "type": "vless",
             "server": "5.75.195.253",
             "server_port": 443,
@@ -494,7 +492,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 7",
+            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 6",
             "type": "vless",
             "server": "5.75.195.253",
             "server_port": 443,
@@ -836,52 +834,6 @@
             }
         },
         {
-            "tag": "🇦🇺 AU | 🟢 | vless | @v2rayweb | 10",
-            "type": "vless",
-            "server": "45.80.229.254",
-            "server_port": 58258,
-            "uuid": "f73d8952-81f2-4bac-b6c4-d81348f282ef",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk",
-                    "short_id": "a3"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇿 KZ | 🟢 | vless | @v2rayweb | 11",
-            "type": "vless",
-            "server": "83.222.23.81",
-            "server_port": 38065,
-            "uuid": "4b9063e0-3288-44e9-9aac-80fbfce323a0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo",
-                    "short_id": "fa"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
             "type": "vless",
             "server": "91.107.149.166",
@@ -1209,6 +1161,33 @@
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
                 }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "fast.dissertationhelpspecialist.com",
+            "server_port": 443,
+            "uuid": "25877dd5-4de8-48e0-9cb6-86515be901b8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU",
+                    "short_id": "44a3ef0168e834"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "t.me/entryNET"
             }
         },
         {
