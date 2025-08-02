@@ -97,13 +97,14 @@
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
-                "🇵🇱 PL | 🟢 | ss | @outlinereleasedkey | 14",
-                "🇫🇮 FI | 🟢 | ss | @outlinereleasedkey | 15",
-                "🇬🇧 GB | 🟢 | ss | @outlinereleasedkey | 16",
-                "🇯🇵 JP | 🟢 | ss | @outlinereleasedkey | 17",
+                "🇫🇮 FI | 🟢 | ss | @outlinereleasedkey | 14",
+                "🇬🇧 GB | 🟢 | ss | @outlinereleasedkey | 15",
+                "🇯🇵 JP | 🟢 | ss | @outlinereleasedkey | 16",
+                "🇳🇱 NL | 🟢 | ss | @outlinereleasedkey | 18",
                 "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 13",
                 "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 14",
                 "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15",
@@ -136,13 +137,14 @@
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
-                "🇵🇱 PL | 🟢 | ss | @outlinereleasedkey | 14",
-                "🇫🇮 FI | 🟢 | ss | @outlinereleasedkey | 15",
-                "🇬🇧 GB | 🟢 | ss | @outlinereleasedkey | 16",
-                "🇯🇵 JP | 🟢 | ss | @outlinereleasedkey | 17",
+                "🇫🇮 FI | 🟢 | ss | @outlinereleasedkey | 14",
+                "🇬🇧 GB | 🟢 | ss | @outlinereleasedkey | 15",
+                "🇯🇵 JP | 🟢 | ss | @outlinereleasedkey | 16",
+                "🇳🇱 NL | 🟢 | ss | @outlinereleasedkey | 18",
                 "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 13",
                 "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 14",
                 "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15",
@@ -235,6 +237,14 @@
             "password": "9b3b33c24f203e40"
         },
         {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "23.150.152.56",
+            "server_port": 8009,
+            "method": "aes-256-gcm",
+            "password": "XKFKl2rULjIp74"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
             "type": "shadowsocks",
             "server": "51.142.171.150",
@@ -259,15 +269,7 @@
             "password": "piv97XS1Cval86vfwHPD5j"
         },
         {
-            "tag": "🇵🇱 PL | 🟢 | ss | @outlinereleasedkey | 14",
-            "type": "shadowsocks",
-            "server": "45.144.49.140",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a58fa62b4944ddbf"
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | ss | @outlinereleasedkey | 15",
+            "tag": "🇫🇮 FI | 🟢 | ss | @outlinereleasedkey | 14",
             "type": "shadowsocks",
             "server": "83.147.216.70",
             "server_port": 64519,
@@ -275,7 +277,7 @@
             "password": "YXgS8ComTam7qoesPlzlMo"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @outlinereleasedkey | 16",
+            "tag": "🇬🇧 GB | 🟢 | ss | @outlinereleasedkey | 15",
             "type": "shadowsocks",
             "server": "85.210.120.237",
             "server_port": 443,
@@ -283,12 +285,20 @@
             "password": "Bog0ELmMM9DSxDdQ"
         },
         {
-            "tag": "🇯🇵 JP | 🟢 | ss | @outlinereleasedkey | 17",
+            "tag": "🇯🇵 JP | 🟢 | ss | @outlinereleasedkey | 16",
             "type": "shadowsocks",
             "server": "54.238.207.188",
             "server_port": 8319,
             "method": "chacha20-ietf-poly1305",
             "password": "ljqdalu13.."
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @outlinereleasedkey | 18",
+            "type": "shadowsocks",
+            "server": "141.98.4.67",
+            "server_port": 52952,
+            "method": "chacha20-ietf-poly1305",
+            "password": "LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 13",

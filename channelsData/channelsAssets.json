@@ -140,8 +140,8 @@
     },
     "freakconfig": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss",
             "trojan"
         ],
@@ -263,9 +263,9 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "ss",
             "trojan",
+            "vless",
             "vmess"
         ],
         "title": "🕊 Hope Net",
