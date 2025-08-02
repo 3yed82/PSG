@@ -113,6 +113,7 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 9",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -140,7 +141,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 18",
+                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 6",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -178,6 +179,7 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 9",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -205,7 +207,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 18",
+                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 6",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -831,6 +833,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🟢 | vless | @v2rayweb | 9",
+            "type": "vless",
+            "server": "45.134.14.12",
+            "server_port": 2053,
+            "uuid": "ca4c0740-ebc4-4157-8ba0-023ca1bcd4f3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "duckduckgo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "vDtHq6BQ3diJFic_8ZfH2b016cosYqpEuZ9kZJrUEwM",
+                    "short_id": "401457688d3241eb"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "duckduckgo.com"
             }
         },
         {
@@ -1498,7 +1527,7 @@
             }
         },
         {
-            "tag": "🇱🇰 LK | 🟢 | vless | @v2rayweb | 18",
+            "tag": "🇱🇰 LK | 🟢 | vless | @v2rayweb | 6",
             "type": "vless",
             "server": "russiatest-tap2.servers807.ir",
             "server_port": 2025,
