@@ -93,6 +93,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇺🇸 US | 🟢 | trojan | @v2rayweb | 18",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4"
             ],
             "tag": "proxy",
@@ -105,6 +106,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇺🇸 US | 🟢 | trojan | @v2rayweb | 18",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4"
             ],
             "tag": "auto",
@@ -184,6 +186,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @v2rayweb | 18",
+            "type": "trojan",
+            "server": "www.speedtest.net",
+            "server_port": 2087,
+            "password": "0ppJQeDqVEgJQ0ITNg-iBw",
+            "tls": {
+                "enabled": true,
+                "server_name": "jfkgfuiodghlf.ahmadinabaz.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/speedtest",
+                "headers": {
+                    "Host": "jfkgfuiodghlf.ahmadinabaz.ir"
                 }
             }
         },

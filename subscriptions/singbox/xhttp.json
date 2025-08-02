@@ -92,6 +92,7 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
                 "🇴🇲 OM | 🔴 | vless | @freakconfig | 14",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
@@ -101,7 +102,6 @@
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 14",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
@@ -119,6 +119,7 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
                 "🇴🇲 OM | 🔴 | vless | @freakconfig | 14",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
@@ -128,7 +129,6 @@
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 14",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
@@ -200,6 +200,15 @@
                     "short_id": "7ab467"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
+            "type": "vless",
+            "server": "91.99.218.14",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇴🇲 OM | 🔴 | vless | @freakconfig | 14",
@@ -341,24 +350,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "server134372561849834943.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server134372561849834943.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",

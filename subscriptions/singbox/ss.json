@@ -91,10 +91,12 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 13",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 14",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 17",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
-                "🇳🇱 NL | 🟢 | ss | @falcunargo | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 9",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
@@ -133,10 +135,12 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 13",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 14",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 17",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
-                "🇳🇱 NL | 🟢 | ss | @falcunargo | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 9",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
@@ -193,10 +197,34 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 15",
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 13",
             "type": "shadowsocks",
-            "server": "38.143.66.87",
-            "server_port": 3389,
+            "server": "38.114.114.69",
+            "server_port": 8090,
+            "method": "aes-256-gcm",
+            "password": "PCnnH6SQSnfoS27"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 14",
+            "type": "shadowsocks",
+            "server": "38.75.136.21",
+            "server_port": 5000,
+            "method": "aes-256-gcm",
+            "password": "Y6R9pAtvxxzmGC"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 16",
+            "type": "shadowsocks",
+            "server": "38.75.136.21",
+            "server_port": 8118,
+            "method": "aes-256-gcm",
+            "password": "cdBIDV42DCwnfIN"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 17",
+            "type": "shadowsocks",
+            "server": "38.75.136.21",
+            "server_port": 5601,
             "method": "aes-256-gcm",
             "password": "Y6R9pAtvxxzmGC"
         },
@@ -215,14 +243,6 @@
             "server_port": 8443,
             "method": "chacha20-ietf-poly1305",
             "password": "OUERiyxvrzTJi5kftx980G"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @falcunargo | 7",
-            "type": "shadowsocks",
-            "server": "212.118.42.181",
-            "server_port": 9260,
-            "method": "2022-blake3-aes-256-gcm",
-            "password": "X0xJs7Bn4yXxePbQhfsKqc0CiAi5a7tcV6GFPCyYWn4=:LiWM+H+SWMrNnYZiOjpmOzWMW0BMYCBrLC57O5Ub+Ns="
         },
         {
             "tag": "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
@@ -251,34 +271,34 @@
         {
             "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 15",
             "type": "shadowsocks",
-            "server": "38.114.114.69",
-            "server_port": 5500,
-            "method": "aes-256-gcm",
-            "password": "KixLvKzwjekG00rm"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 16",
-            "type": "shadowsocks",
-            "server": "69.50.95.53",
-            "server_port": 3306,
-            "method": "aes-256-gcm",
-            "password": "Y6R9pAtvxxzmGC"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 17",
-            "type": "shadowsocks",
             "server": "38.121.43.204",
             "server_port": 8119,
             "method": "aes-256-gcm",
             "password": "cdBIDV42DCwnfIN"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 16",
             "type": "shadowsocks",
             "server": "23.157.40.113",
             "server_port": 9090,
             "method": "aes-256-gcm",
             "password": "Y6R9pAtvxxzmGC"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 17",
+            "type": "shadowsocks",
+            "server": "38.143.66.87",
+            "server_port": 3389,
+            "method": "aes-256-gcm",
+            "password": "Y6R9pAtvxxzmGC"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+            "type": "shadowsocks",
+            "server": "38.114.114.69",
+            "server_port": 2376,
+            "method": "aes-256-gcm",
+            "password": "faBAoD54k87UJG7"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
