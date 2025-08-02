@@ -48,7 +48,8 @@
     },
     "configshubplus": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -138,7 +139,6 @@
     },
     "freakconfig": {
         "types": [
-            "vmess",
             "vless",
             "ss",
             "trojan"
@@ -261,10 +261,10 @@
     },
     "hope_net": {
         "types": [
-            "vless",
-            "vmess",
             "trojan",
-            "ss"
+            "vless",
+            "ss",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -333,8 +333,8 @@
     },
     "kafing_2": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "کافینگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/kafing_2.jpg"
@@ -431,8 +431,8 @@
     },
     "mtproxy22_v2ray": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "پروکسی تلگرام| vpn v2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mtproxy22_v2ray.jpg"
