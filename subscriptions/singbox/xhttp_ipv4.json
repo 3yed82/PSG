@@ -91,6 +91,7 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇴🇲 OM | 🔴 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
@@ -106,6 +107,7 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇴🇲 OM | 🔴 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
@@ -151,6 +153,24 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇴🇲 OM | 🔴 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "38.54.116.156",
+            "server_port": 443,
+            "uuid": "16e55e1a-6152-4d92-a422-31490e8ef563",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "38.54.116.156",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
