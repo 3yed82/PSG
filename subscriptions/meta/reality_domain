@@ -27,6 +27,7 @@ proxies:
   - {"name":"🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48","type":"vless","server":"usa.multiapvps.ir","port":4434,"uuid":"32b67990-fb70-457f-8f02-c7c62e4156ca","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"docker.com","reality-opts":{"public-key":"LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg"}}
   - {"name":"❔ XX | 🟢 | vless | @canfing_vpn | 16","type":"vless","server":"de6rt.samsungmarketshop.ir","port":2083,"uuid":"bf989dce-7af7-423b-a499-71da71cdcef1","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","reality-opts":{"public-key":"53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk","short-id":"aeba"}}
   - {"name":"🇩🇪 DE | 🟢 | vless | @club_profsor | 14","type":"vless","server":"bmi.raheaiande.ir","port":1001,"uuid":"b96fb229-78e8-49c4-ac4c-fba497acd100","tls":true,"network":"tcp","client-fingerprint":"edge","udp":true,"servername":"ea.com","reality-opts":{"public-key":"wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM","short-id":"c7bc4d"}}
+  - {"name":"🇹🇷 TR | 🟢 | vless | @configshubplus | 14","type":"vless","server":"rep.tr.xpnvip.ir","port":2689,"uuid":"fa695024-dff5-47c0-8976-64b963236c22","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"tgju.org","grpc-opts":{"grpc-service-name":"nama"},"reality-opts":{"public-key":"L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U","short-id":"b6c24852f86067a6"}}
   - {"name":"❔ XX | 🟢 | vless | @filter5050 | 0","type":"vless","server":"Filter5050.nabxcsjghjs2004.shop","port":22113,"uuid":"fe25fd7f-d035-4448-baaa-a67237a03cb7","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"cdn.discordapp.com","reality-opts":{"public-key":"NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g","short-id":"a7cf4983"}}
   - {"name":"❔ XX | 🟢 | vless | @filter5050 | 2","type":"vless","server":"Filter5050.nabxcsjghjs2004.shop","port":27940,"uuid":"2fb8383b-2b12-463e-a20d-674c36d9b7d3","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"cdn.discordapp.com","reality-opts":{"public-key":"NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g","short-id":"a7cf4983"}}
   - {"name":"🇺🇸 US | 🟢 | vless | @flyv2ray | 6","type":"vless","server":"api.hostbaran.info","port":15810,"uuid":"4ad963a1-48a4-40cf-9ec0-26a732e0d887","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.pottermore.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY","short-id":"75"}}
@@ -56,6 +57,7 @@ proxy-groups:
       - '🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48'
       - '❔ XX | 🟢 | vless | @canfing_vpn | 16'
       - '🇩🇪 DE | 🟢 | vless | @club_profsor | 14'
+      - '🇹🇷 TR | 🟢 | vless | @configshubplus | 14'
       - '❔ XX | 🟢 | vless | @filter5050 | 0'
       - '❔ XX | 🟢 | vless | @filter5050 | 2'
       - '🇺🇸 US | 🟢 | vless | @flyv2ray | 6'

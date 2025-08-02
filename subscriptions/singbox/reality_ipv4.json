@@ -113,10 +113,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 14",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 16",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -158,10 +154,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 14",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 16",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -791,98 +783,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayweb | 14",
-            "type": "vless",
-            "server": "147.182.158.66",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "165.232.32.128",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 16",
-            "type": "vless",
-            "server": "188.166.69.72",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 17",
-            "type": "vless",
-            "server": "157.245.81.14",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
             }
         },
         {

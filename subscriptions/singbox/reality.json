@@ -113,10 +113,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 14",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 16",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -131,6 +127,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -181,10 +178,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 14",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 16",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 17",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -199,6 +192,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -840,98 +834,6 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayweb | 14",
-            "type": "vless",
-            "server": "147.182.158.66",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "165.232.32.128",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 16",
-            "type": "vless",
-            "server": "188.166.69.72",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 17",
-            "type": "vless",
-            "server": "157.245.81.14",
-            "server_port": 8990,
-            "uuid": "c432f38a-520f-4ce2-8e2d-40098aaf2d07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
             "type": "vless",
             "server": "91.107.149.166",
@@ -1259,6 +1161,33 @@
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
                 }
+            }
+        },
+        {
+            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "rep.tr.xpnvip.ir",
+            "server_port": 2689,
+            "uuid": "fa695024-dff5-47c0-8976-64b963236c22",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U",
+                    "short_id": "b6c24852f86067a6"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "nama"
             }
         },
         {
