@@ -91,12 +91,16 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 11",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 12",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇨🇦 CA | 🟢 | ss | @falcunargo | 6",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
                 "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
@@ -131,12 +135,16 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 11",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 12",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇨🇦 CA | 🟢 | ss | @falcunargo | 6",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
                 "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
@@ -189,6 +197,22 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 11",
+            "type": "shadowsocks",
+            "server": "23.157.40.101",
+            "server_port": 8008,
+            "method": "aes-256-gcm",
+            "password": "XKFKl2rULjIp74"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 12",
+            "type": "shadowsocks",
+            "server": "23.154.136.176",
+            "server_port": 7307,
+            "method": "aes-256-gcm",
+            "password": "FoOiGlkAA9yPEGP"
+        },
+        {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
             "type": "shadowsocks",
             "server": "46.246.90.6",
@@ -237,12 +261,28 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 19",
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 17",
             "type": "shadowsocks",
             "server": "23.150.152.56",
             "server_port": 8009,
             "method": "aes-256-gcm",
             "password": "XKFKl2rULjIp74"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+            "type": "shadowsocks",
+            "server": "69.50.95.180",
+            "server_port": 5498,
+            "method": "aes-256-gcm",
+            "password": "lGqs95QkFHo2NV"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "45.87.175.157",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cvII85TrW6n0OGyfpHVS1u"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
