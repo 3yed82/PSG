@@ -89,6 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇳🇱 NL | 🔴 | vmess | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vmess | @configshubplus | 18",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -100,7 +102,6 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇺🇸 US | 🟢 | vmess | @hope_net | 16",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -155,6 +156,8 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇳🇱 NL | 🔴 | vmess | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vmess | @configshubplus | 18",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -166,7 +169,6 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇺🇸 US | 🟢 | vmess | @hope_net | 16",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -223,6 +225,38 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔴 | vmess | @configshubplus | 16",
+            "type": "vmess",
+            "server": "46.243.3.42",
+            "server_port": 25808,
+            "uuid": "8fd16171-8c78-475c-80fe-a6f66b310bf3",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @configshubplus | 18",
+            "type": "vmess",
+            "server": "104.21.32.242",
+            "server_port": 80,
+            "uuid": "288124da-0d68-42f4-9f48-70dc4dcc55a6",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/LOpHlIssd05HdHEIupMZeK",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
@@ -373,31 +407,6 @@
             "uuid": "f29ea77c-6842-4ee0-9fc1-9c7a871566b2",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vmess | @hope_net | 16",
-            "type": "vmess",
-            "server": "104.26.15.16",
-            "server_port": 2087,
-            "uuid": "ad0a8c49-0785-46d9-bb14-2c3ab03a5dbb",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "OfFEr.miRAcLestorY.ToP.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "OfFEr.miRAcLestorY.ToP."
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",

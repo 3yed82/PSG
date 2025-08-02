@@ -93,7 +93,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -107,7 +106,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -123,7 +121,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | vless | @flyv2ray | 6",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -137,7 +134,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -241,29 +237,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "t1.tsto.ir",
-            "server_port": 10090,
-            "uuid": "60d8f9b7-8e41-4016-8663-5162db6c9cc3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "arshitrayaneh.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hHZ10XaArKwEuk-vi6cAIZTrTwHNMOWIgls2e5TLbwU",
-                    "short_id": "8dfa217df2ef0db9"
                 }
             }
         },
@@ -599,33 +572,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇱🇰 LK | 🟢 | vless | @v2rayweb | 10",
-            "type": "vless",
-            "server": "russiatest-tap2.servers807.ir",
-            "server_port": 2025,
-            "uuid": "ebac2049-8367-4eab-a1a5-8b742b2fd3b6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk",
-                    "short_id": "a76e2f1d45"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "das12327gsgsyu"
             }
         },
         {
