@@ -103,7 +103,6 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇺🇸 US | 🔴 | trojan | @v2rayweb | 8",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
@@ -131,7 +130,6 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
-                "🇺🇸 US | 🔴 | trojan | @v2rayweb | 8",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
@@ -363,22 +361,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @v2rayweb | 8",
-            "type": "trojan",
-            "server": "104.21.92.73",
-            "server_port": 443,
-            "password": "dns68",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.putata.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
