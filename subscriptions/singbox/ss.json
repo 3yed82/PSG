@@ -91,15 +91,13 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇨🇦 CA | 🟢 | ss | @configshubplus | 14",
-                "🇵🇱 PL | 🟢 | ss | @configshubplus | 15",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇳🇱 NL | 🟢 | ss | @falcunargo | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
-                "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
+                "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 11",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇫🇷 FR | 🟢 | ss | @hope_net | 17",
+                "🇫🇷 FR | 🟢 | ss | @hope_net | 15",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -132,15 +130,13 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇨🇦 CA | 🟢 | ss | @configshubplus | 14",
-                "🇵🇱 PL | 🟢 | ss | @configshubplus | 15",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇳🇱 NL | 🟢 | ss | @falcunargo | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
-                "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
+                "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 11",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇫🇷 FR | 🟢 | ss | @hope_net | 17",
+                "🇫🇷 FR | 🟢 | ss | @hope_net | 15",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -191,22 +187,6 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | ss | @configshubplus | 14",
-            "type": "shadowsocks",
-            "server": "64.74.163.130",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
-            "tag": "🇵🇱 PL | 🟢 | ss | @configshubplus | 15",
-            "type": "shadowsocks",
-            "server": "92.118.205.228",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
             "type": "shadowsocks",
             "server": "46.246.90.6",
@@ -239,7 +219,7 @@
             "password": "7vlJpFVhEpKh/VTTCvOab8eEoJo+MeXJpj9CDxLYm9o="
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 14",
+            "tag": "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 11",
             "type": "shadowsocks",
             "server": "45.139.24.24",
             "server_port": 57456,
@@ -255,7 +235,7 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | ss | @hope_net | 17",
+            "tag": "🇫🇷 FR | 🟢 | ss | @hope_net | 15",
             "type": "shadowsocks",
             "server": "149.202.82.172",
             "server_port": 5000,

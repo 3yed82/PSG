@@ -89,8 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇳🇱 NL | 🔴 | vmess | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vmess | @configshubplus | 18",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -156,8 +154,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇳🇱 NL | 🔴 | vmess | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vmess | @configshubplus | 18",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -225,38 +221,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇳🇱 NL | 🔴 | vmess | @configshubplus | 16",
-            "type": "vmess",
-            "server": "46.243.3.42",
-            "server_port": 25808,
-            "uuid": "8fd16171-8c78-475c-80fe-a6f66b310bf3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vmess | @configshubplus | 18",
-            "type": "vmess",
-            "server": "104.21.32.242",
-            "server_port": 80,
-            "uuid": "288124da-0d68-42f4-9f48-70dc4dcc55a6",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/LOpHlIssd05HdHEIupMZeK",
-                "headers": {
-                    "Host": ""
-                }
-            }
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
