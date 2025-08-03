@@ -91,8 +91,8 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 19",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
+                "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
@@ -115,8 +115,8 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 19",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
+                "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
@@ -173,20 +173,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 19",
-            "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
             "type": "vless",
             "server": "holkanas.atroart.ir",
             "server_port": 9091,
             "uuid": "13a44840-ac14-4748-b498-d97597042563",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
             "flow": "",
             "packet_encoding": "xudp"
         },

@@ -139,8 +139,6 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 7",
-                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 8",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -207,8 +205,6 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 7",
-                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 8",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -1016,56 +1012,6 @@
             "uuid": "de746cfd-c2db-4618-83c2-9bd1d763cc25",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 7",
-            "type": "vmess",
-            "server": "57.129.24.124",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "57.129.24.124",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/linkvws",
-                "headers": {
-                    "Host": "57.129.24.124"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 8",
-            "type": "vmess",
-            "server": "23.158.56.241",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "23.158.56.241",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/linkvws",
-                "headers": {
-                    "Host": "23.158.56.241"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
