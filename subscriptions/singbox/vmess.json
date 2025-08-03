@@ -139,6 +139,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
+                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 15",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -205,6 +206,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
+                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 15",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -1012,6 +1014,22 @@
             "uuid": "de746cfd-c2db-4618-83c2-9bd1d763cc25",
             "security": "auto",
             "alter_id": 0
+        },
+        {
+            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 15",
+            "type": "vmess",
+            "server": "451ed40a-sv0xs0-t21ryz-1rk0u.hk.p5pv.com",
+            "server_port": 80,
+            "uuid": "ae403676-1f72-11ef-98df-f23c91cfbbc9",
+            "security": "auto",
+            "alter_id": 2,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "451ed40a-sv0xs0-t21ryz-1rk0u.hk.p5pv.com"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",

@@ -49,9 +49,9 @@
     "configshubplus": {
         "types": [
             "vless",
-            "trojan",
             "vmess",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -263,7 +263,6 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "trojan",
             "ss",
             "vless"
@@ -679,8 +678,8 @@
     "v2rayweb": {
         "types": [
             "vless",
-            "vmess",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"

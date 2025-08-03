@@ -96,7 +96,6 @@
                 "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
@@ -104,6 +103,7 @@
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 16",
                 "🇴🇲 OM | 🔴 | vless | @vpn_ioss | 17",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 12",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 14"
@@ -121,7 +121,6 @@
                 "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
@@ -129,6 +128,7 @@
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 16",
                 "🇴🇲 OM | 🔴 | vless | @vpn_ioss | 17",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 12",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 14"
@@ -243,24 +243,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 13",
-            "type": "vless",
-            "server": "server581122609014369419.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server581122609014369419.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
             "type": "vless",
             "server": "91.99.140.175",
@@ -359,6 +341,29 @@
             "uuid": "qeshmserver",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 16",
+            "type": "vless",
+            "server": "80.240.23.101",
+            "server_port": 443,
+            "uuid": "97d53a59-918e-45fc-bc5d-ba487f090cc1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hundleymechanical.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o",
+                    "short_id": "008c74"
+                }
+            }
         },
         {
             "tag": "🇴🇲 OM | 🔴 | vless | @vpn_ioss | 17",
