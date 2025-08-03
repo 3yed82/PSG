@@ -92,12 +92,11 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 12"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,12 +107,11 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 12"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -166,7 +164,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
+            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
             "type": "vless",
             "server": "server134372561849834943.tas-bazi.com",
             "server_port": 443,
@@ -241,24 +239,6 @@
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 12",
-            "type": "vless",
-            "server": "server581122609014369419.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server581122609014369419.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         }
     ],
     "route": {
