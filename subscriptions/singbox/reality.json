@@ -92,6 +92,7 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
+                "🇺🇸 US | 🟢 | vless | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
@@ -113,8 +114,8 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇸🇪 SE | 🟢 | vless | @v2rayweb | 6",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 7",
+                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 6",
+                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 9",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -129,7 +130,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -158,6 +158,7 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
+                "🇺🇸 US | 🟢 | vless | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
@@ -179,8 +180,8 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇸🇪 SE | 🟢 | vless | @v2rayweb | 6",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 7",
+                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 6",
+                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 9",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -195,7 +196,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -290,6 +290,29 @@
                     "enabled": true,
                     "public_key": "ksx0hPrRqVF_fCBua6cSk-tG3cs44ypIxU31AJ4_xiw",
                     "short_id": "453bd40e2900fc73"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @freakconfig | 16",
+            "type": "vless",
+            "server": "62.60.178.200",
+            "server_port": 40792,
+            "uuid": "24d0e335-659e-45c7-8e61-0bd899c1d510",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.latimes.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w",
+                    "short_id": "5a"
                 }
             }
         },
@@ -836,39 +859,39 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🟢 | vless | @v2rayweb | 6",
+            "tag": "🇬🇧 GB | 🟢 | vless | @v2rayweb | 6",
             "type": "vless",
-            "server": "192.109.200.88",
-            "server_port": 443,
-            "uuid": "eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e",
+            "server": "91.132.50.232",
+            "server_port": 1750,
+            "uuid": "cf5e2fe9-57c6-4207-d846-e32959124cd9",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "www.spiegel.de",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc",
-                    "short_id": "09"
+                    "public_key": "t-NOZ0bpsHlV-nPZkqa8JlmVhTTkC8sK_rreirmMvAE",
+                    "short_id": ""
                 }
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 7",
+            "tag": "🇬🇧 GB | 🟢 | vless | @v2rayweb | 9",
             "type": "vless",
-            "server": "62.60.178.200",
-            "server_port": 20322,
-            "uuid": "35b5783e-cde8-4a3f-82c6-0778f32a6e5e",
+            "server": "83.147.18.179",
+            "server_port": 443,
+            "uuid": "0af65cf8-1189-4f06-9e76-7cf659569587",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.latimes.com",
+                "server_name": "snapp.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -876,8 +899,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4",
-                    "short_id": "4d"
+                    "public_key": "NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4",
+                    "short_id": "5bef46444e87"
                 }
             }
         },
@@ -1208,29 +1231,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "direct.yasharteam.com",
-            "server_port": 443,
-            "uuid": "59db3b45-830a-4b6c-8b7d-9bd6d7189c7d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
                 }
             }
         },

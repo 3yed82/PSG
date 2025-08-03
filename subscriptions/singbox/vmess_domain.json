@@ -89,8 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🔴 | vmess | @configshubplus | 15",
-                "🇺🇸 US | 🔴 | vmess | @configshubplus | 17",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -134,15 +132,15 @@
                 "❔ XX | 🟢 | vmess | @v2ray4win | 6",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇮🇷 IR | 🔴 | vmess | @v2ray_sub | 8",
+                "🇩🇪 DE | 🔴 | vmess | @v2raying | 14",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 1",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 2",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 3",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 8",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 9",
-                "🇨🇦 CA | 🔴 | vmess | @v2rayweb | 10",
+                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 7",
+                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 8",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -159,8 +157,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🔴 | vmess | @configshubplus | 15",
-                "🇺🇸 US | 🔴 | vmess | @configshubplus | 17",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -204,15 +200,15 @@
                 "❔ XX | 🟢 | vmess | @v2ray4win | 6",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇮🇷 IR | 🔴 | vmess | @v2ray_sub | 8",
+                "🇩🇪 DE | 🔴 | vmess | @v2raying | 14",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 1",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 2",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 3",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 8",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 9",
-                "🇨🇦 CA | 🔴 | vmess | @v2rayweb | 10",
+                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 7",
+                "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 8",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -231,24 +227,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @configshubplus | 15",
-            "type": "vmess",
-            "server": "panel1.ipyar.org",
-            "server_port": 42684,
-            "uuid": "c4bd9eba-8aea-4d5e-a2ee-b5de65ac14e1",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vmess | @configshubplus | 17",
-            "type": "vmess",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "5675050a-a5b0-4748-be46-c4567e5d4d24",
-            "security": "auto",
-            "alter_id": 0
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
@@ -942,6 +920,15 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔴 | vmess | @v2raying | 14",
+            "type": "vmess",
+            "server": "panel1.ipyar.org",
+            "server_port": 42684,
+            "uuid": "c4bd9eba-8aea-4d5e-a2ee-b5de65ac14e1",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 1",
             "type": "vmess",
             "server": "185.219.220.25",
@@ -1031,48 +1018,16 @@
             "alter_id": 0
         },
         {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 8",
+            "tag": "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 7",
             "type": "vmess",
-            "server": "77d7b6e4-sv2sg0-sw5wi7-ufc0.hk3.p5pv.com",
-            "server_port": 80,
-            "uuid": "22308988-8548-11ea-a22e-f23c91cfbbc9",
-            "security": "auto",
-            "alter_id": 2,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "77d7b6e4-sv2sg0-sw5wi7-ufc0.hk3.p5pv.com"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 9",
-            "type": "vmess",
-            "server": "451ed40a-sv0xs0-t21ryz-1rk0u.hk.p5pv.com",
-            "server_port": 80,
-            "uuid": "ae403676-1f72-11ef-98df-f23c91cfbbc9",
-            "security": "auto",
-            "alter_id": 2,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "451ed40a-sv0xs0-t21ryz-1rk0u.hk.p5pv.com"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vmess | @v2rayweb | 10",
-            "type": "vmess",
-            "server": "15.235.83.227",
+            "server": "57.129.24.124",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "tls": {
                 "enabled": true,
-                "server_name": "15.235.83.227",
+                "server_name": "57.129.24.124",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1083,7 +1038,32 @@
                 "type": "ws",
                 "path": "/linkvws",
                 "headers": {
-                    "Host": "15.235.83.227"
+                    "Host": "57.129.24.124"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vmess | @v2rayweb | 8",
+            "type": "vmess",
+            "server": "23.158.56.241",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "23.158.56.241",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/linkvws",
+                "headers": {
+                    "Host": "23.158.56.241"
                 }
             }
         },
