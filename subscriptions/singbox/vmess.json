@@ -100,7 +100,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 17",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -166,7 +167,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 17",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -375,7 +377,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 17",
             "type": "vmess",
             "server": "172.67.64.57",
             "server_port": 443,
@@ -396,6 +398,31 @@
                 "path": "/",
                 "headers": {
                     "Host": "172.67.64.57"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
+            "type": "vmess",
+            "server": "172.64.142.229",
+            "server_port": 443,
+            "uuid": "af6eedf5-f2b4-447f-8b93-5fca33af06f8",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "172.64.142.229",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "172.64.142.229"
                 }
             }
         },
