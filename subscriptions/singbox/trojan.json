@@ -89,8 +89,14 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 9",
+                "🇸🇬 SG | 🟢 | trojan | @configshubplus | 14",
+                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
+                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
+                "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 10",
@@ -103,12 +109,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
-                "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
-                "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "❔ XX | 🟢 | trojan | @xrayzxn | 4"
+                "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -116,8 +117,14 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 9",
+                "🇸🇬 SG | 🟢 | trojan | @configshubplus | 14",
+                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
+                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
+                "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 10",
@@ -130,12 +137,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
-                "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
-                "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "❔ XX | 🟢 | trojan | @xrayzxn | 4"
+                "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -147,14 +149,62 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 9",
+            "tag": "🇸🇬 SG | 🟢 | trojan | @configshubplus | 14",
             "type": "trojan",
-            "server": "104.20.159.193",
-            "server_port": 443,
-            "password": "blue2024",
+            "server": "sg-3.stunnel.cc",
+            "server_port": 8441,
+            "password": "tunnel-astrovpn_official_sg",
             "tls": {
                 "enabled": true,
-                "server_name": "td.promote.icu",
+                "server_name": "zula.ir.AstroVPN-official.AstroVPN-official.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
+            "type": "trojan",
+            "server": "ru2.asc-sam.ir",
+            "server_port": 443,
+            "password": "AdPYCBfMUM",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
+            "type": "trojan",
+            "server": "ru2.asc-sam.ir",
+            "server_port": 443,
+            "password": "IM4e0ZQNPU",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
+            "type": "trojan",
+            "server": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
+            "server_port": 443,
+            "password": "c7f9b8f0-bfdb-11ee-a15c-1239d0255272",
+            "tls": {
+                "enabled": true,
+                "server_name": "de1.test3.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -163,9 +213,48 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/?ed=2560",
+                "path": "/howdy",
                 "headers": {
-                    "Host": "td.promote.icu"
+                    "Host": "de1.test3.net"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+            "type": "trojan",
+            "server": "de1.test3.net",
+            "server_port": 443,
+            "password": "b8841c50-c3ad-11ee-9be0-1239d0255272",
+            "tls": {
+                "enabled": true,
+                "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | trojan | @xrayzxn | 4",
+            "type": "trojan",
+            "server": "amin.karkas1.ir",
+            "server_port": 443,
+            "password": "11ae0edd-2f63-4495-8683-037abbda9986",
+            "tls": {
+                "enabled": true,
+                "server_name": "amin.karkas1.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/6vuNVgOFnqUEvj0sNkGkxxW7",
+                "headers": {
+                    "Host": "amin.karkas1.ir"
                 }
             }
         },
@@ -175,6 +264,22 @@
             "server": "91.107.141.0",
             "server_port": 23825,
             "password": "ziIjOlyGbM"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "190.93.245.80",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "190.93.245.80",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
@@ -374,100 +479,6 @@
             "server": "13.39.209.28",
             "server_port": 22222,
             "password": "telegram-id-directvpn"
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-            "type": "trojan",
-            "server": "ru2.asc-sam.ir",
-            "server_port": 443,
-            "password": "AdPYCBfMUM",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
-            "type": "trojan",
-            "server": "ru2.asc-sam.ir",
-            "server_port": 443,
-            "password": "IM4e0ZQNPU",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
-            "type": "trojan",
-            "server": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-            "server_port": 443,
-            "password": "c7f9b8f0-bfdb-11ee-a15c-1239d0255272",
-            "tls": {
-                "enabled": true,
-                "server_name": "de1.test3.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/howdy",
-                "headers": {
-                    "Host": "de1.test3.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-            "type": "trojan",
-            "server": "de1.test3.net",
-            "server_port": 443,
-            "password": "b8841c50-c3ad-11ee-9be0-1239d0255272",
-            "tls": {
-                "enabled": true,
-                "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-            "type": "trojan",
-            "server": "amin.karkas1.ir",
-            "server_port": 443,
-            "password": "11ae0edd-2f63-4495-8683-037abbda9986",
-            "tls": {
-                "enabled": true,
-                "server_name": "amin.karkas1.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/6vuNVgOFnqUEvj0sNkGkxxW7",
-                "headers": {
-                    "Host": "amin.karkas1.ir"
-                }
-            }
         }
     ],
     "route": {
