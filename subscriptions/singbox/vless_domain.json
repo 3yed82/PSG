@@ -107,8 +107,8 @@
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -122,7 +122,8 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 15",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
                 "🇨🇦 CA | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -223,8 +224,6 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 15",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -272,8 +271,8 @@
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -287,7 +286,8 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 15",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
                 "🇨🇦 CA | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -388,8 +388,6 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 15",
-                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -745,7 +743,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -754,7 +752,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -967,7 +965,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 15",
+            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
             "type": "vless",
             "server": "beloved-failure.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -979,6 +977,29 @@
                 "path": "/",
                 "headers": {
                     "Host": "beloved-failure.seotoolsforyou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
+            "type": "vless",
+            "server": "direct.yasharteam.com",
+            "server_port": 443,
+            "uuid": "59db3b45-830a-4b6c-8b7d-9bd6d7189c7d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
                 }
             }
         },
@@ -2903,42 +2924,6 @@
                 "path": "/?ed",
                 "headers": {
                     "Host": "w1.sylar8.eu.org"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2053,
-            "uuid": "ed2591a2-26f5-4cfc-a652-557e518bf7c5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ham.stepson.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
-            "type": "vless",
-            "server": "server708670620525069264.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server708670620525069264.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
