@@ -90,9 +90,8 @@
                 "auto",
                 "direct",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "❔ XX | 🟢 | ss | @configshubplus | 17",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇩🇪 DE | 🟢 | ss | @freakconfig | 16",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 15",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
@@ -104,9 +103,8 @@
             "interval": "10m",
             "outbounds": [
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "❔ XX | 🟢 | ss | @configshubplus | 17",
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
-                "🇩🇪 DE | 🟢 | ss | @freakconfig | 16",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 15",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 1",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2"
@@ -129,14 +127,6 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
-            "tag": "❔ XX | 🟢 | ss | @configshubplus | 17",
-            "type": "shadowsocks",
-            "server": "free-relay.t01.themars.top",
-            "server_port": 49901,
-            "method": "chacha20-ietf-poly1305",
-            "password": "c376082c-95c3-452e-88e4-6bb6a5daab41"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
             "type": "shadowsocks",
             "server": "account-mec.emofid.co",
@@ -145,7 +135,7 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 16",
+            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 15",
             "type": "shadowsocks",
             "server": "h110vpnde2.outlinekeys.net",
             "server_port": 53122,

@@ -102,6 +102,8 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 11",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -122,7 +124,7 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
                 "🇺🇸 US | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -269,6 +271,8 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 11",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -289,7 +293,7 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
                 "🇺🇸 US | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -667,6 +671,47 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 11",
+            "type": "vless",
+            "server": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
+            "server_port": 443,
+            "uuid": "1584806e-f63d-4f9b-a0b3-abe64b35a09c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ",
+                    "short_id": "974a74bf"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "server473910892394806482.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "bc4f49dc-2c50-49ac-b8fa-d3020a5e65de",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server473910892394806482.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -980,7 +1025,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
+            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 14",
             "type": "vless",
             "server": "server134372561849834943.tas-bazi.com",
             "server_port": 443,
