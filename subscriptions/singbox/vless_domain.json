@@ -102,13 +102,12 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 12",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -224,7 +223,9 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 10",
+                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 15",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 17",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -268,13 +269,12 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 12",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -390,7 +390,9 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 10",
+                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 15",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 17",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -665,15 +667,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "fc.acmilan.lol",
-            "server_port": 16075,
-            "uuid": "chanel",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -747,7 +740,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -756,7 +749,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -2929,20 +2922,40 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @v2rayweb | 10",
+            "tag": "🇫🇮 FI | 🔴 | vless | @v2rayweb | 15",
             "type": "vless",
-            "server": "xb8.fashi-pro.top",
-            "server_port": 48348,
-            "uuid": "a7705ab2-b3d8-4c44-a7fe-aee08145c5e6",
+            "server": "server990857935246795719.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
             "flow": "",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/fashi",
-                "headers": {
-                    "Host": "xb8.fashi-pro.top"
+            "tls": {
+                "enabled": true,
+                "server_name": "server990857935246795719.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 16",
+            "type": "vless",
+            "server": "all97-vip.f-sub.com.privatepack.ir",
+            "server_port": 1517,
+            "uuid": "6d38dcef-1681-4e3e-ba7c-f9bf366d90db",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 17",
+            "type": "vless",
+            "server": "all97-vip.f-sub.com.privatepack.ir",
+            "server_port": 1517,
+            "uuid": "6d38dcef-1681-4e3e-ba7c-f9bf366d90db",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",

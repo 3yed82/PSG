@@ -96,7 +96,8 @@
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 15"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,7 +112,8 @@
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 15"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -239,6 +241,24 @@
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇮 FI | 🔴 | vless | @v2rayweb | 15",
+            "type": "vless",
+            "server": "server990857935246795719.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server990857935246795719.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         }
     ],
     "route": {

@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇸🇬 SG | 🟢 | trojan | @configshubplus | 14",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -102,7 +101,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇸🇬 SG | 🟢 | trojan | @configshubplus | 14",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -117,22 +115,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @configshubplus | 14",
-            "type": "trojan",
-            "server": "sg-3.stunnel.cc",
-            "server_port": 8441,
-            "password": "tunnel-astrovpn_official_sg",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir.AstroVPN-official.AstroVPN-official.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
