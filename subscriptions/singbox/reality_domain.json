@@ -93,6 +93,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -120,6 +121,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -235,6 +237,29 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "direct.yasharteam.com",
+            "server_port": 443,
+            "uuid": "59db3b45-830a-4b6c-8b7d-9bd6d7189c7d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
                 }
             }
         },

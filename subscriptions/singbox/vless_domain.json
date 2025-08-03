@@ -102,7 +102,8 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
+                "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -177,10 +178,10 @@
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 23",
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 24",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
+                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 29",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 30",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 31",
-                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 32",
-                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 34",
+                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 33",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 5",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 6",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 7",
@@ -230,8 +231,7 @@
                 "🇮🇷 IR | 🔴 | vless | @vip_vpn_2022 | 4",
                 "❔ XX | 🟢 | vless | @vipnetmeli | 0",
                 "🇺🇸 US | 🟢 | vless | @vp_n1 | 1",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 11",
-                "🇺🇸 US | 🟢 | vless | @vpnaloo | 13",
+                "🇺🇸 US | 🟢 | vless | @vpnaloo | 12",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 0",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 1",
                 "❔ XX | 🔴 | vless | @vpnowl | 10",
@@ -267,7 +267,8 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
+                "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -342,10 +343,10 @@
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 23",
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 24",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
+                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 29",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 30",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 31",
-                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 32",
-                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 34",
+                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 33",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 5",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 6",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 7",
@@ -395,8 +396,7 @@
                 "🇮🇷 IR | 🔴 | vless | @vip_vpn_2022 | 4",
                 "❔ XX | 🟢 | vless | @vipnetmeli | 0",
                 "🇺🇸 US | 🟢 | vless | @vp_n1 | 1",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 11",
-                "🇺🇸 US | 🟢 | vless | @vpnaloo | 13",
+                "🇺🇸 US | 🟢 | vless | @vpnaloo | 12",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 0",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 1",
                 "❔ XX | 🔴 | vless | @vpnowl | 10",
@@ -663,20 +663,41 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
             "type": "vless",
-            "server": "server708670620525069264.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "server": "bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK",
+            "server_port": 80,
+            "uuid": "4ad29f1b-2cea-4ddc-b856-fab1ff141ac6",
             "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "direct.yasharteam.com",
+            "server_port": 443,
+            "uuid": "59db3b45-830a-4b6c-8b7d-9bd6d7189c7d",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "server708670620525069264.tas-bazi.com",
+                "server_name": "tgju.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
                 }
             }
         },
@@ -1967,7 +1988,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 30",
+            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 29",
             "type": "vless",
             "server": "bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK",
             "server_port": 80,
@@ -1983,7 +2004,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 31",
+            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 30",
             "type": "vless",
             "server": "MAgicaL-fISh.sEOtoolsfOryoU.co.UK",
             "server_port": 80,
@@ -1999,7 +2020,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 32",
+            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 31",
             "type": "vless",
             "server": "obedient-menu.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -2015,7 +2036,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 34",
+            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 33",
             "type": "vless",
             "server": "dedicated-development.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -3067,23 +3088,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpnaloo | 11",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/hajmi?ed=2050",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @vpnaloo | 13",
+            "tag": "🇺🇸 US | 🟢 | vless | @vpnaloo | 12",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 443,
