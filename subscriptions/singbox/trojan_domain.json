@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🔴 | trojan | @hope_net | 16",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -102,7 +101,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🔴 | trojan | @hope_net | 16",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -117,13 +115,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "❔ XX | 🔴 | trojan | @hope_net | 16",
-            "type": "trojan",
-            "server": "yyyyyyyyymahdi1.v2ryng01.ru",
-            "server_port": 8443,
-            "password": "b8e24ec7-b282-46a9-b1ed-92583b1a5120"
         },
         {
             "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",

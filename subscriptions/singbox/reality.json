@@ -128,6 +128,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 19",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -193,6 +194,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 19",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -1183,6 +1185,29 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 19",
+            "type": "vless",
+            "server": "Loadbalance.systemgamingirani.ir",
+            "server_port": 443,
+            "uuid": "4e21e86a-46f1-4272-bdb3-bac8bc6839ab",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg",
+                    "short_id": "b7859e878ab2fb"
                 }
             }
         },

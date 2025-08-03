@@ -23,7 +23,6 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇺🇸 US | 🟢 | vmess | @configshubplus | 15","type":"vmess","server":"104.16.0.0","port":443,"cipher":"auto","uuid":"22347b56-b6a4-4143-90f1-bf04ec590e86","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/22347b56-b6a4-4143-90f1-bf04ec590e86-vm?ed=2048","headers":{"Host":"reservation-commentary-maintained-stores.trycloudflare.com"}}}
   - {"name":"🇫🇮 FI | 🔴 | vmess | @freeconfing | 10","type":"vmess","server":"37.27.21.225","port":18855,"cipher":"auto","uuid":"59cdb3eb-13de-436d-9b6a-6c815863baf4","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇷🇸 RS | 🔴 | vmess | @freeconfing | 11","type":"vmess","server":"37.120.193.102","port":52920,"cipher":"auto","uuid":"57170ff0-7180-4664-8f61-8debdda345f7","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔ XX | 🔴 | vmess | @freeshadowsock | 0","type":"vmess","server":"ddns-tw02.plnode.xyz","port":8901,"cipher":"auto","uuid":"7bb78d3e-c1ce-430d-b0ab-cd85fabd09c5","alterId":"1","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
@@ -65,8 +64,6 @@ proxies:
   - {"name":"🇩🇪 DE | 🔴 | vmess | @v2raying | 14","type":"vmess","server":"panel1.ipyar.org","port":42684,"cipher":"auto","uuid":"c4bd9eba-8aea-4d5e-a2ee-b5de65ac14e1","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4","type":"vmess","server":"185.219.221.128","port":40348,"cipher":"auto","uuid":"a7a4df02-55ff-49d0-a13c-d71f7d05606e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19","type":"vmess","server":"195.201.2.27","port":25761,"cipher":"auto","uuid":"de746cfd-c2db-4618-83c2-9bd1d763cc25","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵 JP | 🔴 | vmess | @v2rayweb | 13","type":"vmess","server":"tls.09.node-for-bigairport.win","port":20001,"cipher":"auto","uuid":"5ac8224f-6126-4ffb-9fad-97e3207f8c33","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸 US | 🔴 | vmess | @v2rayweb | 15","type":"vmess","server":"142.4.119.72","port":57118,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4","type":"vmess","server":"2.188.219.43","port":8443,"cipher":"auto","uuid":"b2e38621-035b-43f8-84a5-e92160762fc3","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"❔ XX | 🔴 | vmess | @xrayzxn | 5","type":"vmess","server":"amin.karkas1.ir","port":80,"cipher":"chacha20-poly1305","uuid":"11ae0edd-2f63-4495-8683-037abbda9986","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/t14FEa4TBzLbwZsNkGkxxW7","headers":{"Host":"amin.karkas1.ir"}}}
   - {"name":"❔ XX | 🔴 | vmess | @yaney_01 | 1","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":80,"cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"tms.dingtalk.com"}}}
@@ -86,7 +83,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇺🇸 US | 🟢 | vmess | @configshubplus | 15'
       - '🇫🇮 FI | 🔴 | vmess | @freeconfing | 10'
       - '🇷🇸 RS | 🔴 | vmess | @freeconfing | 11'
       - '❔ XX | 🔴 | vmess | @freeshadowsock | 0'
@@ -128,8 +124,6 @@ proxy-groups:
       - '🇩🇪 DE | 🔴 | vmess | @v2raying | 14'
       - '🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4'
       - '🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19'
-      - '🇯🇵 JP | 🔴 | vmess | @v2rayweb | 13'
-      - '🇺🇸 US | 🔴 | vmess | @v2rayweb | 15'
       - '🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4'
       - '❔ XX | 🔴 | vmess | @xrayzxn | 5'
       - '❔ XX | 🔴 | vmess | @yaney_01 | 1'

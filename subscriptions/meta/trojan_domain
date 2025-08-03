@@ -23,7 +23,6 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"❔ XX | 🔴 | trojan | @hope_net | 16","type":"trojan","server":"yyyyyyyyymahdi1.v2ryng01.ru","port":8443,"password":"b8e24ec7-b282-46a9-b1ed-92583b1a5120","skip-cert-verify":false}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11","type":"trojan","server":"ru2.asc-sam.ir","port":443,"password":"AdPYCBfMUM","skip-cert-verify":false}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12","type":"trojan","server":"ru2.asc-sam.ir","port":443,"password":"IM4e0ZQNPU","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3","type":"trojan","server":"chatbuzzteambhm.chatbuzzt7150.workers.dev","port":443,"password":"c7f9b8f0-bfdb-11ee-a15c-1239d0255272","skip-cert-verify":false}
@@ -42,7 +41,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '❔ XX | 🔴 | trojan | @hope_net | 16'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12'
       - '🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3'
