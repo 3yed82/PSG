@@ -102,8 +102,6 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -224,7 +222,6 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇮🇱 IL | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -268,8 +265,6 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
@@ -390,7 +385,6 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇮🇱 IL | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -665,47 +659,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "kafshu.ir",
-            "server_port": 8080,
-            "uuid": "60e97ad5-70c1-4149-9aa9-44b35605c53b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
-                "headers": {
-                    "Host": "kafshu.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "cdnjs.com",
-            "server_port": 443,
-            "uuid": "db400287-fb42-441d-8a76-5624a8a96f49",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "rayan-roof.atena.dpdns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "rayan-roof.atena.dpdns.org"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -923,22 +876,6 @@
         {
             "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 7",
             "type": "vless",
-            "server": "cafearz.com",
-            "server_port": 8080,
-            "uuid": "0e85f203-160e-4039-fb31-d62728b7acaa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/olem/ws?ed=1024",
-                "headers": {
-                    "Host": "cafearz.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
-            "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
             "uuid": "9eca9c74-951c-4947-c108-72c0ae70a74a",
@@ -953,7 +890,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -969,7 +906,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -985,7 +922,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -997,6 +934,22 @@
                 "path": "/olem/ws?ed=1024",
                 "headers": {
                     "Host": "chat.openai.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
+            "type": "vless",
+            "server": "tgju.org",
+            "server_port": 80,
+            "uuid": "7969f5aa-ca87-47c6-eeb4-45d7e4d5873c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/olem/ws?ed=1024",
+                "headers": {
+                    "Host": "tgju.org"
                 }
             }
         },
@@ -2939,29 +2892,6 @@
                 "path": "/?ed",
                 "headers": {
                     "Host": "w1.sylar8.eu.org"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇱 IL | 🟢 | vless | @v2rayweb | 10",
-            "type": "vless",
-            "server": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
-            "server_port": 443,
-            "uuid": "0e8a6896-ad90-4a3b-89a3-77d64aa409e2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "i2pd.website",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE",
-                    "short_id": "55e6af1a35e64a98"
                 }
             }
         },

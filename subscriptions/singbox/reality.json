@@ -113,7 +113,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 11",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -140,7 +139,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇮🇱 IL | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -178,7 +176,6 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 11",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -205,7 +202,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇮🇱 IL | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -831,33 +827,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayweb | 11",
-            "type": "vless",
-            "server": "65.109.208.107",
-            "server_port": 2083,
-            "uuid": "0c2a1be7-cdde-4854-a45c-ddec52584fa1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "khamenei.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8",
-                    "short_id": "54602915a7"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "melov2ray"
             }
         },
         {
@@ -1499,29 +1468,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇮🇱 IL | 🟢 | vless | @v2rayweb | 10",
-            "type": "vless",
-            "server": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
-            "server_port": 443,
-            "uuid": "0e8a6896-ad90-4a3b-89a3-77d64aa409e2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "i2pd.website",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE",
-                    "short_id": "55e6af1a35e64a98"
-                }
             }
         },
         {
