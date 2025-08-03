@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🔴 | vmess | @configshubplus | 19",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -138,11 +139,6 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 15",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 16",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 17",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 18",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 19",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -159,6 +155,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🔴 | vmess | @configshubplus | 19",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -208,11 +205,6 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 15",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 16",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 17",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 18",
-                "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 19",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -231,6 +223,22 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @configshubplus | 19",
+            "type": "vmess",
+            "server": "172.66.40.99",
+            "server_port": 8080,
+            "uuid": "3-telegram-id-vpnf22",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
@@ -1011,86 +1019,6 @@
             "uuid": "de746cfd-c2db-4618-83c2-9bd1d763cc25",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 15",
-            "type": "vmess",
-            "server": "6bcba1b3-sv2sg0-sywkhi-1o4kv.hk.p5pv.com",
-            "server_port": 80,
-            "uuid": "87b31a02-172e-11ee-a11f-f23c913c8d2b",
-            "security": "auto",
-            "alter_id": 2,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "6bcba1b3-sv2sg0-sywkhi-1o4kv.hk.p5pv.com"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 16",
-            "type": "vmess",
-            "server": "d076cd1f-sv2sg0-sxs5em-1igr4.hk.p5pv.com",
-            "server_port": 80,
-            "uuid": "57269f80-e0e8-11ec-bb74-f23c9164ca5d",
-            "security": "auto",
-            "alter_id": 2,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "d076cd1f-sv2sg0-sxs5em-1igr4.hk.p5pv.com"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 17",
-            "type": "vmess",
-            "server": "be8a9a85-sv2sg0-szj6wo-8f7h.hk.p5pv.com",
-            "server_port": 80,
-            "uuid": "b1e0ecc4-c7af-11ed-a8bf-f23c91cfbbc9",
-            "security": "auto",
-            "alter_id": 2,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "be8a9a85-sv2sg0-szj6wo-8f7h.hk.p5pv.com"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 18",
-            "type": "vmess",
-            "server": "2e617951-sv2sg0-taj9mo-1tco3.hk3.p5pv.com",
-            "server_port": 80,
-            "uuid": "e29de954-ea01-11ef-a271-f23c91cfbbc9",
-            "security": "auto",
-            "alter_id": 2,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "2e617951-sv2sg0-taj9mo-1tco3.hk3.p5pv.com"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔴 | vmess | @v2rayweb | 19",
-            "type": "vmess",
-            "server": "1dd7778a-sv4n40-szxh9w-46gc.hk3.p5pv.com",
-            "server_port": 80,
-            "uuid": "225d1cca-d744-11ef-b790-f23c91cfbbc9",
-            "security": "auto",
-            "alter_id": 2,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "1dd7778a-sv4n40-szxh9w-46gc.hk3.p5pv.com"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
