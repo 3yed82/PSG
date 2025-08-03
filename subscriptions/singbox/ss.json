@@ -96,7 +96,8 @@
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 9",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 15",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -134,7 +135,8 @@
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇷🇺 RU | 🟢 | ss | @g0dv2ray | 9",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 15",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -225,12 +227,20 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 15",
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 18",
             "type": "shadowsocks",
-            "server": "169.197.142.120",
-            "server_port": 7307,
+            "server": "23.157.40.113",
+            "server_port": 2376,
             "method": "aes-256-gcm",
-            "password": "FoOiGlkAA9yPEGP"
+            "password": "faBAoD54k87UJG7"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "38.75.136.21",
+            "server_port": 9101,
+            "method": "aes-256-gcm",
+            "password": "e4FCWrgpkji3QY"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",

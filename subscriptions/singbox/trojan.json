@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
@@ -115,6 +116,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 9",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
@@ -143,6 +145,29 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 9",
+            "type": "trojan",
+            "server": "104.20.159.193",
+            "server_port": 443,
+            "password": "blue2024",
+            "tls": {
+                "enabled": true,
+                "server_name": "td.promote.icu",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "td.promote.icu"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
