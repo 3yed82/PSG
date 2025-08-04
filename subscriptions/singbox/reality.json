@@ -112,8 +112,7 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 13",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 14",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -140,6 +139,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 18",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -176,8 +176,7 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 13",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 14",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -204,6 +203,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 18",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -801,34 +801,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 14",
             "type": "vless",
-            "server": "172.233.171.248",
-            "server_port": 80,
-            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
-                    "short_id": "94aa1bdc"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 13",
-            "type": "vless",
-            "server": "35.90.0.119",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "server": "91.107.160.195",
+            "server_port": 8443,
+            "uuid": "69279880-8407-4b8b-9a3e-09dd23c485cf",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -841,7 +818,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "public_key": "22umskuVYX_83MN2r90b32l8RInE-mVGayYcRgBwU0E",
                     "short_id": "f5"
                 }
             }
@@ -1485,6 +1462,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayweb | 18",
+            "type": "vless",
+            "server": "direct.yasharteam.com",
+            "server_port": 443,
+            "uuid": "5a40ab4a-8d75-4813-b22b-3569148eea48",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
+                }
             }
         },
         {
