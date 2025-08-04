@@ -103,9 +103,8 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 9",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
+                "🇨🇦 CA | 🟢 | vless | @configshubplus | 15",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -227,7 +226,9 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇨🇦 CA | 🔴 | vless | @v2rayweb | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 12",
+                "Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy?ed=2560&security=tls&encryption=none&host=638895562749006088.amsterdam-prx-dnraaal.info&type=ws&sni=638895562749006088.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -271,9 +272,8 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 9",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
+                "🇨🇦 CA | 🟢 | vless | @configshubplus | 15",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -395,7 +395,9 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇨🇦 CA | 🔴 | vless | @v2rayweb | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
+                "🇩🇪 DE | 🔴 | vless | @v2rayweb | 12",
+                "Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy?ed=2560&security=tls&encryption=none&host=638895562749006088.amsterdam-prx-dnraaal.info&type=ws&sni=638895562749006088.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -678,50 +680,36 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
             "type": "vless",
-            "server": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
-            "server_port": 443,
-            "uuid": "1584806e-f63d-4f9b-a0b3-abe64b35a09c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ",
-                    "short_id": "974a74bf"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔴 | vless | @configshubplus | 11",
-            "type": "vless",
-            "server": "mrbarani.fastsnap.info",
-            "server_port": 40746,
-            "uuid": "82a000fc-b550-4bfc-b5e4-8e7180dc4b95",
+            "server": "hajimamadvpn.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "378b8e58-6a23-4fc6-b227-67665a78033d",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
+            "tag": "🇨🇦 CA | 🟢 | vless | @configshubplus | 15",
             "type": "vless",
-            "server": "obedient-menu.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "561623c8-4983-44d3-a6ef-92b803a74ee8",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "bc5b41c5-5eb0-4a91-ba5c-49a0bf383fbe",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "arm1.dollardoon.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048",
                 "headers": {
-                    "Host": "obedient-menu.seotoolsforyou.co.uk"
+                    "Host": "arm1.dollardoon.com"
                 }
             }
         },
@@ -2984,20 +2972,56 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @v2rayweb | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "6e2fcf9f-c5b3-48c1-a423-6b9148f692ec",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 443,
+            "uuid": "9453d30f-cbd7-430e-8352-22e315b7d97f",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "638894516851829772.yasuj-prx-dnraaao.info",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
+                "path": "/copbywws",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "638894516851829772.yasuj-prx-dnraaao.info"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2rayweb | 12",
+            "type": "vless",
+            "server": "server581122609014369419.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server581122609014369419.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy?ed=2560&security=tls&encryption=none&host=638895562749006088.amsterdam-prx-dnraaal.info&type=ws&sni=638895562749006088.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
+            "type": "vless",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 2096,
+            "uuid": "cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
