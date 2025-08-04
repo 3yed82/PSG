@@ -261,8 +261,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "ss",
+            "vmess",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -675,8 +675,6 @@
     },
     "v2rayweb": {
         "types": [
-            "vmess",
-            "trojan",
             "vless"
         ],
         "title": "V2ray | VPN",

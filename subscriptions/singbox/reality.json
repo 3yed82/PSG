@@ -100,7 +100,7 @@
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 0",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 3",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -113,6 +113,7 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 15",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -139,6 +140,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 13",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -163,7 +165,7 @@
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 0",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 3",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -176,6 +178,7 @@
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngconfings | 16",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 15",
                 "🇩🇪 DE | 🟢 | vless | @vip_vpn_2022 | 3",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -202,6 +205,7 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 13",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -484,7 +488,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 0",
+            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 3",
             "type": "vless",
             "server": "5.75.195.253",
             "server_port": 443,
@@ -823,6 +827,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 15",
+            "type": "vless",
+            "server": "172.233.171.248",
+            "server_port": 80,
+            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
+                    "short_id": "94aa1bdc"
+                }
             }
         },
         {
@@ -1464,6 +1491,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 13",
+            "type": "vless",
+            "server": "Loadbalance.systemgamingirani.ir",
+            "server_port": 443,
+            "uuid": "4e21e86a-46f1-4272-bdb3-bac8bc6839ab",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg",
+                    "short_id": "b7859e878ab2fb"
+                }
             }
         },
         {
