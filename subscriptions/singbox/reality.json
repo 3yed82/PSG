@@ -95,13 +95,12 @@
                 "🇺🇸 US | 🟢 | vless | @freakconfig | 14",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
+                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 4",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 0",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -159,13 +158,12 @@
                 "🇺🇸 US | 🟢 | vless | @freakconfig | 14",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
+                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 4",
-                "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
+                "🇩🇪 DE | 🟢 | vless | @irv2rey | 0",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
@@ -363,7 +361,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
+            "tag": "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
             "type": "vless",
             "server": "51.89.119.200",
             "server_port": 46933,
@@ -486,34 +484,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 4",
-            "type": "vless",
-            "server": "5.75.195.253",
-            "server_port": 443,
-            "uuid": "3edb4d4b-cb91-42ac-8135-756318d857a3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cdn77.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2jslY7dFcR14gsOun3LqiXXgqp_72YBk35VDWGwTajs",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 5",
+            "tag": "🇩🇪 DE | 🟢 | vless | @irv2rey | 0",
             "type": "vless",
             "server": "5.75.195.253",
             "server_port": 443,
