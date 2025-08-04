@@ -27,7 +27,6 @@ proxies:
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12","type":"trojan","server":"ru2.asc-sam.ir","port":443,"password":"IM4e0ZQNPU","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3","type":"trojan","server":"chatbuzzteambhm.chatbuzzt7150.workers.dev","port":443,"password":"c7f9b8f0-bfdb-11ee-a15c-1239d0255272","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6","type":"trojan","server":"de1.test3.net","port":443,"password":"b8841c50-c3ad-11ee-9be0-1239d0255272","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🟢 | trojan | @v2rayweb | 12","type":"trojan","server":"us-3.stunnel.cc","port":8441,"password":"tunnel-v2ray_configs_pools_official-us","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @xrayzxn | 4","type":"trojan","server":"amin.karkas1.ir","port":443,"password":"11ae0edd-2f63-4495-8683-037abbda9986","skip-cert-verify":false}
 
 proxy-groups:
@@ -46,7 +45,6 @@ proxy-groups:
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12'
       - '🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3'
       - '🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6'
-      - '🇺🇸 US | 🟢 | trojan | @v2rayweb | 12'
       - '❔ XX | 🟢 | trojan | @xrayzxn | 4'
 
   - name: 🌍 Global Media

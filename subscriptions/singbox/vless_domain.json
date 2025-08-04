@@ -103,8 +103,6 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 15",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -124,8 +122,8 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇨🇦 CA | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 13",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 15",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
                 "🇨🇦 CA | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -232,6 +230,7 @@
                 "❔ XX | 🟢 | vless | @vipnetmeli | 0",
                 "🇺🇸 US | 🟢 | vless | @vp_n1 | 1",
                 "🇺🇸 US | 🟢 | vless | @vpnaloo | 12",
+                "🇺🇸 US | 🔴 | vless | @vpncostumer | 14",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 0",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 1",
                 "❔ XX | 🔴 | vless | @vpnowl | 10",
@@ -268,8 +267,6 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 15",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -289,8 +286,8 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇨🇦 CA | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 13",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 15",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
                 "🇨🇦 CA | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -397,6 +394,7 @@
                 "❔ XX | 🟢 | vless | @vipnetmeli | 0",
                 "🇺🇸 US | 🟢 | vless | @vp_n1 | 1",
                 "🇺🇸 US | 🟢 | vless | @vpnaloo | 12",
+                "🇺🇸 US | 🔴 | vless | @vpncostumer | 14",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 0",
                 "❔ XX | 🔴 | vless | @vpnmk1 | 1",
                 "❔ XX | 🔴 | vless | @vpnowl | 10",
@@ -670,40 +668,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇮🇷 IR | 🔴 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "vip1.zxhost.sbs",
-            "server_port": 80,
-            "uuid": "2fbf2c57-e1fc-4cf2-b8bd-3954c227b0c6",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "cdnjs.com",
-            "server_port": 443,
-            "uuid": "db400287-fb42-441d-8a76-5624a8a96f49",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "rayan-roof.atena.dpdns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "rayan-roof.atena.dpdns.org"
-                }
-            }
         },
         {
             "tag": "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
@@ -1001,7 +965,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 13",
             "type": "vless",
             "server": "beloved-failure.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -1017,7 +981,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 16",
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 15",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,
@@ -3102,6 +3066,22 @@
                 "path": "/yaqnnows",
                 "headers": {
                     "Host": "638890561652286310.esfahan-prx-dnraaao.info"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @vpncostumer | 14",
+            "type": "vless",
+            "server": "kafshu.ir",
+            "server_port": 8080,
+            "uuid": "07e97b58-4e24-4c56-b3ce-3d65792b9602",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "kafshu.ir"
                 }
             }
         },

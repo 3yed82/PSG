@@ -100,7 +100,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇯🇵 JP | 🔴 | vmess | @hope_net | 17",
+                "🇯🇵 JP | 🔴 | vmess | @hope_net | 15",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -140,7 +140,8 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇯🇵 JP | 🔴 | vmess | @v2rayweb | 16",
+                "🇨🇦 CA | 🔴 | vmess | @v2rayweb | 15",
+                "🇸🇬 SG | 🔴 | vmess | @v2rayweb | 16",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 5",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -168,7 +169,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇯🇵 JP | 🔴 | vmess | @hope_net | 17",
+                "🇯🇵 JP | 🔴 | vmess | @hope_net | 15",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -208,7 +209,8 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 4",
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
-                "🇯🇵 JP | 🔴 | vmess | @v2rayweb | 16",
+                "🇨🇦 CA | 🔴 | vmess | @v2rayweb | 15",
+                "🇸🇬 SG | 🔴 | vmess | @v2rayweb | 16",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 5",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
@@ -379,7 +381,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇯🇵 JP | 🔴 | vmess | @hope_net | 17",
+            "tag": "🇯🇵 JP | 🔴 | vmess | @hope_net | 15",
             "type": "vmess",
             "server": "35.74.61.85",
             "server_port": 21586,
@@ -1036,11 +1038,36 @@
             "alter_id": 0
         },
         {
-            "tag": "🇯🇵 JP | 🔴 | vmess | @v2rayweb | 16",
+            "tag": "🇨🇦 CA | 🔴 | vmess | @v2rayweb | 15",
             "type": "vmess",
-            "server": "164.70.68.128",
-            "server_port": 59361,
-            "uuid": "d4e2f2e2-bd2d-423e-89fb-cfcf435e7963",
+            "server": "15.235.83.227",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "15.235.83.227",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/linkvws",
+                "headers": {
+                    "Host": "15.235.83.227"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🔴 | vmess | @v2rayweb | 16",
+            "type": "vmess",
+            "server": "62.146.235.193",
+            "server_port": 28011,
+            "uuid": "cfc5a87f-3c13-4e25-b556-176cdd6b5c6a",
             "security": "auto",
             "alter_id": 0
         },
