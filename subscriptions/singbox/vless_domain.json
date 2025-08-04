@@ -100,14 +100,14 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇨🇦 CA | 🔴 | vless | @configms | 9",
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
-                "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
-                "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
+                "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -224,7 +224,6 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 18",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -266,14 +265,14 @@
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇨🇦 CA | 🔴 | vless | @configms | 9",
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
-                "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
-                "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
+                "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -390,7 +389,6 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 18",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -624,7 +622,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
+            "tag": "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
             "type": "vless",
             "server": "nv111.momdping.com",
             "server_port": 443,
@@ -649,7 +647,7 @@
             }
         },
         {
-            "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+            "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
@@ -731,7 +729,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -740,7 +738,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -2928,29 +2926,6 @@
                 "path": "/?ed",
                 "headers": {
                     "Host": "w1.sylar8.eu.org"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayweb | 18",
-            "type": "vless",
-            "server": "direct.yasharteam.com",
-            "server_port": 443,
-            "uuid": "5a40ab4a-8d75-4813-b22b-3569148eea48",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
                 }
             }
         },

@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
@@ -104,7 +104,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
-                "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
@@ -144,7 +144,7 @@
             }
         },
         {
-            "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+            "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
