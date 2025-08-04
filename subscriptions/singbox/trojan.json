@@ -90,8 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
+                "🇨🇦 CA | 🟢 | trojan | @hope_net | 16",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 10",
@@ -118,8 +117,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
+                "🇨🇦 CA | 🟢 | trojan | @hope_net | 16",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 10",
@@ -156,30 +154,14 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+            "tag": "🇨🇦 CA | 🟢 | trojan | @hope_net | 16",
             "type": "trojan",
-            "server": "104.24.180.183",
+            "server": "135.84.79.80",
             "server_port": 443,
-            "password": "NISHIKUITAN111",
+            "password": "dns68",
             "tls": {
                 "enabled": true,
-                "server_name": "104.24.180.183",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
-            "type": "trojan",
-            "server": "23.150.248.153",
-            "server_port": 443,
-            "password": "984e400bf5d541b7b0815913fe0c432a",
-            "tls": {
-                "enabled": true,
-                "server_name": "jobscareerforstudent.com",
+                "server_name": "trojan.putata.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -188,9 +170,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/6b777a91",
+                "path": "/?ed=2560",
                 "headers": {
-                    "Host": "jobscareerforstudent.com"
+                    "Host": "trojan.putata.us.kg"
                 }
             }
         },
