@@ -107,8 +107,8 @@
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -224,8 +224,9 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 13",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 17",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
+                "🇳🇱 NL | 🔴 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -273,8 +274,8 @@
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -390,8 +391,9 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇮🇷 IR | 🔴 | vless | @v2rayweb | 13",
-                "🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
+                "🇷🇺 RU | 🟢 | vless | @v2rayweb | 17",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
+                "🇳🇱 NL | 🔴 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -747,7 +749,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -756,7 +758,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -2932,38 +2934,45 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @v2rayweb | 13",
+            "tag": "🇷🇺 RU | 🟢 | vless | @v2rayweb | 17",
             "type": "vless",
-            "server": "ordibehesht.zagrosbot.xyz",
-            "server_port": 8080,
-            "uuid": "083ed1d8-fd32-4d34-a521-de755e2596fd",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 14",
-            "type": "vless",
-            "server": "w3.org",
+            "server": "ru01-vlr01.tcp-reset-club.net",
             "server_port": 443,
-            "uuid": "4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8",
-            "flow": "",
+            "uuid": "c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "hdfynpv2c1.farvaharforever.com",
+                "server_name": "hls-svod.itunes.apple.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Iyq035lnud9R8ruNNrqGxZZ2",
-                "headers": {
-                    "Host": "hdfynpv2c1.farvaharforever.com"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "48720c"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
+            "type": "vless",
+            "server": "simonil.zarghamportal.ir",
+            "server_port": 80,
+            "uuid": "9dcdc6d7-1243-4550-afa5-773910f259c8",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔴 | vless | @v2rayweb | 19",
+            "type": "vless",
+            "server": "cdn19.zarghamportal.ir",
+            "server_port": 80,
+            "uuid": "b4ce592d-4db0-4f08-894a-26c559fd0663",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
