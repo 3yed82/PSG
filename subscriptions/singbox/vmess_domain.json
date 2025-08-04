@@ -100,8 +100,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇯🇵 JP | 🔴 | vmess | @hope_net | 15",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 16",
+                "🇯🇵 JP | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -168,8 +168,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇯🇵 JP | 🔴 | vmess | @hope_net | 15",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 16",
+                "🇯🇵 JP | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -379,16 +379,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇯🇵 JP | 🔴 | vmess | @hope_net | 15",
-            "type": "vmess",
-            "server": "35.78.247.148",
-            "server_port": 448,
-            "uuid": "ac7ff9e6-8770-3f96-a818-9fc37daa6c4a",
-            "security": "auto",
-            "alter_id": 1
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 16",
             "type": "vmess",
             "server": "162.159.45.195",
             "server_port": 2086,
@@ -400,6 +391,24 @@
                 "path": "/github.com/Alvin9999",
                 "headers": {
                     "Host": "162.159.45.195"
+                }
+            }
+        },
+        {
+            "tag": "🇯🇵 JP | 🔴 | vmess | @hope_net | 19",
+            "type": "vmess",
+            "server": "35.74.61.85",
+            "server_port": 21586,
+            "uuid": "e9537990-d286-3eaf-8596-d74249d3f347",
+            "security": "auto",
+            "alter_id": 1,
+            "tls": {
+                "enabled": true,
+                "server_name": "k68xu-g06.jp03-7d22-vm0.entry.fr0307a.art",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
