@@ -95,7 +95,7 @@
                 "🇺🇸 US | 🟢 | vless | @freakconfig | 14",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
+                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -140,7 +140,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -160,7 +159,7 @@
                 "🇺🇸 US | 🟢 | vless | @freakconfig | 14",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
-                "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
+                "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇩🇪 DE | 🟢 | vless | @hopev2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -205,7 +204,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -365,7 +363,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
+            "tag": "🇬🇧 GB | 🟢 | vless | @goodbyefiltering | 4",
             "type": "vless",
             "server": "51.89.119.200",
             "server_port": 46933,
@@ -1495,29 +1493,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 16",
-            "type": "vless",
-            "server": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
-            "server_port": 443,
-            "uuid": "1584806e-f63d-4f9b-a0b3-abe64b35a09c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ",
-                    "short_id": "974a74bf"
-                }
             }
         },
         {
