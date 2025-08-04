@@ -103,6 +103,7 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -168,6 +169,7 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
                 "🇺🇸 US | 🔴 | vless | @jiedianssr | 12",
+                "🇺🇸 US | 🟢 | vless | @kafing_2 | 18",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "❔ XX | 🟢 | vless | @loatvpn | 2",
                 "❔ XX | 🔴 | vless | @loatvpn | 4",
@@ -223,6 +225,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -267,6 +270,7 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 1",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 2",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -332,6 +336,7 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
                 "🇺🇸 US | 🔴 | vless | @jiedianssr | 12",
+                "🇺🇸 US | 🟢 | vless | @kafing_2 | 18",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "❔ XX | 🟢 | vless | @loatvpn | 2",
                 "❔ XX | 🔴 | vless | @loatvpn | 4",
@@ -387,6 +392,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 19",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -668,6 +674,22 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "chat.deepseek.com",
+            "server_port": 80,
+            "uuid": "d5ad5040-00fb-4858-df1d-a1a10112189b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/olem/ws?ed=1024",
+                "headers": {
+                    "Host": "chat.deepseek.com"
+                }
+            }
         },
         {
             "tag": "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
@@ -1819,6 +1841,31 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @kafing_2 | 18",
+            "type": "vless",
+            "server": "cdnjs.com",
+            "server_port": 443,
+            "uuid": "db400287-fb42-441d-8a76-5624a8a96f49",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "rayan-roof.atena.dpdns.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "rayan-roof.atena.dpdns.org"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @kesslervpn | 2",
             "type": "vless",
             "server": "germansana.kesslershop.ir",
@@ -2908,6 +2955,31 @@
                 "path": "/?ed",
                 "headers": {
                     "Host": "w1.sylar8.eu.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 19",
+            "type": "vless",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 443,
+            "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "smart.gheichi.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "smart.gheichi.org"
                 }
             }
         },
