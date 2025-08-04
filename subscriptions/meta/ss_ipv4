@@ -46,8 +46,7 @@ proxies:
   - {"name":"🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4","type":"ss","server":"185.177.229.245","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5","type":"ss","server":"89.23.103.125","port":42090,"password":"uQS5ntVqC00sSKkeNzUiD3","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🟢 | ss | @vpnaloo | 15","type":"ss","server":"45.87.175.69","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇦🇲 AM | 🟢 | ss | @vpnod | 9","type":"ss","server":"2.56.207.150","port":8443,"password":"UKK5XUvjIlOkeTbBA0nfYh","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇸🇪 SE | 🟢 | ss | @vpnod | 10","type":"ss","server":"4.223.106.151","port":48172,"password":"51yloQC8D9w1Wae7FHtI65","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇪 SE | 🟢 | ss | @vpnod | 7","type":"ss","server":"4.223.106.151","port":48172,"password":"51yloQC8D9w1Wae7FHtI65","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -84,8 +83,7 @@ proxy-groups:
       - '🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4'
       - '🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5'
       - '🇺🇸 US | 🟢 | ss | @vpnaloo | 15'
-      - '🇦🇲 AM | 🟢 | ss | @vpnod | 9'
-      - '🇸🇪 SE | 🟢 | ss | @vpnod | 10'
+      - '🇸🇪 SE | 🟢 | ss | @vpnod | 7'
 
   - name: 🌍 Global Media
     type: select

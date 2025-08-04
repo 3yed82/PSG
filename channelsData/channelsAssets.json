@@ -49,7 +49,7 @@
     "configshubplus": {
         "types": [
             "vless",
-            "vmess"
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -261,9 +261,9 @@
     },
     "hope_net": {
         "types": [
+            "trojan",
             "ss",
             "vless",
-            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -676,8 +676,7 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
@@ -720,7 +719,8 @@
     },
     "vpn_ioss": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "کانفیگ سرور V2rayng🔐",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_ioss.jpg"
@@ -757,8 +757,8 @@
     "vpnod": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "νρη σɗ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnod.jpg"
