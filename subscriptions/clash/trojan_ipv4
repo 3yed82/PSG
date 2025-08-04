@@ -24,7 +24,6 @@ dns:
 
 proxies: 
   - {"name":"🇩🇪 DE | 🔴 | trojan | @freev2raym | 7","type":"trojan","server":"91.107.141.0","port":23825,"password":"ziIjOlyGbM","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🔴 | trojan | @hope_net | 15","type":"trojan","server":"198.41.193.191","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9","type":"trojan","server":"15.236.173.146","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":true}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13","type":"trojan","server":"176.32.39.29","port":443,"password":"8OXD5VVt8s","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🟢 | trojan | @privatevpns | 9","type":"trojan","server":"63.178.77.69","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
@@ -52,7 +51,6 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇩🇪 DE | 🔴 | trojan | @freev2raym | 7'
-      - '🇺🇸 US | 🔴 | trojan | @hope_net | 15'
       - '🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13'
       - '🇩🇪 DE | 🟢 | trojan | @privatevpns | 9'

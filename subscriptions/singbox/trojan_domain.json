@@ -93,6 +93,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇺🇸 US | 🟢 | trojan | @v2rayweb | 12",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4"
             ],
             "tag": "proxy",
@@ -105,6 +106,7 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇺🇸 US | 🟢 | trojan | @v2rayweb | 12",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4"
             ],
             "tag": "auto",
@@ -180,6 +182,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @v2rayweb | 12",
+            "type": "trojan",
+            "server": "us-3.stunnel.cc",
+            "server_port": 8441,
+            "password": "tunnel-v2ray_configs_pools_official-us",
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
