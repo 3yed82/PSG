@@ -48,7 +48,6 @@
     "configshubplus": {
         "types": [
             "vless",
-            "trojan",
             "vmess",
             "ss"
         ],
@@ -261,10 +260,10 @@
     },
     "hope_net": {
         "types": [
-            "vless",
-            "vmess",
             "trojan",
-            "ss"
+            "vmess",
+            "ss",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -734,7 +733,8 @@
     "vpnaloo": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "رفع فیلتر | پروکسی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnaloo.jpg"
