@@ -97,9 +97,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
-                "🇰🇷 KR | 🟢 | vless | @configshubplus | 17",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -123,7 +121,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -221,9 +219,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
-                "🇰🇷 KR | 🟢 | vless | @configshubplus | 17",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -247,7 +243,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -500,68 +496,18 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
             "type": "vless",
-            "server": "168.100.6.254",
-            "server_port": 8880,
-            "uuid": "34c01e61-f4f3-4afb-a83b-406caf8caa33",
+            "server": "104.16.191.195",
+            "server_port": 80,
+            "uuid": "f278037e-ce36-4634-9b4d-fca93e345a35",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/Telegram",
+                "path": "/",
                 "headers": {
-                    "Host": "168.100.6.254"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇷 KR | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "218.144.212.68",
-            "server_port": 50000,
-            "uuid": "5177172c-125a-47fa-bccd-3778b459a75e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "subvless.trevely.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "subvless.trevely.us.kg"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "104.21.27.178",
-            "server_port": 2096,
-            "uuid": "ec7de7e0-3f09-4ef4-8a34-e441917d65fa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "verina.ccantarella.dns-dynamic.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/=robin.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560",
-                "headers": {
-                    "Host": "verina.ccantarella.dns-dynamic.net"
+                    "Host": "104.16.191.195"
                 }
             }
         },
@@ -992,7 +938,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 17",
             "type": "vless",
             "server": "172.233.186.196",
             "server_port": 80,
