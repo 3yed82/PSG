@@ -89,8 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 46",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 47",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @bored_vpn | 12",
                 "🇨🇦 CA | 🔴 | vless | @bored_vpn | 14",
                 "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇨🇦 CA | 🔴 | vless | @bored_vpn | 15",
@@ -102,7 +102,8 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
+                "🇨🇦 CA | 🟢 | vless | @configshubplus | 16",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -225,7 +226,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 13",
+                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 18",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -256,8 +257,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 46",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 47",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @bored_vpn | 12",
                 "🇨🇦 CA | 🔴 | vless | @bored_vpn | 14",
                 "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇨🇦 CA | 🔴 | vless | @bored_vpn | 15",
@@ -269,7 +270,8 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
+                "🇨🇦 CA | 🟢 | vless | @configshubplus | 16",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -392,7 +394,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇨🇦 CA | 🟢 | vless | @v2rayweb | 13",
+                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 18",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -427,7 +429,7 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 46",
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
             "type": "vless",
             "server": "de.multiapvps.ir",
             "server_port": 4433,
@@ -450,7 +452,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 47",
+            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
             "type": "vless",
             "server": "usa.multiapvps.ir",
             "server_port": 4434,
@@ -660,18 +662,50 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
+            "tag": "🇨🇦 CA | 🟢 | vless | @configshubplus | 16",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "61426e5a-aeb7-4f12-8c7d-3d78115dcca0",
+            "server_port": 8443,
+            "uuid": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "lease-18.access.name.ng",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
+                "path": "/𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "lease-18.access.name.ng"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "v26.gaterserver.ir",
+            "server_port": 1370,
+            "uuid": "e490690c-388b-4d0e-90de-dd6f8e7619a3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+                    "short_id": "e1afb93bfe75a34b"
                 }
             }
         },
@@ -2952,27 +2986,20 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayweb | 13",
+            "tag": "🇫🇮 FI | 🔴 | vless | @v2rayweb | 18",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
+            "server": "noetic.bagsale.click",
+            "server_port": 443,
+            "uuid": "0ffffabd-5622-4eef-90c8-da504ed2c209",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "lease-20.access.name.ng",
+                "server_name": "noetic.bagsale.click",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "lease-20.access.name.ng"
                 }
             }
         },
