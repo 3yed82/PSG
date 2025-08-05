@@ -90,10 +90,8 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -120,10 +118,8 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -160,14 +156,30 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
             "type": "trojan",
-            "server": "104.27.125.51",
+            "server": "198.41.207.166",
             "server_port": 443,
-            "password": "blue2024",
+            "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "hb.lii2010.us.kg",
+                "server_name": "198.41.207.166",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 18",
+            "type": "trojan",
+            "server": "172.67.204.84",
+            "server_port": 2096,
+            "password": "98f0c223-cb75-4faa-859e-47110b1f052b",
+            "tls": {
+                "enabled": true,
+                "server_name": "iNTeRnET4EVERIeONe7.PaGes.DeV",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -176,57 +188,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/Telegram-@V2ray_Alpha/?ed=2560",
                 "headers": {
-                    "Host": "hb.lii2010.us.kg"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
-            "type": "trojan",
-            "server": "173.245.59.189",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "173.245.59.189",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
-            "type": "trojan",
-            "server": "104.25.235.46",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.25.235.46",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
-            "type": "trojan",
-            "server": "104.17.222.191",
-            "server_port": 443,
-            "password": "blue2024",
-            "tls": {
-                "enabled": true,
-                "server_name": "ha.lii2010.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+                    "Host": "iNTeRnET4EVERIeONe7.PaGes.DeV"
                 }
             }
         },
