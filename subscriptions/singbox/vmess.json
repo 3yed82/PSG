@@ -100,8 +100,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇩🇪 DE | 🔴 | vmess | @hope_net | 15",
-                "🇨🇦 CA | 🔴 | vmess | @hope_net | 18",
+                "🇨🇦 CA | 🔴 | vmess | @hope_net | 16",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -169,8 +169,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇩🇪 DE | 🔴 | vmess | @hope_net | 15",
-                "🇨🇦 CA | 🔴 | vmess | @hope_net | 18",
+                "🇨🇦 CA | 🔴 | vmess | @hope_net | 16",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -381,32 +381,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @hope_net | 15",
-            "type": "vmess",
-            "server": "frankfurt03.zgjok.com",
-            "server_port": 443,
-            "uuid": "4f7c2243-a38a-4672-983b-f1378aee0a7f",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vmess | @hope_net | 18",
+            "tag": "🇨🇦 CA | 🔴 | vmess | @hope_net | 16",
             "type": "vmess",
             "server": "23.162.200.227",
             "server_port": 443,
@@ -427,6 +402,22 @@
                 "path": "/linkvws",
                 "headers": {
                     "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
+            "type": "vmess",
+            "server": "190.93.245.174",
+            "server_port": 2082,
+            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/github.com/Alvin9999",
+                "headers": {
+                    "Host": "190.93.245.174"
                 }
             }
         },
