@@ -91,10 +91,12 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
@@ -112,10 +114,12 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
@@ -167,11 +171,29 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "api.fast.iphone-shopp.ir",
+            "server_port": 80,
+            "uuid": "d6b5cf7a-e82c-4efb-9d01-eda0a834ee8d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
             "type": "vless",
             "server": "holkanas.atroart.ir",
             "server_port": 9091,
             "uuid": "13a44840-ac14-4748-b498-d97597042563",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "type": "vless",
+            "server": "configline.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -203,7 +225,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
