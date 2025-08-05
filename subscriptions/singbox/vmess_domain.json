@@ -100,7 +100,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇷🇺 RU | 🔴 | vmess | @hope_net | 17",
+                "🇷🇺 RU | 🔴 | vmess | @hope_net | 15",
+                "🏳️  | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -167,7 +168,8 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇷🇺 RU | 🔴 | vmess | @hope_net | 17",
+                "🇷🇺 RU | 🔴 | vmess | @hope_net | 15",
+                "🏳️  | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -377,7 +379,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇷🇺 RU | 🔴 | vmess | @hope_net | 17",
+            "tag": "🇷🇺 RU | 🔴 | vmess | @hope_net | 15",
             "type": "vmess",
             "server": "195.58.49.12",
             "server_port": 2579,
@@ -391,6 +393,15 @@
                     "Host": "195.58.49.12"
                 }
             }
+        },
+        {
+            "tag": "🏳️  | 🔴 | vmess | @hope_net | 19",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "abccaba-baac-baac-abcd-cccbbbaaacab",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",

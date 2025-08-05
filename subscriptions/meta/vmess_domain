@@ -33,7 +33,7 @@ proxies:
   - {"name":"🇩🇪 DE | 🔴 | vmess | @freev2raym | 6","type":"vmess","server":"91.107.141.0","port":21024,"cipher":"auto","uuid":"c8486376-22f4-49ce-9b7f-cb0a3530bdb8","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"🇫🇷 FR | 🔴 | vmess | @garnet_free | 9","type":"vmess","server":"89.116.38.170","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1","type":"vmess","server":"mrgold.iranman.shop","port":52065,"cipher":"auto","uuid":"f29ea77c-6842-4ee0-9fc1-9c7a871566b2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇷🇺 RU | 🔴 | vmess | @hope_net | 17","type":"vmess","server":"195.58.49.12","port":2579,"cipher":"auto","uuid":"d96881bf-51a3-4a32-865d-8b046caf9093","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
+  - {"name":"🇷🇺 RU | 🔴 | vmess | @hope_net | 15","type":"vmess","server":"195.58.49.12","port":2579,"cipher":"auto","uuid":"d96881bf-51a3-4a32-865d-8b046caf9093","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10","type":"vmess","server":"78.47.120.173","port":443,"cipher":"auto","uuid":"6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12","type":"vmess","server":"142.93.238.178","port":80,"cipher":"auto","uuid":"941e0ba2-01b6-4bfe-81a4-6be93702cae3","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/graphql","headers":{"Host":""}}}
   - {"name":"❔ XX | 🔴 | vmess | @khoneproxy | 13","type":"vmess","server":"join-bede.vmessorg.fun","port":80,"cipher":"auto","uuid":"def53246-e7d7-4e7c-8427-0dc5602d3cba","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
@@ -94,7 +94,7 @@ proxy-groups:
       - '🇩🇪 DE | 🔴 | vmess | @freev2raym | 6'
       - '🇫🇷 FR | 🔴 | vmess | @garnet_free | 9'
       - '🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1'
-      - '🇷🇺 RU | 🔴 | vmess | @hope_net | 17'
+      - '🇷🇺 RU | 🔴 | vmess | @hope_net | 15'
       - '🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10'
       - '🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12'
       - '❔ XX | 🔴 | vmess | @khoneproxy | 13'
