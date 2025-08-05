@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "❔ XX | 🟢 | trojan | @hope_net | 19",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -101,6 +102,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "❔ XX | 🟢 | trojan | @hope_net | 19",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -115,6 +117,29 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "❔ XX | 🟢 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "joinv2ngfast-7nr.pages.dev",
+            "server_port": 2096,
+            "password": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "tls": {
+                "enabled": true,
+                "server_name": "joinV2NGFasT-7Nr.pAgeS.DeV",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram@V2ray_Alpha/?ed=2560",
+                "headers": {
+                    "Host": "joinV2NGFasT-7Nr.pAgeS.DeV"
+                }
+            }
         },
         {
             "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",

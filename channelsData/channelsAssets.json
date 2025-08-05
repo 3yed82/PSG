@@ -47,7 +47,9 @@
     },
     "configshubplus": {
         "types": [
-            "vless"
+            "ss",
+            "vless",
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -260,7 +262,8 @@
         "types": [
             "ss",
             "trojan",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -672,7 +675,6 @@
     },
     "v2rayweb": {
         "types": [
-            "vmess",
             "vless"
         ],
         "title": "V2ray | VPN",

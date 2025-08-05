@@ -102,7 +102,9 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇳🇱 NL | 🔴 | vless | @configshubplus | 13",
                 "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
+                "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -224,8 +226,8 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 11",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 12",
+                "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=638895562749006088.amsterdam-prx-dnraaal.info&type=ws&sni=638895562749006088.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 7",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -269,7 +271,9 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇳🇱 NL | 🔴 | vless | @configshubplus | 13",
                 "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
+                "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -391,8 +395,8 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 17",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 18",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
-                "🇫🇮 FI | 🔴 | vless | @v2rayweb | 11",
-                "🇬🇧 GB | 🟢 | vless | @v2rayweb | 12",
+                "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=638895562749006088.amsterdam-prx-dnraaal.info&type=ws&sni=638895562749006088.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 7",
+                "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 11",
@@ -660,6 +664,22 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇳🇱 NL | 🔴 | vless | @configshubplus | 13",
+            "type": "vless",
+            "server": "holanx.blacklike.ir",
+            "server_port": 9008,
+            "uuid": "9b6619f7-269d-4ac7-bd9a-3a3e42aface3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2048",
+                "headers": {
+                    "Host": "holanx.blacklike.ir"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
             "type": "vless",
             "server": "EVAY_VPN.fast.hosting-ip.com",
@@ -667,6 +687,29 @@
             "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "or1.pmme.top",
+            "server_port": 443,
+            "uuid": "35ebf266-908d-4f1e-abea-fbc69816a46f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.parspack.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xfzizKASi1RDkMp0lU9CKVNbcKCL5KzdgIzZjF1d_AI",
+                    "short_id": "6b"
+                }
+            }
         },
         {
             "tag": "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
@@ -2927,34 +2970,36 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔴 | vless | @v2rayweb | 11",
+            "tag": "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=638895562749006088.amsterdam-prx-dnraaal.info&type=ws&sni=638895562749006088.amsterdam-prx-dnraaal.info#🇺🇸 US | 🟢 | vless | @v2rayweb | 7",
             "type": "vless",
-            "server": "fl.afteam.ir",
-            "server_port": 38889,
-            "uuid": "ab153690-b027-4221-c6cf-465c18905a6f",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 2096,
+            "uuid": "cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @v2rayweb | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayweb | 11",
             "type": "vless",
-            "server": "amazon-17.cristiano.name.ng",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
+            "uuid": "9453d30f-cbd7-430e-8352-22e315b7d97f",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "store.steampowered.com",
+                "server_name": "638894516851829772.yasuj-prx-dnraaao.info",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/copbywws",
+                "headers": {
+                    "Host": "638894516851829772.yasuj-prx-dnraaao.info"
                 }
             }
         },
