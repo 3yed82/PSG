@@ -23,9 +23,10 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇺🇸 US | 🟢 | trojan | @configshubplus | 17","type":"trojan","server":"104.17.236.240","port":443,"password":"blue2024","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔴 | trojan | @freev2raym | 7","type":"trojan","server":"91.107.141.0","port":23825,"password":"ziIjOlyGbM","skip-cert-verify":false}
-  - {"name":"🏳️  | 🟢 | trojan | @hope_net | 18","type":"trojan","server":"127.0.0.1","port":1080,"password":"bcaabac-acab-aabc-dbca-bbcbbaacaacc","skip-cert-verify":false}
+  - {"name":"🏳️  | 🟢 | trojan | @hope_net | 16","type":"trojan","server":"127.0.0.1","port":1080,"password":"bcaabac-acab-aabc-dbca-bbcbbaacaacc","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🟢 | trojan | @hope_net | 18","type":"trojan","server":"104.18.32.69","port":443,"password":"1b3b276f-44b4-4c39-bfdf-67ff6337b41f","skip-cert-verify":false}
+  - {"name":"🇯🇵 JP | 🟢 | trojan | @hope_net | 19","type":"trojan","server":"54.168.60.143","port":20230,"password":"4aa9ee7a-ffee-4ca4-a588-f5fa9e979c38","skip-cert-verify":true}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9","type":"trojan","server":"15.236.173.146","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":true}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13","type":"trojan","server":"176.32.39.29","port":443,"password":"8OXD5VVt8s","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @privatevpns | 11","type":"trojan","server":"15.188.203.180","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
@@ -52,9 +53,10 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇺🇸 US | 🟢 | trojan | @configshubplus | 17'
       - '🇩🇪 DE | 🔴 | trojan | @freev2raym | 7'
-      - '🏳️  | 🟢 | trojan | @hope_net | 18'
+      - '🏳️  | 🟢 | trojan | @hope_net | 16'
+      - '🇺🇸 US | 🟢 | trojan | @hope_net | 18'
+      - '🇯🇵 JP | 🟢 | trojan | @hope_net | 19'
       - '🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13'
       - '🇫🇷 FR | 🟢 | trojan | @privatevpns | 11'
