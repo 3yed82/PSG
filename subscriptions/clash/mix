@@ -25,7 +25,7 @@ dns:
 proxies: 
   - {"name":"🇬🇧 GB | 🟢 | ss | @club_profsor | 12","type":"ss","server":"85.210.36.164","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🟢 | ss | @club_profsor | 15","type":"ss","server":"92.112.126.90","port":443,"password":"9tqhMdIrTkgQ46PvhyAtMH","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇭🇰 HK | 🟢 | ss | @configshubplus | 18","type":"ss","server":"18.162.146.85","port":8313,"password":"ljqdalu13..","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🟢 | vmess | @configshubplus | 16","type":"vmess","server":"104.21.48.1","port":443,"cipher":"zero","uuid":"918b0bba-f876-4db4-82e8-f19af687f44a","alterId":"0","tls":true,"skip-cert-verify":true,"network":"xhttp"}
   - {"name":"🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1","type":"ss","server":"account-mec.emofid.co","port":443,"password":"7ivrGEHY88sQk3DP","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇪 SE | 🟢 | ss | @customvpnserver | 6","type":"ss","server":"46.246.90.6","port":8443,"password":"0tcbrH0GQNmGJxGM5dkeDh","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🟢 | ss | @customvpnserver | 7","type":"ss","server":"213.111.142.216","port":8443,"password":"OUERiyxvrzTJi5kftx980G","cipher":"chacha20-ietf-poly1305"}
@@ -42,9 +42,9 @@ proxies:
   - {"name":"🇫🇷 FR | 🔴 | vmess | @garnet_free | 9","type":"vmess","server":"89.116.38.170","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1","type":"vmess","server":"mrgold.iranman.shop","port":52065,"cipher":"auto","uuid":"f29ea77c-6842-4ee0-9fc1-9c7a871566b2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2","type":"ss","server":"51.116.225.223","port":443,"password":"9b3b33c24f203e40","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇹🇼 TW | 🟢 | ss | @hope_net | 15","type":"ss","server":"60.249.35.2","port":2377,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🟢 | ss | @hope_net | 16","type":"ss","server":"38.110.1.35","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-  - {"name":"🏳️  | 🟢 | trojan | @hope_net | 19","type":"trojan","server":"127.0.0.1","port":8080,"password":"cabacba-baac-aacb-cabd-acabcbcabbca","skip-cert-verify":false}
+  - {"name":"🏳️  | 🟢 | trojan | @hope_net | 17","type":"trojan","server":"127.0.0.1","port":8080,"password":"cabacba-baac-aacb-cabd-acabcbcabbca","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🟢 | ss | @hope_net | 18","type":"ss","server":"142.202.49.84","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+  - {"name":"🇩🇪 DE | 🔴 | vmess | @hope_net | 19","type":"vmess","server":"frankfurt03.zgjok.com","port":443,"cipher":"auto","uuid":"4f7c2243-a38a-4672-983b-f1378aee0a7f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"frankfurt03.zgjok.com"}}}
   - {"name":"🇬🇧 GB | 🟢 | ss | @injectormconf | 39","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9","type":"trojan","server":"15.236.173.146","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":true}
   - {"name":"🇩🇪 DE | 🟢 | ss | @jiedianssr | 10","type":"ss","server":"138.124.115.157","port":1080,"password":"M-nffO40KlclwbCX9CV1DQ","cipher":"chacha20-ietf-poly1305"}
@@ -70,11 +70,11 @@ proxies:
   - {"name":"🇵🇱 PL | 🟢 | ss | @outlinereleasedkey | 17","type":"ss","server":"2.59.163.101","port":2222,"password":"qscavF5UviIL-8V-E4raBA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇬 SG | 🟢 | ss | @outlinereleasedkey | 18","type":"ss","server":"45.76.180.205","port":31368,"password":"2981511c-becb-4b53-8a89-57cd3c97b328","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🟢 | ss | @outlinereleasedkey | 19","type":"ss","server":"45.158.171.70","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 14","type":"ss","server":"62.210.88.22","port":443,"password":"ARdRvXRGfHkAcSQPOJ3pY2","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15","type":"ss","server":"78.129.140.11","port":443,"password":"S5MUOvFx36RLUZIpW81cK2","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 16","type":"ss","server":"104.192.227.162","port":443,"password":"fbBSwXyo8rHYA5lAHNQz83","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 17","type":"ss","server":"62.210.88.22","port":443,"password":"riymKoSvO7BxJfQFLFh01y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 18","type":"ss","server":"78.129.140.11","port":443,"password":"DgvrTOL4pjR0XqGXQ6mNaa","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 14","type":"ss","server":"78.129.140.11","port":443,"password":"S5MUOvFx36RLUZIpW81cK2","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 15","type":"ss","server":"104.192.227.162","port":443,"password":"fbBSwXyo8rHYA5lAHNQz83","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 16","type":"ss","server":"62.210.88.22","port":443,"password":"riymKoSvO7BxJfQFLFh01y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 17","type":"ss","server":"78.129.140.11","port":443,"password":"DgvrTOL4pjR0XqGXQ6mNaa","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 18","type":"ss","server":"104.192.227.162","port":443,"password":"5JZHHlRt0PvWL9aG5wjNGb","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @pistachiovpn | 0","type":"vmess","server":"de.speedhunter.top","port":21257,"cipher":"auto","uuid":"692cf949-bcf2-4cad-8067-2762b8e24874","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @privatevpns | 13","type":"trojan","server":"13.36.190.91","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @privatevpns | 14","type":"trojan","server":"15.188.167.73","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
@@ -137,7 +137,7 @@ proxy-groups:
     proxies: 
       - '🇬🇧 GB | 🟢 | ss | @club_profsor | 12'
       - '🇳🇱 NL | 🟢 | ss | @club_profsor | 15'
-      - '🇭🇰 HK | 🟢 | ss | @configshubplus | 18'
+      - '🇺🇸 US | 🟢 | vmess | @configshubplus | 16'
       - '🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1'
       - '🇸🇪 SE | 🟢 | ss | @customvpnserver | 6'
       - '🇺🇸 US | 🟢 | ss | @customvpnserver | 7'
@@ -154,9 +154,9 @@ proxy-groups:
       - '🇫🇷 FR | 🔴 | vmess | @garnet_free | 9'
       - '🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1'
       - '🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2'
-      - '🇹🇼 TW | 🟢 | ss | @hope_net | 15'
-      - '🇺🇸 US | 🟢 | ss | @hope_net | 16'
-      - '🏳️  | 🟢 | trojan | @hope_net | 19'
+      - '🏳️  | 🟢 | trojan | @hope_net | 17'
+      - '🇺🇸 US | 🟢 | ss | @hope_net | 18'
+      - '🇩🇪 DE | 🔴 | vmess | @hope_net | 19'
       - '🇬🇧 GB | 🟢 | ss | @injectormconf | 39'
       - '🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9'
       - '🇩🇪 DE | 🟢 | ss | @jiedianssr | 10'
@@ -182,11 +182,11 @@ proxy-groups:
       - '🇵🇱 PL | 🟢 | ss | @outlinereleasedkey | 17'
       - '🇸🇬 SG | 🟢 | ss | @outlinereleasedkey | 18'
       - '🇳🇱 NL | 🟢 | ss | @outlinereleasedkey | 19'
-      - '🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 14'
-      - '🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15'
-      - '🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 16'
-      - '🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 17'
-      - '🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 18'
+      - '🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 14'
+      - '🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 15'
+      - '🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 16'
+      - '🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 17'
+      - '🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 18'
       - '🇮🇷 IR | 🔴 | vmess | @pistachiovpn | 0'
       - '🇫🇷 FR | 🟢 | trojan | @privatevpns | 13'
       - '🇫🇷 FR | 🟢 | trojan | @privatevpns | 14'
