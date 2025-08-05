@@ -97,7 +97,6 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
@@ -138,7 +137,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -160,7 +158,6 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
@@ -201,7 +198,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 10",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -407,29 +403,6 @@
                     "enabled": true,
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
-            "type": "vless",
-            "server": "195.201.43.13",
-            "server_port": 8080,
-            "uuid": "439a15a5-e1b0-4379-fb02-ac86e6fad0f4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.speedtest.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "N1xJbYygWegPafW4UECVjpq9N-oSqpGphrWLMLK_8gM",
-                    "short_id": ""
                 }
             }
         },
@@ -1433,33 +1406,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 10",
-            "type": "vless",
-            "server": "order.dissertationhelpspecialist.com",
-            "server_port": 443,
-            "uuid": "81201443-ee00-4df6-9764-25e85d50d473",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI",
-                    "short_id": "3da49e0b43"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice"
             }
         },
         {
