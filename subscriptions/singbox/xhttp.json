@@ -91,16 +91,15 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
-                "🇸🇦 SA | 🔴 | vless | @freakconfig | 12",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -114,16 +113,15 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
+                "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
-                "🇸🇦 SA | 🔴 | vless | @freakconfig | 12",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -171,38 +169,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "EVAY_VPN.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "or1.pmme.top",
-            "server_port": 443,
-            "uuid": "35ebf266-908d-4f1e-abea-fbc69816a46f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.parspack.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xfzizKASi1RDkMp0lU9CKVNbcKCL5KzdgIzZjF1d_AI",
-                    "short_id": "6b"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
             "type": "vless",
             "server": "holkanas.atroart.ir",
@@ -210,6 +176,24 @@
             "uuid": "13a44840-ac14-4748-b498-d97597042563",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
+            "type": "vless",
+            "server": "server271816966957306554.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server271816966957306554.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -271,6 +255,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
+            "type": "vless",
+            "server": "EVAY_VPN.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
             "type": "vless",
             "server": "91.99.140.175",
@@ -313,24 +306,6 @@
                     "enabled": true,
                     "public_key": "4Xu_jqRD-mbhEwNyntlz_6zU4VhsE0-QWCxAbhEL_H4",
                     "short_id": "7ab467"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇦 SA | 🔴 | vless | @freakconfig | 12",
-            "type": "vless",
-            "server": "38.54.61.25",
-            "server_port": 443,
-            "uuid": "5c263fe5-75f2-4d96-87e5-0e94df935833",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "38.54.61.25",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },

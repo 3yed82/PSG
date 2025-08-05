@@ -89,9 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 17",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
+                "🏳️  | 🟢 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -105,7 +105,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
-                "❔ XX | 🟢 | trojan | @hope_net | 19",
+                "❔ XX | 🟢 | trojan | @hope_net | 17",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -118,9 +118,9 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🟢 | trojan | @configshubplus | 17",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
-                "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
+                "🏳️  | 🟢 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 9",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 13",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -134,7 +134,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23",
-                "❔ XX | 🟢 | trojan | @hope_net | 19",
+                "❔ XX | 🟢 | trojan | @hope_net | 17",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
@@ -151,37 +151,14 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 17",
             "type": "trojan",
-            "server": "91.107.141.0",
-            "server_port": 23825,
-            "password": "ziIjOlyGbM"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
-            "type": "trojan",
-            "server": "198.41.207.166",
+            "server": "104.17.236.240",
             "server_port": 443,
-            "password": "NISHIKUITAN111",
+            "password": "blue2024",
             "tls": {
                 "enabled": true,
-                "server_name": "198.41.207.166",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 16",
-            "type": "trojan",
-            "server": "172.67.204.84",
-            "server_port": 2096,
-            "password": "98f0c223-cb75-4faa-859e-47110b1f052b",
-            "tls": {
-                "enabled": true,
-                "server_name": "iNTeRnET4EVERIeONe7.PaGes.DeV",
+                "server_name": "ha.lii2010.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -190,9 +167,32 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/Telegram-@V2ray_Alpha/?ed=2560",
+                "path": "/?ed",
                 "headers": {
-                    "Host": "iNTeRnET4EVERIeONe7.PaGes.DeV"
+                    "Host": "ha.lii2010.us.kg"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+            "type": "trojan",
+            "server": "91.107.141.0",
+            "server_port": 23825,
+            "password": "ziIjOlyGbM"
+        },
+        {
+            "tag": "🏳️  | 🟢 | trojan | @hope_net | 18",
+            "type": "trojan",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "password": "bcaabac-acab-aabc-dbca-bbcbbaacaacc",
+            "tls": {
+                "enabled": true,
+                "server_name": "127.0.0.1",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -396,7 +396,7 @@
             "password": "telegram-id-directvpn"
         },
         {
-            "tag": "❔ XX | 🟢 | trojan | @hope_net | 19",
+            "tag": "❔ XX | 🟢 | trojan | @hope_net | 17",
             "type": "trojan",
             "server": "joinv2ngfast-7nr.pages.dev",
             "server_port": 2096,

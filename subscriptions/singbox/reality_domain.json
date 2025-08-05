@@ -93,8 +93,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 15",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -122,8 +121,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 15",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -243,30 +241,7 @@
             }
         },
         {
-            "tag": "🇦🇲 AM | 🟢 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "or1.pmme.top",
-            "server_port": 443,
-            "uuid": "35ebf266-908d-4f1e-abea-fbc69816a46f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.parspack.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xfzizKASi1RDkMp0lU9CKVNbcKCL5KzdgIzZjF1d_AI",
-                    "short_id": "6b"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 15",
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,
