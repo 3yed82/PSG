@@ -97,9 +97,10 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -124,8 +125,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 15",
-                "🇬🇧 GB | 🟢 | vless | @hope_net | 16",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -224,9 +224,10 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -251,8 +252,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 15",
-                "🇬🇧 GB | 🟢 | vless | @hope_net | 16",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -506,7 +506,64 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "188.114.98.112",
+            "server_port": 2095,
+            "uuid": "9881d220-ea96-419d-8508-70c6ba71f0ea",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560",
+                "headers": {
+                    "Host": "188.114.98.112"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "188.114.98.112",
+            "server_port": 2095,
+            "uuid": "c54a4762-9072-4854-8978-324b949e4177",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560",
+                "headers": {
+                    "Host": "188.114.98.112"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "172.67.143.107",
+            "server_port": 2096,
+            "uuid": "ec7de7e0-3f09-4ef4-8a34-e441917d65fa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "verina.ccantarella.dns-dynamic.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/proxyip=robin.yaemiko.ggff.net/?JKVPN_BIA_CHANEL@JKVPN",
+                "headers": {
+                    "Host": "verina.ccantarella.dns-dynamic.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
             "type": "vless",
             "server": "104.18.36.24",
             "server_port": 443,
@@ -525,56 +582,6 @@
             "transport": {
                 "type": "ws",
                 "path": "/=zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560",
-                "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "104.26.14.69",
-            "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/=zani.yaemiko.ggff.net/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
-                "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "104.21.67.12",
-            "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
                 "headers": {
                     "Host": "carlotta.shoorekeeper.cloudns.org"
                 }
@@ -1032,32 +1039,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @hope_net | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
             "type": "vless",
-            "server": "151.101.2.165",
-            "server_port": 80,
-            "uuid": "bc65abda-c6a2-4fbe-b368-c741906a381f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048",
-                "headers": {
-                    "Host": "151.101.2.165"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @hope_net | 16",
-            "type": "vless",
-            "server": "37.230.62.172",
-            "server_port": 8080,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+            "server": "162.159.138.178",
+            "server_port": 443,
+            "uuid": "552b5df7-252d-4ecb-818d-8e079a1ce2ad",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "a.mifeng.us.kg",
+                "server_name": "football90.pages.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1066,9 +1057,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420?ed=2560",
+                "path": "/Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2?ed=512",
                 "headers": {
-                    "Host": "a.mifeng.us.kg"
+                    "Host": "football90.pages.dev"
                 }
             }
         },
