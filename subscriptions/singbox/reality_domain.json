@@ -89,8 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 46",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 47",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
@@ -106,7 +106,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 12",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -118,8 +117,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 46",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 47",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
@@ -135,7 +134,6 @@
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇮 FI | 🟢 | vless | @v2rayweb | 12",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
@@ -151,7 +149,7 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 47",
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 46",
             "type": "vless",
             "server": "de.multiapvps.ir",
             "server_port": 4433,
@@ -174,7 +172,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 48",
+            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 47",
             "type": "vless",
             "server": "usa.multiapvps.ir",
             "server_port": 4434,
@@ -574,29 +572,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @v2rayweb | 12",
-            "type": "vless",
-            "server": "direct.yasharteam.com",
-            "server_port": 443,
-            "uuid": "d33c40fa-2873-43a4-b1b6-99f4ea780afc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
-                }
             }
         },
         {

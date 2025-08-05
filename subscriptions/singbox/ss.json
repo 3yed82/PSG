@@ -91,8 +91,6 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 16",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
@@ -103,11 +101,11 @@
                 "🇵🇱 PL | 🟢 | ss | @outlinereleasedkey | 17",
                 "🇸🇬 SG | 🟢 | ss | @outlinereleasedkey | 18",
                 "🇳🇱 NL | 🟢 | ss | @outlinereleasedkey | 19",
-                "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 14",
-                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 15",
-                "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 16",
-                "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 17",
-                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 18",
+                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 14",
+                "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15",
+                "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 16",
+                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 17",
+                "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 18",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 5",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
@@ -128,8 +126,6 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | ss | @configshubplus | 16",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
@@ -140,11 +136,11 @@
                 "🇵🇱 PL | 🟢 | ss | @outlinereleasedkey | 17",
                 "🇸🇬 SG | 🟢 | ss | @outlinereleasedkey | 18",
                 "🇳🇱 NL | 🟢 | ss | @outlinereleasedkey | 19",
-                "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 14",
-                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 15",
-                "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 16",
-                "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 17",
-                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 18",
+                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 14",
+                "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15",
+                "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 16",
+                "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 17",
+                "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 18",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 5",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
@@ -181,22 +177,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | ss | @configshubplus | 15",
-            "type": "shadowsocks",
-            "server": "91.219.23.165",
-            "server_port": 12445,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Wxnt17A2bShe9u2pI2o62K"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | ss | @configshubplus | 16",
-            "type": "shadowsocks",
-            "server": "178.22.31.202",
-            "server_port": 25748,
-            "method": "chacha20-ietf-poly1305",
-            "password": "NNc9xVh5HdfRYAR4kkxACd"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
@@ -279,15 +259,7 @@
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 14",
-            "type": "shadowsocks",
-            "server": "104.192.227.162",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ANtGrUFOtCPZjmyDL9Sbyq"
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 15",
+            "tag": "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 14",
             "type": "shadowsocks",
             "server": "62.210.88.22",
             "server_port": 443,
@@ -295,7 +267,7 @@
             "password": "ARdRvXRGfHkAcSQPOJ3pY2"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 16",
+            "tag": "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 15",
             "type": "shadowsocks",
             "server": "78.129.140.11",
             "server_port": 443,
@@ -303,7 +275,7 @@
             "password": "S5MUOvFx36RLUZIpW81cK2"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 17",
+            "tag": "🇺🇸 US | 🟢 | ss | @outlinevpn_ru | 16",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
@@ -311,12 +283,20 @@
             "password": "fbBSwXyo8rHYA5lAHNQz83"
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 18",
+            "tag": "🇫🇷 FR | 🟢 | ss | @outlinevpn_ru | 17",
             "type": "shadowsocks",
             "server": "62.210.88.22",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "riymKoSvO7BxJfQFLFh01y"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @outlinevpn_ru | 18",
+            "type": "shadowsocks",
+            "server": "78.129.140.11",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "DgvrTOL4pjR0XqGXQ6mNaa"
         },
         {
             "tag": "🇫🇮 FI | 🟢 | ss | @strongprotocol | 5",
