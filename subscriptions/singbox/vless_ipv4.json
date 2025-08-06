@@ -97,10 +97,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 13",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 14",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -126,7 +123,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 17",
+                "🇺🇸 US | 🔴 | vless | @hope_net | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -224,10 +221,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 13",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 14",
-                "🇫🇷 FR | 🟢 | vless | @configshubplus | 15",
-                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -253,7 +247,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 17",
+                "🇺🇸 US | 🔴 | vless | @hope_net | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -506,16 +500,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 13",
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
             "type": "vless",
-            "server": "104.18.36.24",
-            "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "server": "104.19.144.33",
+            "server_port": 8443,
+            "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "server_name": "PmQ1cCsP9x.GhEiChI.oRg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -526,82 +520,7 @@
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "5.180.30.32",
-            "server_port": 2096,
-            "uuid": "a5e0c391-accd-45a7-8bb9-99ffb9b09b16",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "5.180.30.32",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "5.180.30.32"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "94.131.9.244",
-            "server_port": 443,
-            "uuid": "a5e0c391-accd-45a7-8bb9-99ffb9b09b16",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "94.131.9.244",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "94.131.9.244"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "45.83.129.58",
-            "server_port": 2096,
-            "uuid": "a5e0c391-accd-45a7-8bb9-99ffb9b09b16",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "45.83.129.58",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "45.83.129.58"
+                    "Host": "PmQ1cCsP9x.GhEiChI.oRg"
                 }
             }
         },
@@ -1064,7 +983,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @hope_net | 17",
+            "tag": "🇺🇸 US | 🔴 | vless | @hope_net | 15",
             "type": "vless",
             "server": "151.101.130.133",
             "server_port": 80,

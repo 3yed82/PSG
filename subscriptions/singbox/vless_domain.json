@@ -101,13 +101,15 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇮🇹 IT | 🟢 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -117,10 +119,10 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
@@ -266,13 +268,15 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇮🇹 IT | 🟢 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -282,10 +286,10 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
@@ -640,16 +644,39 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇮🇹 IT | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
+            "server_port": 443,
+            "uuid": "1ae544de-4b19-4bd0-a7d6-e47e2e19a057",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "itgetsbetter.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc",
+                    "short_id": "462c73aef9f448"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
             "type": "vless",
-            "server": "s2.sarasimano.com",
-            "server_port": 2096,
-            "uuid": "502ce704-dcec-4f92-9489-505c99ce6c89",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 8443,
+            "uuid": "9e769ce1-34be-4e3f-b0a6-823f30eb8f69",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "s2.sarasimano.com",
+                "server_name": "EzPsSkBwR6.wAsAaBi2.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -660,7 +687,30 @@
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "s2.sarasimano.com"
+                    "Host": "EzPsSkBwR6.wAsAaBi2.OrG"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "bonefletcher.fonixapp.org",
+            "server_port": 51886,
+            "uuid": "51b676c4-7fc2-46b9-a26a-2834e2db7046",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE",
+                    "short_id": "c6"
                 }
             }
         },
@@ -738,7 +788,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -747,7 +797,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -896,22 +946,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
-            "type": "vless",
-            "server": "chat.openai.com",
-            "server_port": 8080,
-            "uuid": "f7bd1cd5-0e2c-441e-90fa-b7254dae2655",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/olem/ws?ed=1024",
-                "headers": {
-                    "Host": "chat.openai.com"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
             "type": "vless",
             "server": "tgju.org",
@@ -949,6 +983,22 @@
             "server": "chat.openai.com",
             "server_port": 8080,
             "uuid": "5badc2fd-58f1-4eb6-d099-83a35a25b007",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/olem/ws?ed=1024",
+                "headers": {
+                    "Host": "chat.openai.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
+            "type": "vless",
+            "server": "chat.openai.com",
+            "server_port": 8080,
+            "uuid": "6c521581-cdd0-4a20-ceef-7b4b6e03d621",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {

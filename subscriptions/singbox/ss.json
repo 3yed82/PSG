@@ -96,7 +96,7 @@
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇫🇷 FR | 🟢 | ss | @hope_net | 18",
+                "🇫🇷 FR | 🟢 | ss | @hope_net | 16",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -115,6 +115,7 @@
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
                 "🇺🇸 US | 🟢 | ss | @vpnaloo | 12",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 6",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 19",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
@@ -133,7 +134,7 @@
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇫🇷 FR | 🟢 | ss | @hope_net | 18",
+                "🇫🇷 FR | 🟢 | ss | @hope_net | 16",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -152,6 +153,7 @@
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
                 "🇺🇸 US | 🟢 | ss | @vpnaloo | 12",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 6",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 19",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
@@ -223,7 +225,7 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | ss | @hope_net | 18",
+            "tag": "🇫🇷 FR | 🟢 | ss | @hope_net | 16",
             "type": "shadowsocks",
             "server": "149.202.82.172",
             "server_port": 8881,
@@ -373,6 +375,14 @@
             "server_port": 48172,
             "method": "chacha20-ietf-poly1305",
             "password": "51yloQC8D9w1Wae7FHtI65"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 19",
+            "type": "shadowsocks",
+            "server": "peweza2.digipedia.shop",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WstuSnlu4ieA9M0L"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",

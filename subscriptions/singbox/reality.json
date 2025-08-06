@@ -127,6 +127,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇮🇹 IT | 🟢 | vless | @configshubplus | 15",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -192,6 +194,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇮🇹 IT | 🟢 | vless | @configshubplus | 15",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -1156,6 +1160,52 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇹 IT | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
+            "server_port": 443,
+            "uuid": "1ae544de-4b19-4bd0-a7d6-e47e2e19a057",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "itgetsbetter.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc",
+                    "short_id": "462c73aef9f448"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "bonefletcher.fonixapp.org",
+            "server_port": 51886,
+            "uuid": "51b676c4-7fc2-46b9-a26a-2834e2db7046",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE",
+                    "short_id": "c6"
                 }
             }
         },
