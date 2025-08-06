@@ -91,7 +91,6 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 2",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -128,6 +127,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇨🇦 CA | 🟢 | vless | @configshubplus | 17",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -157,7 +157,6 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 14",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 2",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -194,6 +193,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇨🇦 CA | 🟢 | vless | @configshubplus | 17",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -271,29 +271,6 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "83.147.18.179",
-            "server_port": 443,
-            "uuid": "600ba950-dfa9-4e17-8d9e-b3a92c856bca",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "snapp.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4",
-                    "short_id": "5bef46444e87"
                 }
             }
         },
@@ -1181,6 +1158,29 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "amazon-20.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
                 }
             }
         },
