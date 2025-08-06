@@ -48,9 +48,9 @@
     },
     "configshubplus": {
         "types": [
-            "ss",
-            "vmess",
-            "trojan"
+            "trojan",
+            "vless",
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -261,9 +261,9 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "ss",
             "trojan",
+            "vless",
             "vmess"
         ],
         "title": "🕊 Hope Net",

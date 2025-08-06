@@ -98,6 +98,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 14",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -120,7 +122,8 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 18",
+                "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -133,8 +136,8 @@
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇺🇸 US | 🟢 | vless | @limootuursh | 0",
                 "🇮🇷 IR | 🔴 | vless | @loatvpn | 5",
-                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 7",
-                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
+                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
+                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 12",
                 "🇫🇷 FR | 🟢 | vless | @manstervpn | 71",
                 "🇺🇸 US | 🟢 | vless | @manstervpn | 72",
                 "🇺🇸 US | 🔴 | vless | @manstervpn | 75",
@@ -219,6 +222,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 14",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -241,7 +246,8 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 18",
+                "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -254,8 +260,8 @@
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
                 "🇺🇸 US | 🟢 | vless | @limootuursh | 0",
                 "🇮🇷 IR | 🔴 | vless | @loatvpn | 5",
-                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 7",
-                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
+                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
+                "🇩🇪 DE | 🟢 | vless | @mahan_ping | 12",
                 "🇫🇷 FR | 🟢 | vless | @manstervpn | 71",
                 "🇺🇸 US | 🟢 | vless | @manstervpn | 72",
                 "🇺🇸 US | 🔴 | vless | @manstervpn | 75",
@@ -508,6 +514,24 @@
                     "short_id": "f58f"
                 }
             }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔴 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "77.81.81.69",
+            "server_port": 16032,
+            "uuid": "cd49af77-17e5-4433-8f14-bf03d39de17e",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "77.81.81.69",
+            "server_port": 49822,
+            "uuid": "cd49af77-17e5-4433-8f14-bf03d39de17e",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
@@ -918,7 +942,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 18",
+            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
             "type": "vless",
             "server": "51.195.43.122",
             "server_port": 49685,
@@ -932,6 +956,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+            "type": "vless",
+            "server": "172.235.141.7",
+            "server_port": 80,
+            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
+                    "short_id": "94aa1bdc"
                 }
             }
         },
@@ -1166,7 +1213,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @mahan_ping | 7",
+            "tag": "🇩🇪 DE | 🟢 | vless | @mahan_ping | 11",
             "type": "vless",
             "server": "91.107.130.44",
             "server_port": 24070,
@@ -1193,7 +1240,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @mahan_ping | 8",
+            "tag": "🇩🇪 DE | 🟢 | vless | @mahan_ping | 12",
             "type": "vless",
             "server": "91.107.135.123",
             "server_port": 24070,

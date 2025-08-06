@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "🇺🇸 US | 🟢 | vmess | @canfing_vpn | 19",
+                "🇺🇸 US | 🟢 | vmess | @configshubplus | 12",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -101,8 +102,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇩🇪 DE | 🔴 | vmess | @hope_net | 15",
-                "🏳️  | 🔴 | vmess | @hope_net | 19",
+                "🏳️  | 🔴 | vmess | @hope_net | 17",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -158,6 +158,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇺🇸 US | 🟢 | vmess | @canfing_vpn | 19",
+                "🇺🇸 US | 🟢 | vmess | @configshubplus | 12",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -169,8 +170,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🇩🇪 DE | 🔴 | vmess | @hope_net | 15",
-                "🏳️  | 🔴 | vmess | @hope_net | 19",
+                "🏳️  | 🔴 | vmess | @hope_net | 17",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -243,6 +243,31 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vmess | @configshubplus | 12",
+            "type": "vmess",
+            "server": "aio.unlimited.biz.id",
+            "server_port": 443,
+            "uuid": "f282b878-8711-45a1-8c69-5564172123c1",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "aio.unlimited.biz.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/aioproxybot/129.150.49.58-18650",
+                "headers": {
+                    "Host": "aio.unlimited.biz.id"
                 }
             }
         },
@@ -397,23 +422,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @hope_net | 15",
-            "type": "vmess",
-            "server": "154.197.75.248",
-            "server_port": 2082,
-            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/github.com/Alvin9999",
-                "headers": {
-                    "Host": "154.197.75.248"
-                }
-            }
-        },
-        {
-            "tag": "🏳️  | 🔴 | vmess | @hope_net | 19",
+            "tag": "🏳️  | 🔴 | vmess | @hope_net | 17",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,

@@ -91,14 +91,11 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇸🇬 SG | 🟢 | ss | @configshubplus | 15",
-                "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
-                "🇷🇺 RU | 🟢 | ss | @configshubplus | 18",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
-                "🇫🇮 FI | 🟢 | ss | @falcunargo | 7",
-                "🇸🇪 SE | 🟢 | ss | @falcunargo | 8",
-                "🇨🇦 CA | 🟢 | ss | @falcunargo | 9",
+                "🇫🇮 FI | 🟢 | ss | @falcunargo | 6",
+                "🇸🇪 SE | 🟢 | ss | @falcunargo | 7",
+                "🇨🇦 CA | 🟢 | ss | @falcunargo | 8",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇹🇷 TR | 🟢 | ss | @g0dv2ray | 12",
@@ -133,14 +130,11 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇸🇬 SG | 🟢 | ss | @configshubplus | 15",
-                "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
-                "🇷🇺 RU | 🟢 | ss | @configshubplus | 18",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
-                "🇫🇮 FI | 🟢 | ss | @falcunargo | 7",
-                "🇸🇪 SE | 🟢 | ss | @falcunargo | 8",
-                "🇨🇦 CA | 🟢 | ss | @falcunargo | 9",
+                "🇫🇮 FI | 🟢 | ss | @falcunargo | 6",
+                "🇸🇪 SE | 🟢 | ss | @falcunargo | 7",
+                "🇨🇦 CA | 🟢 | ss | @falcunargo | 8",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇹🇷 TR | 🟢 | ss | @g0dv2ray | 12",
@@ -193,30 +187,6 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | ss | @configshubplus | 15",
-            "type": "shadowsocks",
-            "server": "18.139.0.110",
-            "server_port": 8319,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ljqdalu13.."
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
-            "type": "shadowsocks",
-            "server": "164.92.156.41",
-            "server_port": 24206,
-            "method": "chacha20-ietf-poly1305",
-            "password": "zI7kiNZ0UfV9cXB73a4nRD"
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | ss | @configshubplus | 18",
-            "type": "shadowsocks",
-            "server": "45.139.24.24",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "360e21d21977dc11"
-        },
-        {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
             "type": "shadowsocks",
             "server": "46.246.90.6",
@@ -233,7 +203,7 @@
             "password": "OUERiyxvrzTJi5kftx980G"
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | ss | @falcunargo | 7",
+            "tag": "🇫🇮 FI | 🟢 | ss | @falcunargo | 6",
             "type": "shadowsocks",
             "server": "83.147.216.70",
             "server_port": 64519,
@@ -241,7 +211,7 @@
             "password": "F3nY73di5onWV3gotbpI0Q"
         },
         {
-            "tag": "🇸🇪 SE | 🟢 | ss | @falcunargo | 8",
+            "tag": "🇸🇪 SE | 🟢 | ss | @falcunargo | 7",
             "type": "shadowsocks",
             "server": "4.223.106.151",
             "server_port": 48172,
@@ -249,7 +219,7 @@
             "password": "51yloQC8D9w1Wae7FHtI65"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | ss | @falcunargo | 9",
+            "tag": "🇨🇦 CA | 🟢 | ss | @falcunargo | 8",
             "type": "shadowsocks",
             "server": "142.4.216.225",
             "server_port": 80,

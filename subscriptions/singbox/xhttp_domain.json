@@ -91,6 +91,7 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -106,6 +107,7 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -153,6 +155,29 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
+            "type": "vless",
+            "server": "soren1.risktravelers.top",
+            "server_port": 26779,
+            "uuid": "2f0f5525-5376-4820-a9b5-90064664a35d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "canva.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "vvnHrHSA5bEUrUChLnljMVrJTsSQxIVTvB-6LR8KXhw",
+                    "short_id": "76b5"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
