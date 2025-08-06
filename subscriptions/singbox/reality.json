@@ -91,7 +91,7 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 12",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 2",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -128,6 +128,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "❔ XX | 🟢 | vless | @configshubplus | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -157,7 +158,7 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 12",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 2",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -194,6 +195,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "❔ XX | 🟢 | vless | @configshubplus | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 14",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -275,7 +277,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
+            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 12",
             "type": "vless",
             "server": "83.147.18.179",
             "server_port": 443,
@@ -1181,6 +1183,29 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "v07.vxlimir.com",
+            "server_port": 1370,
+            "uuid": "e71f9e93-064e-4847-b628-f41c6e74e6cb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+                    "short_id": "e1afb93bfe75a34b"
                 }
             }
         },

@@ -97,10 +97,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 12",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -109,9 +107,9 @@
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 11",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 2",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 9",
+                "🇫🇷 FR | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
-                "🇫🇷 FR | 🔴 | vless | @falcunargo | 13",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 15",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇩🇪 DE | 🔴 | vless | @filtershkan2 | 4",
@@ -224,10 +222,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 12",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -236,9 +232,9 @@
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 11",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 2",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 9",
+                "🇫🇷 FR | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
-                "🇫🇷 FR | 🔴 | vless | @falcunargo | 13",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 15",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇩🇪 DE | 🔴 | vless | @filtershkan2 | 4",
@@ -506,7 +502,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
+            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 12",
             "type": "vless",
             "server": "83.147.18.179",
             "server_port": 443,
@@ -529,41 +525,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "172.67.164.1",
-            "server_port": 443,
-            "uuid": "ec7de7e0-3f09-4ef4-8a34-e441917d65fa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "verina.ccantarella.dns-dynamic.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/BIA_CHANEL@JKVPN",
-                "headers": {
-                    "Host": "verina.ccantarella.dns-dynamic.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "104.16.157.108",
-            "server_port": 8080,
-            "uuid": "ffa91a11-a58a-4d7d-a8a1-9692efeeddd2",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -714,7 +676,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -739,7 +701,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔴 | vless | @falcunargo | 13",
+            "tag": "🇫🇷 FR | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "79.137.33.139",
             "server_port": 16390,
@@ -748,7 +710,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
             "type": "vless",
             "server": "104.26.15.69",
             "server_port": 2096,
