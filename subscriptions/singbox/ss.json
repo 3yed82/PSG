@@ -91,12 +91,12 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 15",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
+                "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇳🇱 NL | 🟢 | ss | @hope_net | 17",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 15",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -128,12 +128,12 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 15",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
+                "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇳🇱 NL | 🟢 | ss | @hope_net | 17",
+                "🇳🇱 NL | 🟢 | ss | @hope_net | 15",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 10",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 11",
@@ -183,14 +183,6 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 15",
-            "type": "shadowsocks",
-            "server": "38.114.114.69",
-            "server_port": 6697,
-            "method": "aes-256-gcm",
-            "password": "TEzjfAYq2IjtuoS"
-        },
-        {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
             "type": "shadowsocks",
             "server": "46.246.90.6",
@@ -205,6 +197,14 @@
             "server_port": 8443,
             "method": "chacha20-ietf-poly1305",
             "password": "OUERiyxvrzTJi5kftx980G"
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
+            "type": "shadowsocks",
+            "server": "68.183.226.95",
+            "server_port": 52042,
+            "method": "chacha20-ietf-poly1305",
+            "password": "xMUVeKCBmgwJOjGtsbQ2JF"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
@@ -223,7 +223,7 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @hope_net | 17",
+            "tag": "🇳🇱 NL | 🟢 | ss | @hope_net | 15",
             "type": "shadowsocks",
             "server": "185.242.86.156",
             "server_port": 54170,
