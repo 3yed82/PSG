@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇦🇺 AU | 🔴 | vmess | @configshubplus | 14",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -155,6 +156,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇦🇺 AU | 🔴 | vmess | @configshubplus | 14",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -223,6 +225,15 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇦🇺 AU | 🔴 | vmess | @configshubplus | 14",
+            "type": "vmess",
+            "server": "46.250.243.56",
+            "server_port": 50394,
+            "uuid": "a75f3f95-ad4e-4498-fc72-dd740dd02bfc",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",

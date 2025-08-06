@@ -92,7 +92,6 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
@@ -115,7 +114,6 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 16",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
@@ -176,15 +174,6 @@
             "server": "holkanas.atroart.ir",
             "server_port": 9091,
             "uuid": "13a44840-ac14-4748-b498-d97597042563",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-            "type": "vless",
-            "server": "configline.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
             "flow": "",
             "packet_encoding": "xudp"
         },

@@ -48,6 +48,7 @@
     "configshubplus": {
         "types": [
             "vless",
+            "ss",
             "trojan",
             "vmess"
         ],
@@ -260,9 +261,9 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vless",
             "vmess",
+            "ss",
             "trojan"
         ],
         "title": "🕊 Hope Net",
