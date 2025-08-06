@@ -11,14 +11,14 @@ enhanced-mode-by-rule = true
 DIRECT = direct
 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11 = trojan, ru2.asc-sam.ir, 443, password = AdPYCBfMUM, skip-cert-verify = false
 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12 = trojan, ru2.asc-sam.ir, 443, password = IM4e0ZQNPU, skip-cert-verify = false
-🇨🇦 CA | 🟢 | trojan | @teamvpnpro | 3 = trojan, chatbuzzteambhm.chatbuzzt7150.workers.dev, 443, password = c7f9b8f0-bfdb-11ee-a15c-1239d0255272, skip-cert-verify = false
+🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3 = trojan, chatbuzzteambhm.chatbuzzt7150.workers.dev, 443, password = c7f9b8f0-bfdb-11ee-a15c-1239d0255272, skip-cert-verify = false
 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6 = trojan, de1.test3.net, 443, password = b8841c50-c3ad-11ee-9be0-1239d0255272, skip-cert-verify = false
 ❔ XX | 🟢 | trojan | @xrayzxn | 4 = trojan, amin.karkas1.ir, 443, password = 11ae0edd-2f63-4495-8683-037abbda9986, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇨🇦 CA | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4
-PSG-AUTO = url-test, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇨🇦 CA | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4
-PSG-FALLBACK = fallback, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇨🇦 CA | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4
+PSG-AUTO = url-test, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4
+PSG-FALLBACK = fallback, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11, 🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12, 🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3, 🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6, ❔ XX | 🟢 | trojan | @xrayzxn | 4
 
 [Rule]
 GEOIP,IR,DIRECT
