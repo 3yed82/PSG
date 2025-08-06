@@ -89,12 +89,13 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
@@ -104,12 +105,13 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+                "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
@@ -123,7 +125,7 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @canfing_vpn | 16",
+            "tag": "❔ XX | 🟢 | vless | @canfing_vpn | 15",
             "type": "vless",
             "server": "de6rt.samsungmarketshop.ir",
             "server_port": 2083,
@@ -153,6 +155,29 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "mrkrabsvpn.com",
+            "server_port": 11116,
+            "uuid": "450f2941-a102-4dca-b6a0-8392752b5566",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J-DAr17AAZxRL9-7cCNnKuguNB_l4ZafHRfciGakESc",
+                    "short_id": "6a184f7d"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -191,7 +216,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
+            "tag": "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
