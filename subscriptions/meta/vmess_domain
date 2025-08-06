@@ -23,8 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇺🇸 US | 🟢 | vmess | @canfing_vpn | 19","type":"vmess","server":"104.21.62.144","port":443,"cipher":"zero","uuid":"0112f13d-a357-4ad8-bd8b-bf48688593bd","alterId":"0","tls":true,"skip-cert-verify":true,"network":"xhttp"}
-  - {"name":"🇺🇸 US | 🟢 | vmess | @configshubplus | 12","type":"vmess","server":"aio.unlimited.biz.id","port":443,"cipher":"zero","uuid":"f282b878-8711-45a1-8c69-5564172123c1","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/aioproxybot/129.150.49.58-18650","headers":{"Host":"aio.unlimited.biz.id"}}}
+  - {"name":"🇩🇪 DE | 🔴 | vmess | @canfing_vpn | 19","type":"vmess","server":"customers.tele-shop-too.studio","port":33203,"cipher":"auto","uuid":"695e359b-f44c-4701-9d70-84fc0e7cea0b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇫🇮 FI | 🔴 | vmess | @freeconfing | 10","type":"vmess","server":"37.27.21.225","port":18855,"cipher":"auto","uuid":"59cdb3eb-13de-436d-9b6a-6c815863baf4","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇷🇸 RS | 🔴 | vmess | @freeconfing | 11","type":"vmess","server":"37.120.193.102","port":52920,"cipher":"auto","uuid":"57170ff0-7180-4664-8f61-8debdda345f7","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔ XX | 🔴 | vmess | @freeshadowsock | 0","type":"vmess","server":"ddns-tw02.plnode.xyz","port":8901,"cipher":"auto","uuid":"7bb78d3e-c1ce-430d-b0ab-cd85fabd09c5","alterId":"1","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
@@ -84,8 +83,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇺🇸 US | 🟢 | vmess | @canfing_vpn | 19'
-      - '🇺🇸 US | 🟢 | vmess | @configshubplus | 12'
+      - '🇩🇪 DE | 🔴 | vmess | @canfing_vpn | 19'
       - '🇫🇮 FI | 🔴 | vmess | @freeconfing | 10'
       - '🇷🇸 RS | 🔴 | vmess | @freeconfing | 11'
       - '❔ XX | 🔴 | vmess | @freeshadowsock | 0'

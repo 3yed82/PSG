@@ -91,6 +91,8 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 10",
+                "🇸🇪 SE | 🟢 | ss | @configshubplus | 13",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇫🇮 FI | 🟢 | ss | @falcunargo | 6",
@@ -126,6 +128,8 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇺🇸 US | 🟢 | ss | @configshubplus | 10",
+                "🇸🇪 SE | 🟢 | ss | @configshubplus | 13",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇫🇮 FI | 🟢 | ss | @falcunargo | 6",
@@ -177,6 +181,22 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 10",
+            "type": "shadowsocks",
+            "server": "45.87.175.171",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | ss | @configshubplus | 13",
+            "type": "shadowsocks",
+            "server": "135.225.124.80",
+            "server_port": 48172,
+            "method": "chacha20-ietf-poly1305",
+            "password": "51yloQC8D9w1Wae7FHtI65"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",

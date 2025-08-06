@@ -89,8 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | vmess | @canfing_vpn | 19",
-                "🇺🇸 US | 🟢 | vmess | @configshubplus | 12",
+                "🇩🇪 DE | 🔴 | vmess | @canfing_vpn | 19",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -102,7 +101,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🏳️  | 🔴 | vmess | @hope_net | 17",
+                "🏳️  | 🔴 | vmess | @hope_net | 15",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -157,8 +156,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | vmess | @canfing_vpn | 19",
-                "🇺🇸 US | 🟢 | vmess | @configshubplus | 12",
+                "🇩🇪 DE | 🔴 | vmess | @canfing_vpn | 19",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -170,7 +168,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @freev2raym | 6",
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
-                "🏳️  | 🔴 | vmess | @hope_net | 17",
+                "🏳️  | 🔴 | vmess | @hope_net | 15",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
                 "🇳🇱 NL | 🔴 | vmess | @khoneproxy | 12",
@@ -229,47 +227,13 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vmess | @canfing_vpn | 19",
+            "tag": "🇩🇪 DE | 🔴 | vmess | @canfing_vpn | 19",
             "type": "vmess",
-            "server": "104.21.62.144",
-            "server_port": 443,
-            "uuid": "0112f13d-a357-4ad8-bd8b-bf48688593bd",
+            "server": "customers.tele-shop-too.studio",
+            "server_port": 33203,
+            "uuid": "695e359b-f44c-4701-9d70-84fc0e7cea0b",
             "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "sauron2.melkore.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vmess | @configshubplus | 12",
-            "type": "vmess",
-            "server": "aio.unlimited.biz.id",
-            "server_port": 443,
-            "uuid": "f282b878-8711-45a1-8c69-5564172123c1",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "aio.unlimited.biz.id",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/aioproxybot/129.150.49.58-18650",
-                "headers": {
-                    "Host": "aio.unlimited.biz.id"
-                }
-            }
+            "alter_id": 0
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
@@ -422,7 +386,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🏳️  | 🔴 | vmess | @hope_net | 17",
+            "tag": "🏳️  | 🔴 | vmess | @hope_net | 15",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,

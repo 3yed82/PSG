@@ -100,7 +100,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
@@ -128,7 +128,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -167,7 +166,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
@@ -195,7 +194,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -496,7 +494,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 17",
             "type": "vless",
             "server": "172.235.141.7",
             "server_port": 80,
@@ -1183,29 +1181,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "soren1.risktravelers.top",
-            "server_port": 26779,
-            "uuid": "2f0f5525-5376-4820-a9b5-90064664a35d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "canva.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vvnHrHSA5bEUrUChLnljMVrJTsSQxIVTvB-6LR8KXhw",
-                    "short_id": "76b5"
                 }
             }
         },

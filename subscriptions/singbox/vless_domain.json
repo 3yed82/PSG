@@ -100,13 +100,12 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -264,13 +263,12 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -613,29 +611,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇦🇲 AM | 🟢 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "soren1.risktravelers.top",
-            "server_port": 26779,
-            "uuid": "2f0f5525-5376-4820-a9b5-90064664a35d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "canva.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vvnHrHSA5bEUrUChLnljMVrJTsSQxIVTvB-6LR8KXhw",
-                    "short_id": "76b5"
-                }
-            }
-        },
-        {
             "tag": "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -709,7 +684,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -718,7 +693,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
