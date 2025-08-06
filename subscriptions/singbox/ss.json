@@ -91,7 +91,9 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
+                "🇸🇬 SG | 🟢 | ss | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
+                "🇷🇺 RU | 🟢 | ss | @configshubplus | 18",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇫🇮 FI | 🟢 | ss | @falcunargo | 7",
@@ -131,7 +133,9 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
+                "🇸🇬 SG | 🟢 | ss | @configshubplus | 15",
+                "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
+                "🇷🇺 RU | 🟢 | ss | @configshubplus | 18",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇫🇮 FI | 🟢 | ss | @falcunargo | 7",
@@ -189,12 +193,28 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @configshubplus | 15",
+            "tag": "🇸🇬 SG | 🟢 | ss | @configshubplus | 15",
             "type": "shadowsocks",
-            "server": "45.158.171.60",
-            "server_port": 8080,
+            "server": "18.139.0.110",
+            "server_port": 8319,
             "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+            "password": "ljqdalu13.."
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @configshubplus | 17",
+            "type": "shadowsocks",
+            "server": "164.92.156.41",
+            "server_port": 24206,
+            "method": "chacha20-ietf-poly1305",
+            "password": "zI7kiNZ0UfV9cXB73a4nRD"
+        },
+        {
+            "tag": "🇷🇺 RU | 🟢 | ss | @configshubplus | 18",
+            "type": "shadowsocks",
+            "server": "45.139.24.24",
+            "server_port": 57456,
+            "method": "chacha20-ietf-poly1305",
+            "password": "360e21d21977dc11"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
