@@ -91,11 +91,12 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇹🇷 TR | 🟢 | ss | @configshubplus | 13",
+                "🇸🇬 SG | 🟢 | ss | @configshubplus | 14",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 14",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
-                "🇹🇷 TR | 🟢 | ss | @g0dv2ray | 12",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 9",
@@ -127,11 +128,12 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
+                "🇹🇷 TR | 🟢 | ss | @configshubplus | 13",
+                "🇸🇬 SG | 🟢 | ss | @configshubplus | 14",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 14",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
-                "🇹🇷 TR | 🟢 | ss | @g0dv2ray | 12",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 9",
@@ -181,6 +183,22 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
+            "tag": "🇹🇷 TR | 🟢 | ss | @configshubplus | 13",
+            "type": "shadowsocks",
+            "server": "193.46.56.185",
+            "server_port": 6683,
+            "method": "chacha20-ietf-poly1305",
+            "password": "iw8GoN42dciNxDBd0RwAdL"
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | ss | @configshubplus | 14",
+            "type": "shadowsocks",
+            "server": "188.166.220.70",
+            "server_port": 37708,
+            "method": "chacha20-ietf-poly1305",
+            "password": "24Wk2NSszrfHn22zem1lYV"
+        },
+        {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
             "type": "shadowsocks",
             "server": "46.246.90.6",
@@ -211,14 +229,6 @@
             "server_port": 43486,
             "method": "chacha20-ietf-poly1305",
             "password": "7vlJpFVhEpKh/VTTCvOab8eEoJo+MeXJpj9CDxLYm9o="
-        },
-        {
-            "tag": "🇹🇷 TR | 🟢 | ss | @g0dv2ray | 12",
-            "type": "shadowsocks",
-            "server": "193.46.56.185",
-            "server_port": 6683,
-            "method": "chacha20-ietf-poly1305",
-            "password": "iw8GoN42dciNxDBd0RwAdL"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
