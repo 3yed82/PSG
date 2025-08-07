@@ -48,6 +48,8 @@
     },
     "configshubplus": {
         "types": [
+            "trojan",
+            "ss",
             "vless",
             "vmess"
         ],
@@ -261,8 +263,8 @@
     "hope_net": {
         "types": [
             "trojan",
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -320,8 +322,8 @@
     },
     "jiedianssr": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "vless",
             "ss"
         ],

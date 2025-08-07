@@ -91,11 +91,10 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
@@ -107,11 +106,10 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
             ],
@@ -157,15 +155,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "configline.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
             "type": "vless",
             "server": "holkanas.atroart.ir",
@@ -202,7 +191,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
