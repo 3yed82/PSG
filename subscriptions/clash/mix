@@ -44,11 +44,11 @@ proxies:
   - {"name":"🇫🇷 FR | 🔴 | vmess | @garnet_free | 9","type":"vmess","server":"89.116.38.170","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1","type":"vmess","server":"mrgold.iranman.shop","port":52065,"cipher":"auto","uuid":"f29ea77c-6842-4ee0-9fc1-9c7a871566b2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2","type":"ss","server":"51.116.225.223","port":443,"password":"9b3b33c24f203e40","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇨🇿 CZ | 🔴 | trojan | @hope_net | 15","type":"trojan","server":"195.85.23.232","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
-  - {"name":"🇰🇿 KZ | 🔴 | trojan | @hope_net | 16","type":"trojan","server":"31.43.179.32","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
-  - {"name":"🇳🇱 NL | 🔴 | trojan | @hope_net | 17","type":"trojan","server":"45.131.4.208","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
-  - {"name":"🇪🇪 EE | 🔴 | trojan | @hope_net | 18","type":"trojan","server":"185.159.247.248","port":443,"password":"bpb-trojan","skip-cert-verify":true}
-  - {"name":"🇺🇸 US | 🔴 | trojan | @hope_net | 19","type":"trojan","server":"104.17.255.213","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
+  - {"name":"🇳🇱 NL | 🔴 | trojan | @hope_net | 15","type":"trojan","server":"45.131.4.208","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
+  - {"name":"🇪🇪 EE | 🔴 | trojan | @hope_net | 16","type":"trojan","server":"185.159.247.248","port":443,"password":"bpb-trojan","skip-cert-verify":true}
+  - {"name":"🇺🇸 US | 🔴 | trojan | @hope_net | 17","type":"trojan","server":"104.17.255.213","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
+  - {"name":"🇺🇸 US | 🔴 | trojan | @hope_net | 18","type":"trojan","server":"198.41.201.193","port":443,"password":"bpb-trojan","skip-cert-verify":true}
+  - {"name":"🇨🇼 CW | 🔴 | trojan | @hope_net | 19","type":"trojan","server":"92.60.74.143","port":443,"password":"bpb-trojan","skip-cert-verify":true}
   - {"name":"🇬🇧 GB | 🟢 | ss | @injectormconf | 39","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8","type":"trojan","server":"15.236.173.146","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":true}
   - {"name":"🇩🇪 DE | 🟢 | ss | @jiedianssr | 9","type":"ss","server":"138.124.115.157","port":1080,"password":"M-nffO40KlclwbCX9CV1DQ","cipher":"chacha20-ietf-poly1305"}
@@ -157,11 +157,11 @@ proxy-groups:
       - '🇫🇷 FR | 🔴 | vmess | @garnet_free | 9'
       - '🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1'
       - '🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2'
-      - '🇨🇿 CZ | 🔴 | trojan | @hope_net | 15'
-      - '🇰🇿 KZ | 🔴 | trojan | @hope_net | 16'
-      - '🇳🇱 NL | 🔴 | trojan | @hope_net | 17'
-      - '🇪🇪 EE | 🔴 | trojan | @hope_net | 18'
-      - '🇺🇸 US | 🔴 | trojan | @hope_net | 19'
+      - '🇳🇱 NL | 🔴 | trojan | @hope_net | 15'
+      - '🇪🇪 EE | 🔴 | trojan | @hope_net | 16'
+      - '🇺🇸 US | 🔴 | trojan | @hope_net | 17'
+      - '🇺🇸 US | 🔴 | trojan | @hope_net | 18'
+      - '🇨🇼 CW | 🔴 | trojan | @hope_net | 19'
       - '🇬🇧 GB | 🟢 | ss | @injectormconf | 39'
       - '🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8'
       - '🇩🇪 DE | 🟢 | ss | @jiedianssr | 9'

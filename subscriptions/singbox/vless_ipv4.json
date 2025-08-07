@@ -91,15 +91,17 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 14",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 15",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 16",
                 "🇺🇸 US | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 14",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -189,6 +191,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vlessconfig | 12",
                 "🇩🇪 DE | 🟢 | vless | @vlessconfig | 13",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 13",
+                "🇺🇸 US | 🟢 | vless | @vpn_ioss | 15",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 16",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 10",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
@@ -214,15 +217,17 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 14",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 15",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 16",
                 "🇺🇸 US | 🟢 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 14",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -312,6 +317,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vlessconfig | 12",
                 "🇩🇪 DE | 🟢 | vless | @vlessconfig | 13",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 13",
+                "🇺🇸 US | 🟢 | vless | @vpn_ioss | 15",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 16",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 10",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
@@ -366,7 +372,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 13",
             "type": "vless",
             "server": "192.0.63.184",
             "server_port": 443,
@@ -391,7 +397,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 15",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
             "type": "vless",
             "server": "91.99.97.62",
             "server_port": 51479,
@@ -418,11 +424,27 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 16",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 15",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
             "uuid": "03c850a0-8aa8-44d2-a295-adba924ae671",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 16",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 8080,
+            "uuid": "1e8db2d7-8900-4233-ad58-c30043b8a715",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -514,16 +536,34 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
+            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 14",
             "type": "vless",
-            "server": "172.64.151.232",
+            "server": "91.99.98.90",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "77.81.81.69",
+            "server_port": 16032,
+            "uuid": "7627df5b-8101-4230-dd73-47266d588ccd",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "188.114.96.6",
             "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "uuid": "8df60790-c903-4661-b85d-64c0009378e5",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "server_name": "F1.paRsa.fiLegEar-Sg.Me",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -534,25 +574,7 @@
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "91.99.233.77",
-            "server_port": 443,
-            "uuid": "0f7e89d6-9f35-4e94-ba4b-509a724dc177",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.233.77",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+                    "Host": "F1.paRsa.fiLegEar-Sg.Me"
                 }
             }
         },
@@ -2238,6 +2260,31 @@
             "transport": {
                 "type": "ws",
                 "path": "/?ed=2560",
+                "headers": {
+                    "Host": "carlotta.shoorekeeper.cloudns.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @vpn_ioss | 15",
+            "type": "vless",
+            "server": "172.64.151.232",
+            "server_port": 443,
+            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
                 "headers": {
                     "Host": "carlotta.shoorekeeper.cloudns.org"
                 }
