@@ -92,13 +92,12 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "❔ XX | 🔴 | vless | @freakconfig | 13",
+                "❔ XX | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 13",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 14",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
@@ -116,13 +115,12 @@
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "❔ XX | 🔴 | vless | @freakconfig | 13",
+                "❔ XX | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "🇺🇸 US | 🟢 | vless | @noforcedheaven | 13",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 14",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
@@ -182,7 +180,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔴 | vless | @freakconfig | 13",
+            "tag": "❔ XX | 🔴 | vless | @freakconfig | 15",
             "type": "vless",
             "server": "server271816966957306554.tas-bazi.com",
             "server_port": 443,
@@ -278,24 +276,6 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "91.99.233.77",
-            "server_port": 443,
-            "uuid": "0f7e89d6-9f35-4e94-ba4b-509a724dc177",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.233.77",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },

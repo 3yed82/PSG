@@ -102,8 +102,8 @@
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
                 "🇺🇸 US | 🔴 | vmess | @hope_net | 15",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 16",
                 "🇺🇸 US | 🔴 | vmess | @hope_net | 17",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
                 "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
@@ -171,8 +171,8 @@
                 "🇫🇷 FR | 🔴 | vmess | @garnet_free | 9",
                 "🇮🇷 IR | 🔴 | vmess | @goldenvpn_v2rayy | 1",
                 "🇺🇸 US | 🔴 | vmess | @hope_net | 15",
-                "🇺🇸 US | 🔴 | vmess | @hope_net | 16",
                 "🇺🇸 US | 🔴 | vmess | @hope_net | 17",
+                "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
                 "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 10",
                 "🇩🇪 DE | 🔴 | vmess | @khoneproxy | 11",
@@ -392,38 +392,6 @@
         {
             "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 15",
             "type": "vmess",
-            "server": "104.18.114.3",
-            "server_port": 8880,
-            "uuid": "90f8f4dc-8092-4355-9047-05f506f5e9ab",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/github.com/Alvin9999",
-                "headers": {
-                    "Host": "104.18.114.3"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 16",
-            "type": "vmess",
-            "server": "104.18.114.239",
-            "server_port": 2086,
-            "uuid": "bc65fac2-7dc7-426f-acdd-0779a5035bde",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/github.com/Alvin9999",
-                "headers": {
-                    "Host": "104.18.114.239"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 17",
-            "type": "vmess",
             "server": "104.26.0.76",
             "server_port": 2095,
             "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
@@ -438,7 +406,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 17",
             "type": "vmess",
             "server": "104.18.114.120",
             "server_port": 2086,
@@ -450,6 +418,38 @@
                 "path": "/github.com/Alvin9999",
                 "headers": {
                     "Host": "104.18.114.120"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 18",
+            "type": "vmess",
+            "server": "104.26.0.221",
+            "server_port": 8880,
+            "uuid": "90f8f4dc-8092-4355-9047-05f506f5e9ab",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/github.com/Alvin9999",
+                "headers": {
+                    "Host": "104.26.0.221"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @hope_net | 19",
+            "type": "vmess",
+            "server": "104.26.0.85",
+            "server_port": 2086,
+            "uuid": "bc65fac2-7dc7-426f-acdd-0779a5035bde",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/github.com/Alvin9999",
+                "headers": {
+                    "Host": "104.26.0.85"
                 }
             }
         },

@@ -89,13 +89,13 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇫🇮 FI | 🟢 | vless | @flyv2ray | 10",
-                "🇺🇸 US | 🟢 | vless | @freakconfig | 10",
+                "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
@@ -128,7 +128,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -156,13 +156,13 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇫🇮 FI | 🟢 | vless | @flyv2ray | 10",
-                "🇺🇸 US | 🟢 | vless | @freakconfig | 10",
+                "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
@@ -195,7 +195,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -227,7 +227,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
             "type": "vless",
             "server": "91.99.97.62",
             "server_port": 51479,
@@ -373,7 +373,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @freakconfig | 10",
+            "tag": "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
             "type": "vless",
             "server": "62.60.178.200",
             "server_port": 40792,
@@ -1187,7 +1187,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,
