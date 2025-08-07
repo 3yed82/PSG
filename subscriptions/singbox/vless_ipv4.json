@@ -98,10 +98,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 11",
-                "🇫🇷 FR | 🔴 | vless | @configshubplus | 12",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
+                "🇵🇱 PL | 🟢 | vless | @configshubplus | 12",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -124,7 +122,6 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -223,10 +220,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 11",
-                "🇫🇷 FR | 🔴 | vless | @configshubplus | 12",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
-                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
+                "🇵🇱 PL | 🟢 | vless | @configshubplus | 12",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -249,7 +244,6 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -518,16 +512,16 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 11",
+            "tag": "🇵🇱 PL | 🟢 | vless | @configshubplus | 12",
             "type": "vless",
-            "server": "185.234.66.93",
+            "server": "194.147.34.72",
             "server_port": 443,
-            "uuid": "e7d08833-b87f-4e9f-9f48-38485e58155e",
+            "uuid": "0132740f-c0d4-5f8b-b283-77f3fd604c57",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "185.234.66.93",
+                "server_name": "zula.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -536,68 +530,25 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/zqpahpws",
+                "path": "/vless",
                 "headers": {
-                    "Host": "185.234.66.93"
+                    "Host": "zula.ir"
                 }
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔴 | vless | @configshubplus | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
             "type": "vless",
-            "server": "79.137.33.139",
-            "server_port": 16390,
-            "uuid": "170ba974-6ae5-44ae-dfdc-4675b5643f34",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "185.234.66.81",
-            "server_port": 443,
-            "uuid": "6e812804-b0e8-4eff-9c2e-96c6fed96f1b",
+            "server": "172.67.207.54",
+            "server_port": 8880,
+            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "185.234.66.81",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "/lkjdasws",
+                "path": "/34COh9NCiin5SJMk?ed=2560",
                 "headers": {
-                    "Host": "185.234.66.81"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "103.231.75.17",
-            "server_port": 443,
-            "uuid": "52a1f20b-e3e2-4280-a953-1c7e940408b6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "103.231.75.17",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/lfcinsws",
-                "headers": {
-                    "Host": "103.231.75.17"
+                    "Host": "172.67.207.54"
                 }
             }
         },
@@ -1006,29 +957,6 @@
                     "enabled": true,
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 15",
-            "type": "vless",
-            "server": "172.235.141.7",
-            "server_port": 80,
-            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
-                    "short_id": "94aa1bdc"
                 }
             }
         },
@@ -1634,16 +1562,16 @@
         {
             "tag": "🇦🇲 AM | 🔴 | vless | @server444 | 2",
             "type": "vless",
-            "server": "93.115.240.77",
-            "server_port": 20000,
-            "uuid": "8dd851a9-39e4-4baf-a443-17c688aa6dfc",
+            "server": "85.90.207.183",
+            "server_port": 54300,
+            "uuid": "1d1e6598-1373-4dc2-a424-d289f2da5d25",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "93.115.240.77"
+                    "Host": "85.90.207.183"
                 }
             }
         },
