@@ -100,20 +100,18 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
                 "🇨🇦 CA | 🔴 | vless | @elfv2ray | 0",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
@@ -265,20 +263,18 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
                 "🇨🇦 CA | 🔴 | vless | @elfv2ray | 0",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
@@ -615,56 +611,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "f6.sarasimano.com",
-            "server_port": 2096,
-            "uuid": "502ce704-dcec-4f92-9489-505c99ce6c89",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "f6.sarasimano.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "f6.sarasimano.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
-            "type": "vless",
-            "server": "f5.sarasimano.com",
-            "server_port": 2096,
-            "uuid": "502ce704-dcec-4f92-9489-505c99ce6c89",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "f5.sarasimano.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "f5.sarasimano.com"
-                }
-            }
-        },
-        {
             "tag": "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -738,7 +684,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -747,7 +693,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -808,7 +754,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
