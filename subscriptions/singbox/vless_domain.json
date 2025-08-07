@@ -99,8 +99,7 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇨🇦 CA | 🟢 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+                "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -124,6 +123,7 @@
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
+                "🇨🇦 CA | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "❔ XX | 🔴 | vless | @freedom_config | 5",
                 "❔ XX | 🔴 | vless | @freedom_config | 6",
@@ -263,8 +263,7 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇨🇦 CA | 🟢 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
+                "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -288,6 +287,7 @@
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
+                "🇨🇦 CA | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
                 "❔ XX | 🔴 | vless | @freedom_config | 5",
                 "❔ XX | 🔴 | vless | @freedom_config | 6",
@@ -604,50 +604,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @configshubplus | 16",
+            "tag": "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2096,
-            "uuid": "cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d",
+            "server": "panke1.dadasoratmolayi.com",
+            "server_port": 443,
+            "uuid": "91d233a2-08a8-4006-ac8b-597fb41ea2bb",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "638879176706570136.amsterdam-prx-dnraaal.info",
+                "server_name": "panke1.dadasoratmolayi.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/nqxbfjws",
-                "headers": {
-                    "Host": "638879176706570136.amsterdam-prx-dnraaal.info"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
-            "type": "vless",
-            "server": "amazon-17.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
                 }
             }
         },
@@ -1016,6 +986,31 @@
                 "path": "/hajmi?ed=2050",
                 "headers": {
                     "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🟢 | vless | @free_serverir | 28",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "638879176706570136.amsterdam-prx-dnraaal.info",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/nqxbfjws",
+                "headers": {
+                    "Host": "638879176706570136.amsterdam-prx-dnraaal.info"
                 }
             }
         },
