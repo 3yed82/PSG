@@ -112,7 +112,6 @@
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
-                "🇺🇸 US | 🟢 | ss | @vpnaloo | 11",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 0"
             ],
             "tag": "proxy",
@@ -144,7 +143,6 @@
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
-                "🇺🇸 US | 🟢 | ss | @vpnaloo | 11",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 0"
             ],
             "tag": "auto",
@@ -339,14 +337,6 @@
             "server_port": 42090,
             "method": "chacha20-ietf-poly1305",
             "password": "uQS5ntVqC00sSKkeNzUiD3"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @vpnaloo | 11",
-            "type": "shadowsocks",
-            "server": "45.87.175.69",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @vpnod | 0",

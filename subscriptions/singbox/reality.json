@@ -91,6 +91,7 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -109,6 +110,7 @@
                 "🇩🇪 DE | 🟢 | vless | @mastervpnshop1 | 14",
                 "🇫🇮 FI | 🟢 | vless | @melov2ray | 30",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 15",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 4",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 5",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
@@ -135,12 +137,13 @@
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
-                "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
+                "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 14",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
+                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 15",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14",
@@ -156,6 +159,7 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 15",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -174,6 +178,7 @@
                 "🇩🇪 DE | 🟢 | vless | @mastervpnshop1 | 14",
                 "🇫🇮 FI | 🟢 | vless | @melov2ray | 30",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 15",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 4",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 5",
                 "🇳🇱 NL | 🟢 | vless | @tehranfreevpn | 6",
@@ -200,12 +205,13 @@
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
-                "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
+                "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 14",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
                 "❔ XX | 🟢 | vless | @savagenet | 0",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
+                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 15",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14",
@@ -269,6 +275,29 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "109.61.16.89",
+            "server_port": 30938,
+            "uuid": "1068814a-6d43-40d9-a127-0f6b6b77ccfc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "indeed.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE",
+                    "short_id": "9f2b1f07"
                 }
             }
         },
@@ -722,6 +751,29 @@
                     "enabled": true,
                     "public_key": "W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 15",
+            "type": "vless",
+            "server": "23.94.206.83",
+            "server_port": 443,
+            "uuid": "99c2d486-7c8e-4599-8f01-6ee149c01920",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "bale.ai",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wlAhp5AizFU94xHXO_3R3z_Hl11f5CmjJajrr60RgGw",
+                    "short_id": "cd6a271c25"
                 }
             }
         },
@@ -1367,7 +1419,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 15",
+            "tag": "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "ru2.asc-sam.ir",
             "server_port": 8443,
@@ -1518,6 +1570,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @vpnaloo | 15",
+            "type": "vless",
+            "server": "ban.mashti.my",
+            "server_port": 7893,
+            "uuid": "97679fc2-deb6-4ab5-94bb-686622bc4d03",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo",
+                    "short_id": ""
+                }
             }
         },
         {

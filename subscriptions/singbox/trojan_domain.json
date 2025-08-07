@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4"
@@ -102,7 +101,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4"
@@ -118,22 +116,6 @@
         },
         {
             "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-            "type": "trojan",
-            "server": "ru2.asc-sam.ir",
-            "server_port": 443,
-            "password": "AdPYCBfMUM",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 12",
             "type": "trojan",
             "server": "ru2.asc-sam.ir",
             "server_port": 443,
