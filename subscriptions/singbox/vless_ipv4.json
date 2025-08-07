@@ -100,8 +100,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 10",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 11",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -149,7 +149,7 @@
                 "🇮🇷 IR | 🔴 | vless | @minovpnch | 11",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 15",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇮🇷 IR | 🔴 | vless | @pistachiovpn | 1",
                 "🇮🇷 IR | 🔴 | vless | @pistachiovpn | 2",
                 "🇺🇸 US | 🟢 | vless | @pro_chaneel | 0",
@@ -227,8 +227,8 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 10",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 11",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -276,7 +276,7 @@
                 "🇮🇷 IR | 🔴 | vless | @minovpnch | 11",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
                 "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 15",
+                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
                 "🇮🇷 IR | 🔴 | vless | @pistachiovpn | 1",
                 "🇮🇷 IR | 🔴 | vless | @pistachiovpn | 2",
                 "🇺🇸 US | 🟢 | vless | @pro_chaneel | 0",
@@ -554,7 +554,32 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 14",
+            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 10",
+            "type": "vless",
+            "server": "185.234.66.101",
+            "server_port": 443,
+            "uuid": "d4992ec8-d781-45f5-9f59-ef8c769f46f9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "185.234.66.101",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/hfwsxtws",
+                "headers": {
+                    "Host": "185.234.66.101"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -566,22 +591,6 @@
                 "path": "/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
                 "headers": {
                     "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 15",
-            "type": "vless",
-            "server": "104.16.69.64",
-            "server_port": 8880,
-            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/7YVyoVNnbaVzgl6D?ed=2560",
-                "headers": {
-                    "Host": "104.16.69.64"
                 }
             }
         },
@@ -1487,7 +1496,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
             "type": "vless",
             "server": "23.94.206.83",
             "server_port": 443,
