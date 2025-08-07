@@ -127,6 +127,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -192,6 +193,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
+                "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
@@ -1156,6 +1158,29 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | vless | @configshubplus | 15",
+            "type": "vless",
+            "server": "gb01-vlr01.tcp-reset-club.net",
+            "server_port": 443,
+            "uuid": "0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hls-svod.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "31"
                 }
             }
         },

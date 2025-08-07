@@ -98,8 +98,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇵🇱 PL | 🟢 | vless | @configshubplus | 12",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -107,6 +106,7 @@
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 10",
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 11",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇩🇪 DE | 🔴 | vless | @filtershkan2 | 4",
@@ -220,8 +220,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇵🇱 PL | 🟢 | vless | @configshubplus | 12",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -229,6 +228,7 @@
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 10",
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 11",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇩🇪 DE | 🔴 | vless | @filtershkan2 | 4",
@@ -512,16 +512,16 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🟢 | vless | @configshubplus | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 18",
             "type": "vless",
-            "server": "194.147.34.72",
+            "server": "160.153.0.32",
             "server_port": 443,
-            "uuid": "0132740f-c0d4-5f8b-b283-77f3fd604c57",
+            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "zula.ir",
+                "server_name": "carlotta.shoorekeeper.cloudns.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -530,25 +530,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/vless",
+                "path": "/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560",
                 "headers": {
-                    "Host": "zula.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 13",
-            "type": "vless",
-            "server": "172.67.207.54",
-            "server_port": 8880,
-            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/34COh9NCiin5SJMk?ed=2560",
-                "headers": {
-                    "Host": "172.67.207.54"
+                    "Host": "carlotta.shoorekeeper.cloudns.org"
                 }
             }
         },
@@ -659,6 +643,22 @@
                     "enabled": true,
                     "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
                     "short_id": "61e683d41fdb"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+            "type": "vless",
+            "server": "104.21.112.1",
+            "server_port": 80,
+            "uuid": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/193.123.81.105=443",
+                "headers": {
+                    "Host": "104.21.112.1"
                 }
             }
         },

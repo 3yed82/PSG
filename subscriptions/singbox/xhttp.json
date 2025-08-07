@@ -91,6 +91,7 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -113,6 +114,7 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 15",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -165,6 +167,15 @@
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "configline.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
             "flow": "",
             "packet_encoding": "xudp"
         },
