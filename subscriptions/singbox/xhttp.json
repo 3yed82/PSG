@@ -94,10 +94,11 @@
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "❔ XX | 🔴 | vless | @freakconfig | 13",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 13",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 13",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 14",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
@@ -117,10 +118,11 @@
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "❔ XX | 🔴 | vless | @freakconfig | 13",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 13",
+                "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 13",
                 "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 14",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+                "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
@@ -207,7 +209,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 13",
+            "tag": "🇨🇦 CA | 🟢 | vless | @noforcedheaven | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -276,6 +278,29 @@
                     "enabled": true,
                     "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
                     "short_id": "f58f"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "150.241.108.219",
+            "server_port": 51410,
+            "uuid": "8bd2d4c0-066e-4aad-86a2-6fe8cd348905",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "D45w-QY77mBJqaIH5b4SOh0vAyXG6quUhvjQRTamHks",
+                    "short_id": "e60c21"
                 }
             }
         },
