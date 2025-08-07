@@ -48,7 +48,8 @@
     },
     "configshubplus": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -266,6 +267,7 @@
     },
     "hopev2ray": {
         "types": [
+            "trojan",
             "vless"
         ],
         "title": "𝐇𝐨𝐩𝐞 𝐯𝟐𝐫𝐚𝐲",
