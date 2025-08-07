@@ -99,13 +99,12 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -263,13 +262,12 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -604,24 +602,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @configshubplus | 14",
-            "type": "vless",
-            "server": "panke1.dadasoratmolayi.com",
-            "server_port": 443,
-            "uuid": "91d233a2-08a8-4006-ac8b-597fb41ea2bb",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "panke1.dadasoratmolayi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -695,7 +675,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -704,7 +684,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
