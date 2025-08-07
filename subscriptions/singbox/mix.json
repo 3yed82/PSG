@@ -112,10 +112,10 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 10",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🔴 | trojan | @configshubplus | 12",
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 13",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 11",
+                "🇫🇷 FR | 🔴 | vless | @configshubplus | 12",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
@@ -207,10 +207,11 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🏳️  | 🔴 | vmess | @hope_net | 15",
-                "🇨🇦 CA | 🟢 | trojan | @hope_net | 16",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 4",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
@@ -513,10 +514,10 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇺🇸 US | 🟢 | ss | @configshubplus | 10",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🔴 | trojan | @configshubplus | 12",
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 13",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 11",
+                "🇫🇷 FR | 🔴 | vless | @configshubplus | 12",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
+                "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
@@ -608,10 +609,11 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🏳️  | 🔴 | vmess | @hope_net | 15",
-                "🇨🇦 CA | 🟢 | trojan | @hope_net | 16",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
                 "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 4",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
@@ -1294,52 +1296,88 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @configshubplus | 10",
-            "type": "shadowsocks",
-            "server": "45.87.175.171",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 11",
+            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 11",
             "type": "vless",
-            "server": "51.195.119.204",
-            "server_port": 80,
-            "uuid": "2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe",
+            "server": "185.234.66.93",
+            "server_port": 443,
+            "uuid": "e7d08833-b87f-4e9f-9f48-38485e58155e",
             "flow": "",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "51.195.119.204"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @configshubplus | 12",
-            "type": "trojan",
-            "server": "172.67.244.88",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "172.67.244.88",
+                "server_name": "185.234.66.93",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/zqpahpws",
+                "headers": {
+                    "Host": "185.234.66.93"
+                }
             }
         },
         {
-            "tag": "🇸🇪 SE | 🟢 | ss | @configshubplus | 13",
-            "type": "shadowsocks",
-            "server": "135.225.124.80",
-            "server_port": 48172,
-            "method": "chacha20-ietf-poly1305",
-            "password": "51yloQC8D9w1Wae7FHtI65"
+            "tag": "🇫🇷 FR | 🔴 | vless | @configshubplus | 12",
+            "type": "vless",
+            "server": "79.137.33.139",
+            "server_port": 16390,
+            "uuid": "170ba974-6ae5-44ae-dfdc-4675b5643f34",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 13",
+            "type": "vless",
+            "server": "185.234.66.81",
+            "server_port": 443,
+            "uuid": "6e812804-b0e8-4eff-9c2e-96c6fed96f1b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "185.234.66.81",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/lkjdasws",
+                "headers": {
+                    "Host": "185.234.66.81"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇷 TR | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "103.231.75.17",
+            "server_port": 443,
+            "uuid": "52a1f20b-e3e2-4280-a953-1c7e940408b6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "103.231.75.17",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/lfcinsws",
+                "headers": {
+                    "Host": "103.231.75.17"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
@@ -2760,32 +2798,7 @@
             }
         },
         {
-            "tag": "🏳️  | 🔴 | vmess | @hope_net | 15",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "caaabbc-baca-baca-badc-cbacbcacaabb",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | trojan | @hope_net | 16",
-            "type": "trojan",
-            "server": "15.223.164.26",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 15",
             "type": "vless",
             "server": "172.235.141.7",
             "server_port": 80,
@@ -2808,7 +2821,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
             "type": "trojan",
             "server": "104.25.221.170",
             "server_port": 443,
@@ -2816,6 +2829,54 @@
             "tls": {
                 "enabled": true,
                 "server_name": "104.25.221.170",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
+            "type": "trojan",
+            "server": "172.67.244.88",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.67.244.88",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 18",
+            "type": "trojan",
+            "server": "108.162.192.252",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "108.162.192.252",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "172.67.145.193",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.67.145.193",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
