@@ -99,7 +99,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -216,8 +216,8 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -234,10 +234,10 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
                 "🇨🇦 CA | 🔴 | vless | @flyv2ray | 13",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
@@ -385,7 +385,7 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
+                "🇩🇪 DE | 🔴 | vless | @configshubplus | 18",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -502,8 +502,8 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
-                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
@@ -520,10 +520,10 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
                 "🇨🇦 CA | 🔴 | vless | @flyv2ray | 13",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "🇩🇪 DE | 🔴 | vless | @freakconfig | 13",
                 "🇨🇦 CA | 🔴 | vless | @free_serverir | 25",
@@ -856,27 +856,20 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 15",
+            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 18",
             "type": "vless",
-            "server": "172.64.151.232",
+            "server": "91.99.144.152",
             "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "uuid": "d67e296c-2aad-482d-9226-bf1bc665c783",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "server_name": "91.99.144.152",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?---proxy_mtm------proxy_mtm------proxy_mtm------proxy_mtm?ed=2560",
-                "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
                 }
             }
         },
@@ -3090,34 +3083,52 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 16",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "JOIN_BDE_JKVPN",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 2096,
+            "uuid": "666a2803-43f2-4317-9661-dc978d869d47",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "638899136128783410.amsterdam-prx-dnraaal.info",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048",
+                "path": "/dahstrws",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "638899136128783410.amsterdam-prx-dnraaal.info"
                 }
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 17",
             "type": "vless",
-            "server": "www.zula.ir",
-            "server_port": 80,
-            "uuid": "JOIN_BDE_JKVPN",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 443,
+            "uuid": "57f00763-7751-4e0c-a6c9-29d3176a74fb",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "638901504444939106.esfahan-prx-dnraabg.info",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048",
+                "path": "/urdpjvws",
                 "headers": {
-                    "Host": "www.zula.ir"
+                    "Host": "638901504444939106.esfahan-prx-dnraabg.info"
                 }
             }
         },
@@ -3369,22 +3380,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
-            "type": "vless",
-            "server": "chat.openai.com",
-            "server_port": 8080,
-            "uuid": "5badc2fd-58f1-4eb6-d099-83a35a25b007",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/olem/ws?ed=1024",
-                "headers": {
-                    "Host": "chat.openai.com"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
             "type": "vless",
             "server": "chat.openai.com",
@@ -3429,6 +3424,22 @@
                 "path": "/olem/ws?ed=1024",
                 "headers": {
                     "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
+            "type": "vless",
+            "server": "chat.openai.com",
+            "server_port": 8080,
+            "uuid": "026ce330-bb63-42fa-fac9-254275728d40",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/olem/ws?ed=1024",
+                "headers": {
+                    "Host": "chat.openai.com"
                 }
             }
         },
