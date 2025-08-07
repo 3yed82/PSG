@@ -95,7 +95,7 @@
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇫🇮 FI | 🟢 | vless | @flyv2ray | 10",
-                "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
+                "🇺🇸 US | 🟢 | vless | @freakconfig | 10",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
@@ -127,7 +127,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
+                "❔ XX | 🟢 | vless | @configshubplus | 16",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -144,6 +145,7 @@
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14",
+                "❔ XX | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @kesslervpn | 1",
                 "❔ XX | 🟢 | vless | @v2rayweb | 17",
                 "❔ XX | 🟢 | vless | @vpnvg | 10"
@@ -160,7 +162,7 @@
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇫🇮 FI | 🟢 | vless | @flyv2ray | 10",
-                "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
+                "🇺🇸 US | 🟢 | vless | @freakconfig | 10",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
@@ -192,7 +194,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
+                "❔ XX | 🟢 | vless | @configshubplus | 16",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -209,6 +212,7 @@
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14",
+                "❔ XX | 🟢 | vless | @configshubplus | 14",
                 "❔ XX | 🟢 | vless | @kesslervpn | 1",
                 "❔ XX | 🟢 | vless | @v2rayweb | 17",
                 "❔ XX | 🟢 | vless | @vpnvg | 10"
@@ -369,7 +373,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @freakconfig | 10",
             "type": "vless",
             "server": "62.60.178.200",
             "server_port": 40792,
@@ -1160,7 +1164,34 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
+            "tag": "❔ XX | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "book.srv2.quest",
+            "server_port": 28796,
+            "uuid": "260f4e3a-e436-47a0-86c8-4c2b60aa17f8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc",
+                    "short_id": "2eb360"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,
@@ -1587,6 +1618,33 @@
                     "public_key": "9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI",
                     "short_id": "ce"
                 }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @configshubplus | 14",
+            "type": "vless",
+            "server": "[2a03:b0c0:3:f0:0:1:230e:f000]",
+            "server_port": 27270,
+            "uuid": "1b38f1a4-5d20-44a9-a4d3-ca621ebfefbf",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "OMYgAO-fEdI3x7diLQDd2-xTkEMNNCeeYDhuweqex0c",
+                    "short_id": "ab"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {

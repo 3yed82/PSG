@@ -93,7 +93,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
+                "❔ XX | 🟢 | vless | @configshubplus | 16",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -121,7 +122,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
+                "❔ XX | 🟢 | vless | @configshubplus | 16",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -241,7 +243,34 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
+            "tag": "❔ XX | 🟢 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "book.srv2.quest",
+            "server_port": 28796,
+            "uuid": "260f4e3a-e436-47a0-86c8-4c2b60aa17f8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc",
+                    "short_id": "2eb360"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,

@@ -140,7 +140,6 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
-                "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
                 "❔ XX | 🔴 | vmess | @yaney_01 | 1",
                 "❔ XX | 🔴 | vmess | @yaney_01 | 2",
@@ -206,7 +205,6 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayvpnclub | 19",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
-                "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
                 "❔ XX | 🔴 | vmess | @xrayzxn | 5",
                 "❔ XX | 🔴 | vmess | @yaney_01 | 1",
                 "❔ XX | 🔴 | vmess | @yaney_01 | 2",
@@ -1042,22 +1040,6 @@
                 "path": "/nelly.homes/linkvws",
                 "headers": {
                     "Host": "sinaazizpor.cozwao.wORKeRs.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔴 | vmess | @wedbazvpn | 4",
-            "type": "vmess",
-            "server": "2.188.219.43",
-            "server_port": 8443,
-            "uuid": "b2e38621-035b-43f8-84a5-e92160762fc3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
