@@ -99,12 +99,14 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -262,12 +264,14 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 10",
                 "🇮🇷 IR | 🟢 | vless | @configscenter | 0",
                 "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
+                "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
+                "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 4",
                 "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -602,6 +606,38 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇨🇦 CA | 🔴 | vless | @configshubplus | 16",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "JOIN_BDE_JKVPN",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "www.zula.ir",
+            "server_port": 80,
+            "uuid": "JOIN_BDE_JKVPN",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048",
+                "headers": {
+                    "Host": "www.zula.ir"
+                }
+            }
+        },
+        {
             "tag": "🇨🇦 CA | 🔴 | vless | @custom_v2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -675,7 +711,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -684,7 +720,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,

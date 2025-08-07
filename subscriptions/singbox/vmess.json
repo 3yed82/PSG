@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | vmess | @canfing_vpn | 19",
+                "🇺🇸 US | 🔴 | vmess | @configshubplus | 19",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -155,6 +156,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vmess | @canfing_vpn | 19",
+                "🇺🇸 US | 🔴 | vmess | @configshubplus | 19",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
                 "🇫🇮 FI | 🔴 | vmess | @freeconfing | 10",
                 "🇷🇸 RS | 🔴 | vmess | @freeconfing | 11",
@@ -230,6 +232,22 @@
             "uuid": "695e359b-f44c-4701-9d70-84fc0e7cea0b",
             "security": "auto",
             "alter_id": 0
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @configshubplus | 19",
+            "type": "vmess",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "4-telegram-id---vpnf22",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
             "tag": "🇫🇮 FI | 🔴 | vmess | @freeconfing | 9",
