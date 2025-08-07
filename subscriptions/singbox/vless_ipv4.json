@@ -98,9 +98,9 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 14",
+                "🇹🇷 TR | 🔴 | vless | @configshubplus | 13",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -184,11 +184,11 @@
                 "🇺🇸 US | 🔴 | vless | @vip_vpn_2022 | 7",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
-                "🇫🇷 FR | 🟢 | vless | @vlessconfig | 11",
+                "🇩🇪 DE | 🟢 | vless | @vlessconfig | 11",
                 "🇩🇪 DE | 🟢 | vless | @vlessconfig | 12",
-                "🇩🇪 DE | 🟢 | vless | @vlessconfig | 13",
+                "🇫🇷 FR | 🟢 | vless | @vlessconfig | 13",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 14",
-                "🇫🇷 FR | 🟢 | vless | @vlessconfig | 15",
+                "🇩🇪 DE | 🟢 | vless | @vlessconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 13",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 15",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 16",
@@ -223,9 +223,9 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 17",
                 "🇺🇸 US | 🔴 | vless | @club_profsor | 13",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 11",
-                "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
-                "🇩🇪 DE | 🔴 | vless | @configshubplus | 14",
+                "🇹🇷 TR | 🔴 | vless | @configshubplus | 13",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
+                "🇬🇧 GB | 🔴 | vless | @configshubplus | 17",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇺🇸 US | 🔴 | vless | @customvpnserver | 10",
@@ -309,11 +309,11 @@
                 "🇺🇸 US | 🔴 | vless | @vip_vpn_2022 | 7",
                 "🇷🇺 RU | 🟢 | vless | @vipnetmeli | 1",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
-                "🇫🇷 FR | 🟢 | vless | @vlessconfig | 11",
+                "🇩🇪 DE | 🟢 | vless | @vlessconfig | 11",
                 "🇩🇪 DE | 🟢 | vless | @vlessconfig | 12",
-                "🇩🇪 DE | 🟢 | vless | @vlessconfig | 13",
+                "🇫🇷 FR | 🟢 | vless | @vlessconfig | 13",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 14",
-                "🇫🇷 FR | 🟢 | vless | @vlessconfig | 15",
+                "🇩🇪 DE | 🟢 | vless | @vlessconfig | 15",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 13",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 15",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 16",
@@ -518,63 +518,31 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 11",
+            "tag": "🇹🇷 TR | 🔴 | vless | @configshubplus | 13",
             "type": "vless",
-            "server": "91.99.188.109",
-            "server_port": 443,
-            "uuid": "bc4f49dc-2c50-49ac-b8fa-d3020a5e65de",
+            "server": "88.209.249.84",
+            "server_port": 38282,
+            "uuid": "7627df5b-8101-4230-dd73-47266d588ccd",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.188.109",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 12",
+            "tag": "🇬🇧 GB | 🔴 | vless | @configshubplus | 15",
             "type": "vless",
-            "server": "172.64.151.232",
-            "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "server": "77.81.81.69",
+            "server_port": 16032,
+            "uuid": "7627df5b-8101-4230-dd73-47266d588ccd",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN",
-                "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @configshubplus | 14",
+            "tag": "🇬🇧 GB | 🔴 | vless | @configshubplus | 17",
             "type": "vless",
-            "server": "51.195.119.204",
-            "server_port": 80,
-            "uuid": "2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe",
+            "server": "77.81.81.69",
+            "server_port": 49822,
+            "uuid": "7627df5b-8101-4230-dd73-47266d588ccd",
             "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "51.195.119.204"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @custom_v2ray | 3",
@@ -1380,7 +1348,7 @@
             "type": "vless",
             "server": "65.109.208.107",
             "server_port": 2083,
-            "uuid": "7dce4e98-52a9-42d1-95e7-996403e310c5",
+            "uuid": "e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -2114,32 +2082,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @vlessconfig | 11",
-            "type": "vless",
-            "server": "35.180.236.83",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vlessconfig | 12",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vlessconfig | 11",
             "type": "vless",
             "server": "35.156.105.59",
             "server_port": 22224,
@@ -2164,7 +2107,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vlessconfig | 13",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vlessconfig | 12",
             "type": "vless",
             "server": "3.78.38.140",
             "server_port": 22224,
@@ -2189,7 +2132,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @vlessconfig | 14",
+            "tag": "🇫🇷 FR | 🟢 | vless | @vlessconfig | 13",
             "type": "vless",
             "server": "15.236.2.100",
             "server_port": 22224,
@@ -2214,9 +2157,34 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @vlessconfig | 15",
+            "tag": "🇫🇷 FR | 🟢 | vless | @vlessconfig | 14",
             "type": "vless",
             "server": "15.188.103.156",
+            "server_port": 22224,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/telegram-channel-vlessconfig",
+                "headers": {
+                    "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @vlessconfig | 15",
+            "type": "vless",
+            "server": "3.126.80.76",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
