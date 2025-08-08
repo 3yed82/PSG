@@ -102,14 +102,14 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
@@ -268,14 +268,14 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
@@ -672,7 +672,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -681,7 +681,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -742,18 +742,18 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
-            "server": "cumhuriyet.com.tr",
-            "server_port": 8080,
-            "uuid": "f1cafb30-6de3-4712-e77c-823a864b66c3",
+            "server": "srv7.lifeisjustaclickaway.com",
+            "server_port": 18021,
+            "uuid": "878f76fb-5aa2-48cf-c7c5-afe87d9fef88",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
+                "path": "/",
                 "headers": {
-                    "Host": "cumhuriyet.com.tr"
+                    "Host": "srv7.lifeisjustaclickaway.com"
                 }
             }
         },
@@ -1590,7 +1590,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "6e2fcf9f-c5b3-48c1-a423-6b9148f692ec",
+            "uuid": "4790ea39-1388-48b4-ba75-8e58836aad1e",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1606,7 +1606,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "4790ea39-1388-48b4-ba75-8e58836aad1e",
+            "uuid": "61426e5a-aeb7-4f12-8c7d-3d78115dcca0",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1622,7 +1622,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "61426e5a-aeb7-4f12-8c7d-3d78115dcca0",
+            "uuid": "e458f447-5f9f-4b96-aabf-a55b28be4308",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1638,7 +1638,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "e458f447-5f9f-4b96-aabf-a55b28be4308",
+            "uuid": "cb12aa10-1831-42a0-a489-bc459885187d",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1654,7 +1654,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "cb12aa10-1831-42a0-a489-bc459885187d",
+            "uuid": "4a8cf62f-998f-413e-8301-cc3d06e805e2",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
