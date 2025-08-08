@@ -121,6 +121,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
                 "🇩🇪 DE | 🟢 | vless | @hope_net | 18",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
@@ -246,6 +247,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
                 "🇩🇪 DE | 🟢 | vless | @hope_net | 18",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
@@ -931,9 +933,34 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 18",
+            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 16",
             "type": "vless",
             "server": "130.162.238.94",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "pvg.aghabeiki.homes",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2744security=tls",
+                "headers": {
+                    "Host": "pvg.aghabeiki.homes"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 18",
+            "type": "vless",
+            "server": "130.162.53.148",
             "server_port": 443,
             "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
@@ -1580,16 +1607,16 @@
         {
             "tag": "🇦🇲 AM | 🔴 | vless | @server444 | 2",
             "type": "vless",
-            "server": "85.90.207.183",
+            "server": "93.115.240.88",
             "server_port": 20000,
-            "uuid": "22ebae6f-c03b-4b92-9f92-01affdb93a83",
+            "uuid": "ea3b21e1-9340-4fd0-952a-0c0880888a8a",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "85.90.207.183"
+                    "Host": "93.115.240.88"
                 }
             }
         },
