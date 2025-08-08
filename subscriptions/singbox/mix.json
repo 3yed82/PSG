@@ -131,8 +131,7 @@
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
-                "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
-                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 14",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
@@ -200,10 +199,10 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 15",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 16",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇳🇱 NL | 🟢 | trojan | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
@@ -523,8 +522,7 @@
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
-                "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
-                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 14",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
@@ -592,10 +590,10 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 15",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 16",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇳🇱 NL | 🟢 | trojan | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
@@ -1521,23 +1519,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "d626ea85-ab8b-410f-9d9b-6cc3a03a7c28",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+            "tag": "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -2659,40 +2641,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 15",
-            "type": "vless",
-            "server": "193.122.58.158",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "pvg.aghabeiki.homes",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2744security=tls",
-                "headers": {
-                    "Host": "pvg.aghabeiki.homes"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 16",
-            "type": "shadowsocks",
-            "server": "38.143.66.87",
-            "server_port": 5000,
-            "method": "aes-256-gcm",
-            "password": "Y6R9pAtvxxzmGC"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 15",
             "type": "vless",
             "server": "172.233.182.211",
             "server_port": 80,
@@ -2715,7 +2664,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
             "type": "trojan",
             "server": "172.67.179.208",
             "server_port": 443,
@@ -2727,6 +2676,37 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+            "type": "shadowsocks",
+            "server": "45.87.175.164",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "1RWwXhwfAB5gAEozU4G2Pg"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "188.42.145.159",
+            "server_port": 443,
+            "password": "54ef4ecf-ff37-436a-be13-95c8a8a1114d",
+            "tls": {
+                "enabled": true,
+                "server_name": "VIrgiNiavPn-nL.pagEs.dEv",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram@V2ray_Alpha/?ed=2048",
+                "headers": {
+                    "Host": "VIrgiNiavPn-nL.pagEs.dEv"
                 }
             }
         },

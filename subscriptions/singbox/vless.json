@@ -106,7 +106,7 @@
                 "🇸🇪 SE | 🔴 | vless | @darkma3ter24 | 9",
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 10",
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 11",
-                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 14",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -120,8 +120,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 15",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -222,7 +221,6 @@
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
-                "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
@@ -390,7 +388,7 @@
                 "🇸🇪 SE | 🔴 | vless | @darkma3ter24 | 9",
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 10",
                 "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 11",
-                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 14",
                 "🇮🇷 IR | 🔴 | vless | @farstar_vpn | 0",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
@@ -404,8 +402,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 15",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -506,7 +503,6 @@
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
-                "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
@@ -955,7 +951,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
+            "tag": "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -1226,32 +1222,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 15",
-            "type": "vless",
-            "server": "193.122.58.158",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "pvg.aghabeiki.homes",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2744security=tls",
-                "headers": {
-                    "Host": "pvg.aghabeiki.homes"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 15",
             "type": "vless",
             "server": "172.233.182.211",
             "server_port": 80,
@@ -3135,22 +3106,6 @@
             "uuid": "dc58f214-4227-4f58-8090-cbcedf1adeba",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @elfv2ray | 0",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "d626ea85-ab8b-410f-9d9b-6cc3a03a7c28",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
