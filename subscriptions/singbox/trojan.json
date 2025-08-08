@@ -90,8 +90,9 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
-                "🇳🇱 NL | 🟢 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+                "🇳🇱 NL | 🟢 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
@@ -117,8 +118,9 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
-                "🇳🇱 NL | 🟢 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
+                "🇳🇱 NL | 🟢 | trojan | @hope_net | 17",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
@@ -154,7 +156,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 17",
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 15",
             "type": "trojan",
             "server": "172.67.179.208",
             "server_port": 443,
@@ -170,7 +172,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | trojan | @hope_net | 19",
+            "tag": "🇳🇱 NL | 🟢 | trojan | @hope_net | 17",
             "type": "trojan",
             "server": "188.42.145.159",
             "server_port": 443,
@@ -189,6 +191,29 @@
                 "path": "/Telegram@V2ray_Alpha/?ed=2048",
                 "headers": {
                     "Host": "VIrgiNiavPn-nL.pagEs.dEv"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "104.27.125.51",
+            "server_port": 443,
+            "password": "blue2024",
+            "tls": {
+                "enabled": true,
+                "server_name": "hb.lii2010.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "hb.lii2010.us.kg"
                 }
             }
         },

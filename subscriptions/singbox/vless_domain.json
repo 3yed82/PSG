@@ -102,8 +102,8 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -175,9 +175,9 @@
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 32",
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 33",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
-                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 6",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 10",
+                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 11",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 5",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 6",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 7",
@@ -267,8 +267,8 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -340,9 +340,9 @@
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 32",
                 "🇺🇸 US | 🔴 | vless | @melov2ray | 33",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
-                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 6",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 10",
+                "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 11",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 5",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 6",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 7",
@@ -670,7 +670,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -679,7 +679,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -1938,22 +1938,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 6",
-            "type": "vless",
-            "server": "dedicated-development.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "2054405e-70ff-40a2-ae27-16b63d72390a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "dedicated-development.seotoolsforyou.co.uk"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 9",
             "type": "vless",
             "server": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK",
@@ -1982,6 +1966,22 @@
                 "path": "/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
                 "headers": {
                     "Host": "jealous-competition.seotoolsforyou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 11",
+            "type": "vless",
+            "server": "informed-location.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "5c929ec5-5b1e-447a-950c-354c5d1ba1de",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "informed-location.seotoolsforyou.co.uk"
                 }
             }
         },
