@@ -199,11 +199,11 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 16",
-                "🇨🇦 CA | 🟢 | ss | @hope_net | 17",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 18",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+                "🇨🇦 CA | 🟢 | ss | @hope_net | 15",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 16",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
@@ -591,11 +591,11 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 15",
-                "🇺🇸 US | 🔴 | vless | @hope_net | 16",
-                "🇨🇦 CA | 🟢 | ss | @hope_net | 17",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 18",
-                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+                "🇨🇦 CA | 🟢 | ss | @hope_net | 15",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 16",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
@@ -2651,39 +2651,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 15",
-            "type": "vless",
-            "server": "172.233.190.5",
-            "server_port": 80,
-            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
-                    "short_id": "94aa1bdc"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @hope_net | 16",
-            "type": "vless",
-            "server": "172.66.47.146",
-            "server_port": 8880,
-            "uuid": "e952fc48-1f3d-47b4-b7bf-1149e0b4dbe6",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | ss | @hope_net | 17",
+            "tag": "🇨🇦 CA | 🟢 | ss | @hope_net | 15",
             "type": "shadowsocks",
             "server": "142.4.216.225",
             "server_port": 80,
@@ -2691,7 +2659,7 @@
             "password": "JIhN6rBKkaEboLNXVSv5rq"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 18",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 16",
             "type": "vless",
             "server": "172.235.142.21",
             "server_port": 80,
@@ -2714,7 +2682,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 17",
             "type": "vless",
             "server": "104.16.125.175",
             "server_port": 443,
@@ -2735,6 +2703,37 @@
                 "path": "/",
                 "headers": {
                     "Host": "bia-falcunargo.606c0a9742.workers.Dev"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+            "type": "shadowsocks",
+            "server": "23.154.136.247",
+            "server_port": 2376,
+            "method": "aes-256-gcm",
+            "password": "faBAoD54k87UJG7"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "162.159.82.231",
+            "server_port": 443,
+            "password": "blue2024",
+            "tls": {
+                "enabled": true,
+                "server_name": "hb.lii2010.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "hb.lii2010.us.kg"
                 }
             }
         },
