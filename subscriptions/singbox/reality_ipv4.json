@@ -94,7 +94,6 @@
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
-                "🇫🇮 FI | 🟢 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
@@ -136,7 +135,6 @@
                 "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
                 "🇩🇪 DE | 🟢 | vless | @elfv2ray | 1",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
-                "🇫🇮 FI | 🟢 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🟢 | vless | @freakconfig | 12",
                 "🇩🇪 DE | 🟢 | vless | @goldenshiinevpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
@@ -293,33 +291,6 @@
                     "public_key": "ksx0hPrRqVF_fCBua6cSk-tG3cs44ypIxU31AJ4_xiw",
                     "short_id": "453bd40e2900fc73"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @flyv2ray | 10",
-            "type": "vless",
-            "server": "65.109.208.107",
-            "server_port": 2083,
-            "uuid": "27ab1462-5fa9-47f0-c7fe-f8e83f4be942",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "khamenei.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8",
-                    "short_id": "54602915a7"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "melov2ray"
             }
         },
         {

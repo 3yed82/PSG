@@ -117,6 +117,7 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
@@ -147,6 +148,7 @@
                 "🇺🇸 US | 🔴 | vless | @goldenshiinevpn | 9",
                 "❔ XX | 🔴 | vless | @goldenvpn_v2rayy | 0",
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
+                "❔ XX | 🟢 | vless | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🔴 | vless | @iranproxypro | 2",
                 "❔ XX | 🔴 | vless | @iranproxypro | 3",
@@ -284,6 +286,7 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
@@ -314,6 +317,7 @@
                 "🇺🇸 US | 🔴 | vless | @goldenshiinevpn | 9",
                 "❔ XX | 🔴 | vless | @goldenvpn_v2rayy | 0",
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
+                "❔ XX | 🟢 | vless | @hope_net | 19",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🔴 | vless | @iranproxypro | 2",
                 "❔ XX | 🔴 | vless | @iranproxypro | 3",
@@ -923,7 +927,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -939,7 +943,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -955,7 +959,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -971,7 +975,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -983,6 +987,22 @@
                 "path": "/olem/ws?ed=1024",
                 "headers": {
                     "Host": "chat.openai.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
+            "type": "vless",
+            "server": "tgju.org",
+            "server_port": 80,
+            "uuid": "71552f5b-0597-4524-c035-916f9298e163",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/olem/ws?ed=1024",
+                "headers": {
+                    "Host": "tgju.org"
                 }
             }
         },
@@ -1423,6 +1443,24 @@
                 "path": "/custom-config",
                 "headers": {
                     "Host": "cdn.king4father.shop"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @hope_net | 19",
+            "type": "vless",
+            "server": "005188006073.sec1org.com",
+            "server_port": 443,
+            "uuid": "7582e721-8c32-4fb1-8669-b3fae590f3eb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "005188006073.sec1org.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
