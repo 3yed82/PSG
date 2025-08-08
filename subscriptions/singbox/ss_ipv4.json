@@ -93,12 +93,11 @@
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
-                "🇳🇱 NL | 🟢 | ss | @falcunargo | 9",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 15",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇹🇷 TR | 🟢 | ss | @g0dv2ray | 12",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 16",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 9",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 10",
@@ -114,7 +113,7 @@
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
-                "🇳🇱 NL | 🟢 | ss | @vpnaloo | 15"
+                "🇳🇱 NL | 🟢 | ss | @vpnaloo | 14"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -126,12 +125,11 @@
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
-                "🇳🇱 NL | 🟢 | ss | @falcunargo | 9",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 15",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇹🇷 TR | 🟢 | ss | @g0dv2ray | 12",
                 "🇩🇪 DE | 🟢 | ss | @hackmodvpnservers | 2",
-                "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+                "🇺🇸 US | 🟢 | ss | @hope_net | 16",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇩🇪 DE | 🟢 | ss | @jiedianssr | 9",
                 "🇳🇱 NL | 🟢 | ss | @jiedianssr | 10",
@@ -147,7 +145,7 @@
                 "🇺🇸 US | 🟢 | ss | @v2rayngalpha | 3",
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
-                "🇳🇱 NL | 🟢 | ss | @vpnaloo | 15"
+                "🇳🇱 NL | 🟢 | ss | @vpnaloo | 14"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -191,14 +189,6 @@
             "password": "OUERiyxvrzTJi5kftx980G"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @falcunargo | 9",
-            "type": "shadowsocks",
-            "server": "193.29.139.240",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
             "tag": "🇸🇬 SG | 🟢 | ss | @freakconfig | 15",
             "type": "shadowsocks",
             "server": "68.183.226.95",
@@ -231,7 +221,7 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 18",
+            "tag": "🇺🇸 US | 🟢 | ss | @hope_net | 16",
             "type": "shadowsocks",
             "server": "38.143.66.87",
             "server_port": 5000,
@@ -359,7 +349,7 @@
             "password": "uQS5ntVqC00sSKkeNzUiD3"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @vpnaloo | 15",
+            "tag": "🇳🇱 NL | 🟢 | ss | @vpnaloo | 14",
             "type": "shadowsocks",
             "server": "193.29.139.235",
             "server_port": 8080,

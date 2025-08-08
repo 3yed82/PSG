@@ -39,7 +39,7 @@ proxies:
   - {"name":"❔ XX | 🟢 | vless | @proxy_iranv2 | 3","type":"vless","server":"vpncustomize.cam","port":443,"uuid":"4fd0c05c-3d20-4512-9628-0eeade38d4c4","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"www.iranserver.com","grpc-opts":{"grpc-service-name":"@VPNCUSTOMIZE"},"reality-opts":{"public-key":"55xH-tqPd6c0VZpbwlxRxhmfvp9lVUtp45CDJLpcw2I","short-id":"6b0541cd"}}
   - {"name":"❔ XX | 🟢 | vless | @v2rayngconfings | 17","type":"vless","server":"618-Join.V2RayTz.sbs","port":8080,"uuid":"42873f71-9718-4f3d-9907-de43001e2284","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"www.speedtest.net","grpc-opts":{"grpc-service-name":"@LIGHTNING6"},"reality-opts":{"public-key":"4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg","short-id":"356dc0"}}
   - {"name":"❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8","type":"vless","server":"accpremium.outlineprivate.store","port":443,"uuid":"3003c4dc-66c7-446c-b4ba-5f3ee893ec66","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"ftp.debian.org","grpc-opts":{"grpc-service-name":"@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN"},"reality-opts":{"public-key":"bbGjxnVYyeEri21g3WxECXblTTUYtSdah1nn0zYeKUw","short-id":"6f760d96"}}
-  - {"name":"🇳🇱 NL | 🟢 | vless | @vpnaloo | 14","type":"vless","server":"ban.mashti.my","port":7893,"uuid":"97679fc2-deb6-4ab5-94bb-686622bc4d03","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo"}}
+  - {"name":"🇳🇱 NL | 🟢 | vless | @vpnaloo | 13","type":"vless","server":"ban.mashti.my","port":7893,"uuid":"97679fc2-deb6-4ab5-94bb-686622bc4d03","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo"}}
   - {"name":"🇩🇪 DE | 🟢 | vless | @vpnod | 3","type":"vless","server":"graygoat.fonixapp.org","port":45846,"uuid":"534c8834-d096-462c-8c16-37571a798ef3","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"stackoverflow.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg","short-id":"ac"}}
 
 proxy-groups:
@@ -70,7 +70,7 @@ proxy-groups:
       - '❔ XX | 🟢 | vless | @proxy_iranv2 | 3'
       - '❔ XX | 🟢 | vless | @v2rayngconfings | 17'
       - '❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8'
-      - '🇳🇱 NL | 🟢 | vless | @vpnaloo | 14'
+      - '🇳🇱 NL | 🟢 | vless | @vpnaloo | 13'
       - '🇩🇪 DE | 🟢 | vless | @vpnod | 3'
 
   - name: 🌍 Global Media
