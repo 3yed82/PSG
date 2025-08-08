@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 8",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
@@ -101,7 +100,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 8",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
@@ -115,14 +113,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇸🇪 SE | 🟢 | ss | @configshubplus | 8",
-            "type": "shadowsocks",
-            "server": "promo9v.bystrivpn.ru",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "CxtcZaOSFYiJnloyTZJ0z2"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
