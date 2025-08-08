@@ -107,7 +107,8 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 15",
+                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 14",
+                "🇩🇪 DE | 🟢 | vless | @vpnod | 3",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14"
@@ -136,7 +137,8 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 4",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
-                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 15",
+                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 14",
+                "🇩🇪 DE | 🟢 | vless | @vpnod | 3",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 12",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 13",
                 "❔ XX | 🟢 | vless | @womanlifefreedomvpn | 14"
@@ -604,7 +606,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vpnaloo | 15",
+            "tag": "🇳🇱 NL | 🟢 | vless | @vpnaloo | 14",
             "type": "vless",
             "server": "ban.mashti.my",
             "server_port": 7893,
@@ -623,6 +625,29 @@
                     "enabled": true,
                     "public_key": "4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnod | 3",
+            "type": "vless",
+            "server": "graygoat.fonixapp.org",
+            "server_port": 45846,
+            "uuid": "534c8834-d096-462c-8c16-37571a798ef3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg",
+                    "short_id": "ac"
                 }
             }
         },

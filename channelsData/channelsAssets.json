@@ -138,8 +138,8 @@
     },
     "free_serverir": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "Free SerVer",
@@ -252,9 +252,9 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "vless",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -747,7 +747,6 @@
     },
     "vpnod": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "νρη σɗ",
