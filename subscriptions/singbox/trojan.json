@@ -89,8 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇳🇱 NL | 🔴 | trojan | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🇳🇱 NL | 🔴 | trojan | @hope_net | 17",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -116,8 +116,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇳🇱 NL | 🔴 | trojan | @configshubplus | 13",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🇳🇱 NL | 🔴 | trojan | @hope_net | 17",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 11",
@@ -147,7 +147,14 @@
             "type": "direct"
         },
         {
-            "tag": "🇳🇱 NL | 🔴 | trojan | @configshubplus | 13",
+            "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+            "type": "trojan",
+            "server": "91.107.141.0",
+            "server_port": 23825,
+            "password": "ziIjOlyGbM"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔴 | trojan | @hope_net | 17",
             "type": "trojan",
             "server": "94.242.229.89",
             "server_port": 443,
@@ -161,13 +168,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-            "type": "trojan",
-            "server": "91.107.141.0",
-            "server_port": 23825,
-            "password": "ziIjOlyGbM"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",

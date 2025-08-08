@@ -91,7 +91,6 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 12",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
@@ -114,6 +113,7 @@
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 0",
+                "🇸🇪 SE | 🟢 | ss | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
@@ -127,7 +127,6 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 12",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
@@ -150,6 +149,7 @@
                 "🇩🇪 DE | 🟢 | ss | @v2rayngalpha | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngalpha | 5",
                 "🇸🇪 SE | 🟢 | ss | @vpnod | 0",
+                "🇸🇪 SE | 🟢 | ss | @configshubplus | 16",
                 "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
                 "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
@@ -179,14 +179,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
-        },
-        {
-            "tag": "🇸🇪 SE | 🟢 | ss | @configshubplus | 12",
-            "type": "shadowsocks",
-            "server": "89.22.234.121",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "CxtcZaOSFYiJnloyTZJ0z2"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
@@ -363,6 +355,14 @@
             "server_port": 48172,
             "method": "chacha20-ietf-poly1305",
             "password": "51yloQC8D9w1Wae7FHtI65"
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | ss | @configshubplus | 16",
+            "type": "shadowsocks",
+            "server": "promo9v.bystrivpn.ru",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "CxtcZaOSFYiJnloyTZJ0z2"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",

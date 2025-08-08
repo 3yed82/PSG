@@ -23,8 +23,8 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇳🇱 NL | 🔴 | trojan | @configshubplus | 13","type":"trojan","server":"94.242.229.89","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
   - {"name":"🇩🇪 DE | 🔴 | trojan | @freev2raym | 7","type":"trojan","server":"91.107.141.0","port":23825,"password":"ziIjOlyGbM","skip-cert-verify":false}
+  - {"name":"🇳🇱 NL | 🔴 | trojan | @hope_net | 17","type":"trojan","server":"94.242.229.89","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8","type":"trojan","server":"15.236.173.146","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":true}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11","type":"trojan","server":"176.32.39.29","port":443,"password":"8OXD5VVt8s","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @privatevpns | 11","type":"trojan","server":"13.39.63.75","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
@@ -52,8 +52,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇳🇱 NL | 🔴 | trojan | @configshubplus | 13'
       - '🇩🇪 DE | 🔴 | trojan | @freev2raym | 7'
+      - '🇳🇱 NL | 🔴 | trojan | @hope_net | 17'
       - '🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11'
       - '🇫🇷 FR | 🟢 | trojan | @privatevpns | 11'

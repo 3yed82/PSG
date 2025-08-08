@@ -91,7 +91,6 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 12",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
@@ -123,7 +122,6 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @club_profsor | 12",
                 "🇳🇱 NL | 🟢 | ss | @club_profsor | 15",
-                "🇸🇪 SE | 🟢 | ss | @configshubplus | 12",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 7",
                 "🇸🇬 SG | 🟢 | ss | @freakconfig | 16",
@@ -171,14 +169,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
-        },
-        {
-            "tag": "🇸🇪 SE | 🟢 | ss | @configshubplus | 12",
-            "type": "shadowsocks",
-            "server": "89.22.234.121",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "CxtcZaOSFYiJnloyTZJ0z2"
         },
         {
             "tag": "🇸🇪 SE | 🟢 | ss | @customvpnserver | 6",
