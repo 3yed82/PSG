@@ -105,8 +105,8 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -121,8 +121,9 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
-                "❔ XX | 🔴 | vless | @freakconfig | 15",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
+                "❔ XX | 🔴 | vless | @freakconfig | 14",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
                 "🇺🇸 US | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -272,8 +273,8 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -288,8 +289,9 @@
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @flyv2ray | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
-                "❔ XX | 🔴 | vless | @freakconfig | 15",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
+                "❔ XX | 🔴 | vless | @freakconfig | 14",
+                "🇺🇸 US | 🔴 | vless | @freakconfig | 16",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
                 "🇺🇸 US | 🟢 | vless | @free_serverir | 28",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 29",
@@ -749,7 +751,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -758,7 +760,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -987,7 +989,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 13",
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,
@@ -1010,7 +1012,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔴 | vless | @freakconfig | 15",
+            "tag": "❔ XX | 🔴 | vless | @freakconfig | 14",
             "type": "vless",
             "server": "server271816966957306554.tas-bazi.com",
             "server_port": 443,
@@ -1024,6 +1026,22 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 16",
+            "type": "vless",
+            "server": "elegant-corporation.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "d03d8815-a06f-408f-a62f-6c84869b96a9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "elegant-corporation.seotoolsforyou.co.uk"
                 }
             }
         },
