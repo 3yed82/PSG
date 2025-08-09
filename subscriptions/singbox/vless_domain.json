@@ -102,14 +102,13 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
@@ -178,6 +177,7 @@
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 8",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 10",
+                "🇮🇷 IR | 🔴 | vless | @mtproxy22_v2ray | 11",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 5",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 6",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 7",
@@ -265,14 +265,13 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 7",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
@@ -341,6 +340,7 @@
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 8",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 9",
                 "🇺🇸 US | 🔴 | vless | @mtproxy22_v2ray | 10",
+                "🇮🇷 IR | 🔴 | vless | @mtproxy22_v2ray | 11",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 5",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 6",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 7",
@@ -666,7 +666,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -675,7 +675,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -720,23 +720,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
-            "type": "vless",
-            "server": "srv7.lifeisjustaclickaway.com",
-            "server_port": 18021,
-            "uuid": "878f76fb-5aa2-48cf-c7c5-afe87d9fef88",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "srv7.lifeisjustaclickaway.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -1980,6 +1964,15 @@
                     "Host": "informed-location.seotoolsforyou.co.uk"
                 }
             }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔴 | vless | @mtproxy22_v2ray | 11",
+            "type": "vless",
+            "server": "c11.maindns.site",
+            "server_port": 50896,
+            "uuid": "4ebc4a4c-f0f8-4ecc-8aee-89f626bf4a32",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇨🇦 CA | 🟢 | vless | @n2vpn | 5",
