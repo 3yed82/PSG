@@ -89,22 +89,22 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
+                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 6",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @configms | 10",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🔴 | vless | @configms | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "🇳🇱 NL | 🟢 | ss | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37"
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,22 +112,22 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
+                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 6",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @configms | 10",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🔴 | vless | @configms | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "🇳🇱 NL | 🟢 | ss | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37"
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -137,6 +137,79 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
+            "type": "vless",
+            "server": "91.99.199.137",
+            "server_port": 443,
+            "uuid": "7b6eca4c-44ae-40c6-973a-4e3b29d30803",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "91.99.199.137",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+            "type": "vless",
+            "server": "94.182.142.28",
+            "server_port": 2020,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+            "type": "vless",
+            "server": "de.multiapvps.ir",
+            "server_port": 4433,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
+            "type": "vless",
+            "server": "usa.multiapvps.ir",
+            "server_port": 4434,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
+                    "short_id": ""
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
@@ -248,7 +321,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -264,7 +337,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -280,7 +353,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -375,79 +448,6 @@
                 "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray",
                 "headers": {
                     "Host": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
-            "type": "vless",
-            "server": "91.99.199.137",
-            "server_port": 443,
-            "uuid": "7b6eca4c-44ae-40c6-973a-4e3b29d30803",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.199.137",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35",
-            "type": "vless",
-            "server": "94.182.142.28",
-            "server_port": 2020,
-            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
-            "type": "vless",
-            "server": "de.multiapvps.ir",
-            "server_port": 4433,
-            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "docker.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37",
-            "type": "vless",
-            "server": "usa.multiapvps.ir",
-            "server_port": 4434,
-            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "docker.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
-                    "short_id": ""
                 }
             }
         }
