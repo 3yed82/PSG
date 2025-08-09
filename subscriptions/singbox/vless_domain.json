@@ -113,11 +113,10 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 5",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 6",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 7",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
                 "❔ XX | 🔴 | vless | @freakconfig | 14",
                 "🇺🇸 US | 🔴 | vless | @freakconfig | 16",
@@ -165,7 +164,7 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
-                "🇺🇸 US | 🔴 | vless | @jiedianssr | 11",
+                "🇺🇸 US | 🔴 | vless | @jiedianssr | 10",
                 "🇺🇸 US | 🟢 | vless | @kafing_2 | 16",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "❔ XX | 🟢 | vless | @loatvpn | 2",
@@ -277,11 +276,10 @@
                 "❔ XX | 🟢 | vless | @filtershkan2 | 1",
                 "❔ XX | 🟢 | vless | @filtershkan2 | 2",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
-                "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 5",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 6",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 7",
+                "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
                 "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
                 "❔ XX | 🔴 | vless | @freakconfig | 14",
                 "🇺🇸 US | 🔴 | vless | @freakconfig | 16",
@@ -329,7 +327,7 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
-                "🇺🇸 US | 🔴 | vless | @jiedianssr | 11",
+                "🇺🇸 US | 🔴 | vless | @jiedianssr | 10",
                 "🇺🇸 US | 🟢 | vless | @kafing_2 | 16",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "❔ XX | 🟢 | vless | @loatvpn | 2",
@@ -826,23 +824,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 9",
-            "type": "vless",
-            "server": "tgju.org",
-            "server_port": 80,
-            "uuid": "acc88aa8-cb11-47d9-8a7e-081049289cb5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/olem/ws?ed=1024",
-                "headers": {
-                    "Host": "tgju.org"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -858,7 +840,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 6",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -874,7 +856,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 7",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -890,7 +872,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1769,7 +1751,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @jiedianssr | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @jiedianssr | 10",
             "type": "vless",
             "server": "light-presence.oneeat.co",
             "server_port": 80,

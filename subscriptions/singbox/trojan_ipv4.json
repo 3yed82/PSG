@@ -90,14 +90,14 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🏳️  | 🟢 | trojan | @hope_net | 18",
-                "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",
+                "🏳️  | 🟢 | trojan | @hope_net | 16",
+                "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 7",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 10",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 10",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
-                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 12",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 14",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 9",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
@@ -112,14 +112,14 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🏳️  | 🟢 | trojan | @hope_net | 18",
-                "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",
+                "🏳️  | 🟢 | trojan | @hope_net | 16",
+                "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 7",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 10",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 10",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
-                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
+                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 12",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 14",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 9",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 10",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
@@ -144,7 +144,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🏳️  | 🟢 | trojan | @hope_net | 18",
+            "tag": "🏳️  | 🟢 | trojan | @hope_net | 16",
             "type": "trojan",
             "server": "127.0.0.1",
             "server_port": 1080,
@@ -160,7 +160,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 8",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 7",
             "type": "trojan",
             "server": "15.236.173.146",
             "server_port": 22222,
@@ -192,23 +192,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 10",
-            "type": "trojan",
-            "server": "13.37.253.72",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 10",
             "type": "trojan",
             "server": "63.176.11.175",
             "server_port": 22222,
@@ -224,7 +208,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 11",
             "type": "trojan",
             "server": "3.72.122.16",
             "server_port": 22222,
@@ -240,7 +224,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 12",
             "type": "trojan",
             "server": "13.39.59.229",
             "server_port": 22222,
@@ -256,9 +240,25 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 14",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 13",
             "type": "trojan",
             "server": "35.180.206.105",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 14",
+            "type": "trojan",
+            "server": "63.177.173.183",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "tls": {
