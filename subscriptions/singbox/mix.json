@@ -100,7 +100,8 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
@@ -122,7 +123,8 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
@@ -351,7 +353,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
             "type": "vless",
             "server": "104.16.69.64",
             "server_port": 8880,
@@ -363,6 +365,22 @@
                 "path": "/7YVyoVNnbaVzgl6D?ed=2560",
                 "headers": {
                     "Host": "104.16.69.64"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "fd28cfbd-232f-4549-ae7f-55647ebdfada",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },

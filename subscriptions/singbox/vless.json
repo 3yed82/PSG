@@ -96,13 +96,14 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "proxy",
@@ -118,13 +119,14 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "auto",
@@ -273,7 +275,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
             "type": "vless",
             "server": "104.16.69.64",
             "server_port": 8880,
@@ -411,6 +413,22 @@
             "transport": {
                 "type": "ws",
                 "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "fd28cfbd-232f-4549-ae7f-55647ebdfada",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
                 "headers": {
                     "Host": "www.speedtest.net"
                 }
