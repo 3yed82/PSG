@@ -93,7 +93,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "proxy",
@@ -106,7 +105,6 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "auto",
@@ -193,22 +191,6 @@
                 "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-            "type": "vless",
-            "server": "cumhuriyet.com.tr",
-            "server_port": 8080,
-            "uuid": "6b6c9ce9-0a23-4b1b-cd03-35493c801007",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "cumhuriyet.com.tr"
                 }
             }
         },
