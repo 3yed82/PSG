@@ -123,8 +123,8 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇳🇱 NL | 🟢 | vless | @hope_net | 16",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 19",
+                "🇩🇪 DE | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 18",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -221,8 +221,8 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -409,8 +409,8 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🇳🇱 NL | 🟢 | vless | @hope_net | 16",
-                "🇩🇪 DE | 🟢 | vless | @hope_net | 19",
+                "🇩🇪 DE | 🟢 | vless | @hope_net | 17",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 18",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
@@ -507,8 +507,8 @@
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @customvpnserver | 9",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
-                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
+                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🔴 | vless | @ehsawn8 | 3",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 4",
                 "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
@@ -1271,32 +1271,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @hope_net | 16",
-            "type": "vless",
-            "server": "188.42.88.78",
-            "server_port": 443,
-            "uuid": "f3fcb0be-c785-4791-bd88-335dd20f0c1e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "g1.youyuan.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "g1.youyuan.us.kg"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 19",
+            "tag": "🇩🇪 DE | 🟢 | vless | @hope_net | 17",
             "type": "vless",
             "server": "141.147.0.69",
             "server_port": 443,
@@ -1317,6 +1292,31 @@
                 "path": "/?ed=2744",
                 "headers": {
                     "Host": "pvg.aghabeiki.homes"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 18",
+            "type": "vless",
+            "server": "172.66.47.98",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "elena-v.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/V2RAYNPLUS-|-V2RAYNPLUS-|-V2RAYNPLUS-|-V2RAYNPLUS-|-V2RAYNPLUS-|-V2RAYNPLUS-|-V2RAYNPLUS-|-V2RAYNPLUS-|?ed=2560",
+                "headers": {
+                    "Host": "elena-v.pages.dev"
                 }
             }
         },
@@ -3187,7 +3187,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 12",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 12",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
@@ -3196,7 +3196,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
