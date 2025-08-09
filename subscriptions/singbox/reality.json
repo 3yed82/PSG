@@ -98,6 +98,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 16",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
@@ -123,7 +124,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -161,6 +162,7 @@
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 3",
                 "🇩🇪 DE | 🟢 | vless | @goodbyefiltering | 4",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 16",
                 "🇩🇪 DE | 🟢 | vless | @injectormconf | 35",
                 "🇫🇷 FR | 🟢 | vless | @injectormconf | 37",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 0",
@@ -186,7 +188,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "❔ XX | 🟢 | vless | @canfing_vpn | 15",
                 "🇩🇪 DE | 🟢 | vless | @club_profsor | 14",
-                "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
+                "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
                 "❔ XX | 🟢 | vless | @itv2ray | 25",
                 "❔ XX | 🟢 | vless | @itv2ray | 26",
                 "❔ XX | 🟢 | vless | @itv2ray | 28",
@@ -434,6 +436,29 @@
                     "enabled": true,
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 16",
+            "type": "vless",
+            "server": "172.235.133.212",
+            "server_port": 80,
+            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
+                    "short_id": "94aa1bdc"
                 }
             }
         },
@@ -1048,7 +1073,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 11",
+            "tag": "🇫🇮 FI | 🟢 | vless | @freakconfig | 12",
             "type": "vless",
             "server": "direct.yasharteam.com",
             "server_port": 443,
