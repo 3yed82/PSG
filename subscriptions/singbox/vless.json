@@ -92,18 +92,18 @@
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 6",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 6",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 13",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "proxy",
@@ -115,18 +115,18 @@
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 6",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 6",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @configms | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 13",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "auto",
@@ -170,22 +170,6 @@
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
-            "uuid": "1e8db2d7-8900-4233-ad58-c30043b8a715",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 6",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
             "uuid": "f1cafb30-6de3-4712-e77c-823a864b66c3",
             "flow": "",
             "packet_encoding": "xudp",
@@ -198,7 +182,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 6",
             "type": "vless",
             "server": "69.84.182.149",
             "server_port": 443,
@@ -223,7 +207,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
             "type": "vless",
             "server": "91.99.236.124",
             "server_port": 51479,
@@ -250,7 +234,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -275,7 +259,23 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 8080,
+            "uuid": "9069841b-34df-4f37-b55d-446060cee5a5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "104.16.69.64",
             "server_port": 8880,
@@ -419,7 +419,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 15",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
