@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🇷🇺 RU | 🔴 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 7",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 8",
@@ -115,6 +116,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
+                "🇷🇺 RU | 🔴 | trojan | @hope_net | 18",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 7",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 11",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 8",
@@ -148,6 +150,22 @@
             "server": "91.107.141.0",
             "server_port": 23825,
             "password": "ziIjOlyGbM"
+        },
+        {
+            "tag": "🇷🇺 RU | 🔴 | trojan | @hope_net | 18",
+            "type": "trojan",
+            "server": "5.182.85.93",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "5.182.85.93",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianssr | 7",
