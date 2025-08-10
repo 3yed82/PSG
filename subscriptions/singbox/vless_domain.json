@@ -93,8 +93,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,8 +106,8 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -197,7 +197,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -213,11 +213,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
-            "uuid": "422b3552-a93d-4027-abd5-f5454b6d2d75",
+            "uuid": "1618024f-7ee0-4355-bdfc-ac49f7ae66a8",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
@@ -231,7 +231,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray",
+                "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,",
                 "headers": {
                     "Host": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"
                 }

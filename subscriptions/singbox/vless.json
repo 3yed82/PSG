@@ -96,16 +96,16 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -120,16 +120,16 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -279,7 +279,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -304,7 +304,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "91.99.216.98",
             "server_port": 443,
@@ -322,7 +322,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
             "type": "vless",
             "server": "172.67.65.158",
             "server_port": 2087,
@@ -347,7 +347,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
             "type": "vless",
             "server": "172.67.65.158",
             "server_port": 2087,
@@ -450,7 +450,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -466,11 +466,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
-            "uuid": "422b3552-a93d-4027-abd5-f5454b6d2d75",
+            "uuid": "1618024f-7ee0-4355-bdfc-ac49f7ae66a8",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
@@ -484,7 +484,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray",
+                "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,",
                 "headers": {
                     "Host": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"
                 }
