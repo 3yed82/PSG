@@ -93,7 +93,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "proxy",
@@ -106,7 +106,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
             "tag": "auto",
@@ -197,18 +197,18 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "fd28cfbd-232f-4549-ae7f-55647ebdfada",
+            "server": "cumhuriyet.com.tr",
+            "server_port": 8080,
+            "uuid": "973713d5-0560-4f1a-b6df-3702a4ab941e",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
+                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "cumhuriyet.com.tr"
                 }
             }
         },
