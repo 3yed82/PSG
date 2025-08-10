@@ -96,7 +96,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
@@ -113,7 +113,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
@@ -263,18 +263,27 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
             "type": "vless",
-            "server": "104.16.69.64",
-            "server_port": 8880,
-            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
+            "server": "172.66.40.99",
+            "server_port": 443,
+            "uuid": "5879d109-8c92-448a-801b-3f3989019934",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/7YVyoVNnbaVzgl6D?ed=2560",
+                "path": "/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048",
                 "headers": {
-                    "Host": "104.16.69.64"
+                    "Host": "pages.dev"
                 }
             }
         },
