@@ -91,11 +91,11 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 6",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 5",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 6",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
+                "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
@@ -108,11 +108,11 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 6",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 5",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 6",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
+                "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
@@ -154,23 +154,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 5",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "f1cafb30-6de3-4712-e77c-823a864b66c3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 6",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 5",
             "type": "vless",
             "server": "69.84.182.149",
             "server_port": 443,
@@ -195,7 +179,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 7",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 6",
             "type": "vless",
             "server": "91.99.236.124",
             "server_port": 51479,
@@ -222,7 +206,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -247,7 +231,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -259,6 +243,24 @@
                 "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
                 "headers": {
                     "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.66.40.99",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
