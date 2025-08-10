@@ -96,15 +96,15 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 6",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
@@ -120,15 +120,15 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 6",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇺🇸 US | 🔴 | vless | @configms | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
@@ -279,7 +279,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 6",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -304,20 +304,18 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
             "type": "vless",
-            "server": "91.99.216.98",
-            "server_port": 443,
-            "uuid": "f3af923e-ecfe-46d5-9c27-4ff95f739afe",
+            "server": "104.16.69.64",
+            "server_port": 8880,
+            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.216.98",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+            "transport": {
+                "type": "ws",
+                "path": "/7YVyoVNnbaVzgl6D?ed=2560",
+                "headers": {
+                    "Host": "104.16.69.64"
                 }
             }
         },
@@ -450,7 +448,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
