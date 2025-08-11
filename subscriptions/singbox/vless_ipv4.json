@@ -96,8 +96,6 @@
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
@@ -116,8 +114,6 @@
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
@@ -253,38 +249,6 @@
             "uuid": "f00711e4-7f4c-4bf5-9f13-f7aceca13df3",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-            "type": "vless",
-            "server": "104.16.69.64",
-            "server_port": 8880,
-            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/7YVyoVNnbaVzgl6D?ed=2560",
-                "headers": {
-                    "Host": "104.16.69.64"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "15b6525d-ca2d-4faf-a6f8-8d175bf53551",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",

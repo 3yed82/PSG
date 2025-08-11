@@ -96,17 +96,16 @@
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @configms | 11",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
+                "🇺🇸 US | 🔴 | vless | @configms | 9",
+                "🇺🇸 US | 🔴 | vless | @configms | 11",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -121,17 +120,16 @@
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @configms | 11",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
+                "🇺🇸 US | 🔴 | vless | @configms | 9",
+                "🇺🇸 US | 🔴 | vless | @configms | 11",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -263,38 +261,6 @@
             "uuid": "f00711e4-7f4c-4bf5-9f13-f7aceca13df3",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-            "type": "vless",
-            "server": "104.16.69.64",
-            "server_port": 8880,
-            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/7YVyoVNnbaVzgl6D?ed=2560",
-                "headers": {
-                    "Host": "104.16.69.64"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "15b6525d-ca2d-4faf-a6f8-8d175bf53551",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
@@ -434,7 +400,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -450,7 +416,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -466,7 +432,32 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "8e615b78-0905-48bb-ab68-fb0dfdff7688",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server8.coin.name.ng",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "server8.coin.name.ng"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
