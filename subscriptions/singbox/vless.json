@@ -97,8 +97,9 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
@@ -121,8 +122,9 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
@@ -279,7 +281,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -295,7 +297,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -307,6 +309,31 @@
                 "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
                 "headers": {
                     "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
+            "type": "vless",
+            "server": "104.18.36.24",
+            "server_port": 443,
+            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "carlotta.shoorekeeper.cloudns.org"
                 }
             }
         },
