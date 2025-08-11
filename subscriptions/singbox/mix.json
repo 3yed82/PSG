@@ -98,15 +98,15 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @configms | 9",
-                "🇺🇸 US | 🔴 | vless | @configms | 11",
+                "🇨🇦 CA | 🔴 | vless | @configms | 9",
+                "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -123,15 +123,15 @@
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @configms | 9",
-                "🇺🇸 US | 🔴 | vless | @configms | 11",
+                "🇨🇦 CA | 🔴 | vless | @configms | 9",
+                "🇨🇦 CA | 🔴 | vless | @configms | 11",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -318,7 +318,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 9",
+            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -334,7 +334,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 11",
+            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -473,7 +473,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
