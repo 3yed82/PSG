@@ -96,15 +96,15 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 7",
-                "🇨🇦 CA | 🔴 | vless | @configms | 9",
+                "🇺🇸 US | 🔴 | vless | @configms | 7",
+                "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
@@ -120,15 +120,15 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 7",
-                "🇨🇦 CA | 🔴 | vless | @configms | 9",
+                "🇺🇸 US | 🔴 | vless | @configms | 7",
+                "🇺🇸 US | 🔴 | vless | @configms | 9",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
@@ -256,22 +256,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-            "type": "vless",
-            "server": "104.16.69.64",
-            "server_port": 8880,
-            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/7YVyoVNnbaVzgl6D?ed=2560",
-                "headers": {
-                    "Host": "104.16.69.64"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 6",
             "type": "vless",
             "server": "91.99.126.93",
@@ -377,7 +361,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -393,7 +377,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -416,6 +400,24 @@
             "uuid": "5929d509-606b-4685-9759-a39cd1497c85",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
+            "type": "vless",
+            "server": "sss71534.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "aa077dd1-0a53-4313-8800-c9ac79a97003",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss71534.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",

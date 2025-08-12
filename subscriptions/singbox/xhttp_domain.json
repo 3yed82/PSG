@@ -89,14 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | vless | @canfing_vpn | 15",
-                "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "❔ XX | 🔴 | vless | @freakconfig | 14",
-                "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 12",
-                "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 13",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -104,14 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | vless | @canfing_vpn | 15",
-                "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-                "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-                "❔ XX | 🔴 | vless | @freakconfig | 14",
-                "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 12",
-                "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 13",
-                "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -123,122 +109,22 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @canfing_vpn | 15",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
-            "server": "de6rt.samsungmarketshop.ir",
-            "server_port": 2083,
-            "uuid": "bf989dce-7af7-423b-a499-71da71cdcef1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
-                    "short_id": "aeba"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇷 CR | 🔴 | vless | @configscenter | 1",
-            "type": "vless",
-            "server": "2sudo.winapp3.ir",
-            "server_port": 80,
-            "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @ehsawn8 | 6",
-            "type": "vless",
-            "server": "holkanas.atroart.ir",
-            "server_port": 9091,
-            "uuid": "13a44840-ac14-4748-b498-d97597042563",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔴 | vless | @freakconfig | 14",
-            "type": "vless",
-            "server": "server271816966957306554.tas-bazi.com",
+            "server": "sss71534.tas-bazi.com",
             "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "uuid": "aa077dd1-0a53-4313-8800-c9ac79a97003",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "server271816966957306554.tas-bazi.com",
+                "server_name": "sss71534.tas-bazi.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @free_serverir | 25",
-            "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 12",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "25cff889-0921-40a9-814b-15d3af3bbc58",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ru2.asc-sam.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🟢 | vless | @noforcedheaven | 13",
-            "type": "vless",
-            "server": "ru2.asc-sam.ir",
-            "server_port": 8443,
-            "uuid": "7715f3b0-9661-4c92-8b32-1c4c1f79bb5c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "VuL69lz3WqpGe-rhAvd2-M2-KaZpG10iDu71aTVMx2Y",
-                    "short_id": "d3044a6aa923a9"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {

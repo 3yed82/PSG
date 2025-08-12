@@ -96,7 +96,6 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
@@ -114,7 +113,6 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
@@ -240,22 +238,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 3",
-            "type": "vless",
-            "server": "104.16.69.64",
-            "server_port": 8880,
-            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/7YVyoVNnbaVzgl6D?ed=2560",
-                "headers": {
-                    "Host": "104.16.69.64"
                 }
             }
         },
