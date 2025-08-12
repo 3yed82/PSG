@@ -96,14 +96,14 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @configms | 11",
-                "🇨🇦 CA | 🟢 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @configms | 9",
+                "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
@@ -119,14 +119,14 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @configms | 11",
-                "🇨🇦 CA | 🟢 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @configms | 9",
+                "🇺🇸 US | 🔴 | vless | @configms | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
@@ -254,7 +254,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
             "type": "vless",
             "server": "104.16.69.64",
             "server_port": 8880,
@@ -268,6 +268,15 @@
                     "Host": "104.16.69.64"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+            "type": "vless",
+            "server": "91.99.126.93",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
@@ -366,7 +375,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -382,7 +391,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -394,31 +403,6 @@
                 "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | vless | @falcunargo | 7",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "8e615b78-0905-48bb-ab68-fb0dfdff7688",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server8.coin.name.ng",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "server8.coin.name.ng"
                 }
             }
         },

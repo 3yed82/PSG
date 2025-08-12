@@ -89,14 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
-                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
-                "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
-                "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
-                "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇳🇱 NL | 🟢 | vless | @vpncostumer | 12"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -104,14 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
-                "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
-                "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
-                "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
-                "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-                "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
-                "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇳🇱 NL | 🟢 | vless | @vpncostumer | 12"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -123,146 +109,13 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @club_profsor | 16",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
-            "server": "91.99.140.175",
-            "server_port": 80,
-            "uuid": "bf9f0b0a-9ccd-457f-b039-a0d80fe4862e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "allthecooks.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "8JLXaAVzfzBxustA4rSIJYXfbwgnarMBUiWghUe610s",
-                    "short_id": "f58f"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @customvpnserver | 8",
-            "type": "vless",
-            "server": "91.107.254.202",
+            "server": "91.99.126.93",
             "server_port": 8443,
-            "uuid": "a6580107-b1e0-4057-9f47-ac7f28de457a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "firebase.googleapis.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4Xu_jqRD-mbhEwNyntlz_6zU4VhsE0-QWCxAbhEL_H4",
-                    "short_id": "7ab467"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @elfv2ray | 0",
-            "type": "vless",
-            "server": "91.99.16.244",
-            "server_port": 443,
-            "uuid": "Parsashonam",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
-                    "short_id": "61e683d41fdb"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔴 | vless | @minovpnch | 13",
-            "type": "vless",
-            "server": "151.101.204.190",
-            "server_port": 80,
-            "uuid": "8285eef0-147d-4bb6-9d12-0e4601a36e78",
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇨🇭 CH | 🔴 | vless | @minovpnch | 14",
-            "type": "vless",
-            "server": "185.18.250.67",
-            "server_port": 8080,
-            "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @noforcedheaven | 14",
-            "type": "vless",
-            "server": "23.94.206.83",
-            "server_port": 443,
-            "uuid": "99c2d486-7c8e-4599-8f01-6ee149c01920",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "bale.ai",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "wlAhp5AizFU94xHXO_3R3z_Hl11f5CmjJajrr60RgGw",
-                    "short_id": "cd6a271c25"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "qeshmserver",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vpncostumer | 12",
-            "type": "vless",
-            "server": "45.150.33.157",
-            "server_port": 50810,
-            "uuid": "ec62aa44-b9cd-417f-9adb-3a602922466d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg",
-                    "short_id": "aa60a00122200b76"
-                }
-            }
         }
     ],
     "route": {
