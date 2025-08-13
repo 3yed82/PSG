@@ -91,7 +91,6 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 6",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 7",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
@@ -107,7 +106,6 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 6",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 7",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
@@ -150,33 +148,6 @@
             "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 6",
-            "type": "vless",
-            "server": "91.99.236.124",
-            "server_port": 51479,
-            "uuid": "c1694079-7243-4a2d-d634-c776e4ce0242",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cdn77.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 7",
