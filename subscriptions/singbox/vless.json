@@ -96,17 +96,15 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 4",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @configms | 7",
                 "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -121,17 +119,15 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 4",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @configms | 7",
                 "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -252,47 +248,6 @@
             "transport": {
                 "type": "ws",
                 "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 4",
-            "type": "vless",
-            "server": "104.18.36.24",
-            "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "f32b681e-1917-4bee-b1bc-856e11116a2e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
                 "headers": {
                     "Host": "172.66.40.99"
                 }
@@ -427,22 +382,6 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
-            "type": "vless",
-            "server": "cumhuriyet.com.tr",
-            "server_port": 8080,
-            "uuid": "f0e825fb-6aa7-4825-e4ef-9a8e170b3a61",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "cumhuriyet.com.tr"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "sss47060.tas-bazi.com",
@@ -461,7 +400,23 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+            "type": "vless",
+            "server": "deep-radio.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?@",
+                "headers": {
+                    "Host": "deep-radio.seotoolsforyou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,

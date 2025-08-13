@@ -93,9 +93,9 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @configms | 7",
                 "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -107,9 +107,9 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @configms | 7",
                 "🇨🇦 CA | 🔴 | vless | @configms | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -199,22 +199,6 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
-            "type": "vless",
-            "server": "cumhuriyet.com.tr",
-            "server_port": 8080,
-            "uuid": "f0e825fb-6aa7-4825-e4ef-9a8e170b3a61",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "cumhuriyet.com.tr"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "sss47060.tas-bazi.com",
@@ -233,7 +217,23 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+            "type": "vless",
+            "server": "deep-radio.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?@",
+                "headers": {
+                    "Host": "deep-radio.seotoolsforyou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
