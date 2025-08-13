@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇳🇱 NL | 🟢 | ss | @falcunargo | 12"
+                "🇳🇴 NO | 🟢 | ss | @falcunargo | 12"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇳🇱 NL | 🟢 | ss | @falcunargo | 12"
+                "🇳🇴 NO | 🟢 | ss | @falcunargo | 12"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,12 +109,12 @@
             "type": "direct"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @falcunargo | 12",
+            "tag": "🇳🇴 NO | 🟢 | ss | @falcunargo | 12",
             "type": "shadowsocks",
-            "server": "193.29.139.240",
-            "server_port": 8080,
+            "server": "185.213.23.226",
+            "server_port": 990,
             "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+            "password": "f8f7aCzcPKbsF8p3"
         }
     ],
     "route": {
