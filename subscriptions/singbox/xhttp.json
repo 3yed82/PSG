@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 2"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 3"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 2"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 3"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,7 +109,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 2",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 3",
             "type": "vless",
             "server": "sss71534.tas-bazi.com",
             "server_port": 443,
