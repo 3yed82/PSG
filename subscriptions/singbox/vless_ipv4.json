@@ -91,10 +91,11 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 7",
-                "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
+                "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
@@ -106,10 +107,11 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 7",
-                "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
+                "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6"
             ],
@@ -150,16 +152,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 7",
-            "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 2095,
-            "uuid": "f00711e4-7f4c-4bf5-9f13-f7aceca13df3",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 8",
+            "tag": "=@&security=tls&alpn=h2,http/1.1&encryption=none&host=cPk.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPk.SpEeDtEsT2029.CoM#🇺🇸 US | 🟢 | vless | @bored_vpn | 7",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -177,7 +170,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -193,7 +186,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
             "type": "vless",
             "server": "91.99.236.124",
             "server_port": 51479,
@@ -217,6 +210,38 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "bf065f28-9028-4578-a3ba-7738e7b7f53c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+            "type": "vless",
+            "server": "104.21.112.1",
+            "server_port": 80,
+            "uuid": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/193.123.81.105=443",
+                "headers": {
+                    "Host": "104.21.112.1"
+                }
             }
         },
         {
