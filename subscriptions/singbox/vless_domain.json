@@ -95,10 +95,10 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
                 "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,10 +112,10 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
                 "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -246,7 +246,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "deep-radio.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -271,7 +271,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
@@ -296,7 +296,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 10",
+            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
