@@ -100,9 +100,9 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 11",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇳🇴 NO | 🟢 | ss | @falcunargo | 11",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
+                "🇳🇴 NO | 🟢 | ss | @falcunargo | 8",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
@@ -124,9 +124,9 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 11",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇳🇴 NO | 🟢 | ss | @falcunargo | 11",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
+                "🇳🇴 NO | 🟢 | ss | @falcunargo | 8",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 6",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
@@ -348,25 +348,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
-            "type": "vless",
-            "server": "sss47060.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss47060.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
             "type": "vless",
             "server": "deep-radio.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -382,12 +364,28 @@
             }
         },
         {
-            "tag": "🇳🇴 NO | 🟢 | ss | @falcunargo | 11",
+            "tag": "🇳🇴 NO | 🟢 | ss | @falcunargo | 8",
             "type": "shadowsocks",
             "server": "185.213.23.226",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "dbf086e6-d8e6-4f43-890c-df1c5aa10b4a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 5",
