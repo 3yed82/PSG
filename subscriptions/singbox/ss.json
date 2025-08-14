@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇳🇴 NO | 🟢 | ss | @falcunargo | 8"
+                "🇳🇴 NO | 🟢 | ss | @falcunargo | 7"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇳🇴 NO | 🟢 | ss | @falcunargo | 8"
+                "🇳🇴 NO | 🟢 | ss | @falcunargo | 7"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,7 +109,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇳🇴 NO | 🟢 | ss | @falcunargo | 8",
+            "tag": "🇳🇴 NO | 🟢 | ss | @falcunargo | 7",
             "type": "shadowsocks",
             "server": "185.213.23.226",
             "server_port": 990,
