@@ -95,9 +95,10 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
                 "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,9 +112,10 @@
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
                 "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -244,7 +246,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "deep-radio.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -274,6 +276,31 @@
             "server": "zula.ir",
             "server_port": 2087,
             "uuid": "1618024f-7ee0-4355-bdfc-ac49f7ae66a8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,",
+                "headers": {
+                    "Host": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 10",
+            "type": "vless",
+            "server": "zula.ir",
+            "server_port": 2087,
+            "uuid": "5091c4b1-e69c-48a4-b0f1-78578247a947",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {

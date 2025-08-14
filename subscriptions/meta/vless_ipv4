@@ -28,8 +28,6 @@ proxies:
   - {"name":"🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49","type":"vless","server":"94.182.142.28","port":2020,"uuid":"32b67990-fb70-457f-8f02-c7c62e4156ca","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🇺🇸 US | 🔴 | vless | @bored_vpn | 11","type":"vless","server":"172.66.40.99","port":80,"uuid":"bf065f28-9028-4578-a3ba-7738e7b7f53c","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON","headers":{"Host":"b.jOin.zEdMoDeOn.oNl."}}}
   - {"name":"🇺🇸 US | 🔴 | vless | @falcunargo | 10","type":"vless","server":"104.21.112.1","port":80,"uuid":"2036e2c3-18a5-4eed-9db4-f91a7f02c7d5","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/193.123.81.105=443","headers":{"Host":"zoomgov.vipren.biz.id"}}}
-  - {"name":"🇺🇸 US | 🟢 | vless | @hopev2ray | 5","type":"vless","server":"172.67.65.158","port":2087,"uuid":"ff0d0125-cb18-40fe-a4fc-4d85f0b68b70","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
-  - {"name":"🇺🇸 US | 🟢 | vless | @hopev2ray | 6","type":"vless","server":"172.67.65.158","port":2087,"uuid":"58f87111-e8fa-4890-ba59-86fca61ccfa9","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -48,8 +46,6 @@ proxy-groups:
       - '🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49'
       - '🇺🇸 US | 🔴 | vless | @bored_vpn | 11'
       - '🇺🇸 US | 🔴 | vless | @falcunargo | 10'
-      - '🇺🇸 US | 🟢 | vless | @hopev2ray | 5'
-      - '🇺🇸 US | 🟢 | vless | @hopev2ray | 6'
 
   - name: 🌍 Global Media
     type: select
