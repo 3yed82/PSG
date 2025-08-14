@@ -31,7 +31,7 @@ proxies:
   - {"name":"🇨🇦 CA | 🔴 | vless | @falcunargo | 8","type":"vless","server":"www.speedtest.net","port":80,"uuid":"dbf086e6-d8e6-4f43-890c-df1c5aa10b4a","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080","headers":{"Host":"s1.VPNCUSTOMIZE.dNs-dynamic.neT."}}}
   - {"name":"🇨🇦 CA | 🔴 | vless | @falcunargo | 9","type":"vless","server":"deep-radio.seotoolsforyou.co.uk","port":80,"uuid":"5139af95-a453-46c6-831a-a532b6b51305","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/?@","headers":{"Host":"deep-radio.seotoolsforyou.co.uk"}}}
   - {"name":"🇩🇪 DE | 🔴 | vless | @falcunargo | 11","type":"vless","server":"afra.matrixvip.fun","port":46716,"uuid":"5929d509-606b-4685-9759-a39cd1497c85","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"🇨🇦 CA | 🟢 | vless | @hopev2ray | 8","type":"vless","server":"zula.ir","port":2087,"uuid":"1618024f-7ee0-4355-bdfc-ac49f7ae66a8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
+  - {"name":"🇺🇸 US | 🟢 | vless | @hopev2ray | 8","type":"vless","server":"zula.ir","port":2087,"uuid":"1618024f-7ee0-4355-bdfc-ac49f7ae66a8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -53,7 +53,7 @@ proxy-groups:
       - '🇨🇦 CA | 🔴 | vless | @falcunargo | 8'
       - '🇨🇦 CA | 🔴 | vless | @falcunargo | 9'
       - '🇩🇪 DE | 🔴 | vless | @falcunargo | 11'
-      - '🇨🇦 CA | 🟢 | vless | @hopev2ray | 8'
+      - '🇺🇸 US | 🟢 | vless | @hopev2ray | 8'
 
   - name: 🌍 Global Media
     type: select

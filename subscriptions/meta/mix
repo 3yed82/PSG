@@ -38,7 +38,7 @@ proxies:
   - {"name":"🇩🇪 DE | 🔴 | vless | @falcunargo | 11","type":"vless","server":"afra.matrixvip.fun","port":46716,"uuid":"5929d509-606b-4685-9759-a39cd1497c85","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🇺🇸 US | 🟢 | vless | @hopev2ray | 5","type":"vless","server":"172.67.65.158","port":2087,"uuid":"ff0d0125-cb18-40fe-a4fc-4d85f0b68b70","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
   - {"name":"🇺🇸 US | 🟢 | vless | @hopev2ray | 6","type":"vless","server":"172.67.65.158","port":2087,"uuid":"58f87111-e8fa-4890-ba59-86fca61ccfa9","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
-  - {"name":"🇨🇦 CA | 🟢 | vless | @hopev2ray | 8","type":"vless","server":"zula.ir","port":2087,"uuid":"1618024f-7ee0-4355-bdfc-ac49f7ae66a8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
+  - {"name":"🇺🇸 US | 🟢 | vless | @hopev2ray | 8","type":"vless","server":"zula.ir","port":2087,"uuid":"1618024f-7ee0-4355-bdfc-ac49f7ae66a8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online","ws-opts":{"path":"/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,","headers":{"Host":"eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -67,7 +67,7 @@ proxy-groups:
       - '🇩🇪 DE | 🔴 | vless | @falcunargo | 11'
       - '🇺🇸 US | 🟢 | vless | @hopev2ray | 5'
       - '🇺🇸 US | 🟢 | vless | @hopev2ray | 6'
-      - '🇨🇦 CA | 🟢 | vless | @hopev2ray | 8'
+      - '🇺🇸 US | 🟢 | vless | @hopev2ray | 8'
 
   - name: 🌍 Global Media
     type: select
