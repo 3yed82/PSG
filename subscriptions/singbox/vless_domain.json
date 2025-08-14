@@ -91,12 +91,12 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
-                "🇨🇦 CA | 🔴 | vless | @configms | 6",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,12 +106,12 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
-                "🇨🇦 CA | 🔴 | vless | @configms | 6",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8"
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -169,7 +169,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -194,7 +194,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -210,7 +210,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -226,7 +226,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -242,7 +242,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "deep-radio.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -258,7 +258,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
