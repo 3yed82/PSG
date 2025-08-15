@@ -95,8 +95,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8"
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,8 +109,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8"
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -236,23 +234,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "012354de-a667-4d19-ae51-76e4808b5a04",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "104.18.36.24",
             "server_port": 443,

@@ -95,15 +95,13 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -119,15 +117,13 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -254,23 +250,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 5",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "012354de-a667-4d19-ae51-76e4808b5a04",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "104.18.36.24",
             "server_port": 443,
@@ -398,38 +378,13 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
-            "server": "cumhuriyet.com.tr",
+            "server": "lausthree.testspeedge.ir",
             "server_port": 8080,
-            "uuid": "f169440e-b49b-400d-8908-3b5e5741e946",
+            "uuid": "e7531b0f-c610-89f1-ff87-09be35fdac2c",
             "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "cumhuriyet.com.tr"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 7",
-            "type": "vless",
-            "server": "sss94870.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss94870.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
