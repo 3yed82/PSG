@@ -94,9 +94,8 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 9",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 10",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
                 "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
                 "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -111,9 +110,8 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 9",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 10",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
                 "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
                 "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -230,16 +228,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 6",
-            "type": "vless",
-            "server": "lausthree.testspeedge.ir",
-            "server_port": 8080,
-            "uuid": "e7531b0f-c610-89f1-ff87-09be35fdac2c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -255,7 +244,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
