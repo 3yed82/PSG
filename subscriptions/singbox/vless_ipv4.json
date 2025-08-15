@@ -95,7 +95,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 9"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 14"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,7 +109,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 9"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 14"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -232,27 +232,18 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
             "type": "vless",
-            "server": "104.18.131.54",
-            "server_port": 443,
-            "uuid": "d88937d0-ce43-4bf8-9df6-d632810ba9ff",
+            "server": "172.66.40.99",
+            "server_port": 8080,
+            "uuid": "1a4784a5-49ed-4345-b5f9-98cdd70a81b8",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "007.xingfu.qzz.io",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
                 "headers": {
-                    "Host": "007.xingfu.qzz.io"
+                    "Host": "172.66.40.99"
                 }
             }
         }
