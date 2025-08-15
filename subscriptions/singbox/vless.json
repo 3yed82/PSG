@@ -91,20 +91,19 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 9",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 9",
+                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -114,20 +113,19 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 9",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 9",
+                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -166,34 +164,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-            "type": "vless",
-            "server": "91.99.236.124",
-            "server_port": 51479,
-            "uuid": "899843a6-a746-49f1-c4bb-f8a6fd0db9a2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cdn77.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -209,7 +180,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
             "type": "vless",
             "server": "91.99.236.124",
             "server_port": 51479,
@@ -236,7 +207,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -257,6 +228,22 @@
                 "path": "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048",
                 "headers": {
                     "Host": "cBm.SpEeDtEsT2029.CoM"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "d0f70661-22ff-49bc-8c50-c71a3d8ef3fd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560",
+                "headers": {
+                    "Host": "dfgopee-workers.dev"
                 }
             }
         },
@@ -332,7 +319,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @bored_vpn | 9",
+            "tag": "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -389,39 +376,25 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "67007ba4-fadb-48c6-bf2f-125d18279d1b",
+            "server": "sss94870.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
             "flow": "",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/---VPNCUSTOMIZE---VPNCUSTOMIZE---www.speedtest.net?ed=2080",
-                "headers": {
-                    "Host": "www.speedtest.net"
+            "tls": {
+                "enabled": true,
+                "server_name": "sss94870.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 8",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "67007ba4-fadb-48c6-bf2f-125d18279d1b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/---VPNCUSTOMIZE---VPNCUSTOMIZE---www.speedtest.net?ed=2080",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
@@ -446,7 +419,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 10",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,

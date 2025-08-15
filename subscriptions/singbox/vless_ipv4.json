@@ -91,10 +91,10 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 9"
             ],
             "tag": "proxy",
@@ -105,10 +105,10 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 9"
             ],
             "tag": "auto",
@@ -148,34 +148,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 8",
-            "type": "vless",
-            "server": "91.99.236.124",
-            "server_port": 51479,
-            "uuid": "899843a6-a746-49f1-c4bb-f8a6fd0db9a2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cdn77.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -191,7 +164,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
             "type": "vless",
             "server": "91.99.236.124",
             "server_port": 51479,
@@ -218,7 +191,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -239,6 +212,22 @@
                 "path": "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048",
                 "headers": {
                     "Host": "cBm.SpEeDtEsT2029.CoM"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "d0f70661-22ff-49bc-8c50-c71a3d8ef3fd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560",
+                "headers": {
+                    "Host": "dfgopee-workers.dev"
                 }
             }
         },
