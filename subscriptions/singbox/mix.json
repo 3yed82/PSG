@@ -101,10 +101,10 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -126,10 +126,10 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -361,22 +361,6 @@
         {
             "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
             "type": "vless",
-            "server": "deep-radio.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?@",
-                "headers": {
-                    "Host": "deep-radio.seotoolsforyou.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-            "type": "vless",
             "server": "104.21.112.1",
             "server_port": 80,
             "uuid": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
@@ -391,7 +375,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "afra.matrixvip.fun",
             "server_port": 46716,
@@ -400,7 +384,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -416,7 +400,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -428,6 +412,24 @@
                 "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
                 "headers": {
                     "Host": "cumhuriyet.com.tr"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 11",
+            "type": "vless",
+            "server": "sss94870.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss94870.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
