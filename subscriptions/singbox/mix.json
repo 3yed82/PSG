@@ -95,18 +95,18 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
+                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @configms | 6",
-                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇨🇦 CA | 🔴 | vless | @configms | 6",
+                "🇨🇦 CA | 🔴 | vless | @configms | 8",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -120,18 +120,18 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 8",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 9",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
+                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @configms | 6",
-                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇨🇦 CA | 🔴 | vless | @configms | 6",
+                "🇨🇦 CA | 🔴 | vless | @configms | 8",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -259,7 +259,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
+            "tag": "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -327,7 +327,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 6",
+            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -343,7 +343,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
+            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -359,7 +359,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "deep-radio.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -375,7 +375,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "104.21.112.1",
             "server_port": 80,
@@ -391,7 +391,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "afra.matrixvip.fun",
             "server_port": 46716,
@@ -400,7 +400,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -416,7 +416,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -432,7 +432,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
@@ -457,7 +457,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 10",
+            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
