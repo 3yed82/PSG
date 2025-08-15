@@ -94,11 +94,11 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,11 +111,11 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 10",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
-                "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
-                "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
+                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -230,7 +230,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "deep-radio.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -255,7 +255,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @falcunargo | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -271,7 +271,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
@@ -296,7 +296,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @hopev2ray | 10",
+            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 10",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
