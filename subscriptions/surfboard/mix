@@ -9,12 +9,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇳🇴 NO | 🟢 | ss | @falcunargo | 7 = ss, 185.213.23.226, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇳🇴 NO | 🟢 | ss | @falcunargo | 7
-PSG-AUTO = url-test, 🇳🇴 NO | 🟢 | ss | @falcunargo | 7
-PSG-FALLBACK = fallback, 🇳🇴 NO | 🟢 | ss | @falcunargo | 7
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 
+PSG-AUTO = url-test, 
+PSG-FALLBACK = fallback, 
 
 [Rule]
 GEOIP,IR,DIRECT
