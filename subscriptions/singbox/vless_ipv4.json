@@ -95,6 +95,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
             ],
@@ -110,6 +111,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
             ],
@@ -230,6 +232,22 @@
                 "path": "/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560",
                 "headers": {
                     "Host": "dfgopee-workers.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "722959c6-2cf0-4709-bb14-2716aa34c1fa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "172.66.40.99"
                 }
             }
         },

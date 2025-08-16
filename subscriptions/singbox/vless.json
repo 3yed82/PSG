@@ -95,13 +95,13 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
-                "🇨🇦 CA | 🔴 | vless | @configms | 6",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -117,13 +117,13 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
-                "🇨🇦 CA | 🔴 | vless | @configms | 6",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -248,6 +248,22 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "722959c6-2cf0-4709-bb14-2716aa34c1fa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "172.66.40.99",
@@ -326,32 +342,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "5879d109-8c92-448a-801b-3f3989019934",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048",
-                "headers": {
-                    "Host": "pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -367,7 +358,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
