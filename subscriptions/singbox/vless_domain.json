@@ -93,6 +93,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 13",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -106,6 +107,7 @@
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 13",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -193,6 +195,31 @@
                 "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
                 "headers": {
                     "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 13",
+            "type": "vless",
+            "server": "WWw.speedtest.net",
+            "server_port": 443,
+            "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "xbox.fastnetpro.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "xbox.fastnetpro.xyz"
                 }
             }
         },

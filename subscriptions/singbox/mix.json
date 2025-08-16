@@ -102,6 +102,7 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 13",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -124,6 +125,7 @@
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 13",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -370,6 +372,31 @@
                 "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
                 "headers": {
                     "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 13",
+            "type": "vless",
+            "server": "WWw.speedtest.net",
+            "server_port": 443,
+            "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "xbox.fastnetpro.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "xbox.fastnetpro.xyz"
                 }
             }
         },
