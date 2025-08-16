@@ -89,14 +89,14 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
             ],
             "tag": "proxy",
@@ -105,14 +105,14 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
             ],
             "tag": "auto",
@@ -125,31 +125,29 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
+            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
             "type": "vless",
-            "server": "91.99.199.137",
-            "server_port": 443,
-            "uuid": "7b6eca4c-44ae-40c6-973a-4e3b29d30803",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.199.137",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-            "type": "vless",
-            "server": "94.182.142.28",
-            "server_port": 2020,
-            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "server": "91.99.190.38",
+            "server_port": 51615,
+            "uuid": "2eaef053-5fd6-4def-b234-d760690355ff",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
+            "type": "vless",
+            "server": "104.18.26.90",
+            "server_port": 80,
+            "uuid": "6f690965-3be3-43bb-9331-3ead6efb20aa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
+                "headers": {
+                    "Host": "104.18.26.90"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
@@ -252,11 +250,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
-            "uuid": "1a4784a5-49ed-4345-b5f9-98cdd70a81b8",
+            "uuid": "eb87a148-cfff-4151-a9d4-6f83e292cb16",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -270,16 +268,16 @@
         {
             "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "eb87a148-cfff-4151-a9d4-6f83e292cb16",
+            "server": "104.21.112.1",
+            "server_port": 80,
+            "uuid": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
+                "path": "/193.123.81.105=443",
                 "headers": {
-                    "Host": "172.66.40.99"
+                    "Host": "104.21.112.1"
                 }
             }
         }
