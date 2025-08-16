@@ -93,11 +93,11 @@
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
@@ -117,11 +117,11 @@
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
@@ -214,22 +214,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 9",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 80,
-            "uuid": "bf065f28-9028-4578-a3ba-7738e7b7f53c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Join-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
             "type": "vless",
             "server": "91.99.236.124",
@@ -311,6 +295,33 @@
                 "headers": {
                     "Host": "172.66.40.99"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
+            "type": "vless",
+            "server": "91.99.231.221",
+            "server_port": 2020,
+            "uuid": "%54ELEGR%41M-CONF%69GL%69NE",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI",
+                    "short_id": "809cb172dbede776"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE"
             }
         },
         {
