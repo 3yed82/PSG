@@ -89,8 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51"
             ],
@@ -100,8 +99,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51"
             ],
@@ -115,34 +113,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
-            "type": "vless",
-            "server": "91.99.236.124",
-            "server_port": 51479,
-            "uuid": "8cec3732-7131-46bc-c485-7b1d5fd776ba",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cdn77.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 14",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
             "type": "vless",
             "server": "91.99.231.221",
             "server_port": 2020,
