@@ -94,7 +94,6 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -109,7 +108,6 @@
                 "🇨🇦 CA | 🟢 | vless | @bored_vpn | 8",
                 "🇨🇦 CA | 🔴 | vless | @configms | 6",
                 "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -222,24 +220,6 @@
                 "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
-            "type": "vless",
-            "server": "sss94870.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss94870.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },

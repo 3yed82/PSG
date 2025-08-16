@@ -28,7 +28,8 @@ proxies:
   - {"name":"🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49","type":"vless","server":"94.182.142.28","port":2020,"uuid":"32b67990-fb70-457f-8f02-c7c62e4156ca","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🇺🇸 US | 🔴 | vless | @bored_vpn | 9","type":"vless","server":"172.66.40.99","port":80,"uuid":"bf065f28-9028-4578-a3ba-7738e7b7f53c","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON","headers":{"Host":"b.jOin.zEdMoDeOn.oNl."}}}
   - {"name":"🇺🇸 US | 🔴 | vless | @bored_vpn | 12","type":"vless","server":"172.66.40.99","port":80,"uuid":"d0f70661-22ff-49bc-8c50-c71a3d8ef3fd","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"dfgopee-workers.dev","ws-opts":{"path":"/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560","headers":{"Host":"dfgopee-workers.dev."}}}
-  - {"name":"🇺🇸 US | 🔴 | vless | @falcunargo | 12","type":"vless","server":"172.66.40.99","port":8080,"uuid":"1a4784a5-49ed-4345-b5f9-98cdd70a81b8","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"Host":"k.ft.ip-ddns.com"}}}
+  - {"name":"🇺🇸 US | 🔴 | vless | @falcunargo | 11","type":"vless","server":"172.66.40.99","port":8080,"uuid":"1a4784a5-49ed-4345-b5f9-98cdd70a81b8","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"Host":"k.ft.ip-ddns.com"}}}
+  - {"name":"🇺🇸 US | 🔴 | vless | @falcunargo | 14","type":"vless","server":"172.66.40.99","port":8080,"uuid":"eb87a148-cfff-4151-a9d4-6f83e292cb16","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"Host":"k.ft.ip-ddns.com"}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -47,7 +48,8 @@ proxy-groups:
       - '🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49'
       - '🇺🇸 US | 🔴 | vless | @bored_vpn | 9'
       - '🇺🇸 US | 🔴 | vless | @bored_vpn | 12'
-      - '🇺🇸 US | 🔴 | vless | @falcunargo | 12'
+      - '🇺🇸 US | 🔴 | vless | @falcunargo | 11'
+      - '🇺🇸 US | 🔴 | vless | @falcunargo | 14'
 
   - name: 🌍 Global Media
     type: select
