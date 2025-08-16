@@ -95,7 +95,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,7 +109,7 @@
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🟢 | vless | @bored_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -232,7 +232,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
