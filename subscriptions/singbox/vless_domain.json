@@ -89,8 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 11",
@@ -103,8 +103,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇺🇸 US | 🔴 | vless | @configms | 6",
                 "🇺🇸 US | 🔴 | vless | @configms | 8",
                 "🇺🇸 US | 🟢 | vless | @falcunargo | 11",
@@ -121,43 +121,48 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
             "type": "vless",
-            "server": "all32-vip.f-sub.com",
-            "server_port": 2434,
-            "uuid": "738c5a04-817a-4f50-b327-893595010155",
+            "server": "de.multiapvps.ir",
+            "server_port": 4433,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "chess.com",
+                "server_name": "docker.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA",
+                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
                     "short_id": ""
                 }
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
+            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
             "type": "vless",
-            "server": "c51.aminzing.lol",
-            "server_port": 443,
-            "uuid": "2de98c6e-319d-4fd1-81ba-82237c44ed36",
-            "flow": "",
+            "server": "usa.multiapvps.ir",
+            "server_port": 4434,
+            "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "c51.aminzing.lol",
+                "server_name": "docker.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
+                    "short_id": ""
                 }
             }
         },
