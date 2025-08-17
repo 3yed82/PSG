@@ -96,15 +96,15 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 6",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🟢 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -121,15 +121,15 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @configms | 6",
-                "🇨🇦 CA | 🔴 | vless | @configms | 8",
-                "🇨🇦 CA | 🟢 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -270,22 +270,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "eb87a148-cfff-4151-a9d4-6f83e292cb16",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "104.21.112.1",
@@ -364,7 +348,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -380,7 +364,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -396,7 +380,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "WWw.speedtest.net",
             "server_port": 443,
@@ -435,6 +419,22 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "type": "vless",
+            "server": "cumhuriyet.com.tr",
+            "server_port": 8080,
+            "uuid": "f169440e-b49b-400d-8908-3b5e5741e946",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
+                "headers": {
+                    "Host": "cumhuriyet.com.tr"
                 }
             }
         },
