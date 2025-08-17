@@ -91,20 +91,20 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @configms | 5",
-                "🇺🇸 US | 🔴 | vless | @configms | 7",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -116,20 +116,20 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
+                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @configms | 5",
-                "🇺🇸 US | 🔴 | vless | @configms | 7",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+                "🇺🇸 US | 🔴 | vless | @configms | 6",
+                "🇺🇸 US | 🔴 | vless | @configms | 8",
+                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
             ],
@@ -170,32 +170,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @bored_vpn | 10",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 443,
-            "uuid": "telegram-id-Arfilter",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cBm.SpEeDtEsT2029.CoM",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048",
-                "headers": {
-                    "Host": "cBm.SpEeDtEsT2029.CoM"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -211,7 +186,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -227,7 +202,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
             "type": "vless",
             "server": "91.99.231.221",
             "server_port": 2020,
@@ -254,7 +229,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -270,7 +245,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 2095,
+            "uuid": "6d4a7d95-1a7c-4b3f-827f-a7f2b94bfbd5",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "104.21.112.1",
             "server_port": 80,
@@ -286,11 +270,27 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
             "uuid": "1271a698-7db4-455d-b7e2-daa07389bb6c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 8080,
+            "uuid": "c1d33a48-0a89-4ca6-81e7-e126123f3375",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -348,23 +348,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 5",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "0505a73b-2643-4029-ae7a-9889c5ba1436",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -380,32 +364,23 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
             "type": "vless",
-            "server": "WWw.speedtest.net",
-            "server_port": 443,
-            "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "ee405388-1f23-46c2-91e4-0d0ce52774df",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "xbox.fastnetpro.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
                 "headers": {
-                    "Host": "xbox.fastnetpro.xyz"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "sss94870.tas-bazi.com",
             "server_port": 443,
@@ -423,7 +398,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,

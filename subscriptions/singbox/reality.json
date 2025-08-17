@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51"
             ],
@@ -99,7 +99,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
+                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51"
             ],
@@ -113,7 +113,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
+            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
             "type": "vless",
             "server": "91.99.231.221",
             "server_port": 2020,
