@@ -89,16 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
+                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,16 +98,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
-                "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12"
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
+                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -127,7 +111,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
+            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
             "type": "vless",
             "server": "91.99.199.137",
             "server_port": 443,
@@ -145,145 +129,13 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+            "tag": "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35",
             "type": "vless",
             "server": "94.182.142.28",
             "server_port": 2020,
             "uuid": "32b67990-fb70-457f-8f02-c7c62e4156ca",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 10",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 80,
-            "uuid": "d0f70661-22ff-49bc-8c50-c71a3d8ef3fd",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560",
-                "headers": {
-                    "Host": "dfgopee-workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 11",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 80,
-            "uuid": "722959c6-2cf0-4709-bb14-2716aa34c1fa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @bored_vpn | 12",
-            "type": "vless",
-            "server": "91.99.231.221",
-            "server_port": 2020,
-            "uuid": "TELEGRAM-CONFiGLiNE",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI",
-                    "short_id": "809cb172dbede776"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 13",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 80,
-            "uuid": "2739711a-fb3b-471a-9956-14f1a877ce9e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 2095,
-            "uuid": "6d4a7d95-1a7c-4b3f-827f-a7f2b94bfbd5",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 8",
-            "type": "vless",
-            "server": "104.21.112.1",
-            "server_port": 80,
-            "uuid": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/193.123.81.105=443",
-                "headers": {
-                    "Host": "104.21.112.1"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "1271a698-7db4-455d-b7e2-daa07389bb6c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "c1d33a48-0a89-4ca6-81e7-e126123f3375",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
         }
     ],
     "route": {

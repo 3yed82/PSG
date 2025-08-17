@@ -89,14 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @configms | 6",
-                "🇺🇸 US | 🔴 | vless | @configms | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -104,14 +98,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @configms | 6",
-                "🇺🇸 US | 🔴 | vless | @configms | 8",
-                "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-                "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -123,7 +111,7 @@
             "type": "direct"
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
             "type": "vless",
             "server": "de.multiapvps.ir",
             "server_port": 4433,
@@ -146,7 +134,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
+            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37",
             "type": "vless",
             "server": "usa.multiapvps.ir",
             "server_port": 4434,
@@ -165,122 +153,6 @@
                     "enabled": true,
                     "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 6",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "410eaa6b-022e-4a2d-a6f9-1fd1cb5f1e3c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "ee405388-1f23-46c2-91e4-0d0ce52774df",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @falcunargo | 9",
-            "type": "vless",
-            "server": "sss94870.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss94870.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
-            "type": "vless",
-            "server": "cumhuriyet.com.tr",
-            "server_port": 8080,
-            "uuid": "f169440e-b49b-400d-8908-3b5e5741e946",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "cumhuriyet.com.tr"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
-            "type": "vless",
-            "server": "zula.ir",
-            "server_port": 2087,
-            "uuid": "1618024f-7ee0-4355-bdfc-ac49f7ae66a8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,",
-                "headers": {
-                    "Host": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @hopev2ray | 10",
-            "type": "vless",
-            "server": "zula.ir",
-            "server_port": 2087,
-            "uuid": "5091c4b1-e69c-48a4-b0f1-78578247a947",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,",
-                "headers": {
-                    "Host": "eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online"
                 }
             }
         }
