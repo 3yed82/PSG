@@ -89,10 +89,10 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37"
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
+                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,10 +100,10 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
-                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
-                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37"
+                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
+                "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -115,7 +115,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 33",
+            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 47",
             "type": "vless",
             "server": "91.99.199.137",
             "server_port": 443,
@@ -133,7 +133,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 35",
+            "tag": "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
             "type": "vless",
             "server": "94.182.142.28",
             "server_port": 2020,
@@ -142,7 +142,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
             "type": "vless",
             "server": "de.multiapvps.ir",
             "server_port": 4433,
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 37",
+            "tag": "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
             "type": "vless",
             "server": "usa.multiapvps.ir",
             "server_port": 4434,
