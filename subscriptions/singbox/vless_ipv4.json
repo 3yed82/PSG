@@ -96,9 +96,9 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,9 +113,9 @@
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 12",
                 "🇩🇪 DE | 🟢 | vless | @bored_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @bored_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 14"
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
+                "🇺🇸 US | 🔴 | vless | @falcunargo | 11"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -254,7 +254,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 10",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 7",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -270,7 +270,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 9",
             "type": "vless",
             "server": "104.21.112.1",
             "server_port": 80,
@@ -286,7 +286,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
