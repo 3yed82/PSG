@@ -91,9 +91,9 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @configms | 6",
-                "🇺🇸 US | 🔴 | vless | @configms | 8",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+                "🇨🇦 CA | 🔴 | vless | @configms | 6",
+                "🇨🇦 CA | 🔴 | vless | @configms | 8",
+                "🇨🇦 CA | 🟢 | vless | @falcunargo | 8",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
@@ -106,9 +106,9 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇫🇮 FI | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @configms | 6",
-                "🇺🇸 US | 🔴 | vless | @configms | 8",
-                "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+                "🇨🇦 CA | 🔴 | vless | @configms | 6",
+                "🇨🇦 CA | 🔴 | vless | @configms | 8",
+                "🇨🇦 CA | 🟢 | vless | @falcunargo | 8",
                 "🇩🇪 DE | 🔴 | vless | @falcunargo | 10",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 8",
                 "🇺🇸 US | 🟢 | vless | @hopev2ray | 10"
@@ -169,7 +169,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 6",
+            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -185,7 +185,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 8",
+            "tag": "🇨🇦 CA | 🔴 | vless | @configms | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -201,7 +201,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @falcunargo | 8",
+            "tag": "🇨🇦 CA | 🟢 | vless | @falcunargo | 8",
             "type": "vless",
             "server": "WWw.speedtest.net",
             "server_port": 443,
