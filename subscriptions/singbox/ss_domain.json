@@ -89,10 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
-                "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
-                "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 2"
+                "🇦🇹 AT | 🟢 | ss | @NamiraConfigs | 66"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,10 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
-                "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
-                "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
-                "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 2"
+                "🇦🇹 AT | 🟢 | ss | @NamiraConfigs | 66"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -115,36 +109,12 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @custom_v2ray | 1",
+            "tag": "🇦🇹 AT | 🟢 | ss | @NamiraConfigs | 66",
             "type": "shadowsocks",
-            "server": "account-mec.emofid.co",
+            "server": "promo6v.bystrivpn.ru",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "7ivrGEHY88sQk3DP"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 0",
-            "type": "shadowsocks",
-            "server": "series-a2.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "mps3FwmDjLrWaOVg"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 1",
-            "type": "shadowsocks",
-            "server": "series-a2.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "mps3FwmDjLrWaOVg"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @nationalproxytelegram | 2",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
+            "password": "9JeYy8SkViXuSHVs9GFeSe"
         }
     ],
     "route": {
