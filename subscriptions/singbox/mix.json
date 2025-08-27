@@ -93,11 +93,10 @@
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65",
-                "🇭🇰 HK | 🟢 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 67",
-                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 68",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69"
+                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 65",
+                "🇮🇷 IR | 🔴 | vless | @NamiraConfigs | 66",
+                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 69"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,11 +108,10 @@
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65",
-                "🇭🇰 HK | 🟢 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 67",
-                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 68",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69"
+                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 65",
+                "🇮🇷 IR | 🔴 | vless | @NamiraConfigs | 66",
+                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 69"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -198,32 +196,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65",
+            "tag": "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 65",
             "type": "vless",
-            "server": "104.16.178.238",
-            "server_port": 80,
-            "uuid": "d4eddaf9-a660-4905-b835-cad98677b380",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "104.16.178.238"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🟢 | vless | @NamiraConfigs | 66",
-            "type": "vless",
-            "server": "103.160.204.50",
+            "server": "tttttttttttt.222769.xyz",
             "server_port": 443,
-            "uuid": "c98a16e4-0dc5-42f0-b3db-30f04525c123",
+            "uuid": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "vless8-ekh.pages.dev",
+                "server_name": "ttTttttTTTTT.222769.xYz",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -232,61 +214,77 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/sMrAaoCaOSZb9TPR",
                 "headers": {
-                    "Host": "vless8-ekh.pages.dev"
+                    "Host": "ttTttttTTTTT.222769.xYz"
                 }
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 67",
+            "tag": "🇮🇷 IR | 🔴 | vless | @NamiraConfigs | 66",
             "type": "vless",
-            "server": "188.114.97.202",
-            "server_port": 8443,
-            "uuid": "c2e177d4-e610-4abd-85cd-1a869d158751",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "teslakit1.pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "teslakit1.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 68",
-            "type": "vmess",
-            "server": "51.79.102.253",
+            "server": "meli1.dashvili.ir",
             "server_port": 80,
-            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
-            "security": "auto",
-            "alter_id": 0,
+            "uuid": "f5f2458c-5fcb-4820-82c2-2997492c54d5",
+            "flow": "",
+            "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+                "path": "/",
                 "headers": {
-                    "Host": ""
+                    "Host": "meli1.dashvili.ir"
                 }
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69",
+            "tag": "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 67",
             "type": "vless",
-            "server": "172.234.221.94",
-            "server_port": 56224,
-            "uuid": "e3d0de50-7673-4d13-be7b-e508632ed430",
+            "server": "ov-germany6.09vpn.com",
+            "server_port": 8443,
+            "uuid": "1ff9dc4a-4853-4790-a81c-13e195c957e8",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ov-germany6.09vpn.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "ov-germany6.09vpn.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 69",
+            "type": "vless",
+            "server": "101reel.com",
+            "server_port": 443,
+            "uuid": "b55ec078-3b17-4ed1-a697-71f464cdcaaa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "barayeiranmahsang.sabzipolobamahi.dpdns.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "barayeiranmahsang.sabzipolobamahi.dpdns.org"
+                }
+            }
         }
     ],
     "route": {
