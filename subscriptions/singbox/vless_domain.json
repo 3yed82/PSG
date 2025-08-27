@@ -89,10 +89,10 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 45",
-                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 47",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 37"
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
+                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
+                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 68"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,10 +100,10 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 45",
-                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 47",
-                "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 37"
+                "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
+                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
+                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
+                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 68"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -115,57 +115,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 45",
-            "type": "vless",
-            "server": "freexxx.xhamster.biz.id",
-            "server_port": 443,
-            "uuid": "aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "freexxx.xhamster.biz.id",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Free-CF-Proxy-AE19",
-                "headers": {
-                    "Host": "freexxx.xhamster.biz.id"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 47",
-            "type": "vless",
-            "server": "freexxx.ndeso.web.id",
-            "server_port": 443,
-            "uuid": "aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "freexxx.ndeso.web.id",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Free-CF-Proxy-AT24",
-                "headers": {
-                    "Host": "freexxx.ndeso.web.id"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 36",
+            "tag": "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
             "type": "vless",
             "server": "de.multiapvps.ir",
             "server_port": 4433,
@@ -188,7 +138,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 37",
+            "tag": "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
             "type": "vless",
             "server": "usa.multiapvps.ir",
             "server_port": 4434,
@@ -207,6 +157,38 @@
                     "enabled": true,
                     "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
+            "type": "vless",
+            "server": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK",
+            "server_port": 80,
+            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 68",
+            "type": "vless",
+            "server": "fearless-change.oneeat.co",
+            "server_port": 80,
+            "uuid": "b055036a-2d81-4d46-ab18-4e1898b58cec",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "fearless-change.oneeat.co"
                 }
             }
         }
