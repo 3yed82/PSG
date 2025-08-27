@@ -90,9 +90,7 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
+                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,9 +99,7 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
+                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -157,38 +153,6 @@
                     "enabled": true,
                     "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-            "type": "vless",
-            "server": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK",
-            "server_port": 80,
-            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
-            "type": "vless",
-            "server": "fearless-change.oneeat.co",
-            "server_port": 80,
-            "uuid": "b055036a-2d81-4d46-ab18-4e1898b58cec",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "fearless-change.oneeat.co"
                 }
             }
         }
