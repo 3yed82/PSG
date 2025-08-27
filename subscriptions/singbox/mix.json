@@ -94,7 +94,10 @@
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 66",
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
+                "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 69"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -107,7 +110,10 @@
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 66",
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
+                "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 69"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,32 +200,100 @@
         {
             "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
             "type": "vless",
-            "server": "moody-lock.seotoolsforyou.co.uk",
+            "server": "COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK",
             "server_port": 80,
-            "uuid": "82cdcdf0-e772-4d9a-b0a2-d6b605572ac1",
+            "uuid": "9926ee97-4398-48dd-b263-2863c62f5c41",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "moody-lock.seotoolsforyou.co.uk"
+                    "Host": "COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 66",
+            "type": "vless",
+            "server": "188.114.96.6",
+            "server_port": 443,
+            "uuid": "8df60790-c903-4661-b85d-64c0009378e5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "F1.paRsa.fiLegEar-Sg.Me",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "F1.paRsa.fiLegEar-Sg.Me"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 67",
+            "type": "vless",
+            "server": "104.21.36.57",
+            "server_port": 443,
+            "uuid": "6c11247b-6078-461a-93d5-22e4df284e6d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "mirror.fullmargintraders.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/wsv/6c11247b-6078-461a-93d5-22e4df284e6d",
+                "headers": {
+                    "Host": "mirror.fullmargintraders.com"
                 }
             }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
             "type": "vless",
-            "server": "grounded-brother.seotoolsforyou.co.uk",
+            "server": "communal-loss.oneeat.co",
             "server_port": 80,
-            "uuid": "52adc6ba-b1c7-4541-a594-08fc698be640",
+            "uuid": "a2af50d9-09c7-4a44-90d0-42da35923e9e",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "grounded-brother.seotoolsforyou.co.uk"
+                    "Host": "communal-loss.oneeat.co"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 69",
+            "type": "vless",
+            "server": "ssl1.komanserver.ir",
+            "server_port": 443,
+            "uuid": "7c64f248-eeea-4d74-8851-39aee486e287",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "am.komanserver.ir.",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         }
