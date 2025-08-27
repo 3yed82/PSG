@@ -94,8 +94,8 @@
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 67",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 68",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
                 "🇸🇬 SG | 🔴 | vmess | @NamiraConfigs | 69"
             ],
             "tag": "proxy",
@@ -109,8 +109,8 @@
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
                 "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 67",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 68",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
                 "🇸🇬 SG | 🔴 | vmess | @NamiraConfigs | 69"
             ],
             "tag": "auto",
@@ -212,7 +212,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 67",
+            "tag": "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
             "type": "vmess",
             "server": "npmjs.com",
             "server_port": 8080,
@@ -228,7 +228,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 68",
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
             "type": "vless",
             "server": "fearless-change.oneeat.co",
             "server_port": 80,

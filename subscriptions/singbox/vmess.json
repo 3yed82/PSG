@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
                 "🇸🇬 SG | 🔴 | vmess | @NamiraConfigs | 69"
             ],
             "tag": "proxy",
@@ -98,7 +98,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
                 "🇸🇬 SG | 🔴 | vmess | @NamiraConfigs | 69"
             ],
             "tag": "auto",
@@ -111,7 +111,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 67",
+            "tag": "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
             "type": "vmess",
             "server": "npmjs.com",
             "server_port": 8080,
