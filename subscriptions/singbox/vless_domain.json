@@ -90,9 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 65",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66"
+                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,9 +99,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 65",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66"
+                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -152,40 +148,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 65",
-            "type": "vless",
-            "server": "ssl1.komanserver.ir",
-            "server_port": 443,
-            "uuid": "7c64f248-eeea-4d74-8851-39aee486e287",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "am.komanserver.ir.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66",
-            "type": "vless",
-            "server": "FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk",
-            "server_port": 80,
-            "uuid": "9570a079-f83f-4454-88d0-884057c57a35",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk"
                 }
             }
         }
