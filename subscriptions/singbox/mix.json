@@ -93,8 +93,9 @@
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
+                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 67",
                 "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
             ],
             "tag": "proxy",
@@ -107,8 +108,9 @@
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
                 "❔ XX | 🟢 | vless | @Fr33C0nfig | 50",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 51",
-                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
+                "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 67",
                 "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
             ],
             "tag": "auto",
@@ -194,16 +196,48 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 66",
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65",
             "type": "vless",
-            "server": "ov-germany6.09vpn.com",
-            "server_port": 8443,
-            "uuid": "1ff9dc4a-4853-4790-a81c-13e195c957e8",
+            "server": "104.24.148.184",
+            "server_port": 80,
+            "uuid": "01cb18d1-2062-47e7-999b-ec08e8b2ec85",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "104.24.148.184"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
+            "type": "vless",
+            "server": "172.64.148.32",
+            "server_port": 80,
+            "uuid": "03e4d6fe-f461-499f-b9c6-35c60f192e1a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "172.64.148.32"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🟢 | vless | @NamiraConfigs | 67",
+            "type": "vless",
+            "server": "aliakb3435.pages.dev",
+            "server_port": 443,
+            "uuid": "97c4550f-8ecc-42fa-ae66-3b550c986cd2",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ov-germany6.09vpn.com",
+                "server_name": "aLiAkB3435.paGES.dEV",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -212,41 +246,25 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/vless/",
+                "path": "/PLe847RCOx5eWYOx?ed=2560",
                 "headers": {
-                    "Host": "ov-germany6.09vpn.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
-            "type": "vless",
-            "server": "grounded-brother.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "52adc6ba-b1c7-4541-a594-08fc698be640",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "grounded-brother.seotoolsforyou.co.uk"
+                    "Host": "aLiAkB3435.paGES.dEV"
                 }
             }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
             "type": "vless",
-            "server": "fearless-change.oneeat.co",
+            "server": "104.21.16.48",
             "server_port": 80,
-            "uuid": "b055036a-2d81-4d46-ab18-4e1898b58cec",
+            "uuid": "7c18eeab-f38f-48a2-ae25-50c26cdfb0d9",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "fearless-change.oneeat.co"
+                    "Host": "104.21.16.48"
                 }
             }
         }
