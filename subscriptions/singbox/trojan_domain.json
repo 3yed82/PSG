@@ -89,10 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 10",
-                "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "❔ XX | 🟢 | trojan | @xrayzxn | 4"
+                "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 65",
+                "🇩🇪 DE | 🟢 | trojan | @NamiraConfigs | 66"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,10 +98,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 10",
-                "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "❔ XX | 🟢 | trojan | @xrayzxn | 4"
+                "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 65",
+                "🇩🇪 DE | 🟢 | trojan | @NamiraConfigs | 66"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -115,14 +111,14 @@
             "type": "direct"
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 10",
+            "tag": "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 65",
             "type": "trojan",
-            "server": "ru2.asc-sam.ir",
+            "server": "ca-full.privateip.net",
             "server_port": 443,
-            "password": "IM4e0ZQNPU",
+            "password": "99c63d3a-4499-4a5b-aad6-826a6851f304",
             "tls": {
                 "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
+                "server_name": "ca-full.privateip.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -131,64 +127,18 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @NamiraConfigs | 66",
             "type": "trojan",
-            "server": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
+            "server": "on-roughy.shiner427.skin",
             "server_port": 443,
-            "password": "c7f9b8f0-bfdb-11ee-a15c-1239d0255272",
+            "password": "74260704627805900",
             "tls": {
                 "enabled": true,
-                "server_name": "de1.test3.net",
+                "server_name": "on-roughy.shiner427.skin",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/howdy",
-                "headers": {
-                    "Host": "de1.test3.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-            "type": "trojan",
-            "server": "de1.test3.net",
-            "server_port": 443,
-            "password": "b8841c50-c3ad-11ee-9be0-1239d0255272",
-            "tls": {
-                "enabled": true,
-                "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-            "type": "trojan",
-            "server": "amin.karkas1.ir",
-            "server_port": 443,
-            "password": "11ae0edd-2f63-4495-8683-037abbda9986",
-            "tls": {
-                "enabled": true,
-                "server_name": "amin.karkas1.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/6vuNVgOFnqUEvj0sNkGkxxW7",
-                "headers": {
-                    "Host": "amin.karkas1.ir"
                 }
             }
         }
