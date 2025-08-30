@@ -88,17 +88,14 @@
         {
             "outbounds": [
                 "auto",
-                "direct",
-                "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 69"
+                "direct"
             ],
             "tag": "proxy",
             "type": "selector"
         },
         {
             "interval": "10m",
-            "outbounds": [
-                "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 69"
-            ],
+            "outbounds": [],
             "tag": "auto",
             "tolerance": 50,
             "type": "urltest",
@@ -107,14 +104,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 69",
-            "type": "shadowsocks",
-            "server": "71.19.148.74",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "gqkUCvmeOTghYJXF1YIuk5"
         }
     ],
     "route": {
