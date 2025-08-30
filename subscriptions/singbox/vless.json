@@ -91,6 +91,8 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
                 "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
@@ -103,6 +105,8 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
                 "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
@@ -158,18 +162,50 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69",
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
             "type": "vless",
-            "server": "magical-fish.seotoolsforyou.co.uk",
+            "server": "creativE-coMPUter.Oneeat.Co",
             "server_port": 80,
-            "uuid": "edb4c373-ac92-4430-8f42-94439ca829b9",
+            "uuid": "f1fe4963-66f7-4f71-a038-9e07ea6cf20f",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "magical-fish.seotoolsforyou.co.uk"
+                    "Host": "creativE-coMPUter.Oneeat.Co"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
+            "type": "vless",
+            "server": "FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk",
+            "server_port": 80,
+            "uuid": "9570a079-f83f-4454-88d0-884057c57a35",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69",
+            "type": "vless",
+            "server": "narrow-passenger.oneeat.co",
+            "server_port": 80,
+            "uuid": "5a12794b-2125-46d7-a748-927a989faa04",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "narrow-passenger.oneeat.co"
                 }
             }
         },
