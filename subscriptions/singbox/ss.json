@@ -89,10 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 63",
-                "🇨🇴 CO | 🟢 | ss | @NamiraConfigs | 64",
-                "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 65",
-                "🇹🇭 TH | 🟢 | ss | @NamiraConfigs | 66"
+                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 65"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,10 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 63",
-                "🇨🇴 CO | 🟢 | ss | @NamiraConfigs | 64",
-                "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 65",
-                "🇹🇭 TH | 🟢 | ss | @NamiraConfigs | 66"
+                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 65"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -115,36 +109,12 @@
             "type": "direct"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 63",
+            "tag": "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 65",
             "type": "shadowsocks",
-            "server": "193.29.139.235",
+            "server": "193.29.139.209",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "tag": "🇨🇴 CO | 🟢 | ss | @NamiraConfigs | 64",
-            "type": "shadowsocks",
-            "server": "181.119.30.20",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 65",
-            "type": "shadowsocks",
-            "server": "45.87.175.178",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1RWwXhwfAB5gAEozU4G2Pg"
-        },
-        {
-            "tag": "🇹🇭 TH | 🟢 | ss | @NamiraConfigs | 66",
-            "type": "shadowsocks",
-            "server": "119.59.98.58",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
         }
     ],
     "route": {
