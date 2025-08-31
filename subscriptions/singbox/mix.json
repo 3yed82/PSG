@@ -94,9 +94,11 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇮🇳 IN | 🔴 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67"
+                "🇺🇸 US | 🟢 | vmess | @NamiraConfigs | 65",
+                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 66",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
+                "🇩🇪 DE | 🔴 | vmess | @NamiraConfigs | 68",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 69"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,9 +111,11 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-                "🇮🇳 IN | 🔴 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67"
+                "🇺🇸 US | 🟢 | vmess | @NamiraConfigs | 65",
+                "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 66",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
+                "🇩🇪 DE | 🔴 | vmess | @NamiraConfigs | 68",
+                "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 69"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -198,45 +202,79 @@
             "alter_id": 0
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 65",
-            "type": "vless",
-            "server": "glEefUL-ERror.sEoTOoLSfOrYou.cO.UK",
-            "server_port": 80,
-            "uuid": "9a37131b-2b68-427f-a2fc-cc7381c2d575",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇺🇸 US | 🟢 | vmess | @NamiraConfigs | 65",
+            "type": "vmess",
+            "server": "104.18.149.76",
+            "server_port": 443,
+            "uuid": "de94cc0a-0592-4969-b1fc-97ea8f0ea0b3",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "us.kkp.me.eu.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/aa",
                 "headers": {
-                    "Host": "glEefUL-ERror.sEoTOoLSfOrYou.cO.UK"
+                    "Host": "us.kkp.me.eu.org"
                 }
             }
         },
         {
-            "tag": "🇮🇳 IN | 🔴 | vless | @NamiraConfigs | 66",
-            "type": "vless",
-            "server": "45.88.183.156",
-            "server_port": 12794,
-            "uuid": "08704c01-7edb-454a-98a2-328ccb9936fa",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "tag": "🇨🇦 CA | 🔴 | vmess | @NamiraConfigs | 66",
+            "type": "vmess",
+            "server": "51.79.102.253",
+            "server_port": 80,
+            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
-            "type": "vless",
-            "server": "light-presence.oneeat.co",
-            "server_port": 80,
-            "uuid": "7e74ff43-3a90-48b3-8372-7d92a045c2d4",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 67",
+            "type": "vmess",
+            "server": "15.204.234.200",
+            "server_port": 41100,
+            "uuid": "c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vmess | @NamiraConfigs | 68",
+            "type": "vmess",
+            "server": "91.99.185.216",
+            "server_port": 20086,
+            "uuid": "7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9",
+            "security": "auto",
+            "alter_id": 0,
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "light-presence.oneeat.co"
+                    "Host": ""
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @NamiraConfigs | 69",
+            "type": "vmess",
+            "server": "15.204.11.190",
+            "server_port": 15361,
+            "uuid": "5d7bf9e3-415c-40f3-c66d-a54ea0fd860e",
+            "security": "auto",
+            "alter_id": 0
         }
     ],
     "route": {
