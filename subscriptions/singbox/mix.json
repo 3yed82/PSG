@@ -94,10 +94,9 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 66",
-                "🇹🇷 TR | 🟢 | ss | @NamiraConfigs | 67",
-                "🇸🇮 SI | 🟢 | ss | @NamiraConfigs | 68",
-                "🇨🇦 CA | 🟢 | ss | @NamiraConfigs | 69"
+                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 65",
+                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 66",
+                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 67"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,10 +109,9 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 66",
-                "🇹🇷 TR | 🟢 | ss | @NamiraConfigs | 67",
-                "🇸🇮 SI | 🟢 | ss | @NamiraConfigs | 68",
-                "🇨🇦 CA | 🟢 | ss | @NamiraConfigs | 69"
+                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 65",
+                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 66",
+                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 67"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,36 +198,61 @@
             "alter_id": 0
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @NamiraConfigs | 66",
-            "type": "shadowsocks",
-            "server": "45.87.175.192",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
+            "tag": "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 65",
+            "type": "vless",
+            "server": "109.120.132.142",
+            "server_port": 40617,
+            "uuid": "d8d05386-e381-40a4-bb63-715c208b3ed3",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
-            "tag": "🇹🇷 TR | 🟢 | ss | @NamiraConfigs | 67",
-            "type": "shadowsocks",
-            "server": "193.46.56.185",
-            "server_port": 6683,
-            "method": "chacha20-ietf-poly1305",
-            "password": "iw8GoN42dciNxDBd0RwAdL"
+            "tag": "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 66",
+            "type": "vless",
+            "server": "157.245.24.38",
+            "server_port": 2087,
+            "uuid": "f475c570-eba2-4a74-9948-d22ce8492aff",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ame.spsvps.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HQdpA2sAkxUHghPtT8EUA1zPqkq_tz8ncwQM2zNkCS4",
+                    "short_id": "b359bc5c70c21d55"
+                }
+            }
         },
         {
-            "tag": "🇸🇮 SI | 🟢 | ss | @NamiraConfigs | 68",
-            "type": "shadowsocks",
-            "server": "192.71.244.150",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | ss | @NamiraConfigs | 69",
-            "type": "shadowsocks",
-            "server": "38.180.211.126",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Kuiqk2cP0BMWrgme9IfEvp"
+            "tag": "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 67",
+            "type": "vless",
+            "server": "ov-germany6.09vpn.com",
+            "server_port": 8443,
+            "uuid": "1ff9dc4a-4853-4790-a81c-13e195c957e8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ov-germany6.09vpn.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "ov-germany6.09vpn.com"
+                }
+            }
         }
     ],
     "route": {
