@@ -89,7 +89,8 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 66"
+                "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 65",
+                "🇩🇪 DE | 🟢 | trojan | @NamiraConfigs | 66"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,7 +98,8 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 66"
+                "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 65",
+                "🇩🇪 DE | 🟢 | trojan | @NamiraConfigs | 66"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -109,7 +111,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 66",
+            "tag": "🇨🇦 CA | 🟢 | trojan | @NamiraConfigs | 65",
             "type": "trojan",
             "server": "ca-full.privateip.net",
             "server_port": 443,
@@ -117,6 +119,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "ca-full.privateip.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | trojan | @NamiraConfigs | 66",
+            "type": "trojan",
+            "server": "on-roughy.shiner427.skin",
+            "server_port": 443,
+            "password": "74260704627805900",
+            "tls": {
+                "enabled": true,
+                "server_name": "on-roughy.shiner427.skin",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
