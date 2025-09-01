@@ -31,7 +31,7 @@ proxies:
   - {"name":"🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 63","type":"trojan","server":"108.162.196.69","port":443,"password":"4b040268-f3a5-4136-b1a9-506012e8e3d9","skip-cert-verify":false}
   - {"name":"🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 64","type":"vless","server":"109.120.132.142","port":40617,"uuid":"d8d05386-e381-40a4-bb63-715c208b3ed3","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65","type":"vless","server":"pq-unitedstates3.09vpn.com","port":80,"uuid":"b6d6dcc2-640b-411f-8003-620830fbf183","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/vless/","headers":{"Host":"pq-unitedstates3.09vpn.com"}}}
-  - {"name":"🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66","type":"vless","server":"elegant-corporation.seotoolsforyou.co.uk","port":80,"uuid":"d03d8815-a06f-408f-a62f-6c84869b96a9","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"elegant-corporation.seotoolsforyou.co.uk"}}}
+  - {"name":"🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66","type":"vless","server":"elegant-corporation.seotoolsforyou.co.uk","port":80,"uuid":"d03d8815-a06f-408f-a62f-6c84869b96a9","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"elegant-corporation.seotoolsforyou.co.uk"}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -53,7 +53,7 @@ proxy-groups:
       - '🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 63'
       - '🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 64'
       - '🇺🇸 US | 🔴 | vless | @NamiraConfigs | 65'
-      - '🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66'
+      - '🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66'
 
   - name: 🌍 Global Media
     type: select
