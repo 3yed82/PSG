@@ -94,10 +94,9 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 64",
-                "🇫🇮 FI | 🟢 | ss | @NamiraConfigs | 65",
-                "🇨🇦 CA | 🟢 | ss | @NamiraConfigs | 66",
-                "🇸🇮 SI | 🟢 | ss | @NamiraConfigs | 67"
+                "🇺🇸 US | 🟢 | trojan | @NamiraConfigs | 63",
+                "🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 64",
+                "🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 65"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,10 +109,9 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 64",
-                "🇫🇮 FI | 🟢 | ss | @NamiraConfigs | 65",
-                "🇨🇦 CA | 🟢 | ss | @NamiraConfigs | 66",
-                "🇸🇮 SI | 🟢 | ss | @NamiraConfigs | 67"
+                "🇺🇸 US | 🟢 | trojan | @NamiraConfigs | 63",
+                "🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 64",
+                "🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 65"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,36 +198,52 @@
             "alter_id": 0
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 64",
-            "type": "shadowsocks",
-            "server": "193.29.139.235",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+            "tag": "🇺🇸 US | 🟢 | trojan | @NamiraConfigs | 63",
+            "type": "trojan",
+            "server": "94.131.20.3",
+            "server_port": 443,
+            "password": "3482c71a-d01c-4ae5-b454-fa8cb3785f66",
+            "tls": {
+                "enabled": true,
+                "server_name": "nacho-rerun-crepe.stark-industries.solutions",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | ss | @NamiraConfigs | 65",
-            "type": "shadowsocks",
-            "server": "83.147.216.70",
-            "server_port": 64519,
-            "method": "chacha20-ietf-poly1305",
-            "password": "YXgS8ComTam7qoesPlzlMo"
+            "tag": "🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 64",
+            "type": "trojan",
+            "server": "108.162.196.69",
+            "server_port": 443,
+            "password": "4b040268-f3a5-4136-b1a9-506012e8e3d9",
+            "tls": {
+                "enabled": true,
+                "server_name": "ssp2.100896.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | ss | @NamiraConfigs | 66",
-            "type": "shadowsocks",
-            "server": "64.74.163.130",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
-            "tag": "🇸🇮 SI | 🟢 | ss | @NamiraConfigs | 67",
-            "type": "shadowsocks",
-            "server": "192.71.244.150",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
+            "tag": "🇺🇸 US | 🔴 | trojan | @NamiraConfigs | 65",
+            "type": "trojan",
+            "server": "141.101.120.10",
+            "server_port": 443,
+            "password": "4b040268-f3a5-4136-b1a9-506012e8e3d9",
+            "tls": {
+                "enabled": true,
+                "server_name": "ssp2.100896.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         }
     ],
     "route": {
