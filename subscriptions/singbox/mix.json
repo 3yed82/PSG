@@ -93,10 +93,7 @@
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 65",
-                "🇩🇪 DE | 🟢 | ss | @NamiraConfigs | 66",
-                "🇫🇮 FI | 🟢 | ss | @NamiraConfigs | 69"
+                "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,10 +105,7 @@
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 65",
-                "🇩🇪 DE | 🟢 | ss | @NamiraConfigs | 66",
-                "🇫🇮 FI | 🟢 | ss | @NamiraConfigs | 69"
+                "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -196,30 +190,6 @@
             "uuid": "eaae52d7-bc1a-4979-bd66-b6b428107173",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @NamiraConfigs | 65",
-            "type": "shadowsocks",
-            "server": "beesyar.org",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | ss | @NamiraConfigs | 66",
-            "type": "shadowsocks",
-            "server": "51.195.119.47",
-            "server_port": 1080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "qXvO7zYU7KeaB0Md7DQLow"
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | ss | @NamiraConfigs | 69",
-            "type": "shadowsocks",
-            "server": "83.147.216.70",
-            "server_port": 64519,
-            "method": "chacha20-ietf-poly1305",
-            "password": "F3nY73di5onWV3gotbpI0Q"
         }
     ],
     "route": {
