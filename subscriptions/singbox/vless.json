@@ -91,8 +91,11 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -102,8 +105,11 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -156,6 +162,38 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
+            "type": "vless",
+            "server": "OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk",
+            "server_port": 80,
+            "uuid": "1dd49fb8-6570-4a2a-a236-f410b63159cf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
+            "type": "vless",
+            "server": "communal-loss.oneeat.co",
+            "server_port": 80,
+            "uuid": "a2af50d9-09c7-4a44-90d0-42da35923e9e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "communal-loss.oneeat.co"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
             "type": "vless",
             "server": "91.99.190.38",
@@ -177,6 +215,22 @@
                 "path": "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
                 "headers": {
                     "Host": "104.18.26.90"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65",
+            "type": "vless",
+            "server": "162.19.228.119",
+            "server_port": 80,
+            "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/http",
+                "headers": {
+                    "Host": "162.19.228.119"
                 }
             }
         }
