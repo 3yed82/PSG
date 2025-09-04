@@ -90,9 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 65",
-                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 69"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,9 +99,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 65",
-                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 69"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -136,47 +132,6 @@
                 "path": "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
                 "headers": {
                     "Host": "104.18.26.90"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 65",
-            "type": "vless",
-            "server": "160.153.0.11",
-            "server_port": 2083,
-            "uuid": "5e802e1a-3c82-41ec-aaca-f6371b8b86a5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "fraG2.MAhSAAmINI.cC",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/CPI",
-                "headers": {
-                    "Host": "fraG2.MAhSAAmINI.cC"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 69",
-            "type": "vless",
-            "server": "162.19.228.119",
-            "server_port": 80,
-            "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/http",
-                "headers": {
-                    "Host": "162.19.228.119"
                 }
             }
         }
