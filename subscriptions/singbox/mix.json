@@ -94,10 +94,8 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
-                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 68",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69"
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,10 +108,8 @@
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
                 "🇩🇪 DE | 🔴 | vmess | @Fr33C0nfig | 13",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
-                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 68",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69"
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,61 +196,29 @@
             "alter_id": 0
         },
         {
+            "tag": "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65",
+            "type": "vless",
+            "server": "162.19.228.119",
+            "server_port": 80,
+            "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/http",
+                "headers": {
+                    "Host": "162.19.228.119"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
             "type": "vless",
-            "server": "deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK",
-            "server_port": 80,
-            "uuid": "2054405e-70ff-40a2-ae27-16b63d72390a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
-            "type": "vless",
-            "server": "elegant-corporation.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "d03d8815-a06f-408f-a62f-6c84869b96a9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "elegant-corporation.seotoolsforyou.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 68",
-            "type": "vless",
-            "server": "109.120.132.142",
-            "server_port": 40617,
-            "uuid": "d8d05386-e381-40a4-bb63-715c208b3ed3",
+            "server": "172.234.221.94",
+            "server_port": 56224,
+            "uuid": "e3d0de50-7673-4d13-be7b-e508632ed430",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 69",
-            "type": "vless",
-            "server": "famous-danger.oneeat.co",
-            "server_port": 80,
-            "uuid": "ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "famous-danger.oneeat.co"
-                }
-            }
         }
     ],
     "route": {

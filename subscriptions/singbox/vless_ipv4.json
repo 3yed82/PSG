@@ -91,7 +91,8 @@
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 68"
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,7 +102,8 @@
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
                 "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 68"
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65",
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -138,11 +140,27 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 68",
+            "tag": "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 65",
             "type": "vless",
-            "server": "109.120.132.142",
-            "server_port": 40617,
-            "uuid": "d8d05386-e381-40a4-bb63-715c208b3ed3",
+            "server": "162.19.228.119",
+            "server_port": 80,
+            "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/http",
+                "headers": {
+                    "Host": "162.19.228.119"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
+            "type": "vless",
+            "server": "172.234.221.94",
+            "server_port": 56224,
+            "uuid": "e3d0de50-7673-4d13-be7b-e508632ed430",
             "flow": "",
             "packet_encoding": "xudp"
         }
