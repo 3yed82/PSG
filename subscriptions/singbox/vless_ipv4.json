@@ -90,9 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 67",
-                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 68"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,9 +99,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 67",
-                "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 68"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -136,38 +132,6 @@
                 "path": "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
                 "headers": {
                     "Host": "104.18.26.90"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🔴 | vless | @NamiraConfigs | 67",
-            "type": "vless",
-            "server": "109.120.132.142",
-            "server_port": 40617,
-            "uuid": "d8d05386-e381-40a4-bb63-715c208b3ed3",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @NamiraConfigs | 68",
-            "type": "vless",
-            "server": "157.245.24.38",
-            "server_port": 2087,
-            "uuid": "f475c570-eba2-4a74-9948-d22ce8492aff",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ame.spsvps.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "HQdpA2sAkxUHghPtT8EUA1zPqkq_tz8ncwQM2zNkCS4",
-                    "short_id": "b359bc5c70c21d55"
                 }
             }
         }
