@@ -90,7 +90,8 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 68"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -99,7 +100,8 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12"
+                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
+                "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 68"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -132,6 +134,31 @@
                 "path": "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
                 "headers": {
                     "Host": "104.18.26.90"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @NamiraConfigs | 68",
+            "type": "vless",
+            "server": "172.66.44.81",
+            "server_port": 2083,
+            "uuid": "4d794980-54c0-4fcb-8def-c2beaecadbad",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "azadnet05.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "azadnet05.pages.dev"
                 }
             }
         }
