@@ -91,8 +91,7 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66",
-                "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 67"
+                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 69"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -102,8 +101,7 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66",
-                "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 67"
+                "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 69"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -156,36 +154,18 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 66",
+            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraConfigs | 69",
             "type": "vless",
-            "server": "communal-loss.oneeat.co",
+            "server": "brainy-party.seotoolsforyou.co.uk",
             "server_port": 80,
-            "uuid": "a2af50d9-09c7-4a44-90d0-42da35923e9e",
+            "uuid": "34797f17-09a1-400c-9f4b-275718d62a0f",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "communal-loss.oneeat.co"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🟢 | vless | @NamiraConfigs | 67",
-            "type": "vless",
-            "server": "ssl1.komanserver.ir",
-            "server_port": 443,
-            "uuid": "7c64f248-eeea-4d74-8851-39aee486e287",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "am.komanserver.ir.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+                    "Host": "brainy-party.seotoolsforyou.co.uk"
                 }
             }
         }
