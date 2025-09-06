@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇺🇸 US | 🟢 | vless | @Fr33C0nfig | 11"
+                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -99,7 +99,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇺🇸 US | 🟢 | vless | @Fr33C0nfig | 11"
+                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -134,7 +134,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @Fr33C0nfig | 11",
+            "tag": "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
             "type": "vless",
             "server": "c51.aminzing.lol",
             "server_port": 443,
