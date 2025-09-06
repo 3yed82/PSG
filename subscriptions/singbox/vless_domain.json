@@ -91,9 +91,7 @@
                 "direct",
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,9 +101,7 @@
             "outbounds": [
                 "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
                 "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
-                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68"
+                "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -158,50 +154,18 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 66",
-            "type": "vless",
-            "server": "www.speedtest.net.cdn.cloudflare.net",
-            "server_port": 8080,
-            "uuid": "813d7c7e-d2ea-460f-9bf7-e6fa6a073b67",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2048",
-                "headers": {
-                    "Host": "www.speedtest.net.cdn.cloudflare.net"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 67",
             "type": "vless",
-            "server": "famous-danger.oneeat.co",
+            "server": "creativE-coMPUter.Oneeat.Co",
             "server_port": 80,
-            "uuid": "ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3",
+            "uuid": "f1fe4963-66f7-4f71-a038-9e07ea6cf20f",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "famous-danger.oneeat.co"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraConfigs | 68",
-            "type": "vless",
-            "server": "brainy-party.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "34797f17-09a1-400c-9f4b-275718d62a0f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "brainy-party.seotoolsforyou.co.uk"
+                    "Host": "creativE-coMPUter.Oneeat.Co"
                 }
             }
         }
