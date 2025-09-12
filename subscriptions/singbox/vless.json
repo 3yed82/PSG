@@ -89,11 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 66"
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 46"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,11 +97,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-                "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-                "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-                "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 66"
+                "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 46"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -117,73 +109,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @Fr33C0nfig | 9",
-            "type": "vless",
-            "server": "all32-vip.f-sub.com",
-            "server_port": 2434,
-            "uuid": "738c5a04-817a-4f50-b327-893595010155",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "chess.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | vless | @Fr33C0nfig | 11",
-            "type": "vless",
-            "server": "c51.aminzing.lol",
-            "server_port": 443,
-            "uuid": "2de98c6e-319d-4fd1-81ba-82237c44ed36",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "c51.aminzing.lol",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @Fr33C0nfig | 10",
-            "type": "vless",
-            "server": "91.99.190.38",
-            "server_port": 51615,
-            "uuid": "2eaef053-5fd6-4def-b234-d760690355ff",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @Fr33C0nfig | 12",
-            "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 80,
-            "uuid": "6f690965-3be3-43bb-9331-3ead6efb20aa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
-                "headers": {
-                    "Host": "104.18.26.90"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 66",
+            "tag": "🇩🇪 DE | 🔴 | vless | @NamiraConfigs | 46",
             "type": "vless",
             "server": "212.192.31.146",
             "server_port": 443,
